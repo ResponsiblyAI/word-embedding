@@ -15,13 +15,13 @@ permalink: /
 
 ### In a Nutshell ([see abstract below](#abstract-plain-text-version))
 
-- In this **one and a half hours workshop**, we will explore bia
-  in word embedding - a **widespread building block** of many machine learning models
+- In this **one and a half hours workshop**, we will explore bias
+  in a word embedding - a **widespread building block** of many machine learning models
   that work with natural languages.
 - Word embeddings have an easy-to-explain representation
   that allows an **intuitive understanding** of this building block
   and its **potential biases**.
-- Through thw exploration, we will raise practical, methodological
+- Through the exploration, we will raise practical, methodological
   and philosophical questions about the **ethics of AI**.
 - The workshop is **designed for a diverse audience**:
   from without any background in machine learning or programming
