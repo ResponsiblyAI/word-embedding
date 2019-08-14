@@ -36,6 +36,6 @@ Drop me an email!
 
 `shlomi <DOT> hod <AT> uni-potsdam <DOT> de`
 
-### Abstract ([plain text version](ABSTRACT.md))
+### Abstract (<a href="abstract.md">plain text version</a>)
 
-{% include_relative ABSTRACT.md %}
+{% include_relative abstract.md %}
