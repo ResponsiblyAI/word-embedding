@@ -28,6 +28,7 @@ permalink: /
   to data science practitioners - **no technical background is required!**
 -  The workshop is **hands-on** and **interactive**,
    and will use the same tools that data scientists are using.
+   So **bring your own laptop!**
 
 ### Want me to give the workshop at your organization or event?
 #### Or prehaps you want to deliver it by yourself?
