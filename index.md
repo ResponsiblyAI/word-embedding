@@ -11,7 +11,7 @@ permalink: /
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" width="80" height="15" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 </small>
 
-<img style="display: block" height="100px" src="https://en.unesco.org/sites/default/files/oer_logo_en_2.png" />
+<img style="display: block" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Global_Open_Educational_Resources_Logo_-_White_background_variation.svg" />
 
 ### In a Nutshell ([see abstract below](#abstract-plain-text-version))
 
