@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /word-embedding/
+title: Workshop // Exploring Gender Bias in Word Embedding
 ---
 
 # Workshop // Exploring Gender Bias in Word Embedding
