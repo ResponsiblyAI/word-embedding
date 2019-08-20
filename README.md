@@ -6,7 +6,8 @@
 
 <img style="display: block" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Global_Open_Educational_Resources_Logo_-_White_background_variation.svg" />
 
-## Check the website for complete information: https://learn.responsibly.ai/word-embedding
+## Check the website for complete information:
+## https://learn.responsibly.ai/word-embedding
 
 ### In a Nutshell
 
