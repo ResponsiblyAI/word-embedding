@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /
+permalink: /word-embedding/
 ---
 
 # Workshop // Exploring Gender Bias in Word Embedding
