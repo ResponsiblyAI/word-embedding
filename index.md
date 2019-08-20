@@ -4,6 +4,8 @@ permalink: /word-embedding/
 title: Workshop // Exploring Gender Bias in Word Embedding
 ---
 
+# Workshop // Exploring Gender Bias in Word Embedding
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ResponsiblyAI/word-embedding/blob/master/tutorial-bias-word-embedding.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ResponsiblyAI/word-embedding/master?filepath=tutorial-bias-word-embedding.ipynb) [![Open in Github](https://img.shields.io/badge/Open%20in-GitHub-lightgrey)](https://github.com/ResponsiblyAI/word-embedding)
 
 <small>
