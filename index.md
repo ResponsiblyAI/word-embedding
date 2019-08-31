@@ -31,8 +31,16 @@ title: Workshop // Exploring Gender Bias in Word Embedding
    and will use the same tools that data scientists are using.
    So **bring your own laptop!**
 
+### Past
+
+- Aug 19' / USA / **UC Berkeley** / [Division of Data Science and Information](https://events.berkeley.edu/index.php/calendar/sn/datasci.html?event_ID=127490)
+- Jul 19' / Germany / **Otto von Guericke University** / [AI Lab](https://ai.ovgu.de/)
+- Jun 19' / Netherlands / **Radboud University** / [BIAS 2019 Conference](https://www.ru.nl/bias2019/)
+- May 19' / Germany / **University of Potsdam** / CL Colloquium 
+- Feb 19' / Israel / **ITC** / [Data Science Fellows program](](https://www.itc.tech/fellows-data-science/))
+
 ### Want me to give the workshop at your organization or event?
-#### Or prehaps you want to deliver it by yourself?
+### Or prehaps you want to deliver it by yourself?
 
 Drop me an email!
 
