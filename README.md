@@ -11,16 +11,16 @@
 
 ### In a Nutshell
 
-- In this **one and a half hours workshop**, we will explore bias
+- In this **90 minutes** workshop, we will explore bias
   in a word embedding - a **widespread building block** of many machine learning models
-  that work with natural languages.
+  that work with human languages.
 - Word embeddings have an easy-to-explain representation
   that allows an **intuitive understanding** of this building block
   and its **potential biases**.
 - Through the exploration, we will raise practical, methodological
   and philosophical questions about the **ethics of AI**.
-- The workshop is **designed for a diverse audience**:
+- The workshop is designed to be **adaptive** to a **diverse audience**:
   from without any background in machine learning or programming
   to data science practitioners - **no technical background is required!**
--  The workshop is **hands-on** and **interactive**,
-   and will use the same tools that data scientists are using.
+- The workshop is **hands-on** and **interactive**,
+  and will use the same tools that data scientists are using.
