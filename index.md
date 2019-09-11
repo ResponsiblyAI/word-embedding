@@ -16,7 +16,7 @@ title: Workshop // Exploring Gender Bias in Word Embedding
 
 ### In a Nutshell ([see abstract below](#abstract-plain-text-version))
 
-- In this **90 minutes**, we will explore bias
+- In this **90 minutes** workshop, we will explore bias
   in a word embedding - a **widespread building block** of many machine learning models
   that work with human languages.
 - Word embeddings have an easy-to-explain representation
