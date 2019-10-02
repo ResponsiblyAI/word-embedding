@@ -33,7 +33,7 @@ title: Workshop // Exploring Gender Bias in Word Embedding
 
 ### Upcoming
 
-- Nov 19' / Germany / [**Data Native Conference**](https://datanatives.io/conference/)
+- Nov 19' / Germany / [**Data Natives Conference**](https://datanatives.io/conference/)
 
 ### Past
 
