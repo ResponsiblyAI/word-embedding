@@ -31,6 +31,10 @@ title: Workshop // Exploring Gender Bias in Word Embedding
   and will use the same tools that data scientists are using.
   So **bring your own laptop!**
 
+### Upcoming
+
+- Nov 19' / Germany / [**Data Native Conference**](https://datanatives.io/conference/)
+
 ### Past
 
 - Aug 19' / USA / **UC Berkeley** / [Division of Data Science and Information](https://events.berkeley.edu/index.php/calendar/sn/datasci.html?event_ID=127490)
