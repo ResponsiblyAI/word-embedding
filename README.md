@@ -1,5 +1,9 @@
 # Workshop // Exploring Gender Bias in Word Embedding
 
+> Towards an intuitive technical understanding of bias in machine learning systems
+
+<br />
+
 <small>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" width="80" height="15" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 </small>
