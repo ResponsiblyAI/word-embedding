@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /word-embedding/
-title: Workshop // Exploring Gender Bias in Word Embedding
+title: Workshop // Exploring Gender Bias in Word Embeddings
 ---
 
-# Workshop // Exploring Gender Bias in Word Embedding
+# Workshop // Exploring Gender Bias in Word Embeddings
 
 > Towards an intuitive technical understanding of bias in machine learning systems
 
@@ -21,7 +21,7 @@ title: Workshop // Exploring Gender Bias in Word Embedding
 ### In a Nutshell ([see abstract below](#abstract-plain-text-version))
 
 - In this **90 minutes** workshop, we will explore bias
-  in a word embedding - a **widespread building block** of many machine learning models
+  in word embeddings - a **widespread building block** of many machine learning models
   that work with human languages.
 - Word embeddings have an easy-to-explain representation
   that allows an **intuitive understanding** of this building block
