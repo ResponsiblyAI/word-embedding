@@ -1,4 +1,4 @@
-# Workshop // Exploring Gender Bias in Word Embedding
+# Workshop // Exploring Gender Bias in Word Embeddings
 
 > Towards an intuitive technical understanding of bias in machine learning systems
 
@@ -16,7 +16,7 @@
 ### In a Nutshell
 
 - In this **90 minutes** workshop, we will explore bias
-  in a word embedding - a **widespread building block** of many machine learning models
+  in word embeddings - a **widespread building block** of many machine learning models
   that work with human languages.
 - Word embeddings have an easy-to-explain representation
   that allows an **intuitive understanding** of this building block
