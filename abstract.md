@@ -2,7 +2,7 @@ There is a fundamental gap between ethics, which lays in the kingdom of human va
 How can practitioners embed ethics in an intelligent system? How can they audit the ethics of AI? What are the limitations of such methods?
 
 In this 90 minutes workshop, we will explore bias in word embeddings - a widespread building block of many machine learning models that work with natural languages. Word embeddings have an easy-to-explain representation that allows an intuitive understanding of this building block and its potential biases without a technical background.
-We will use an open-source toolkit called [Responsibly](https://docs.responsibly.ai/) to explore, visualize, measure, and finally remove bias in word embeddings - particularly the gender bias.
+We will use an open-source toolkit called [Responsibly](https://docs.responsibly.ai/) to explore, visualize, measure, and finally mitigate bias in word embeddings - particularly the gender bias.
 
 Word embeddings will serve as a case study in the bias in machine learning. Besides, the exploration process will naturally raise practical, methodological, and philosophical questions about the ethics of AI and the limitations of technical measurement and mitigation approaches. On top of that, the deployment of the same model in different contexts might affect our ethical judgment about it. All of that will be discussed in the workshop.
 
