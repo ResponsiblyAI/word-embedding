@@ -37,7 +37,7 @@ title: Workshop // Exploring Gender Bias in Word Embeddings
 
 ### Upcoming
 
-- Nov 19' / Germany / [**Data Natives Conference**](https://datanatives.io/conference/) / [Event](https://www.eventbrite.co.uk/e/workshop-exploring-gender-bias-in-word-embedding-tickets-75309716389)
+- Nov 19' / Germany / [**Data Natives Conference**](https://datanatives.io/conference/)
 
 ### Past
 
