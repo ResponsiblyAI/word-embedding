@@ -46,9 +46,7 @@ title: Workshop // Exploring Gender Bias in Word Embeddings
 ### Want me to give the workshop at your organization or event?
 ### Or prehaps you want to deliver it by yourself?
 
-Drop me an email!
-
-`shlomi <DOT> hod <AT> uni-potsdam <DOT> de`
+Please [contact me](https://shlomi.hod.xyz/)!
 
 ### Abstract (<a href="abstract.md">plain text version</a>)
 
