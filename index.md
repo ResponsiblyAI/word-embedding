@@ -26,6 +26,7 @@ title: Workshop // Exploring Gender Bias in Word Embeddings
 - Word embeddings have an easy-to-explain representation
   that allows an **intuitive understanding** of this building block
   and its **potential biases**.
+- They will serve as a **case-study** to the general issue of **bias in machine learning**.
 - Through the exploration, we will raise practical, methodological
   and philosophical questions about the **ethics of AI**.
 - The workshop is designed to be **adaptive** to a **diverse audience**:
