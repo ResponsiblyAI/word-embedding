@@ -38,6 +38,7 @@ title: Workshop // Exploring Gender Bias in Word Embeddings
 
 ### Past
 
+- Apr 20' / USA / BU / Questrom School of Business / Business Analytics in Practice / Guest Lecture
 - Dec 19' / Germany / [**Future of AI Europe 2019 Conference**](https://www.futureofai.com/)
 - Nov 19' / Germany / [**Data Natives Conference**](https://datanatives.io/conference/) / [Event](https://www.eventbrite.co.uk/e/workshop-exploring-gender-bias-in-word-embedding-tickets-75309716389)
 - Aug 19' / USA / **UC Berkeley** / [Division of Data Science and Information](https://events.berkeley.edu/index.php/calendar/sn/datasci.html?event_ID=127490)
