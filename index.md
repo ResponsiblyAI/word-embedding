@@ -38,6 +38,7 @@ title: Workshop // Exploring Gender Bias in Word Embeddings
 
 ### Past
 
+- Aug 20' / Germany / **Alexander von Humboldt Institute for Internet and Society (HIIG)** / AI & Society Lab / [AI & HR Pop-Up Lab](https://www.hiig.de/en/events/pop-up-lab-inclusive-ai-the-challenges-of-automated-tools-in-hr/)
 - Apr 20' / USA / **Boston University** / Questrom School of Business / Business Analytics in Practice / Guest Lecture
 - Dec 19' / Germany / [**Future of AI Europe 2019 Conference**](https://www.futureofai.com/)
 - Nov 19' / Germany / [**Data Natives Conference**](https://datanatives.io/conference/) / [Event](https://www.eventbrite.co.uk/e/workshop-exploring-gender-bias-in-word-embedding-tickets-75309716389)
