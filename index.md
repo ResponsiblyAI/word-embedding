@@ -36,6 +36,11 @@ title: Workshop // Exploring Gender Bias in Word Embeddings
   and will use the same tools that data scientists are using.
   So **bring your own laptop!**
 
+
+### Upcoming
+- Oct 20' / Virtual / **JupyterCon 2020** / [Tutorial](https://academy.numfocus.org/about-course/?gender-bias-in-word-embeddings)
+
+
 ### Past
 
 - Aug 20' / Germany / **Alexander von Humboldt Institute for Internet and Society (HIIG)** / AI & Society Lab / [AI & HR Pop-Up Lab](https://www.hiig.de/en/events/pop-up-lab-inclusive-ai-the-challenges-of-automated-tools-in-hr/)
