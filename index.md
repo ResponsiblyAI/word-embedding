@@ -39,6 +39,7 @@ title: Workshop // Exploring Gender Bias in Word Embeddings
 
 ### Past
 
+- Mar 21' / Virtual / **MozFest 2021** / [Workshop](https://schedule.mozillafestival.org/session/WKUY9A-1)
 - Oct 20' / Virtual / **JupyterCon 2020** / [Tutorial](https://academy.numfocus.org/about-course/?gender-bias-in-word-embeddings)
 - Aug 20' / Germany / **Alexander von Humboldt Institute for Internet and Society (HIIG)** / AI & Society Lab / [AI & HR Pop-Up Lab](https://www.hiig.de/en/events/pop-up-lab-inclusive-ai-the-challenges-of-automated-tools-in-hr/)
 - Apr 20' / USA / **Boston University** / Questrom School of Business / Business Analytics in Practice / Guest Lecture
@@ -48,7 +49,7 @@ title: Workshop // Exploring Gender Bias in Word Embeddings
 - Jul 19' / Germany / **Otto von Guericke University** / [AI Lab](https://ai.ovgu.de/)
 - Jun 19' / Netherlands / **Radboud University** / [BIAS 2019 Conference](https://www.ru.nl/bias2019/)
 - May 19' / Germany / **University of Potsdam** / CL Colloquium 
-- Feb 19' / Israel / **ITC** / [Data Science Fellows program](](https://www.itc.tech/fellows-data-science/))
+- Feb 19' / Israel / **ITC** / [Data Science Fellows program](https://www.itc.tech/fellows-data-science/)
 
 ### Want me to give the workshop at your organization or event?
 ### Or prehaps you want to deliver it by yourself?
