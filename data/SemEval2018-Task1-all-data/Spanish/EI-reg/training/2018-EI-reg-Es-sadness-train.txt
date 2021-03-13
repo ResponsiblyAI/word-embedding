@@ -1,0 +1,1155 @@
+ID	Tweet	Affect Dimension	Intensity Score
+2018-Es-02154	amelia entró en pánico	sadness	0.522
+2018-Es-06009	@Fabr1_320 Deberías quitarme de tus notificaciones, sigo ofendida por lo de la peli, cambio y fuera	sadness	0.479
+2018-Es-02096	Tengo que estudiar, qué paja. Hace tiempo no tenía que hacerlo, la vida era más linda 😥	sadness	0.565
+2018-Es-04708	Asumo mis consecuencia y admito mis errores, esos que excusé, por nerviosismo, por temores.	sadness	0.563
+2018-Es-06407	via @glendyvasquez: @carloshenrypari  Amargado ... Solo era una pregunta y yaaa ... Deje la amargura	sadness	0.500
+2018-Es-05896	@Oskhar111099 Donde estaba independiente es lo que te digo!!! Cómo jugaba, eran horrible, este es el mejor independiente de los últimos años	sadness	0.229
+2018-Es-06117	No quería q salte mi ex y retruquemos lo q faltò, lo q no hizo, etc etc etc 😔 , es un volver al pasado , y es triste. Puto día .	sadness	0.854
+2018-Es-06012	@Clentrus @DalasReview lo consideras alguien terrible,pero¿te das cuenta de lo que escribes?	sadness	0.391
+2018-Es-01708	El cobarde muere muchas veces. El vals,nte solo una. - Willian Shakespeare	sadness	0.283
+2018-Es-03468	@kasoamp Qué horror este engendro. Repulsivo.	sadness	0.521
+2018-Es-06855	El suicidio es el capítulo final de una novela más larga e incomprendida. No se resuelve diciéndole a alguien que "no esté triste" y ya.	sadness	0.667
+2018-Es-00505	@unknownlxstsoul tarde puti, ya perdió la gracia	sadness	0.292
+2018-Es-04417	@pablopecaro @poderAGMX @arnemx @arelibiciteka @banquetalibre @LBallesterosM @ReyPeatonCDMX @Peaton_No A pesar de que mueran ciclistas.	sadness	0.500
+2018-Es-01372	@PLAYMFS @kukkjeon Biaaaaaaaaas 	sadness	0.354
+2018-Es-02919	Me kga la verga que no cuelguen la llamada en cuanto digo adiós, súper incómodo tener que esperar a que cuelguen, gastan pila.	sadness	0.348
+2018-Es-02190	EL PUEBLO DESPERTO , Y VA A CRISTALIZAR LA LIBERTAD DESTRUIDA POR TODOS AQUELLOS QUE LA JUSTICIA LOS ESPERA CON MUCHA ANSIEDAD T ANHELO	sadness	0.333
+2018-Es-06333	ok ME CANSE D ESPERAR voy a dormir #enojada #estresada #indignada	sadness	0.729
+2018-Es-05932	Abril tiene prohibido quejarse conmigo.	sadness	0.360
+2018-Es-03758	Tengo re abandonado el tw	sadness	0.479
+2018-Es-03049	@pxx_santos soldada ferida, #triste	sadness	0.696
+2018-Es-06596	Al final de la oscuridad siempre se ve la luz	sadness	0.293
+2018-Es-00351	Es peligroso acostumbrarse a alguien	sadness	0.708
+2018-Es-05394	Campañon, Campañon!!! 🔴⚪⚫   Terrible lo de chaca💪💪💪💪	sadness	0.396
+2018-Es-04702	Estoy cansado de siempre dar y no recibir nada a cambio.	sadness	0.813
+2018-Es-00502	SIGO LLORANDO SANGRE POR EL SUICIDIO DE CHESTER!!!! WEY!!!!! NO PUEDO!!! ;;	sadness	0.886
+2018-Es-04831	@ToadAmarillo Todas las partidas de worlds y trasnochado a clases 😢	sadness	0.333
+2018-Es-01058	Me ahogo, necesito romper en llanto y no lo hago, porque no quiero, porque estoy cansada de las lágrimas, y más aún del dolor de cabeza	sadness	0.896
+2018-Es-02397	No sé cómo le haces para que no pueda durar enojada contigo más de 2 días	sadness	0.403
+2018-Es-01109	Algo que jamas habra en tecmilenio: elotero en la salida #Triste 😢	sadness	0.604
+2018-Es-00044	Horrible es todo lo que te aferras y lo difícil que es soltar	sadness	0.783
+2018-Es-01670	@lutero_marrano El título del libro es terrible y muchos de los planteamientos de Beck son ingenuos, pero me agradó esa parte.	sadness	0.313
+2018-Es-02684	Terrible día pasé hoy 😊❤❤	sadness	0.660
+2018-Es-06238	menos mal que me quedé en mi casa pq en cualquier momento me quedo pelada de tanta depresión	sadness	0.875
+2018-Es-06648	Soy pesimista siempre, pero por los motivos que saramago casualmente, sin embargo creo que estamos a tiempo de recuperar espacio perdido.	sadness	0.500
+2018-Es-01488	Pero y esa furia? No te ajites te puede dar algo !🤔😂😂	sadness	0.417
+2018-Es-02706	Fooaaaaa cansada de la misma mierda de siempre❌🚫	sadness	0.625
+2018-Es-00099	No importa en cuánta oscuridad está tu vida... Dios siempre enviará personas para iluminarte.	sadness	0.354
+2018-Es-01604	@Profeco buenas noches, donde podria levantar una queja de un equipaje dañado que no me quiere pagar @viajaVolaris? Tengo todas las pruebas!	sadness	0.522
+2018-Es-04569	Extraño a mi azul 	sadness	0.652
+2018-Es-04594	estoy aburrido me voy hacer una mascarilla	sadness	0.354
+2018-Es-01709	Estoy tan aburrido en estas vacaciones que soy capaz de irme a la mierda por ahí un par de días. Estoy viendo Colón entre rios.	sadness	0.479
+2018-Es-06561	Ya estoy en mi casa, ya le puedo llorar a @ChesterBe 😭	sadness	0.708
+2018-Es-05808	Soy el terrible farsante oe	sadness	0.479
+2018-Es-00185	Que bien me hace hablar con gente que siempre estuvo y está conmigo a pesar de todo 😌👏🏻	sadness	0.167
+2018-Es-04206	Ya se me pasó la pena	sadness	0.438
+2018-Es-06210	@NatashaCoronel No es nio tan grave, no se le desea que se le descomponga la ducha ni a tu peor enemigo 💔	sadness	0.543
+2018-Es-06839	@AllDiscourages_ Por tu culpa me he acordado del crush y #tristeza	sadness	0.646
+2018-Es-00859	Dichosas las niñas que no tienen las axilas manchadas jajaja 😟	sadness	0.208
+2018-Es-01976	Mi abuelo es un peligro 😅🎬	sadness	0.250
+2018-Es-04435	Día tan re aburrido u_u	sadness	0.583
+2018-Es-00429	Detesto que me consuelen "por pesar"	sadness	0.792
+2018-Es-06762	Crecí escuchando  Linkin Park y verdaderamente hoy es un día trágico para la música en general #RIPChester Gracias por mi gran infancia	sadness	0.652
+2018-Es-03720	Ánimo ya mero es viernes, solo falta un día, no menos como cinco😂 #Copiado #Peña	sadness	0.188
+2018-Es-02083	Yo y mi suerte para cruzarme con chabones con hijas y las hermosas madres celosas👏👏😡	sadness	0.523
+2018-Es-01925	Muchos entre mas tienen mas ambicionan y los pies se les alejan de la tierra por que ya no les importa que les pase a los demas egoistas 	sadness	0.522
+2018-Es-03309	Es terrible lo de Chester Bennington. No lo puedo creer todavia. Gracias por llenar mis oidos en los años donde aprendí a amar la musica	sadness	0.696
+2018-Es-06794	@Vale_Karumi ES QUE EL MUY HDP SÓLO PIENSA EN LOS JAPONESES AGFHSBFDHDGDGFGDF  Siempre pasa algo viendo debería dormirme temprano 	sadness	0.478
+2018-Es-04984	tengo tanta bronca junta q voy a terminar llorando lpm	sadness	0.896
+2018-Es-03916	Soy muy impulsiva, en el momento que me enojo digo cosas que después me termino arrepintiendo	sadness	0.604
+2018-Es-06378	Estoy aburrida .. quiero hacer algo!!!	sadness	0.396
+2018-Es-04078	Qué más me da no tener clase si me despierto a las 7 igualmente 😥	sadness	0.313
+2018-Es-05611	@mgallegos_ Que Grave eres, estoy tan contenta que no pienso responder si no sabes el contexto de las cosas no opines. .	sadness	0.292
+2018-Es-01979	Quiero mirar la serie 😭	sadness	0.457
+2018-Es-01112	GRACIAS POR TANTO, PERDÓN POR TAN POCO 😭 #TeenWolfFinale	sadness	0.543
+2018-Es-03623	@fgavilla @SCT_mx @galaTVMorelos veo mal o se ve hundido...?	sadness	0.313
+2018-Es-02955	Porque demoran en Venirme a buscar?😠😠😅	sadness	0.479
+2018-Es-02650	@a_tupper Un gran deportista, maldita depresión también se llevó a mi hermana menor.	sadness	0.771
+2018-Es-00213	es muy frustrante practicar y practicar en tu instrumento y que no sientas mejora alguna, de verdad me pone triste eso 😥	sadness	0.848
+2018-Es-04373	@losmartines Vamoooos #PeñA!!! El coach está demostrando que es gigante!!!#Leo	sadness	0.130
+2018-Es-00903	@darksbanana Deprimida estoy.	sadness	0.957
+2018-Es-00929	son como Juan Carlos sacando una tirada de engaño tres para envenenar a alguien "toma este veneno DIGO... ESTA FANTA"	sadness	0.460
+2018-Es-01155	Cómo justificáis el desprecio de Carmena al #HomenajeBlancoEP? Cómo podéis decir que Otegi es un luchador por la paz? Os importa ofender?	sadness	0.563
+2018-Es-05656	@osoriojdanielp no joda eso sí da rabia hp	sadness	0.500
+2018-Es-03213	Culiaoooooo perdió juventuuuuuud	sadness	0.370
+2018-Es-04370	A veces siento la necesidad de hablarle sabiendo que está tan mal porque a pesar de todo me duele aún, lo que le pase y dejé de pasar.	sadness	0.917
+2018-Es-04037	@diegosaviola10 @Equidadfutbol @AmericadeCali Sufriendo y con la contención en el banco, perdió america por la terquedad de el Dt	sadness	0.521
+2018-Es-05929	Hoy me sentí como mi ídolo, si como Julio César Chavez Jr. En su pelea con el Canelo.	sadness	0.217
+2018-Es-02544	@Natalistica que miedo jajaja	sadness	0.250
+2018-Es-03093	Por que sorete me dejas tan nerviosa no se AAAAAAAAAAAAAH me voy a morir(?????ahr si	sadness	0.667
+2018-Es-03204	No se, que hago todavía despierta 😟	sadness	0.386
+2018-Es-03923	Cada vez que tengo que caminar y podría estar manejando el auto me enojo conmigo misma	sadness	0.457
+2018-Es-05447	Qué tristeza sentir que uno no es suficiente para nada ni para nadie. Meh, matenme que ya ni yo me aguanto.	sadness	0.833
+2018-Es-00004	¿Por qué no cancelan clases en mi escuela? No hice la exposición 	sadness	0.292
+2018-Es-00556	Debora P Volpin, 50 años, acaba de darse cuenta de la pobreza /conventillos, a pesar de que era conductora, NO PERIODISTA. En A fuego lento	sadness	0.646
+2018-Es-06103	Quizás hoy si te pueda encontrar. Mas allá de toda pena, siento que la vida es buena...	sadness	0.223
+2018-Es-00721	@ghiskon no, no ofendido no jaja pero no saludarme....😂😂	sadness	0.152
+2018-Es-04358	Cuando viva sola voy a pesar 300 kg	sadness	0.292
+2018-Es-06674	No han sacado nada de Banri ni Itaru y me siento muy indignada.	sadness	0.609
+2018-Es-02229	yo no soy de amenazar me gusta hablar con echossssss...	sadness	0.375
+2018-Es-05721	Estoy a tres episodios de acabar Futurama 🙁	sadness	0.229
+2018-Es-05295	K M D, puro y oscuro como el eme de, empezalo a mover, nena no seas tímida, se que querés.	sadness	0.370
+2018-Es-04349	🙏 dios esta conmigo 😞💔: me siento deprimida	sadness	0.833
+2018-Es-04184	Miedo de llevar a mis pequeñas  ala escuela 😟 sus	sadness	0.630
+2018-Es-06255	@Seargee Pero es que a mi me gusta VLC 😥 pero si ya abri bs player :(	sadness	0.417
+2018-Es-04807	@GusMenFox @clubleonfc Muy feo!! Horrible se ve la publicidad !!	sadness	0.417
+2018-Es-00568	@RamsesGirala Pero que pez amargo que sos...	sadness	0.417
+2018-Es-01741	Siempre sale uno enojado cuando jugamos a la lotería😂	sadness	0.292
+2018-Es-04988	Descansa en paz abuelito. Te me fuiste de un día para el otro💔 yo sé que estabas cansado, pero nos dejaste muy pronto...	sadness	1.000
+2018-Es-06038	Por qué los putos de @TwitterSupport me suspendieron mi cuenta @xhisho 	sadness	0.458
+2018-Es-03182	@tomacuaquer @caritocabrera28 Te creo a veces pasan esas cosas #miedo	sadness	0.477
+2018-Es-01083	Estoy re nervioso con este tema	sadness	0.500
+2018-Es-06474	Espero qe todo este esfuerzo sirva de algo , estoy muy cansado	sadness	0.455
+2018-Es-00056	No quiero ir mañana a la escuela 	sadness	0.396
+2018-Es-06602	Pelea con mi mama #triste	sadness	0.938
+2018-Es-04880	@Javelez12 Jajajajaj no pana lo veo grave a páginas por casualidad no se metió a youtube?	sadness	0.083
+2018-Es-00992	Que horrible dormir con pantalon lpm	sadness	0.521
+2018-Es-03020	@iharting @MeOpongoVenz Más que infeliz un CDEM	sadness	0.625
+2018-Es-00095	@iharting @Jullietbanda "infeliz" no es la palabra que mejor se adapta pero usted es una persona educada.	sadness	0.438
+2018-Es-03554	@clarymaffeis boluda en serio no sabias es como la primer cosa de la q te enterás cuando entras a la secundaria	sadness	0.317
+2018-Es-03866	La mejor arma es la que transforma el pesimismo en optimismo.	sadness	0.292
+2018-Es-03965	@UnboxMeSpain una pena aunque yo no escuche su música,es simplemente trágico que muera alguien	sadness	0.696
+2018-Es-00999	Los dos queremos pero nos mata la cobardía !!!	sadness	0.479
+2018-Es-05876	@Mickey_Dozanti Lamentable para mi, no creo que sea posible vernos, y eso si me pone sad. 😢💔 Igual se divierten y la pasan bonito. 😃❤✨	sadness	0.813
+2018-Es-00472	Tu cuerpo será mío, te llevare a la cama, te haré sudar y temblar. Te dejaré sin fuerzas. —Att: La gripe.	sadness	0.188
+2018-Es-03294	Le tomo mucha importancia a las bandas que escuchó, porque sus canciones me han ayudado a salir en momentos de tristeza, me han motivado.	sadness	0.620
+2018-Es-04677	Sanguíneos en muchos casos. Se indica SIEMPRE que las pastillas pueden provocar trombosis y tienen otros efectos secundarios.	sadness	0.417
+2018-Es-01126	@BNE_biblioteca @PostigoElena ...para gran disgusto de Quevedo 😝	sadness	0.333
+2018-Es-01016	@pajeranger Ay si, automaticamente al leer el mensaje más frívolo del mundo algún depresivo seguro se salva jajaja	sadness	0.229
+2018-Es-04322	No Lo Saben Pero esa chica me está gustando demasiado... Aún sabiendo que jamás pasará algo... 😢	sadness	0.563
+2018-Es-01914	@hramosallup tristemente ya dond este ud,rosales, y combo se relaciona con conveniencia d partido, osea +d lo mismo	sadness	0.729
+2018-Es-06155	@teamlibertywalk @forumpandlr Ah, vdd, so de ver a make ja fico cansada de imaginar	sadness	0.396
+2018-Es-05212	Ese momento de desesperación cuando no encuentro un emoji	sadness	0.500
+2018-Es-04234	@Lovelyccano 😞 era en serio. Lo eres	sadness	0.409
+2018-Es-00745	Lo único que me esta saliendo bien este año es engordar 	sadness	0.625
+2018-Es-01385	@DalasReview me encanta la terrible hipocresia y doble moral que tiene esta gente, claro, cuando ella te lo quita ILEGALMENTE no importa...	sadness	0.646
+2018-Es-05784	Que aburrido esta este bar	sadness	0.458
+2018-Es-03928	Como estoy odiando este insomnio 😥	sadness	0.521
+2018-Es-06309	@maknaexnochu aga pa 	sadness	0.271
+2018-Es-00300	Necesito q alguien q me abrace fuerte y no me suelte mas 	sadness	0.813
+2018-Es-06075	Quejarse de los spinners es igual de pendejo que usarlos.	sadness	0.348
+2018-Es-06432	Soñé cosas super raras 	sadness	0.348
+2018-Es-03229	que aburrido que estoy la re puta madre	sadness	0.521
+2018-Es-03727	Con las semanitas agetreadas que llevo y el cansancio acumulado...me he ganado un vinito. Chin chin, salud y todo eso #BuenasNoches 🍷🍷	sadness	0.167
+2018-Es-00683	Hace 2 noches me siento una abuela por dormirme a las 11 pero el cansancio que tengo es inexplicable.	sadness	0.563
+2018-Es-04562	El pueblo le pasa por ensima a la mud y sin conducción este espiral de violencia se volverá muerte y mas muerte lamentablemente	sadness	0.792
+2018-Es-03222	Oks estoy r3 cansado ganas de dormir y fue	sadness	0.375
+2018-Es-03161	YO CREO que el único corto de casita del horror con kodos y kang que vale la pena es cuando maggie resulta ser su hija.	sadness	0.208
+2018-Es-04137	La alarma de mi celular es re fea y ya me tiene re podrido en cualquier momento lo voy a revolear hasta la peron	sadness	0.433
+2018-Es-01530	@letyduranhdez Mira tu niña aburrida cuando tiene una super nieta y nieto...no es para aburrirse😂😂	sadness	0.375
+2018-Es-00860	Quiero que me apapachen 🙁	sadness	0.500
+2018-Es-02605	Horrible lo que me pasó recién, no voy a poder dormir tranquila	sadness	0.630
+2018-Es-04645	@MiguelMikegto8 Qué bueno no han sido graves, acá estamos bien espantados todos, no me quiero imaginar en Oaxaca o Guerrero 🙁	sadness	0.625
+2018-Es-03391	@terko2013 @fffnav @rfeiBJ @Gregoriodalbon @Pontifex_es @CFKArgentina Vi imágenes de que tiran la leche en campo !!eso es terrible!!!	sadness	0.500
+2018-Es-01110	*Nunca tuviste tu corazón con las iniciales tuyas y de un muchacho ? -Nonon, me mataba!  *En serio me decís?  -Si obvio!  Lo más grasa	sadness	0.500
+2018-Es-01794	Me puse a escuchar spring day mientras comía papas fritas y terminé llorando me supero cada día	sadness	0.771
+2018-Es-05374	Estoy bien triste 😭	sadness	0.958
+2018-Es-01346	Me pronostican lluvia toda la semana. #Depresión	sadness	0.870
+2018-Es-04444	Hoy le compre un regalo a mi ahijada, y la mina me dice "cuanto tiene tu beba" pero por dios q mujer desagradable jajajajaj	sadness	0.063
+2018-Es-05882	Me pone de mal humor hacer maletas 😤	sadness	0.565
+2018-Es-05440	Que mh wacho 	sadness	0.271
+2018-Es-04301	@gvvvalentino uff, terrible	sadness	0.542
+2018-Es-01370	Estoy aburrido, tengo hambre y me siento solo. Send taquitos	sadness	0.833
+2018-Es-06502	No es agradecimiento con Torres: semifinal en descenso directo y hoy perdió con el equipo mejor armado. Pero bueno, quizá quieren un CheChe.	sadness	0.375
+2018-Es-01531	Aquí el más depresivo.¿	sadness	0.659
+2018-Es-05981	Maradona puede opinar lo que quiera cabros, yo no puedo opinar de lo que dijo. porque el pobre estaba tan drogado que no le entendí nada 	sadness	0.348
+2018-Es-05150	@julietaortiva q tristeza we JAJAJAAJ	sadness	0.229
+2018-Es-06935	Ese tema de que Leo Castro está ansioso y por eso no marca ni por error ya no se lo traga ni tu Abuela; El nivel es PERVERSO!!	sadness	0.438
+2018-Es-03984	@c_milo2 Y es que de cuando acá necesitas de novio para ser feliz ? Pfff estas grave Pepe	sadness	0.479
+2018-Es-06522	Hoy me contaron "historias de horror en un parto en el seguro social" jajajajajajaja y neta no puedo estar más agradecida con Dani...	sadness	0.333
+2018-Es-01203	Tremendo estalcaso con mg incluido jaja	sadness	0.167
+2018-Es-03411	Alguien sabe qué pasa con el Anexo del hospital Francés de la Av Honorio Pueyrredón q supuestamente pertenece al PAMI y está abandonado?	sadness	0.479
+2018-Es-00559	@Gonzatraverso22 Quiero saber quien	sadness	0.152
+2018-Es-02925	ay nooo que horrible... me acordé cuando me pasó lo mismo hace como dos años ajjajajajaja	sadness	0.313
+2018-Es-04044	Que desgradable no poder dormir y tener que estar en pie en unas horas 	sadness	0.729
+2018-Es-03999	@violekraut cuando quieras lisiada ;)   terminé de leer el tuit y se me autoguiño el ojo #miedo	sadness	0.348
+2018-Es-04914	una compañera del colegio subió la foto de su bebé y parecía tener una tenaza en vez de pie 	sadness	0.354
+2018-Es-00908	@elcapiperez ¡ay no digas que la lucha libre es mentira! El niño Dios va llorar y yo también 	sadness	0.543
+2018-Es-03279	tipo no sé si es peor que se lleven muy mal y sea incómodo o que se lleven muy bien y vos termines solx	sadness	0.500
+2018-Es-00036	@infobae Apuesto que no sale!!alguien se va a ofender, a alguien no le va a cerrar el proyecto xq ñañaña	sadness	0.313
+2018-Es-05031	feliz día del amigo a la persona que perdió 200 pesos en la casey para que los encuentre yo. que sepa que la amo	sadness	0.217
+2018-Es-04748	ESTÁN LLOVIEEEENDO ESTRELLAS EN NUESTRA HABITACIÓNNN MOJAN DE LLANTO, MI CORAZÓNNN	sadness	0.688
+2018-Es-05576	@losmartines Tirando facha el coach!!! Vamos hoy #PeñA!!!	sadness	0.271
+2018-Es-03311	La silla de Annabelle se mueve sola o la está moviendo? @chekozaun @disparamargot @Horacitu @ximenadelam @szurita @faustoponce  #miedo 😖	sadness	0.458
+2018-Es-01999	peleo para terminar llorando	sadness	0.680
+2018-Es-05501	Hoy en verdad terminé súper cansada😌	sadness	0.521
+2018-Es-02436	@ObservadBinario @nakamartinez Berro larguísima!! Todo esta muy tétrico esto va mas allá de tensa calma	sadness	0.458
+2018-Es-03246	A veces me gusta ser chocante	sadness	0.326
+2018-Es-05453	@Bamf_ Pues es mejor una siesta improvisada que un video que por cansancio improvisado quizá cueste hacer jaja	sadness	0.229
+2018-Es-05731	Muero por un abrazo de mi mamá y de Priscila !! La extraño demasiado 	sadness	0.854
+2018-Es-06630	No pensé que correguir exámenes fuera tan pinche cansado 	sadness	0.417
+2018-Es-04717	Mariscales 10 Tiburones 1. Gano Yesid Salazar. Perdió Ramón Ulacio. Destacado Edgar Muñoz de 4-3, 1 anotada y 2 impulsadas.	sadness	0.188
+2018-Es-02866	que asco la gente que esta tweeteando canciones de linkin park para sacar un par de rts, me parece desagradable.	sadness	0.688
+2018-Es-01801	Es lunes y yo no puedo dormir 	sadness	0.417
+2018-Es-06918	Que buena partida la ctm, quede con el medio hype pero no creo resistir a ver a fanatic 	sadness	0.229
+2018-Es-02558	HT contra los historicos, perdió (Millos, SF, Calix2), empato (medellin, nacional, cali), gano (junio, cali). Osea mal. Solo 9 pts de 27.	sadness	0.375
+2018-Es-05902	Informe del acto: se trata de quema de basura y escombro, sin peligro de propagación, se trabaja @PrimeraCoquimbo @Cuarta_Coquimbo	sadness	0.271
+2018-Es-02984	@notthefrozenguy @6baphomet Me estoy tomando el auto-odio muy en serio!!	sadness	0.630
+2018-Es-04386	No caigo todavía, quiero escuchar Meteora pero seguramente me largue a llorar	sadness	0.729
+2018-Es-04617	Yo quiero que @JEYMAMMON sea mi amigo. En serio. Lo quiero ❤️	sadness	0.304
+2018-Es-05624	@marcelofh60 Por qué 😢	sadness	0.396
+2018-Es-02026	Esa desesperación cuando se te escapa un like y lo sacas al toque😂	sadness	0.239
+2018-Es-00731	@ponchito_rubio Es el requisito número uno para ser papás we jajajaja echarse un caldazo hirviendo para combatir fuego con fuego. 🔥	sadness	0.125
+2018-Es-00411	Estoy tan aburrida que tengo ganas de hacerme amiga de alguien, si, a ese extremo llegó jajajaja	sadness	0.333
+2018-Es-06653	Hoy me dispongo a ver el partido para distraerme de la depresión de no haber ido al MAT🙂🙂	sadness	0.674
+2018-Es-06283	Terrible asado con los pibesss	sadness	0.327
+2018-Es-03890	@alfreserramanci @CELAGeopolitica @pagina12 @teleSURtv Terrorismo es lo que practicas tu en Venezuela, miserable!!	sadness	0.604
+2018-Es-02992	@lilycaulfield que cuando estas deprimido severamente no se te ocurre algo tan simple como decir QUE PENDEJADA ESTOY PENSANDO	sadness	0.652
+2018-Es-02107	@JSantrich_FARC Ganó o perdió peso?	sadness	0.146
+2018-Es-00706	vivo cansada como que el cansancio ya es parte de mi, me acostumbre	sadness	0.583
+2018-Es-00584	Ojalá hubiese sido algo mas grave, así tal vez se haya preocupado por mi.	sadness	0.708
+2018-Es-06738	No puedo dormir otra vez y mañana tengo escuela. 😟	sadness	0.438
+2018-Es-03166	@RobertGarciaP ustedes mismo son los que están matando a su propia gente eso si es lamentable lo que están haciendo	sadness	0.630
+2018-Es-03089	@amparychilena @Cooperativa Tipico de amargada,que triste tu vida pabree,y tontorrona🙊	sadness	0.667
+2018-Es-04924	q hermosas prsonas conoci gracias a mis idolos y hoy son mis amigos, voy a llorar quien diría q las mejores personas las iba a encontrar aca	sadness	0.333
+2018-Es-05193	@chelinsarc Lamentablemente estos cadáveres dirigen nuestro país	sadness	0.680
+2018-Es-04881	Ya nose más ni que pensar con todo esto 	sadness	0.587
+2018-Es-06070	HIJO DE TU REPUTOSIMA BOMBA PERRA ESTUPIDA BABOSA MADRE😡😡😡😡😡😡😡sin ofender a su mama no la conozco es solamente una expresión de odio así el	sadness	0.438
+2018-Es-06468	Andaría necesitando masajes 	sadness	0.391
+2018-Es-03326	"Cuarenta años estuve disgustado con la nación, Y dije: Pueblo es que divaga de corazón, Y no han conocido mis caminos."	sadness	0.667
+2018-Es-01289	Si antes no me daba sueño, ahora menos... que estrés. 	sadness	0.500
+2018-Es-01911	@laclaux Bah, era como evoluciones del mismo sueño, sobre una casa en Córdoba. Hace un par de años la encontré. 	sadness	0.354
+2018-Es-02949	@Noedglez1 Cualquiera diría que Noelia está enfadada conmigo, pero no, en realidad está enfada conmigo y ya	sadness	0.333
+2018-Es-06737	NO más entrevistas a las 9 de la mañana please 	sadness	0.304
+2018-Es-04267	Lamentamos profundamente el fallecimiento del usuario de BiciMAD por atropello en c/Alcalá. Nuestro más sentido pésame a la familia. …	sadness	0.958
+2018-Es-05530	@KiikaVell Mamalón...pero aburrido. XD	sadness	0.340
+2018-Es-00655	@anablabla "Ay no, yo también estoy triste por muchas cosas y no por eso tengo ganas de morirme mi alma"	sadness	0.698
+2018-Es-02739	Extraño muchisimo a Nacho 	sadness	0.771
+2018-Es-04016	Dios bendice al pueblo de Venezuela en esta horas de oscuridad, que llegue la luz!!!	sadness	0.375
+2018-Es-00630	Hoy fue un día muy agotador, estoy muy cansada!!! Necesito masajeees	sadness	0.688
+2018-Es-05765	Que triste querer decirle lo mucho que amo a mi novio pero mi enojo no me lo permite	sadness	0.912
+2018-Es-05117	Valentinaa mañana vamos al mc ? Yo pago 😟	sadness	0.125
+2018-Es-04166	Llevo 24 horas sintiéndome mal. 	sadness	0.792
+2018-Es-00233	Subió un chico lindo al bondi y no pare de mirarlo hasta que se acercó más y baje la mirada. Así de cagona soy. Me defraude a mi misma	sadness	0.609
+2018-Es-04589	no me contesta y me enojo mas de lo ya estoy	sadness	0.500
+2018-Es-01692	La primera act en Derecho fue imaginar una soc sin Estado. La profesora ya va a conocer mi lado anarco 🙈 	sadness	0.283
+2018-Es-03798	Impresionante lo cansado q estoy, todo el día con los pibes y los quiero ver a ma noche peeeero estoy con un sueñote	sadness	0.521
+2018-Es-03031	Sin dudas, 1 Verse siempre será el sencillo en solitario de Bangtan que, hasta el día de hoy, todos sabemos mereció mucho más.	sadness	0.479
+2018-Es-05658	@Jhosy2121 Cuándo me he enojado contigo oe JAJAJAJA la hago un finde!	sadness	0.250
+2018-Es-03988	Yo también 🙁	sadness	0.354
+2018-Es-02370	@AlbertoRaimundi Hoy me convenciste, me ganaste por cansancio, sos un abosoluto HDP, jajajaja.	sadness	0.174
+2018-Es-03151	-provocar. Tengo que comentar algo al respecto???	sadness	0.333
+2018-Es-04961	Que triste lo de Chester	sadness	0.739
+2018-Es-05277	Me voy a llorar, que aún después del escrito no me he desahogado	sadness	0.979
+2018-Es-06404	Ellos darían hasta su vida por nosotros y hay personas que los maltratan y menosprecian. 😭	sadness	0.771
+2018-Es-00777	Vale tanto y yo no me había dado cuenta! 	sadness	0.375
+2018-Es-06878	@DavidChoro Y mira que para que te espanten a ti.... 😈 	sadness	0.239
+2018-Es-05698	@AndreaBathory sigo viendo Mai-hime. Weeey como extrañaba a Nao y Natsuki 😭 a Alyssa y Miyu awsaydkkskd incluso a la loca de Midori 😭	sadness	0.438
+2018-Es-03557	Las rolas de CoF SIEMPRE son larguísimas y siempre me sacan letras rebuscadas me cagan alv 😢	sadness	0.500
+2018-Es-04752	Que inquieto está este perro😂😂😂	sadness	0.167
+2018-Es-04513	The1975 son los mejores los amo por siempre 	sadness	0.146
+2018-Es-01940	Que noche más aburrida.	sadness	0.458
+2018-Es-02999	@PaabloCarballo @felixsquash @LucasCsir23 @NicoFl2015 @leoferro5 @YamiLaCsir Nervioso yo??? Te pica el culo porteño. Amarguísimo	sadness	0.313
+2018-Es-02757	Se que te sientes abandonada pero ma' yo estoy aqui.👫❤️	sadness	0.636
+2018-Es-01104	#PereiraEnVivo.   A esta hora congestión en la vía Pereira Santa Rosa por causa del trágico accidente de tránsito que dejó una mujer muerta.	sadness	0.696
+2018-Es-00115	Cansancio para regalar. Info aquí 👋	sadness	0.354
+2018-Es-02557	Lo malo es que las personas no quieren salir conmigo 😟	sadness	0.826
+2018-Es-00170	Ansiedad y frustración, gracias por ser mis fieles compañeras.	sadness	0.708
+2018-Es-02808	Faa estoy re lleno 	sadness	0.250
+2018-Es-06058	Nunca jueguen con mi ansiedad	sadness	0.583
+2018-Es-06214	@Sebass_Psi Porque soy una persona responsable, adulta, independiente, depresiva y con ganas d emorir.	sadness	0.833
+2018-Es-03596	Necesitaria que alguien me salve la.noche por qué caigo en depresión un poco mas	sadness	0.792
+2018-Es-02120	Qué rabia que tengo y me tengo que ir a cosoooo	sadness	0.625
+2018-Es-01410	to2 me responden la hist de ig como si hubiera echo algo grave lloro JSJAJAJ	sadness	0.396
+2018-Es-03216	No sé de dónde sale estar salty porque Steve Carrell no ha ganado ningún Emmy por The Office pero estoy 100% indignada yo también.	sadness	0.417
+2018-Es-02164	Cómo me enferrrrman estás cosassss 	sadness	0.521
+2018-Es-03426	Agradecemos a @gpscongreso y a @Pdemocratacat expresar la indignación ante la llegada mal y tarde del Gobierno al compromiso con #refugiados	sadness	0.413
+2018-Es-03597	PATRI ME HA ABANDONADO	sadness	0.625
+2018-Es-05969	Hay cosas que no quiero volver a repetir y me toca soñarlas 	sadness	0.705
+2018-Es-06946	Que pena pero a mi nadie tiene porque reclamarme las polas qué me tome!	sadness	0.417
+2018-Es-00877	aunque estoy muerta y quiero dormir mil años, voy a extrañar tanto la rutina de levantarse temprano para excursiones 	sadness	0.604
+2018-Es-03269	Mi cerebro está cansado	sadness	0.396
+2018-Es-06543	Fav si "Heroes" te dio nostalgia cuando la tocó King Crimson.	sadness	0.413
+2018-Es-00767	Timi y si gringi di cimpi😂 Han cansado hoy	sadness	0.333
+2018-Es-03272	Aveces me coloco a ver películas sin ninguna razón para poder llorar tranquilo y no me pregunten el por que.	sadness	0.771
+2018-Es-04363	"No tengo números,tengo sensaciones"(Brancatelli).Si fuera meteorólogo diría q va a llover xq le duelen los callos.Q serio #JuevesIntratable	sadness	0.354
+2018-Es-06795	...indicativos de inteligencia y experiencia adquiridas por malas situaciones, lamentable, pero aun así, totalmente necesarias...	sadness	0.646
+2018-Es-06336	Lamentable pérdida la de Chester Bennigton vocalista de Linkin Park QEPD.	sadness	0.771
+2018-Es-02200	「@Rodolphustty」 «momento entendió que quería batirse en duelo con ella. Frunció el ceño al ver sus gestos mirando al cielo apuntando con la»	sadness	0.479
+2018-Es-00967	@_DAVE_fs No, sigue siendo una pesadilla..	sadness	0.542
+2018-Es-03763	Que dia del amigo mas aburrido pase	sadness	0.542
+2018-Es-02208	fa ya se hizo un año..  si hubiera sabido que estabas te tendría conmigo 	sadness	0.543
+2018-Es-05998	@fiooresilva Fuera de joda si vi a tu hermana, vos sos la unica amargada que no sale nunca!!	sadness	0.493
+2018-Es-06074	@lizardo_jesus Ya estoy cansada de llorar ,ya quiero q se acabe está pesadilla ,que desgracia el día q Chávez dijo "por ahora ".	sadness	0.913
+2018-Es-01411	FLORES VOTA EN CONTRA LA LEY  SI LO ÚNICO QUE DEFIENDE ES A SU MENTOR POLÍTICO   EL CHICO ZALDÍVAR A QUIEN  NO SOPORTO VERLO LLORAR	sadness	0.542
+2018-Es-04257	@MayrhenMaria Nosotros a pesar de ser invisibles; en.mi caso te amamos por tu autenticidad!! Adelante; la Armada te respalda...je.😉	sadness	0.250
+2018-Es-05744	¡VIDA, QUÉ QUIERES DE MÍ! ¡YA NO TENGO NADA MÁS QUE VOMITAR! 	sadness	0.604
+2018-Es-03568	Que triste que me subestimes así (que triste que no me tengas tantito miedo). #Depresión	sadness	0.854
+2018-Es-04530	Cpn lo grave y preocupante que es la herida de Jaemin se burlan así lpm my boy deserves better	sadness	0.583
+2018-Es-06571	Sentir como un terrible vacío en el pecho, lo peor💔	sadness	0.917
+2018-Es-05243	@tayyjaguarr Es que esto es mucho ya wey nomms por eso pongo esto tipo de cosas 	sadness	0.435
+2018-Es-04265	Yo sé que no me ha dado sueño porque estoy indignado.	sadness	0.604
+2018-Es-05794	@oceanodelaura Lamentablemente la afinidad ideológica de la mayoría de los partidos de la MUD, los conlleva serles funcional al PSUV.	sadness	0.521
+2018-Es-00081	@DebRyanShow deja de llorar #rayito !!!!	sadness	0.674
+2018-Es-01975	@Manu96304678 @Rubiu5 Que triste noticia ! Una gran pérdida :(	sadness	0.854
+2018-Es-03292	@nicosomerville El mejor hashtag que nunca vi! Jajaja #MejorSacarRapido #PorLasDudas 	sadness	0.188
+2018-Es-03189	Se enojo por que le hacerte el nombre😂😂	sadness	0.333
+2018-Es-01693	Hay pelís q deberían venir con un “no recomendado para gente sensible” al igual q hacen con la edad #Manchesterfrentealmar #pena #angustia🔄	sadness	0.458
+2018-Es-04994	Estoy muy indignado, ellos estan ebrios y flayean que yo estoy ebrio y no me dejan tomar, alta familia	sadness	0.563
+2018-Es-05158	@EdgarSmithV Wuajajaja es que ya me había aburrido esa! 😂😂😂😂	sadness	0.174
+2018-Es-02563	Uy lpm que miedo, espero que no sea nada grave	sadness	0.583
+2018-Es-06279	@CNT_EC tengan la gentileza de reparar el servicio de internet en mi casa! Es terrible que todos los días tenga problemas con la conexión	sadness	0.438
+2018-Es-06854	Pues nada, 2016-2017 deprimida re cayendo en el alcohol y aquí sigo...soy maricona, ahora hago ejercicio para estar bien 😅	sadness	0.813
+2018-Es-03197	Toy re triste me dejan	sadness	0.750
+2018-Es-00984	« daño que le hiciera a pesar de ser un crío desde su punto de vista. Ni cómo podía acabar. Volvió a pegarle una vez más, esta vez en la »	sadness	0.500
+2018-Es-03550	#BetoASaber. Animarles Guzmán  tirarse abajo economía política  crear caos con su terrorismo y dar pasó a la privatización. del Perú	sadness	0.500
+2018-Es-04038	Pesa mas la #rabia q el #cemento	sadness	0.521
+2018-Es-03739	Te necesito en mi vida 	sadness	0.674
+2018-Es-06048	Hace 9 años desde la última vez... y OMG, pánico escénico!!!	sadness	0.375
+2018-Es-05985	¿Sabéis el pulpo de buscando a Dory? ¿Recordáid que le faltaba un tentáculo y que vivía totalmente amargado y resentido?	sadness	0.542
+2018-Es-03896	Odio ser tan llorona	sadness	0.696
+2018-Es-01221	Que tu primer dia no sea en el cumbres esta muy triste.	sadness	0.875
+2018-Es-00696	@ErickLindoro Siii, súper triste 😩	sadness	0.771
+2018-Es-05509	@elcapiperez deberías de hacer una resolana que dure 7 horas, o en lo que amanece, pues ya me da temor en la noche y no puedo dormir 😟	sadness	0.565
+2018-Es-04635	HOLAA, TE VI CAMINANDO EN LO OSCURO SOLA, EN ESTE JUEGO TU TIENES LA BOLA, QUIERO COMERTE COMPLETITA TODAA, QUIERO COMERTE COMPLETITA SOLAAA	sadness	0.182
+2018-Es-01894	Estoy cansado de estar en mi casa haciendo nada, necesito trabajar.	sadness	0.479
+2018-Es-04514	Cuando tembló lo que recuerdo es que  estaba en el metro, mis amigos y yo nos tomamos de los brazos 💜 si eso no es amistad no se que es 😢	sadness	0.542
+2018-Es-05959	@mcaute7 Eres una increíble persona 	sadness	0.167
+2018-Es-06246	@Malejaaaa__ Siendo así tendría que decir "soy terrible"	sadness	0.583
+2018-Es-03085	Amar la soledad hasta el fin del mundo 	sadness	0.542
+2018-Es-06391	La melancolía de morir en este mundo y de vivir sin una estúpida razón.	sadness	0.833
+2018-Es-06649	que lindo va a ser desactivar la alarma de las 6 am por dos semanas	sadness	0.250
+2018-Es-05246	@NestorReverol Es lamentable tanto odio inoculado de la derecha fascistas! por eso NO VOLVERAN !	sadness	0.625
+2018-Es-01747	No estaría nada mal, unas caricias y unos besos que hagan contra peso al cansancio :/	sadness	0.542
+2018-Es-03792	@Ashleymusica Sii 😂💔, eso si es incómodo Ash 😂😂	sadness	0.260
+2018-Es-03511	curao d espanto,	sadness	0.417
+2018-Es-04952	03:48 y yo sin poder dormirme, lpm 	sadness	0.380
+2018-Es-04204	@_rodriggl98 Giles nomas jajajaj que onda vos, aburrido alla(?	sadness	0.167
+2018-Es-05801	Hay veces q me dan ganas de rajarme un tiro de lo salame q soy 😤	sadness	0.646
+2018-Es-06132	#Maracaibo me huele a peligro. Alguien sabe porque los comando de la GNB están vacíos? Y muchos saqueados.	sadness	0.438
+2018-Es-05840	Me puse a llorar de mal y después paraba enojada y decia soy fuerte. Que onda Es como si el diablo me quiere mal y Dios me dice no caigas❤	sadness	0.833
+2018-Es-05287	uy dios solo porque estoy 💍 no me lo quiere decir, lo odio😠	sadness	0.583
+2018-Es-03586	Thian no me suelta y quiero ir a fumar un cigarro 	sadness	0.479
+2018-Es-03314	La parte en la que Clegane le dice "No engañas a nadie con ese rodete. Calvo de mierda" 😂😂😂😂 yo estaba llorando	sadness	0.542
+2018-Es-06276	Genial, depresión y bulimia.  Qué más #peña que más...!	sadness	0.833
+2018-Es-00270	Quiero ponerme trenzas de nuevo 😭	sadness	0.354
+2018-Es-06622	Este es un mensaje encriptado y sólo las personas con coeficiente intelectual lo pueden leer.  	sadness	0.310
+2018-Es-05296	jajajajajaj seguimos resentida??	sadness	0.196
+2018-Es-05717	Los antidepresivos buscan "sacar" a la persona del potencial peligro que implica la depresión mayo (la ideación suicida). Sin embargo,(1/2)	sadness	0.500
+2018-Es-00759	@ManuelBartual Ah no, se viene contigo? 	sadness	0.292
+2018-Es-00483	@Profeco @SECTUR_mx Tristemente lo dudo.	sadness	0.688
+2018-Es-00836	La ironía que amo las plantas y nunca me regalaron ni un ramo de flores cortado de una alguna casa #Tristeza	sadness	0.750
+2018-Es-02922	@MilagrosLeivaG @RPPNoticias Porqué negó vínculos con apristas a pesar de las fotos? Si nada debe o teme?	sadness	0.396
+2018-Es-02931	Me tiene cansada, te deseo lo peor pero yerba mala no muere 😠	sadness	0.604
+2018-Es-04049	No me tientes Santanaaaassssss 	sadness	0.304
+2018-Es-06106	@camilorojasjuan Música para mis oidos, a pesar del gol aldo nos hace lentos y poco sorpresivos	sadness	0.348
+2018-Es-00134	"Practiquen el derecho y la justicia. Libren al oprimido del poder del opresor." - Jeremias 22:3	sadness	0.292
+2018-Es-02408	Estoy viendo un especial de Linkin Park y no tenía la menos idea de el motivo de eso. Que lamentable 😔😑	sadness	0.708
+2018-Es-01358	Ya me arrepentí de haber mandado ese mensaje. 😟	sadness	0.604
+2018-Es-06700	No hay mal que dure 100 años ni cuerpo que lo aguante!!! Gracias a muchos por su preocupación 😽😽😽	sadness	0.292
+2018-Es-01652	@AMERICA_1916 A pesar de ser chivista, si es buen jugador lo que pasa es que falla demasiadas, le falta ser un poco autocrático y humilde.	sadness	0.292
+2018-Es-03626	¿Por qué los zancudos me persiguen? 🙁	sadness	0.313
+2018-Es-03228	Muchos de los que opinan sobre la detención de Lula luego defienden a voz en cuello la no injerencia en asuntos extranjeros.	sadness	0.409
+2018-Es-05692	@Vale_oliv Si, la depresión es terrible y cuando la padeces cualquier cosa por insignificante que sea va afectando a tu mundo 😔	sadness	0.854
+2018-Es-04153	@RodrigoR99 Y van por Zampedri parece.... tremendo 9	sadness	0.313
+2018-Es-02794	Nada más triste que no tener a quien dedicarle tus goles.	sadness	0.717
+2018-Es-05105	A pesar de tantos enojos, y dolores de cabeza hay alguien que esta ahí para hacerte reír al final del día 😍	sadness	0.386
+2018-Es-05312	Dos inyecciones mas 😥	sadness	0.458
+2018-Es-00761	OJO QUE SE VIENE LA VENGANZA 	sadness	0.396
+2018-Es-03137	Hasta los webs de tanta burocracia, comisiones y getismo en general. Dan ganas de hacer de Michael Douglas en Un día de furia...	sadness	0.583
+2018-Es-03997	Y me acuerdo que a veces me daba rabia pq no me hablaba, pasaba semanas ignroada por el pndejo y luego no recuerdo pq nos hicimos más unidos	sadness	0.688
+2018-Es-03353	tenía re abandonado twitter literal😂😂	sadness	0.313
+2018-Es-06853	Mi sobrina sigue en cama. No ha comido en varias horas. Parece que la energía del cuerpo se le ha ido. La luz le molesta un poco. #tristeza	sadness	0.896
+2018-Es-01392	He notado que cuando tengo depresión no puedo dejar de comer, me agarra ansiedad	sadness	0.708
+2018-Es-00911	EN SERIO TANTO ME VAS A COLGAR DIOS	sadness	0.625
+2018-Es-06331	weonnn, weooooon, WEOOOOOOOOOOOOOOOOOON EL DIECIOCHO YA PASÓ 	sadness	0.196
+2018-Es-06790	@__pacorocha Yo vivo buscando sus canciones en live para llorar. Es que ella es otra cosa, su voz es perfecta. Y sus letras, todo.	sadness	0.667
+2018-Es-00380	@germxnthief < espalda del rubio, la cuál probablemente estaría marcada, pero ni con eso logró sofocarlo pues un gruñido salió de sus >	sadness	0.370
+2018-Es-01972	@rialjorge  cuando VOS y todos los q te acompañan convivan con una criatura con tdah recién ahí voy a aceptar que abran la boca dan #pena	sadness	0.479
+2018-Es-06661	@roxinda @AngeldebritoOk Déjalo, está aburrido... 🙄	sadness	0.417
+2018-Es-03479	Lamentablemente... Esto ya llegó a su fin.  —Sí, está cantando. —  Lamentablemente... ya ni me acuerdo de ti.	sadness	0.792
+2018-Es-05103	@LauraSalgado75 Yo si decia porque se habian perdido los days 	sadness	0.396
+2018-Es-02904	@mateodelorto pero no estoy llorando ahre	sadness	0.522
+2018-Es-06162	Sin ofender pero, representas todo lo que desprecio en el mundo.	sadness	0.771
+2018-Es-05318	@_alejandramttz @Rivera_Alv22 La ultima temporada de esa serie no me gustó 😢	sadness	0.479
+2018-Es-01103	De los 7 tp que dio la de matemáticas  para el 2do trimestre solo entregue 1😂 Matemática a diciembre ya te siento 	sadness	0.271
+2018-Es-05288	@DanteDelgado Lamentablemente esto es lo que se está visualizando para el 2018.	sadness	0.500
+2018-Es-00656	Bueno... todos son unos malditos idiotas. Ya entiendo el resentimiento #Feminazi	sadness	0.500
+2018-Es-05631	características quieren gobernar a la República Bolivariana de Venezuela, incluyendo el terrible racismo que poseen. Sean responsables de	sadness	0.543
+2018-Es-02843	@waldorftty < Elisabeth había peleado. El espejo estaba hecho añicos, y varios tramos del suelo se habían manchado de sangre. Segundo >	sadness	0.521
+2018-Es-04122	Jajajaja de lejos veía a Fran re desesperado por ver a los chicos 😝	sadness	0.229
+2018-Es-06665	Estoy viendo fotos de cuando era flaca, por llorar y comiendo un kit kat	sadness	0.604
+2018-Es-02145	Por la chucha ya empezaron las noches calurosas 😥	sadness	0.524
+2018-Es-04556	The radio need to stop playing all these sad songs.  Ni tengo novio pero aqui estoy llorando por el.	sadness	0.708
+2018-Es-03924	Por trágica noticia, puse a profundizar un cachito, como para hablar con propiedad. Conclusión es la misma: qué completa mierda Linkin Park.	sadness	0.563
+2018-Es-01961	@HistoryLA Muy lamentable, 😭	sadness	0.729
+2018-Es-05712	Quiero café, pero el café de tus ojos, del claro, porque ese oscuro me da dolor de cabeza...	sadness	0.438
+2018-Es-02347	Que aburrida vida tengo	sadness	0.583
+2018-Es-05861	Eso para vos no es un insulto?	sadness	0.313
+2018-Es-05192	Escuché una canción re lindaa y cuando voy a ver la traducción es re depresiva mal, weno	sadness	0.717
+2018-Es-01043	@Sofiaaaeiou_ ¿Cuál es la pelea? Jajajajajaja la chismosa.	sadness	0.063
+2018-Es-03068	aliade: las mujeres son x si solas no x un hombre sí al poder de decisión💪 *se entera de que tienes novi* aliade: bua m enfado y no rspiro	sadness	0.409
+2018-Es-03652	amo porque yo soy re tímida pero en el boliche me pones música y bailo con quien sea	sadness	0.208
+2018-Es-06008	Quiero que mi hermana mire el internado y no quiere, es una soreta.. 😭	sadness	0.479
+2018-Es-05680	Y si mejor considero todo otra vez... por que esto se está volviendo un ciclo 	sadness	0.563
+2018-Es-06757	Imagino la indignación, preocupación y rabia de turistas que eligieron Perú para disfrutar y al final pasarla mal. La indiferencia es peor.	sadness	0.620
+2018-Es-06482	@EmiBrez Te odio	sadness	0.521
+2018-Es-03164	-¡Me cagan los lunes! -Pero si ya es martes. -Ya sé, pero todavía me acuerdo. 😒💔😡	sadness	0.520
+2018-Es-02239	@KlaifeClashMx @TrainerOween No te mando captura porque ya se me perdió la partida manquito🌚	sadness	0.326
+2018-Es-03901	Dormí toda la tarde y ya no tengo sueño. Lo peor de todo es que mañana tengo clase de 8 	sadness	0.304
+2018-Es-01030	Se la dan de hombrecitos y mujercitas en Yodel, bien que si te tienen en frente no le dan los huevos para decirte las cosas, q pena dan ajaj	sadness	0.333
+2018-Es-04199	@EspiralCanal11 que tema, esta muy bueno y casi no se toca entre nosotros los hombres por temor a ser criticado	sadness	0.457
+2018-Es-05921	estoy sintiendo puntadas en el ojo y lei q  era pq mi alma gemela esta llorando 😍😍	sadness	0.620
+2018-Es-03310	puedo parecer cool y lo soy, pero realmente soy una pendeja con mucha ansiedad, depresión y sueños en la basura ¿:D?	sadness	0.813
+2018-Es-02725	No hay luz sin oscuridad.	sadness	0.375
+2018-Es-02854	@REINALDOERNESTO El lado oscuro de la ley	sadness	0.292
+2018-Es-02008	@MelissaCh_07 Sho! 🔫🔪 dejame! A estoy haciendo lo biología! 😭	sadness	0.313
+2018-Es-00544	Tengo el pelo horrible, cuando cobre me voy a comprar hasta lo imposible para tenerlo hermoso	sadness	0.479
+2018-Es-03533	@Hil_dodoo mañana te dibujo sin falta, perdón por el atraso 😥	sadness	0.313
+2018-Es-01751	@El_Intermedio Estoy alucinando con las razones expuestas por los universitarios catalanes: mucho eslogan y nada de contenido #triste	sadness	0.543
+2018-Es-02418	Estoy ansiosa mal por ir a Disney y falta un año todavía	sadness	0.333
+2018-Es-00383	Solo de abrir Facebook es una depresión masiva la que me invade... *toxico* 😒	sadness	0.833
+2018-Es-02108	@tctelevision @calle7tc Terrible  esto!	sadness	0.521
+2018-Es-02793	@viridianaHls Yo lo patrocinó :v aquí también hace un calor horrible! Ya extraño el invierno y la nieve 😭	sadness	0.542
+2018-Es-03960	@Juls555 @donfelixSPM He visto hombres llorar con desesperación y angustia ante una pequeña y fina agujita de jeringa.	sadness	0.542
+2018-Es-04939	-Su mochihermano es consumido por la oscuridad.-	sadness	0.479
+2018-Es-00040	@sorlandoponce Juan Carlos le pregunto temeroso y con mucho respeto a Pinto,luego queda hablando en el programa	sadness	0.375
+2018-Es-06540	Inhala-exhala, no voy a caer en el juego, inhala-exhala... 	sadness	0.333
+2018-Es-02697	El descontento, el cansancio, la obstinacion, LA ARRECHERA esta tomando el plano atmosférico en mi país!	sadness	0.813
+2018-Es-06479	Mi grupito de amigas me tiene abandonado	sadness	0.586
+2018-Es-03312	Como q mi hermano cumplió 16 y parece de 20 	sadness	0.250
+2018-Es-05927	Ya no sé si es que quedé nerviosa o es que tiembla a cada nada en estos últimos 20 minutos 😟	sadness	0.583
+2018-Es-03547	@ObservadBinario Por costoso en avión y peligroso por tierra	sadness	0.304
+2018-Es-04967	Devuelvanme a mis amigas solteras 😭	sadness	0.500
+2018-Es-00225	Siempre que veo películas en netflix con alguien elijo una que ya vi o que parezca aburrida porque sé que no la voy a ver 🔥👀	sadness	0.229
+2018-Es-04143	6TA⬆ 🚨¡HR SOLITARIO DE BELLAZETÍN!🚨 #ÁguilaDeVeracruz 2-9 #Sultanes ¡Vamos Rojos!🙌 #XSiempreÁguila ⚪🔴⚾💪	sadness	0.104
+2018-Es-05269	Recuerdo insultar a Miare jajajajajajajajajajajajajajaajjajajajaajajajajajajaja no soy para más. Pero del lado oscuro se sale.	sadness	0.060
+2018-Es-02443	@Lupitaaa27 @SofiaHdz1724 Jajaja i was a little but eres mi amiga no me enojo para siempre 🙄🌚	sadness	0.261
+2018-Es-01241	Creí que dejar de fumar weed durante el día me haría sentirme less shitty y más productiva pero veeerga es demasiado aburrido estar sobria	sadness	0.479
+2018-Es-01543	Tormenta con truenos 😭 	sadness	0.438
+2018-Es-02554	Te doy unos cinco pesitos si me das un masajito 🙁	sadness	0.260
+2018-Es-03797	Quiero regresar al #iOS10 	sadness	0.271
+2018-Es-05593	@Viejastirpe Además no necesita haber pelea de por medio.	sadness	0.396
+2018-Es-00080	odio ser tan desconfiado firme	sadness	0.458
+2018-Es-01814	Como cuando le dices a tu mamá que la amas pero te deje en visto 😟	sadness	0.625
+2018-Es-05186	@Twt_Nervous Y mar y 	sadness	0.250
+2018-Es-06594	Estoy llorando pero no tengo cara para pedirte perdón, enserio lo siento	sadness	0.935
+2018-Es-00866	@NTN24 Lamentable ...Sin embargo...llama la atención entre los últimos duelos del mundo del rock que hayan sido causa de suicidios	sadness	0.646
+2018-Es-00071	Cuando estes cansada de su inmadurez, aquí te esperaré...	sadness	0.438
+2018-Es-00551	va mejor venganza contra quien rompio tu corazon, es demostrar que eres nerfectamente capaz de ser feliz sin el/ella.	sadness	0.625
+2018-Es-01740	Que cansada estoy 😢	sadness	0.625
+2018-Es-01686	estoy a nada de ponerme a llorar en el pasillo de desodorantes y shampoo	sadness	0.761
+2018-Es-05334	Ojalá de contrabando, de reojo alguien lea...por lo menos no tendré seguidores pero me leen.sino es muy aburrido todo esto.	sadness	0.500
+2018-Es-03678	Con la facilidad que ciertas personas me cambian el humor es tremendo.	sadness	0.396
+2018-Es-02426	Hoy mi papá me dijo que está preocupado porque aún no tengo novio 😂🤷🏻‍♀️💔	sadness	0.340
+2018-Es-01796	Me verás volar, por la ciudad de la furia... Donde nadie sabe de mí, y yo soy parte de todos.	sadness	0.563
+2018-Es-01909	No quisiera sentir celos pero lamentablemente no se me da.	sadness	0.583
+2018-Es-00571	Algunos tienen más de lo que merecen, lamentablemente siempre va a ser así.	sadness	0.625
+2018-Es-01588	Simplemente corruptos e infames los diputados, cubriendo sus espaldas #NoMásCorrupción #enojado #triste #Guatemala	sadness	0.543
+2018-Es-00589	Ya ni se por donde empezar. 😥	sadness	0.522
+2018-Es-03501	@VnzlaLinfoma1 @gladyseijas por supuesto q es serio!!	sadness	0.250
+2018-Es-04172	Tengo tremendas ganas de salir a caminar ahora pa sacarme un poco la decepción y el enojo y pensar bien q voy a hacer	sadness	0.750
+2018-Es-03159	Si eres tranquilo y confiado, o miedoso y con baja autoestima, depende de la dopamina (hormona del placer).	sadness	0.438
+2018-Es-06280	No superó más la cara de la enana cuando perdió el celular y después fue a buscarlo y lo encontró	sadness	0.313
+2018-Es-00915	Estoy tan aburrida😩	sadness	0.521
+2018-Es-02707	Me acordé de una foto, me puse a buscarla, vi todo el álbum y boom. Nostalgia.	sadness	0.729
+2018-Es-00637	Estoy muriendo de sueño 	sadness	0.354
+2018-Es-01907	Perdió juventud Unida. En misiones se grita como un gol!	sadness	0.354
+2018-Es-05067	What, me despertó alto relámpago ahora no duermo más 😭 	sadness	0.396
+2018-Es-02602	Cuánta razón tiene mi hermana 😭 No todos están dispuestos...	sadness	0.500
+2018-Es-00614	Lamentablemente, sí, lo conozco. —Ni se ha molestado en apartarle, le da un poco igual que se apoye en él.—	sadness	0.563
+2018-Es-00227	Esta alarma está establecida para dentro de 4 hs y 12 min, estoy llorando	sadness	0.813
+2018-Es-01447	@javo_naranja18 Nombre, con esos 2 tenemos. Lo de Mora no es tan grave y confío en que caute despierte esta temporada	sadness	0.313
+2018-Es-05304	fina pero en la cama tremenda sata	sadness	0.167
+2018-Es-00513	@alejandromesias Justo eso quiero evitar... la tristeza!	sadness	0.854
+2018-Es-00128	Este tweet esta deprimido por muchos recuerdos:(	sadness	0.854
+2018-Es-06213	Me estoy empezando a asustar.	sadness	0.522
+2018-Es-00518	#RecuerdosDeChibolo ser el mas tímido de mi clase 😌😌😌	sadness	0.354
+2018-Es-02840	@yeyoadbm @MConsuelofg @Pamelafy @Interpanic Oye que terrible esta gente.	sadness	0.500
+2018-Es-06534	@fedeedelseri QUE DEPRESIÓN	sadness	0.896
+2018-Es-01166	Un mes separados mamita linda!! Te extraño 😭	sadness	0.913
+2018-Es-03100	@JHarryStylinson *c va a amenazar gente para conseguir un dm larry* ahr 😂😂💜💜todo por ustedes 💜	sadness	0.229
+2018-Es-05059	Y si ya no me quiere? 	sadness	0.696
+2018-Es-03610	En momentos de cansancio como este me dan ganas de renunciar	sadness	0.604
+2018-Es-04655	@LeSet_ @_XpressTV Ahora solo existe en mi memoria 	sadness	0.479
+2018-Es-04266	#GÉMINIS: ¿que por qué eres el mejor signo? porque sin ti, todo es más aburrido de lo normal, das esa chispa de locura a cualquier fiesta	sadness	0.292
+2018-Es-03982	Ese terrible momento cuando ya por fin te acomodas en tu cama y...te dan ganas de orinar 😢	sadness	0.458
+2018-Es-03215	@Enanin_V Tristemente sí :(	sadness	0.771
+2018-Es-00713	@Heberlizeth @JESUSESA Que terrible dolor la pérdida de un hijo y peor aún cuando es asesinado impunemente.	sadness	0.958
+2018-Es-05372	Mis días estaban muy lindos pero con lo de hoy quede mas triste😣 a levantar cabeza y seguir, vamos rojo!	sadness	0.783
+2018-Es-02456	@JavierLopezDiaz Semáforo dañado en 31 ote y 14 sur. El verde no dura ni 5 segundos. Genera tráfico.	sadness	0.354
+2018-Es-01844	Nací con el viejo Linkin Park, y a pesar de que ya no era partídiario de su nuevo sonido, siempre los admiré como banda.   Descansa (1/2)	sadness	0.600
+2018-Es-01428	A mí realmente me dio pena la muerte de Cornell y #ChesterBennington	sadness	0.729
+2018-Es-00146	La reflexión que nos deja el video de silvestre es que, A Otro Nivel es otro programa de la televisión Colombiana que es pregrabado. #Triste	sadness	0.500
+2018-Es-02196	A pero que lindo que anda el internet 🙄😒	sadness	0.250
+2018-Es-04220	Yo estaba en un momento muy alegre y y luego ver cosas sobre el tour de Harry, me ha deprimido. Auch.	sadness	0.708
+2018-Es-05842	Terrible lo mio de alunarme por cualquier cosa.	sadness	0.542
+2018-Es-03974	Así que lamentablemente el mundo del Rock está de luto #QEPD Chester Bennington	sadness	0.813
+2018-Es-06927	Una lástima que se llevaran a @alo_oficial por delante... Salida perfecta, el podio estaba ahí... 😩 #Rabia #VamosFernando #GpSingapur #F1	sadness	0.604
+2018-Es-01122	se puso la 10 Flor con un buen café y peli d terror, esa es mi amiga	sadness	0.313
+2018-Es-01602	Desde ayer que vengo súper alterada y nerviosa con náuseas, y en casa me dijeron yyyy bueno MANDALE AL TILO  deja prefiero un vino	sadness	0.620
+2018-Es-04203	40 minutos soñando algo horrible, lpm tengo miedo de dormirme ahora 😢	sadness	0.750
+2018-Es-05419	¡Dios! En serio odio a la ONU.	sadness	0.500
+2018-Es-04212	IGNORARLO. Solo quería escribir para desahogarme, enrealidad ni estaba deprimido ni nada xD es mas bien como una reflexion 🗿	sadness	0.521
+2018-Es-05395	Me invitan a tomar una birra y vuelvo borracha a mi casa.  Así  no  se  puede En tres horas me levanto 	sadness	0.438
+2018-Es-04558	Mi más terrible año fueron los 12 😖😖	sadness	0.625
+2018-Es-05783	No hay nada mejor, que se salga de su fiesta, e ir hasta tú casa, sólo para calmar tú enojo😍😍	sadness	0.250
+2018-Es-05608	SORPRESA EN LA PUERTA: ¬°unas tentadoras cajas de regalo rojas y amarillas est√°n causando revuelo en las puertas! #SmurfsVillage @SmurfsG	sadness	0.142
+2018-Es-06263	@cachermishana @manulogu2001 @__MichelleeeeV Yo también los extraño 😭	sadness	0.792
+2018-Es-06822	I have questions me tiene la vida triste cada vez que quiero ver el video de crying in the club	sadness	0.792
+2018-Es-05183	Estoy tan aburrida que me puse a acomodar los sobrecitos de azúcar y crema aaaaaa	sadness	0.396
+2018-Es-05330	Culia le di rt a a un tw citado de annabelle y al segundo me salio que mirara debajo de la cama 	sadness	0.479
+2018-Es-03012	@_pgl99 @TatianaQuinones Pelea de parejas a otro ladito.	sadness	0.208
+2018-Es-02303	@marisolglzz Aburrido y panza México	sadness	0.354
+2018-Es-05528	@Tricker_FD Alguien que me entiende perfectamente Lamentablemente no tenemos control ante aquello	sadness	0.604
+2018-Es-03886	Que asco ese perfume. Me hizo doler la cabeza 😢	sadness	0.458
+2018-Es-05241	No puedo dormir 	sadness	0.517
+2018-Es-01782	Terrible dolor de piernas😣	sadness	0.646
+2018-Es-00397	@seniorita_weed @itsdanibeltran Es muy aburrida y es como el primer capitulo de nada.	sadness	0.458
+2018-Es-00490	me acabo de acordar de que este curso hago selectividad y tengo 	sadness	0.333
+2018-Es-05598	Que pena tener a Heidi como hermana, la neta	sadness	0.560
+2018-Es-06104	Hace 2 días quiero ver a mi novia y no puedo,tengo una amargura una cara de orto.. ahhh pero 2 birras más y le sonrió Hasta al matambre jaja	sadness	0.413
+2018-Es-03383	Tomando birras porque por un tiempo muy largo no voy a poder #Tristeza 😖🍺	sadness	0.848
+2018-Es-03510	¿Que se siente ser orgasmo y verla siempre, y que no pueda esconderse? 📚	sadness	0.396
+2018-Es-04567	Como será uno ser extra de tu voz estéreo. #tristeza	sadness	0.708
+2018-Es-02790	@AsisOberdan: "Lo de Lula me parece un espanto"	sadness	0.587
+2018-Es-05104	Y qué es lo que tu amigo más te dice? Otros: te quiero, te extraño, vamos a comer. A mí: Qué sufrida eres csmr.   Te odio. 😢	sadness	0.750
+2018-Es-04931	unas ganas d llorar tas loco	sadness	0.813
+2018-Es-04551	Aaaaaa creo que entré en depresión culia	sadness	0.604
+2018-Es-06892	Soy la persona mas feliz al escucharlos llorar!!!! 😍😍😍😍😍😍😍😍	sadness	0.196
+2018-Es-00273	Quizás antes de provocar linchamientos públicos podríais buscar algo más de fundamento que el "me lo dijo no se quién".	sadness	0.458
+2018-Es-01581	@aripiaa 🙁 No sé si sea por la situación del sismo o por otra cosa. Pero si necesitas que alguien te escuche, aquí estoy. Mucha fuerza. 🙌	sadness	0.521
+2018-Es-05777	@edrovill @JocF08 Te encargo lo incómodo que es 😥	sadness	0.458
+2018-Es-03761	@luciasvt eso me habían dicho mis papás pero no sabía que estaba tan mal ay lucía que tristeza :((((((	sadness	0.917
+2018-Es-00052	Ahora se me perdió la piroba excusa.	sadness	0.391
+2018-Es-06858	@MQuevedoF lamentable todos los destrozos y muertes a la GMV..nos da mas razon p la CONSTITUYENTE. VENCEREMOS.....!!!	sadness	0.609
+2018-Es-03133	Sigo creyendo que soy la persona mas solitaria del mundo	sadness	0.819
+2018-Es-00545	@bianca43721 Dos tweets seguidos. Vos debes tener ansiedad por el viaje me parece...	sadness	0.413
+2018-Es-04504	En mi trabajo hay una app donde  nos tenemos que dar estrellas entre compañeros.. #BlackMirror #IsHappening 😱🤔 	sadness	0.295
+2018-Es-05297	@adnradiochile Tienen el tremendo billete... Eso tienen x que abren la boca y queda la escoba	sadness	0.250
+2018-Es-06399	@AguilaRey1 El #Sismo se sintió con fuerza en Guarenas/Guatire. Por donde trabajo, la gente salió a la calle 	sadness	0.417
+2018-Es-00432	osea da las putas gracias que no has estado deprimido hundido en la mierda en vez de llamar a alguien cobarde	sadness	0.804
+2018-Es-02255	"No creo en el pesimismo. Si las cosas no salieron como lo esperabas, sigue adelante. Si te empeñas lo consigues". Clint Eastwood	sadness	0.354
+2018-Es-00928	Como cuando estás desesperada por conocer gente que comparta tus gustos, que hasta publicas en un grupo. QUÉ VERGÜENZA ME DOY. ¿????	sadness	0.814
+2018-Es-00845	Desesperado por encontrarte, busco un camino para olvidarte, es que esa noche que vos te fuiste me desbordaron las cicatrices 🎤💔	sadness	0.813
+2018-Es-02887	Lamentablemente a la familia no se la puede escoger.	sadness	0.646
+2018-Es-01082	@xBlackeneD Melanie ha abandonado la conversación	sadness	0.375
+2018-Es-06706	@wolfinglouis si a mi tambien me pasa,por eso nunca estudio ahre si t pones nerviosa es peor	sadness	0.438
+2018-Es-06533	Me siento como en Navidad cuando esperaba los regalos re ansioso	sadness	0.208
+2018-Es-05165	@JuliannaHdz Deberías pasarme tantito pegue 	sadness	0.370
+2018-Es-00163	@haroldazuara necesito verte en Oaxaca 😭	sadness	0.583
+2018-Es-02417	Que lluvia de mierda 	sadness	0.609
+2018-Es-02121	Una nena de 9 años q dice “me quiero morir, me dicen gorda” e intenta suicidarse tomando pastillas.Q MAL ESTAMOS X FAVOR! #Tristeza	sadness	0.880
+2018-Es-03640	Pensé que al leer me daría sueño pero nada 😟	sadness	0.271
+2018-Es-04852	Defensa de #OllantaHumala dijo que fiscal señala "las niñas generan peligro". Parece que no se entero de los millóncitos de esas niñas.	sadness	0.375
+2018-Es-06004	Vengo d mi antiguo insti dond estudié bach d artes #Getafe #antoniolopez #nostalgia #Rabia al ver q se lo están cargando al no darles apoyo😡	sadness	0.667
+2018-Es-00699	Ni dormir puedo 	sadness	0.457
+2018-Es-00802	Desde primaria soy Fan fan fan faaaaan de hilary duff h estoy bien indignada porque no están sus albums viejos en Spotify ¡SON LOS BUENOS!	sadness	0.313
+2018-Es-03121	@JamesChords « sin frenos.  —Va...vamos, James. Córrete para mí —musita ella con la voz ahogada del cansancio.	sadness	0.292
+2018-Es-06101	Paciencia. Conozco gente que por no tener paciencia, fe y confianza perdió tanto q hoy podría disfrutar. Hay q ser leal a quien cree en ti.	sadness	0.479
+2018-Es-02547	@SraruizruthRuth Si obvi y no lo digo por él, lo digo por algunas que ayer subian el de la piscina etiquetando a Aylén y me dio mucha rabia	sadness	0.583
+2018-Es-04581	No soy tonta, no soy mala y no soy cobarde.	sadness	0.438
+2018-Es-05966	@Santi_Calderon2 No me hagas llorar men :( encerio?	sadness	0.771
+2018-Es-05606	realmente no los trato mal ni soy mala pero basta que lo haga una vez para sentirme de lo peor, pero en serio no es mi intención	sadness	0.652
+2018-Es-05096	cada vez que veo una peli de este tipo se me queda un vacio muy grande porque vaya vida mas aburrida tenemos en verdad	sadness	0.625
+2018-Es-06109	Golpeas pataleas y haces berrinche porque no quiero ser tu novio 😝#JustFriends	sadness	0.333
+2018-Es-05723	Acabo de dedicarle una historia de insta al crush y lo mejor es que creo que el crush sabe que es crush y llorará cuando lo vea(no)	sadness	0.500
+2018-Es-00109	@volvocar_es V40 D2 nuevo adquirido en Valencia, 2 meses, rota la caja de cambio y el embrague, además me insinúan q por mi culpa #triste	sadness	0.417
+2018-Es-00023	Odio la gente cerrada, que no se deja ayudar. Para colmo la mayoría de la gente que quiero es así 	sadness	0.583
+2018-Es-03494	Yo no se que le ha pasado... que la encuentro pensativa...	sadness	0.521
+2018-Es-00826	@Missing_Marijo Se parece mucho...... que lamentable!! 😌	sadness	0.563
+2018-Es-06745	Dicen que alguien ya vino y se fue, dicen que pasa las noches llorando por el 🎶	sadness	0.625
+2018-Es-02346	qué depresión ver todos los vídeos de las chicas que abrazaron hoy a los chicos, YO QUIERO	sadness	0.708
+2018-Es-01996	Cualquier excusa me viene bien. Tremenda	sadness	0.250
+2018-Es-00343	@milebebe claro, mira el tolima perdió con nosotros por igual marcador y hoy ganó	sadness	0.333
+2018-Es-04550	Estar lavando a esta hora, debe ser un delito 	sadness	0.370
+2018-Es-01830	@de_sofiiaa Puto* Hubiese peleado con luna x maxi 😂😂😂	sadness	0.250
+2018-Es-03551	Se fue ...... #tristeza	sadness	0.917
+2018-Es-02835	Soy una bolita de sueño y cansancio	sadness	0.543
+2018-Es-03600	Pensé que se me habría pasado el disgusto pero no	sadness	0.604
+2018-Es-05167	Ah y se me abrió todo esto en la cuenta de mi hermano y cuando quise cambiar le perfil veo q el perfil de mi hermano no tiene cara 	sadness	0.304
+2018-Es-06883	Ganas de decirte lo que me pasa con vos no me faltan  Pero AY QUE COBARDE QUE SOY	sadness	0.625
+2018-Es-05775	Un mes y ya estoy pensando en LA Nostalgia que se viene 💃🏽	sadness	0.750
+2018-Es-03705	Es ver eso y romper en llanto😟	sadness	0.938
+2018-Es-01691	@ScarletLagunes Autocorrector 🙁 pono pono pono pono💙🙊	sadness	0.208
+2018-Es-05164	Cada que veo Gg me dan ganas de ser rica 	sadness	0.292
+2018-Es-03958	estoy: enfadada y yo nunca me enfado	sadness	0.646
+2018-Es-06567	#NowPlaying No me importa [cBH] - Thony y su Orq. Peligro	sadness	0.333
+2018-Es-03196	@Archipotrio joder acabo de ver a un portugues quejarse porque costaba 55 pavos y me he asustado, gracias	sadness	0.396
+2018-Es-04731	El fútbol colombiano sería muy aburrido sin el América y sin Millitos  😂😂😂😂😂😂😂😂😂😂😂😂😂😂	sadness	0.125
+2018-Es-01983	No sé bien que pasó con la policía en la colon pero yo vivo en frente y estoy cansada de no poder dormir por el kilombo que hacen 😒	sadness	0.500
+2018-Es-02475	Y esto de la recuperación a casi una semana... Imposible !! #Dolor #desolación #angustia  #tristeza  #perdida #muerte #impotencia	sadness	0.875
+2018-Es-02353	ya hubiese querido yo que aquí en el meet nos hubieran dejado saludar a todos, qué depresión	sadness	0.875
+2018-Es-02414	@edioaraque Otro héroe que se marcha, triste 🙁	sadness	0.813
+2018-Es-00173	"Uno no sabe lo que tiene hasta que lo pierde" La pura verdad 🙁	sadness	0.826
+2018-Es-00985	Clase cansancio 😪😪	sadness	0.500
+2018-Es-02655	Kimberly me tiene más nerviosa	sadness	0.417
+2018-Es-02268	Temor a estar solos.	sadness	0.542
+2018-Es-03815	Voy a terminar llorando ;-;	sadness	0.813
+2018-Es-05073	Y yo, lo único que quería es que lucharás por mi, por nosotros 	sadness	0.750
+2018-Es-02484	Había olvidado todo eso del zika y chiconguya y andaba bien vergas sin repelente hasta que me tapizaron de piquetes y mentró'l susto.	sadness	0.479
+2018-Es-06164	En vez de estar abandonada y aborrecida, tanto que nadie pasaba por ti, haré que seas una gloria eterna, el gozo de todos los siglos.	sadness	0.396
+2018-Es-03170	Amigos que están aún no estén  RT @Rhoderis: Hay gente que a pesar de todo, no te dejan de querer	sadness	0.500
+2018-Es-05489	Acabo de ver Okja y estoy llorando mares, que película del bien	sadness	0.652
+2018-Es-02942	Lamentablemente "por uno pagan todos".	sadness	0.563
+2018-Es-05378	Siempre estoy enojada, es mi don.. mi maldición.	sadness	0.667
+2018-Es-06863	Me paso de bueno en serio...	sadness	0.417
+2018-Es-00654	Te aprecio mucho, aunque me jodas hasta el punto del cansancio con el casamiento(?	sadness	0.500
+2018-Es-04976	Se antes pensaba que eras tremendo pelotudo pero por lo poco que te conozco sos muy piola, espero conocerte mejor	sadness	0.313
+2018-Es-01965	@DonajiAbarca cuando escuchas reguetón del pegajoso se queda en ti, como un chicle en el cabello, te lo quieres quitar, pero no se puede 	sadness	0.313
+2018-Es-06539	Nooo hoy quedo sola 	sadness	0.604
+2018-Es-06271	Si estás ahí arriba Superman, ayúdame 	sadness	0.500
+2018-Es-02483	@OfBlueHeart + y decaído, era una trágica imagen que sin duda le gustaría ahorrarse y ahorrarle de alguna manera. Mas él no estaba en +	sadness	0.625
+2018-Es-00638	Me urge un aceite de almendras 	sadness	0.271
+2018-Es-05040	Ya quiereme, te pago 😥	sadness	0.565
+2018-Es-02198	Un asco me quedo el pelo 😤😤	sadness	0.479
+2018-Es-05575	Sola nomas me hago la cabeza	sadness	0.396
+2018-Es-04389	Aveces siento que me quieren agarrar ataques de pánico	sadness	0.667
+2018-Es-05776	@EmiRatajkowski Es que es una ofensa para la población penastica, okis.	sadness	0.396
+2018-Es-00460	Por qué te valgo tanta madre? 😢	sadness	0.652
+2018-Es-02169	Triste es dar todo tu amor, toda tu alma y todo tu.ser con una sonrisk, y que se quede ahi, prendido en el aire	sadness	0.854
+2018-Es-04323	La fuente de la uja a las 12:00 debe de estar hirviendo #Jaen #calorextremo	sadness	0.229
+2018-Es-01421	Andy aprende a tapar que estabas mas nervioso que cuando tenias la calcomania XDDDDD	sadness	0.229
+2018-Es-06814	@hcapriles @NicolasMaduro Y ellos que se dejan humillar... definitivamente un grupo de vzlanos perdió su dignidad....	sadness	0.471
+2018-Es-01008	Tendría que pensar que me está pasando pero, es que estoy cansado de pensar.	sadness	0.500
+2018-Es-05904	@AndresF_Garcia Todos los dibujos tienen cachos, sospechoso @josesalaaas @Dederlealdair @I_amghoul @JhonCruz0525 @jhonatanperez__	sadness	0.348
+2018-Es-01417	Y es entonces cuando te das cuenta de las cosas solo pasan una vez, y por más que te esfuerces ya no puedes volver a querer 3MSC.... 😭	sadness	0.813
+2018-Es-06910	Hoy he llorado por ti  He llorado la rabia  La impotencia  He llorado tu risa.  #tusojosclarosonrientes #triste	sadness	0.938
+2018-Es-02628	Mi mayor problema es que no puedo estar enfadado. Siempre termino perdonando a las personas, incluso cuando no lo merecen.😚	sadness	0.604
+2018-Es-04543	@AmericadeCali @tulioagomez debería probar con Blanco , Bernal y Tipton de titulares y ojalá no vendan a Borja porq grave Olmes y Silva	sadness	0.271
+2018-Es-01898	@Calvi25 Jajajajajajajaj en serio???!!😮😮😮	sadness	0.042
+2018-Es-03386	@SUR_cultura @cacmalaga @ajavierlopez Pero vamos que es un poco la tesis del cura Perez Pallares de no ofender a nadie.	sadness	0.396
+2018-Es-06894	Si haces sangrar a un dios la gente dejara de creer en el, el agua se teñira de rojo y asistirán los tiburones	sadness	0.458
+2018-Es-05864	Odio que se metan 	sadness	0.438
+2018-Es-06920	@GD_MikyFC a ese paso no tendran NADA 😥	sadness	0.413
+2018-Es-06128	@VBajardepeso Nel, es terrible, odio tener boobs grandes	sadness	0.500
+2018-Es-03034	No puedo de la tristeza, que mierda todo.	sadness	0.986
+2018-Es-06408	¿Neta CDMX? 3 bloqueos en toda la ciudad. 3 pinches bloqueos y perder 3 horas en el tráfico. ¿Neta? 😠😠😠	sadness	0.625
+2018-Es-05248	No hay apuros para el Emperador! 	sadness	0.229
+2018-Es-06324	Felicidad extrema es estar super aburrida y encontrar una película de Harry potter😍	sadness	0.130
+2018-Es-06618	Me da sueño y empiezo a confundir letras 	sadness	0.354
+2018-Es-04557	@gnomowl @Alfresarpo @LoroHomero Uno de los mas votados de AP...terrible como se equivoca el pueblo al q todavía le venden espejos..	sadness	0.500
+2018-Es-00158	@Muzskatolista Eso de "sin ofender" sobra en Twitter	sadness	0.250
+2018-Es-03743	Por el único cantante que sentí tristeza cuando me enteré de su muerte fue Demis Roussos, un grande que falleció en un hospital de Egipto.	sadness	0.688
+2018-Es-04573	Cabeza e' mango està perdido. La Humanidad en vilo porque su reserva intelectual està en peligro...	sadness	0.417
+2018-Es-01639	Ya necesito vacaciones y a penas van los primeros parciales!!! 	sadness	0.435
+2018-Es-01533	hay que cuidarse más 🙁	sadness	0.438
+2018-Es-03321	por esas cosas de la vida, ayer tristeza, hoy alegría	sadness	0.438
+2018-Es-00732	@AzulRosito Ya lose,pero es tan lindo,y encima negrito,voy a llorar 😢	sadness	0.625
+2018-Es-05230	Ayer antes de irme me salió lo de la escoba y hoy cuando me levanto sigue todo igual. 	sadness	0.348
+2018-Es-02363	@JudysLullaby Porque a mi 😣 cuando sera el dia que una de las expocomic inviten a judy a san luis 	sadness	0.438
+2018-Es-06613	@ElNacionalWeb Después de que ha fregado a un montón de gente como miembro del Colectivo La Piedrita, va a salir con ese llanto. Cobarde.	sadness	0.521
+2018-Es-02676	supongo que una se cansa de hacer daño y huye como una cobarde (te dejé de seguir bloqueándote y desbloqueándote, no entré en tu cuenta)	sadness	0.667
+2018-Es-00680	@UrreliG Si es por eso qué tengo yo super depresión	sadness	0.896
+2018-Es-04290	@agujeado Pero no está. Se perdió :(	sadness	0.583
+2018-Es-04236	Se ve que es hiper difícil preguntar en lugar de que te llueva el cabreo de la otra persona y encima llamarle amargado. xD	sadness	0.479
+2018-Es-02997	@LuchoCassinotti yo no pq me dijiste resentida y sabes q no lo soy	sadness	0.542
+2018-Es-05694	Esas personas que viven la #depresión y a oscuridad. No hay dinero que compre la salida, no la hay.	sadness	0.674
+2018-Es-03771	Devuelvanme la vitalidad que tenía en selectivo 	sadness	0.583
+2018-Es-03780	tengo comezón en la garganta que desesperación	sadness	0.583
+2018-Es-03670	La depresión hace que se mate gente que en su época con su música nos ayudó a superar nuestros momentos y crisis existenciales pubertas 😢	sadness	0.750
+2018-Es-06485	Una de terror 🙏🙏🙏	sadness	0.348
+2018-Es-05286	Jamás debi dejar ese lugar 🙁	sadness	0.646
+2018-Es-06142	ewe estoy aburrido qui hago	sadness	0.313
+2018-Es-06422	No estás deprimido, estás distraído  Distraído de la vida que te rodea🎶👌🏽	sadness	0.457
+2018-Es-03236	mi gasista de burzaco en el 2015 ponia 55 estufas hoy 3 ... ya esta, es la medida de un laburante- este sistema es deplorable	sadness	0.478
+2018-Es-02722	Dime si es verdad, me dijeron que estás cansado #SebastianVillalobos #PDCs #KCAMexico	sadness	0.396
+2018-Es-04555	@shobjin Joda verdad que si me tienen aburrida con eso no se dan cuenta que todos son como hermanos, se pasan con esas cosas	sadness	0.458
+2018-Es-05433	Y de golpe son las 7 de la tarde 😱😩⛈ 	sadness	0.354
+2018-Es-02403	@CaroThompson2 Las letras reflejaban la depresión que llevaba el loco	sadness	0.708
+2018-Es-02404	Que noticia tan triste: murió  Chester Bennington, tremendo vocalista! #LinkinPark	sadness	0.875
+2018-Es-04046	@TheRealS0s @oxesescom por si las dudas mejor a estar pendientes 	sadness	0.375
+2018-Es-00406	Odio irme a dormir sola 😢	sadness	0.587
+2018-Es-02201	@HyliaHale De lo que uno se pierde por no tener instagram 	sadness	0.280
+2018-Es-03078	@Aguero1Nahuel Hirviendo estoy jajajajajaja	sadness	0.063
+2018-Es-06568	Lo más incómodo andar resfriado y con los labios hechos perrrcha	sadness	0.479
+2018-Es-00296	Hace dos días no tenía ni idea de qué era Castlevania y hoy estoy enfadada porque solo hay 4 capítulos de mierda.	sadness	0.478
+2018-Es-05950	Mi mejor amiga se caso, mis amig@s con sus pitos y sus conchas me dejan de lado y bueno yo acá con mi gato que le hago un mimo y se va 	sadness	0.583
+2018-Es-03406	Y toda la NFC norte perdió hoy 🙁 #NFL	sadness	0.417
+2018-Es-05855	—Tengo miedo. —¿De qué? —De que te canses de mí. —¿Tú te cansas de respirar? —No. —Pues es lo mismo.	sadness	0.609
+2018-Es-03715	@la_iguanatv mariguanita, cuando te llegue la ley no te pongas a llorar como una marica. Se te nota la cara de pargo.	sadness	0.435
+2018-Es-03842	¡EN CHILE!  pena de muerte. a quiénes matan. ¿Porqué?  ¡MATAR! A UN ¡INOCENTE!	sadness	0.521
+2018-Es-01895	@Supervivientes Un vago redomado que al principio hacia gracia, perdió kilos y perdió gracia, las dos cosas, al final es un resentido pelota	sadness	0.413
+2018-Es-00756	Estoy ante una terrible tesitura: Me muero de sueño pero Dalas ha subido un video y quiero enterarme del chisme. Espero a mañana o no? 😂	sadness	0.333
+2018-Es-01837	Cómo le saltan los prejuicios de clase al progre cuando ve colas de gente por un descuento. Ay que  espanto gordooo.	sadness	0.333
+2018-Es-01519	Y yo pensé q una estrella fugaz era una estrella muy bonita q tenía miedo de brillar, y huir lo más lejos posible. Un poco como tú, como yo.	sadness	0.521
+2018-Es-02555	@YixingHeartbeat loko pero q papel lamentable esta haciendo esa mira que burlarse de eso	sadness	0.729
+2018-Es-00189	@Vale_oliv Si eso es lo lamentable que es tarde para ayudarlos y terminan así 😢	sadness	0.729
+2018-Es-05080	#FanArmyFaceOff #Army @BTS_twt  Se me amortiguaron los brazos de tener el telefono agarrado retwtteando todo el dia XD pero vale la pena >:v	sadness	0.125
+2018-Es-06564	Hoy comi como 🐷 y ya me dio hambre otra vez 	sadness	0.313
+2018-Es-00998	no soporto ver que maltraten a un animal o que lo maten para comerlo pero lamentablemente la carne es TAN rica	sadness	0.396
+2018-Es-01868	#triste por culpa do @prodveiga #triste	sadness	0.761
+2018-Es-05740	No es por ser pesimista, pero algo en mi me dice que esto ya valió verga	sadness	0.760
+2018-Es-00017	ALIVIANATE CON LIVIA cuantas veces te dije llorando no juegues conmigo ni me eches mentiras	sadness	0.833
+2018-Es-05742	@pollitou_ @SoyGerardCortez Culpas a la víctima de un abuso de confianza grave.	sadness	0.500
+2018-Es-02537	Twitter es como un salón de clases donde estamos los desmadrosos, los persinados, los trolls, etc. Es puro mame no se lo tomen en serio.	sadness	0.208
+2018-Es-05366	#DanielSamperQEPD es una noticia lamentable  #SantosColombiaNoTeCree  #TodoEsCulpaDeLasFarrr	sadness	0.694
+2018-Es-03044	Yo indignada en 2017 por series de 2007, la película. Ah no, que seguro que la quitarían también.	sadness	0.413
+2018-Es-00701	Fui hecha mierda a la cancha pero que manera de disfrutarrrrr, terrible partido	sadness	0.373
+2018-Es-04821	No me había dado cuenta que tengo dos semanas sobrio 😱 hoy mismo me alejo de esa infeliz vida	sadness	0.478
+2018-Es-04996	Y pesar de todo el es la única persona por la que me arriesgaría una vez más a amar.	sadness	0.500
+2018-Es-01584	@DaniiiLoyola es horrible 😢 q onda vos tanto tiempo	sadness	0.563
+2018-Es-04331	Che no hablando en serio, la joda se cancela. pd: tuccio chupapija	sadness	0.438
+2018-Es-03645	Ya dormí 	sadness	0.196
+2018-Es-05953	@selene_pauluna Espero valga la pena!!!! 😅 😅	sadness	0.208
+2018-Es-03145	Esta madrugada se me esta haciendo eterna 	sadness	0.604
+2018-Es-01300	Me quede dormida estudiando y me desperté a las 3:20 AM.  Adivinen quien tiene la perra al lado? Un miedo 	sadness	0.391
+2018-Es-04272	Una noche ahogada en llanto, me juré a mi misma que no volvería a dejar que me tratarán como si no valiera nada.	sadness	0.978
+2018-Es-02261	@AmorAlArte_ No nada, ya habíamos quedado en algo y usted ya perdió JAJAJAJAJAAJAJAJAJAJA	sadness	0.229
+2018-Es-01992	Locooo estoy re preocupada 	sadness	0.458
+2018-Es-03065	Hasta ahora me desocupo 	sadness	0.250
+2018-Es-06658	Eres azúcar amargo , delirio y pecado✨	sadness	0.208
+2018-Es-06297	@rafael_lombardo Valió la pena!!!	sadness	0.146
+2018-Es-03363	@Darkphan Pues ya ves!!  	sadness	0.261
+2018-Es-01557	Queramos o no vivimos en una sociedad cobarde, que cuando la ves te sonríen pero al darles la espalda te apuñalan.	sadness	0.750
+2018-Es-02334	cansada de la gente	sadness	0.705
+2018-Es-00496	@esposlittle Eeeeepa, gracias! Tu cuenta parece tremenda	sadness	0.229
+2018-Es-06798	compartir algo diverido en facebook me hace sentir culpa, sigue siendo normal? 🙁	sadness	0.583
+2018-Es-01418	Mi huerta necesita agua con desesperación y yo me duermo.	sadness	0.458
+2018-Es-05622	@KloudZNiper Cosas que pasan. Estoy cansado de muchas historias a raiz del pelo. Pero mira el lado positivo, por fin te sigo.	sadness	0.438
+2018-Es-04407	No sabía que estabas tan desesperada, chére.	sadness	0.521
+2018-Es-03472	Mientras puedas mirar al cielo sin temor, sabrás que eres puro por dentro, y que, pase lo que pase, volverás a ser feliz.	sadness	0.500
+2018-Es-05370	Ella se ve fria, pero no lo es, en realidad es muy dulce y tierna, solo tiene miedo a que la lastimen	sadness	0.462
+2018-Es-01721	Cansada de fracasar😂	sadness	0.891
+2018-Es-06884	@KeikoFujimori El pueblo esta cansado de corrupcion	sadness	0.435
+2018-Es-02127	Me comi una palabra por estar enojada jaja	sadness	0.208
+2018-Es-05274	No qiero ser aprensiva pero ... si se perdió mi saco favorito del mundo .. si me voy a emputar y a sentir muy decepcionada d mi misma 😩	sadness	0.646
+2018-Es-04458	Esta alarma está establecida para dentro de 4 hs y 11 min, estoy llorando	sadness	0.833
+2018-Es-02651	No quiero clases 🙁	sadness	0.313
+2018-Es-05494	"@intratablestv: @MicheliPablo No infeliz, 4 o 5 votos vas a tener descerebrado!"	sadness	0.360
+2018-Es-01768	@williangordox Que pena...	sadness	0.565
+2018-Es-04687	@DebRyanShow #Rayito esperar ansioso	sadness	0.271
+2018-Es-03930	Será una noche de esas donde la mente no me dejara dormir 😟	sadness	0.854
+2018-Es-05961	@florenciagerez_ Jajajajajaj tomatela cara rota esa sos vos 	sadness	0.130
+2018-Es-01171	Un euro? Se perdió el respeto.	sadness	0.271
+2018-Es-05220	Tal vez Abraham tiene razón y debo hacerlo, pero soy muy cobarde esa es la verdad.	sadness	0.521
+2018-Es-00009	Soy demasiado ansiosa🤦‍♀️	sadness	0.625
+2018-Es-02687	@Sr_Carlitos_ Tu me llevaste al lado oscuro 😏	sadness	0.375
+2018-Es-06444	Un vacío amargo, es lo que siento.	sadness	0.896
+2018-Es-00575	La verdad que terrible noche, la pase genial con mis frazadas, la almohada y la cama	sadness	0.521
+2018-Es-02077	La depresión te consume ue	sadness	0.833
+2018-Es-05709	Tendria que estar cansada pero tengo una pilaaaaa a milll	sadness	0.304
+2018-Es-00530	@FuriaRojaTV Torres es muy terco perdió en el estadio donde le gritan alos dt burro	sadness	0.229
+2018-Es-03101	@omarfdosk8 @CaracolTV @DesafioCaracol Andrea fea mala aburrida gafa odiosa estupida sisañera chismosa etc etc etc	sadness	0.333
+2018-Es-05835	@sofivp29 Que horror 😐🙊	sadness	0.417
+2018-Es-04017	@MirreyNoble Tus frases son bien tontas pero bien ciertas. Estoy llorando.	sadness	0.880
+2018-Es-01578	Ganó morado oscuro, ahora:	sadness	0.250
+2018-Es-06317	Qué amargo sabor a despedida todos los momentos musicales del #DesayunoDeLas10 de esta semana. @carlespena @antoniofraguas @HoyPorHoy	sadness	0.500
+2018-Es-04175	#BonusPop No puedo creer la partida de Chester Bennington, vocalista de Linkin Park. Fuiste una luz que iluminó este mundo tan oscuro😭	sadness	0.688
+2018-Es-05050	@salvaoret pues ya, cargar con un disgusto sin garantizar solucionarlo para la siguiente... :(	sadness	0.542
+2018-Es-06393	@som0scasualidad tú y to nacimos el mismo día y nos ha salido lo mismo......... 	sadness	0.250
+2018-Es-00950	🎵No me folles con tus barbas🎵 que las tienes pringadicaaaaas 🎵y si lo haces, por venganza🎵 yo te pego mis ladillaaaaas🎵🎵 #SilvesJotero	sadness	0.208
+2018-Es-05223	No es verdad lo q me esta pasando... q he madrugado para una hora de clase solo... yo me mato 	sadness	0.729
+2018-Es-06609	Hay momentos que el cansancio emocional es tan grande...	sadness	0.867
+2018-Es-06836	Se acabo la joda 😭	sadness	0.500
+2018-Es-02326	Que triste admitirlo pero  "TE AMO INTERNET	sadness	0.479
+2018-Es-01116	Me sale re piola hacer enojar a Eve,pero despues para sacarle el enojo te la debo.😂💞	sadness	0.313
+2018-Es-00739	@Patriciomonero Jajajaja, te faltó poner o todos son iguales... porque es difícil decidir, yo digo q está entre #peña y #Fox	sadness	0.064
+2018-Es-01211	me iba a quejar de cansancio y mis 'tragedias' pero las comparé con las reales y se me pasa.	sadness	0.500
+2018-Es-01703	@nirvanaxdictx Porque aya arriba Se estan mandando terrible concierto!!!! 😢😢	sadness	0.500
+2018-Es-01548	La canción de oye mujer es la osa más desagradable y corriente que puede existir ugh! No la tolero ...	sadness	0.521
+2018-Es-02680	Quiero abrazar. Quiero querer. Me hace falta el cariño de mi gente. 🙁	sadness	0.729
+2018-Es-04860	Quiero tener ya el uniforme de egresados 😥	sadness	0.333
+2018-Es-01498	@DanielPonne: grave y brutal represión  sufre en estos momentos la comunidad de San Jacinto y Mara Norte de Maracaibo	sadness	0.688
+2018-Es-00238	the boy in the striped pajamas siempre me hara llorar	sadness	0.625
+2018-Es-02464	Estoy llorando culpa de la alergia, quiero y a la vez no ir al médico	sadness	0.674
+2018-Es-04464	Donde tas mi @PulgarinMaite ....toy 3 veces desanimado...un saludito tuyo me reconfortara!!!!	sadness	0.521
+2018-Es-02940	Para mí Colombia es patria, amor. Un país que siempre sale adelante, A pesar de mucha corrupción. 20 de julio GRACIAS COLOMBIA...	sadness	0.146
+2018-Es-05947	No confundas la velocidad de mi amabilidad y cortesía, con el atropello de tu imaginación	sadness	0.333
+2018-Es-01704	@Lucas_Castel me vas a hacer llorar lucas	sadness	0.750
+2018-Es-01597	@armijo_victor JAJAJAJAJAJAJAJAJAJ Chtm, me refería a depresión wey ☹️	sadness	0.271
+2018-Es-05583	Estoy demasiado llorona hoy 😭.	sadness	0.761
+2018-Es-02340	@Alealex78 @MVivasf @moniquelatil @Elenitavip JAJAJAJAJAJAJA TIENE OJOS DE BORRACHA LLORONA.!!!	sadness	0.146
+2018-Es-06221	"pegarle a una nena es de cobarde" mi primo de 7 años♥️	sadness	0.417
+2018-Es-04554	@Norwichtty Buenas, señorita. Algo aburrida, usted?	sadness	0.333
+2018-Es-06078	@pagina12 Entiendo la preocupación familiar pero deberían ser más cuidadosos porque mucha gente se moviliza tras estos pedidos	sadness	0.375
+2018-Es-00821	la depresión es una enfermedad tan mortal como silenciosa, si no pides ayuda literalmente tu vida se puede ir por el caño	sadness	0.783
+2018-Es-01990	@SergioNovelli @hcapriles @ElNacionalWeb Condecorado, abandonado y preso MUY PRONTO	sadness	0.417
+2018-Es-05352	@mjriverar_ @ElSantinoBoy Majo, me destruíste con este gif..no sabes cuánto odio a este payaso 😭	sadness	0.500
+2018-Es-02451	@Julio_Camejo @multimediostv @LisVega Sr. Julio camejo ke no le influya chavana se ve ke los kiere intimidar.	sadness	0.413
+2018-Es-02402	Amo mi trabajo pero mi cansancio es otro nivel 😪	sadness	0.333
+2018-Es-01908	Si tomó su vida por su decisión o por un juicio impedido por una trastorno depresivo mayor, es asunto de él. Mientras no sepan, no juzguen.	sadness	0.609
+2018-Es-06489	Es la primera vez que me pongo de nerviosa así jajj	sadness	0.250
+2018-Es-02149	@softestangcl No me enojo, es una expresión :( me refería a molestarlo un poco. Gerardito jajaj qué lindos podo(?	sadness	0.271
+2018-Es-05037	Hoy ceno café, amargo y solitario café.	sadness	0.646
+2018-Es-01922	Les juro que mi desesperación es demasiada, a cada oxxo o 7-eleven que voy las busco, cada tienda... 😫😭😭💔	sadness	0.729
+2018-Es-06865	Taiga se enojo.	sadness	0.542
+2018-Es-00368	@gamarro10 @ExtraGuatemala Fíjate que son 5 por todos, es lamentable; casi toda la comunidad vive de esa manera.	sadness	0.652
+2018-Es-06929	Me acabo de enterar que se murió el cantante de Linkin Park. No lo puedo creer. Que tristeza u.u	sadness	0.833
+2018-Es-04142	Hablar de mi curso me da rabia y mucha tristeza al mismo tiempo	sadness	0.750
+2018-Es-01394	Mi mamá me puso a cocinar con la Olla de presión, es normal que le tenga pánico a ese artefacto de cocina ?? 	sadness	0.417
+2018-Es-02776	@edufeiok ESE PHOTOSHOP AMERITA UNA DENUNCIA ! TE ESTÁ CALIFICANDO DE NAZI Y ESO ES UNA INJURIA GRAVE!	sadness	0.375
+2018-Es-03964	@AmericadeCali vamos con toda equipo. Saludos desde Villavicencio. #mechita. Se perdió una ballata mas no la guerra	sadness	0.292
+2018-Es-01660	Iría a molestar a mi amiga Laura porque estoy tan aburrida. Pero esta re frío.	sadness	0.417
+2018-Es-06882	Me da miedo encontrar a alguien con quien me encariñe mucho y que después se vaya. 🙇🏻‍♀️	sadness	0.740
+2018-Es-02230	Dizque a poner la alarma en el calendario xd	sadness	0.188
+2018-Es-06088	Estamos todos de acuerdo cuando digo que hoy fue el día del amigo más deprimente que viví? 🙄🙄	sadness	0.917
+2018-Es-01666	@NivoXZ AMARGADA, EN SERIO 🤣🤣🤣🤣😂	sadness	0.391
+2018-Es-05293	Digamos que soy una mezcla entre un carácter de mierda, y una dulzura terrible.	sadness	0.396
+2018-Es-02386	@sanitas_atiende estoy muy disgustada por la gestión en mi póliza y me van pasando de un lado a otro. Decepcion Es la palabra	sadness	0.625
+2018-Es-04497	Quiero un perrito!!!.. Osea tengo 3, pero son de mi hermana y mi papá.. quiero uno que sea mio de mi! 	sadness	0.174
+2018-Es-05862	Depresión rima con Bennington, coincidencia? No lo creo.	sadness	0.500
+2018-Es-03379	@marcoporchile @sebastianpinera El viejo truco de mentir, mentir...millones? El primo es dueño? Tan desesperado Marquitos ??	sadness	0.375
+2018-Es-03876	@SonyMusicLatin @PrinceRoyce @FarrukoOfficial Yeeah, Congrats baby! 😱🎉🎉🙌🙌 La espera del video valió la pena! Hiciste un excelente trabajo! 😍	sadness	0.109
+2018-Es-04348	cainemaribel21 Que Nadie Olvide el nombre y el rostro de la Violencia y Terrorismo. #VotosSIBalasNO	sadness	0.563
+2018-Es-06191	Que me perdone mica pero yo lo voy a leer 	sadness	0.292
+2018-Es-02752	Que cansado estoy de las comidas típicas😳	sadness	0.396
+2018-Es-06934	MUY LAMENTABLE EL RELATIVISMO MORAL DE NUESTRA SOCIEDAD RESPECTO A LA VIDA. HOY SON LOS NONATOS, MAÑANA LOS ANCIANOS ...MAL, MUY MALA SEÑAL!	sadness	0.792
+2018-Es-05614	No sé qué me voy a poner el dda y eso me tiene demasiado nerviosa	sadness	0.604
+2018-Es-00865	@frataslafraok Maaal, lo vi la semana pasada, saben mas de mi vida q yo misma!! 	sadness	0.417
+2018-Es-04856	@JoJoFactsDubs Me dio más tristeza la muerte de D I O	sadness	0.917
+2018-Es-01267	HOLAA, TE VI CAMINANDO EN LO OSCURO SOLA, EN ESTE JUEGO TU TIENES LA BOLA, QUIERO COMERTE COMPLETITA SOLAA, QUIERO COMERTE COMPLETITA SOLAAA	sadness	0.250
+2018-Es-01738	Qué tristeza mujer, pero ya lo esperaba de su parte.	sadness	0.792
+2018-Es-05934	Al ritmo que voy me estoy convirtiendo en una mala persona: resentida y pesimista.	sadness	0.761
+2018-Es-03287	@albanagrigo Jajajajajajajajajajajaja fue lo mas y mas cuando perdió el arito jajjaajja	sadness	0.065
+2018-Es-00208	Para llevar a los bebes de un lugar a otro debemos cantarles canciones...  Quiero cantarles Gunaa' nibiina (La llorona, en Zapoteco)	sadness	0.250
+2018-Es-02497	@DebRyanShow #Rayito tengo ansiedad	sadness	0.458
+2018-Es-00482	Este año estamos + alejadas pero sabes q seguís contando conmigo p todo, a pesar de todo lo q pasa quiero q sepas q t quiero y valoro 1000	sadness	0.500
+2018-Es-06499	#SiMeMatan por decir lo que pienso, por ser sensible a al dolor humano, por luchar por mis ideales, por críticas al mal gobierno y #Enojada	sadness	0.771
+2018-Es-04302	está ansiosa para a premiére de dunkirk? #askdirectioner	sadness	0.250
+2018-Es-01320	Oye @PcSegob hay momentos, de la nada, que mi corazoncito late rápid, no puedo respirar y siento que todo vibra 😭 Qué se hace? #mexico	sadness	0.625
+2018-Es-02593	Anoche me enamore de un pibe por sus ojos, pero lo vi una sola ves estoy llorando VUELVE QUE SIN TI LA VIDA SE ME VAAAAAA OOOO VUELVEEE	sadness	0.391
+2018-Es-01546	No es de resentimiento madre pero hubiese preferido que me pusieses en el polivalente	sadness	0.647
+2018-Es-01657	@julisologaistoa Vos que vas a saber si sos una amargada que no quiere que la llame 😢	sadness	0.543
+2018-Es-00897	4 niños escapan del sename 2 presos x robo balón gas y drogados no querrían suicidarse? niño grave cae desde 15 mts y nadie se presenta trib	sadness	0.630
+2018-Es-06664	Paula Chavez debe ser hermosa hasta en la oscuridad	sadness	0.125
+2018-Es-03802	Hay tanta timidez en mi cuando se trata de ti.	sadness	0.354
+2018-Es-03289	@EquipoCFK No hacía falta tomarlo tan en serio al grandote pavo	sadness	0.354
+2018-Es-01389	@DuvDaz Mucha amargura, bye	sadness	0.688
+2018-Es-04116	@DanyArguello3 Cama y tele 😥	sadness	0.354
+2018-Es-02368	si no me sigues pa q cotilleasssssss q pesadez	sadness	0.375
+2018-Es-02266	Mayco y yo organizando algo? Nc como ira a salir eso😂😂😂😂	sadness	0.167
+2018-Es-00577	Ha saltado supersubmarina en el aleatorio y ya estoy llorando xd	sadness	0.625
+2018-Es-02527	No quiero morirme sin ir a un concierto de Luis Miguel antes 😭	sadness	0.674
+2018-Es-03804	Estaba viendo una peli de terror y así de la nada, a mitad de la peli  comienzan a coger dos minas ahre de que me perdí dije	sadness	0.375
+2018-Es-03003	@mauqxeen 300€ environ 	sadness	0.140
+2018-Es-01667	No estaba ofendido? ;)	sadness	0.354
+2018-Es-03582	@lilycaulfield curioso, precisamente ese recurso es invisible durante un episodio depresivo mayor	sadness	0.609
+2018-Es-03033	@alvarodriguezg Es que hay algunos que se toman en serio a @13tv_es, y con ver Martín villa se han venido arriba. 😂😂😂😂	sadness	0.217
+2018-Es-06018	Ojala nunca se den cuenta 😫 	sadness	0.479
+2018-Es-00715	Seguro se le apago el celular 	sadness	0.292
+2018-Es-03791	Quede de cara cuando apareció donald glover en spiderman ,tremenda felicidad me dio	sadness	0.033
+2018-Es-02153	O mi verano cambia radical o se convertirá en el verano mas aburrido de la historia	sadness	0.479
+2018-Es-05360	Acá (Merlo) hay un almacén que atiende de 18 a 01... En epokas de oscurantismo K eran 20 m de cola a esta hora, hoy juegan al solitario.	sadness	0.375
+2018-Es-05431	@xbxbygirl_x A-ah... —se sentía intimidado solo con verla fruncir el ceño, se agarró un hombro y desvió la mirada— Pedirte perdón...	sadness	0.478
+2018-Es-00402	@Jhendelyn Que terrible....  Casi se me quebraron los dientes y me da un infarto...  Qué mujer por Dios 😍😍😍	sadness	0.375
+2018-Es-05118	Que deprimente todo esto	sadness	0.813
+2018-Es-05459	Pero nose si el se enojo o yo	sadness	0.479
+2018-Es-01501	Esto es tan doloroso 😭 Ya dejen de sufrir 😭	sadness	0.917
+2018-Es-01677	Más de una hora sentada en oscuro, escuchando cantar a su tortuga mientras ella se duerme	sadness	0.646
+2018-Es-03747	Me re incómoda esto	sadness	0.458
+2018-Es-03428	No puedo creer lo de chester, estoy deprimido	sadness	0.896
+2018-Es-03620	A veces no quisiera ser tan serio 😥	sadness	0.500
+2018-Es-03702	Mañana voy a lo de la colo y quiero ver películas de terror pero no me va a poner pq no le gustan	sadness	0.434
+2018-Es-00305	Pero no se puede dejar de amar de la noche a la mañana ... o si? 😭	sadness	0.479
+2018-Es-01840	No esta @ferlo75 en twitter con el partido de #PeñA???	sadness	0.250
+2018-Es-05569	Respeto la libertad de expresión; la defiendo... Lamentable que algunos encuentren divertido mofarse de la muerte de alguien. Quien sea.	sadness	0.604
+2018-Es-06251	@negrabh Qué pasó Eimmy? 🙁	sadness	0.271
+2018-Es-02379	"No me va a temblar el dedo" -antonella bernal	sadness	0.217
+2018-Es-05024	Estoy tan ansiosa por la 7ma temporada de Game of Throne que ya me siento una Targaryen.	sadness	0.174
+2018-Es-02082	Que se hace para que se te peguen 4 hojas en media hr? 	sadness	0.354
+2018-Es-05818	Cuando era chiquito queria ser Jimmy Neutron, y ahora voy a estudiar animacion.  ¿Dónde quedaron mis sueños? #nostalgia	sadness	0.652
+2018-Es-02065	Jajajajajajajajaajjajajaajaj era peligrosa la tecnica	sadness	0.063
+2018-Es-06720	Siento que en cualquier momento voy a valer 	sadness	0.646
+2018-Es-03112	@YoSoyAlii @Cristian20166 @cachoo01 @DjMaRiiO_90 @MIAREsproject Es que no me gusta faltar pero es que me pone muy nervioso:(	sadness	0.521
+2018-Es-00667	Ya me entró ansiedad y ganas de llorar porque me acaba de caer la cuenta de el poco espacio y falta de privacidad que tendré...	sadness	0.833
+2018-Es-04217	Negro culiadooo, me tenés abandonado en el Paladins, en el LoL, en todo jajajajaja cuando nos juntamos a chupar?	sadness	0.091
+2018-Es-06940	@NoticiasVenezue En claro signo de desesperación por verse descubierto el gigantesco fraude cometido a la nación.	sadness	0.604
+2018-Es-01261	Kimberly, si me lee, perdió la apuesta que un día hicimos JAJAJAJAJAJAJAJAJAJA.	sadness	0.196
+2018-Es-02759	@FlavioBuccino gorilaje desesperado. chúpenla! VIVA PERÓN, CARAJO! ✌️	sadness	0.188
+2018-Es-06589	Te contestara tu estado pero eres tan culon que me eliminaste en una pelea similar👀😂	sadness	0.313
+2018-Es-00386	@its_fedra La neta yo me veo igual de feo llorando sea la situacion que sea, así que por eso siempre pregunto JAJAJJAA PERDÓN	sadness	0.333
+2018-Es-00129	@guillermochoa Siiiii por favor 🙁	sadness	0.229
+2018-Es-00024	La depresión es una enfermedad tan incapacitante como cualquier trastorno orgánico (diábetes, hipertensión, cáncer) y requiere at. médica	sadness	0.688
+2018-Es-05141	@TAMARA_SUJU Este como que se fumo una lumpia o esta cansado	sadness	0.271
+2018-Es-01497	De bobera la piba esta me dejo re preocupado 😟	sadness	0.521
+2018-Es-06880	@LaCarlangas_ch 😞 qué triste todo	sadness	0.854
+2018-Es-00525	Si hay que ir se va.... a las 20 nos vemos #castellers #xiquetstgn #rabia #orgull	sadness	0.313
+2018-Es-00888	@vertvnoticias Bueno a estos le hemos escuchado decir cada cosa... !! Infeliz ...	sadness	0.583
+2018-Es-00478	Me pongo nerviosa que hace media hora se escuche a la policía, o bomberos, o ambulancia. Agarrame Martaa	sadness	0.563
+2018-Es-03694	Si mensa, se nota tu desesperación ya todos lo notamos ntp	sadness	0.354
+2018-Es-02878	Solo si leo a la velocidad de la luz voy a poder terminar mis trabajos. 	sadness	0.313
+2018-Es-03631	@derba75_ Mm pas 	sadness	0.167
+2018-Es-00833	@LuuzRobledo Ah listo jajajaja, no me puedo dormir luzzz 	sadness	0.167
+2018-Es-00900	@noticiarepretel Peligroso algo sabe guima acuerdese que el hijo es celso	sadness	0.391
+2018-Es-01955	la valija podia pesar hasta 23 y pesó 22 con algo, eso es vivir al limite bebé	sadness	0.250
+2018-Es-02705	Por 10 minutos pensé que mi perro se perdió o cayó por el balcón... Fueron los peores minutos de mi vida.	sadness	0.750
+2018-Es-03733	Que aburrido mi dia del amigo!!!	sadness	0.563
+2018-Es-03452	N-No me dejes sola... ¡E-Está muy o-oscuro! #FlakyBot	sadness	0.563
+2018-Es-05187	Tengo miedo de hacer matrícula	sadness	0.604
+2018-Es-02424	Acciones para desmitificar la depresión como tarea pendiente.	sadness	0.667
+2018-Es-06148	A pesar de todo eres el mejor hermano ❣👫	sadness	0.271
+2018-Es-01355	Me impresiona todo el amor que me tiene Leia a pesar de que cada 4 días la dejo sola 😭 💔	sadness	0.478
+2018-Es-00725	Patrona: Seguraaaa.. val🌼: Si ma🙄 Patrona: Mira que te pones intensa cuando estas cansada😂😂😂 val🌼: JAJAJAJAJJA	sadness	0.333
+2018-Es-00336	Quiero ver The Last Jedi yaaaa 	sadness	0.292
+2018-Es-01755	Adivinen quien tiene médico el lunes que viene y tiene miedo porque la van a pesar 😣	sadness	0.604
+2018-Es-02503	@juanxiomiguel @Pajaropolitico Así es. Grave error.	sadness	0.375
+2018-Es-00145	Caliéntame con besos que yo no me enojo por eso.	sadness	0.188
+2018-Es-04239	To super cansada 😴	sadness	0.479
+2018-Es-05317	me parece bastante incómodo que me guste alguien porque no me gusta que me guste alguien	sadness	0.543
+2018-Es-00919	@AiNoSenshiYunie @darkzent Que triste que piense asi hombre, sigale hechando caca a los de morena mejor	sadness	0.717
+2018-Es-01487	Algien que alguien que me venga a alegrar la vida porque la neta soy bien amargada😂😂	sadness	0.396
+2018-Es-04181	Amo tanto a mi hermanito a pesar de todo 👫😍💗💗	sadness	0.217
+2018-Es-00364	Tienes #insomnio o #depresión post #sismo? Ven a mi casa, te armo un porro. La propuesta es seria.	sadness	0.521
+2018-Es-06728	@BernalCH2 ODIO esa tontera, es igual de cansado 🙄	sadness	0.417
+2018-Es-03992	@CaritoAM2 @Miguellcv_17 @LDSAlvaro Totalmente cierto! Hay mucho hincha pesimista por ahí, hay que seguir creyendo #YoCreoEnNacional 💚👋	sadness	0.271
+2018-Es-00437	@Miotroyo2parte @amparelampa Solo hay que verle la cara de amargada, gentuza y aborto viviente. Para comprender todo. Asco dais asco !!!!!	sadness	0.583
+2018-Es-03235	Creo que karol hizo bien en no ir a fans, estoy segura que se iba a sentir incómoda con las preguntas que seguro le harían	sadness	0.326
+2018-Es-03167	Terrible día y lo que falta...	sadness	0.813
+2018-Es-05559	que ironía que el café sea amargo y te endulce la vida	sadness	0.313
+2018-Es-06295	Me desperté y estaba la ventana abierta. 	sadness	0.326
+2018-Es-05948	Ah borrarse del mapa😪 cansado de lo mismo, entero solo en esta vida✌ :(	sadness	0.717
+2018-Es-04606	@arcasmarc1 @PPopular @_virginiavargas Para qué hablar de derechos humanos, si con insultar basta no crees?	sadness	0.479
+2018-Es-02307	Cada espacio de tu cuerpo es mi desesperación 💑💑	sadness	0.417
+2018-Es-04024	Dormi bue mal fse 	sadness	0.479
+2018-Es-01847	Que lindo saber que hay gente que me quiere por como soy y a pesar de todo seguimos adelante con la amistad..	sadness	0.250
+2018-Es-04524	El corazon helado como puede ser? si dentro de mis venas fluye sangre hirviendo.	sadness	0.396
+2018-Es-04692	Detesto que la gente que esta deprimida llegue a ponerlo a uno igual o peor.	sadness	0.646
+2018-Es-06443	Es que estoy nerviosa y cuando lo estoy me da por comer, comer, comer y más comer 😢	sadness	0.542
+2018-Es-01876	No me puedo dormir, no tengo idea como me voy a levantar mañana 😟	sadness	0.479
+2018-Es-03232	@tom_feliu12 Una fan del DT, que a pesar de los resultados del equipo expresa su amor a usted	sadness	0.227
+2018-Es-04097	@SayaTsundere17 saya se me acabo el cafe amargo!!	sadness	0.229
+2018-Es-05353	Hoy, a pesar de los reclamos de miles de ciudadanos, el @INEMexico aprobó por unanimidad lineamientos para censurar las redes sociales.	sadness	0.563
+2018-Es-04059	Estoy tan ansiosa con el estreno de Game of Throne que ya me siento una Targaryen.	sadness	0.152
+2018-Es-06384	Lamentablemente soy muy sensible y cualquier tonteria me hace daño.	sadness	0.848
+2018-Es-02338	Quiero tener sueño 	sadness	0.438
+2018-Es-01529	Acullá, saya, sayo, sayón, vid, atropello, afligir, aflicción, yute, vitud... ^_^	sadness	0.333
+2018-Es-06555	Nunca pensé ser tan especial para alguien 	sadness	0.208
+2018-Es-04154	Qué pasa que si no eres alguien conocido no te toman en serio o qué	sadness	0.542
+2018-Es-04152	El es "Wero" un gatito que vive afuera del Oxxo de la calzada San Pedro, súper tierno, cariñoso y muy noble 	sadness	0.208
+2018-Es-00634	-Cuando Ekmarim le gritaba una parte de él se enfurecía pero por otra se le notaba abatido... todos estos meses encerrado y solo +	sadness	0.604
+2018-Es-02634	@nicoo_ncl Hasta me parecieron más llevaderas las dos primeras, el reboot es lamentable.	sadness	0.542
+2018-Es-02500	@zaurendrunks Cállate señorita venganza	sadness	0.313
+2018-Es-01048	really paula chaves es una de las mejores modelos de arg con esa walk? lamentable	sadness	0.563
+2018-Es-01554	@MiicaaJunior Que ni culo inquieto es😒😂	sadness	0.370
+2018-Es-00385	MI HERMANA SE ACABA DE LEVANTAR Y HA EMPEZADO A HABLAR PERO NO HA DICHO NADA EN ESPAÑOL Y ESTABA DORMIDA 	sadness	0.375
+2018-Es-01933	Estoy re deprimida hace meses y a nadie le importa, ni siquiera lo notan. Pero yo si me tengo que preocupar por como se sienten los demas	sadness	0.833
+2018-Es-00409	Ains quiero hacer el reto de los 30 días de Américan Horror Story	sadness	0.370
+2018-Es-01536	@cintiatrinidiaz Vení que estamos cerca, te juro que no me enojo	sadness	0.354
+2018-Es-03593	Y yo aquí, roto, dañado, un poco desesperado	sadness	0.813
+2018-Es-01812	El PERÚ está cansado de tanta Podredumbre Porquería y Kagadas del PresidenteDeLUJO!  No acierta una! Se dispara a los pies! NO AMA AL PERÚ!	sadness	0.630
+2018-Es-04544	Necesito una película de terror right now	sadness	0.333
+2018-Es-02228	Las malas decisiones que se toman cuando uno está aburrido 🙄 @MariaAOlivero	sadness	0.396
+2018-Es-00672	@MilagrosLeivaG @RPPNoticias Porqué negó vínculos con apuestas y a pesar de fotos? Porqué oculta si nada teme o debe??	sadness	0.333
+2018-Es-06840	Llegué a la conclusión de que la única manera de que se me pase la constante depresión en la que vivo es yéndome a vivir a NYC.	sadness	0.729
+2018-Es-01931	@LericaMusic @AbrahamMateo Jajajajajajajajsja vaya cultura musical más deprimente	sadness	0.229
+2018-Es-05072	@EsttebanGalvan Si vdd? 🙁 quien sabe porqué	sadness	0.304
+2018-Es-03858	Mi prima está internada con parto inducido,  Ambar apúrate que tu madrina no da más y quiere conocerte😍😍😍 estoy ansiosa les juro jajaja	sadness	0.125
+2018-Es-06714	yo solo quiero dormir 	sadness	0.458
+2018-Es-06051	@TodaPasion @RodolfoDonofrio esta preocupado?	sadness	0.480
+2018-Es-05291	Ayer estaba hablando con mi tía del insomnio y me dijo que es de familia, TODOS tenemos el mismo problema 	sadness	0.417
+2018-Es-06849	Ohhh hasta se me fue el sueño del disgusto 😔	sadness	0.583
+2018-Es-05450	No lo veo como venganza, es más como justicia poética, espero...	sadness	0.283
+2018-Es-06450	Fran se acordo que estaba enojado conmigo 😡	sadness	0.521
+2018-Es-03193	@milagrosmartell No puedo más enserio tenemosque hablar 😭	sadness	0.750
+2018-Es-01570	cuando le erras a las teclas...#Rabia #Traición #Histeriquismo	sadness	0.396
+2018-Es-06560	@josedli24 Que horror q dientes tan amarillos y q cara tan fea además yo soy más bella q vos	sadness	0.354
+2018-Es-06895	😍😍😍😍😍 Hay Diossssssss... me va a enloquecer!!!!!!	sadness	0.333
+2018-Es-02895	Casi la 1am y yo con este insomnio 	sadness	0.370
+2018-Es-00248	Critíquenme si quieren, ando viendo el final de Teen Wolf 😭	sadness	0.438
+2018-Es-01096	soy terrible yeta por la chucha por qué nací así	sadness	0.720
+2018-Es-05130	Ahora cada vez que escuche The Messenger lloraré. Esa canción significó mucho para mí en un momento, ahora bueno, con lo que pasó 😔	sadness	0.771
+2018-Es-06286	@JulianMCespedes Para completar. Ojala no sea grave.	sadness	0.396
+2018-Es-01826	Sin tomar un migral cdo me duele la cabeza no se q haría 😥	sadness	0.604
+2018-Es-06122	No digas que te vas Busquemos un lugar Que no haya nadie Solo haya oscuridad Y besame lento Paremos el tiempo #LocoEnamoradoVideo	sadness	0.313
+2018-Es-02582	Llorar la perdida de alguien que todavia sigue vivo.	sadness	0.917
+2018-Es-01582	@TaquitoDeCecina Tiene muchos retuits. 😟	sadness	0.146
+2018-Es-05020	Tengo un antojo terrible de cafesito 😢	sadness	0.396
+2018-Es-05884	Un aplauso por esas personas que a pesar de estar jodidas, siempre buscan la manera de sacarte una sonrisa	sadness	0.463
+2018-Es-06424	RT DianaferValle: Ser universitaria te lo defino como estar y tener una depresión,enojo y estrés más grandes que los de Hanna baker litera…	sadness	0.625
+2018-Es-02327	@arodsol1 TAMBIÉN YOOOOOO, y en mty no hay 	sadness	0.208
+2018-Es-04289	@PrincxssGrimes «pesar de su dolor se levanto, me enfrento y asintió, pude notar la rabia en sus ojos, pero lo que mas dolió no fue saber»	sadness	0.688
+2018-Es-00358	Que bajón me dio ver eso 😭	sadness	0.804
+2018-Es-04572	Tantas cosas por las cuales quejarse y ustedes se quejan de eso, qué hijueputez.	sadness	0.500
+2018-Es-02422	Cuando valga la pena,lo voy a hacer	sadness	0.438
+2018-Es-05237	@zoidoJI Lo siento de corazón ❤️. Mucha fuerza le envió desde Galicia . 	sadness	0.667
+2018-Es-02051	Hacia mucho no lloraba gracias 	sadness	0.688
+2018-Es-06300	No fue broma :( lo preguntó en serio hahahahaha	sadness	0.188
+2018-Es-06925	Son las 12:40 am. y ni a esta hora aunque no haya estudiado nada puedo dejar de estar viendo historias y leyendo estados 	sadness	0.292
+2018-Es-05077	@Teeo16_ la depresión existe	sadness	0.783
+2018-Es-02970	Me duele la rodilla lpmm espero sea mas que dolor 😥	sadness	0.625
+2018-Es-00885	Creo que el peor insulto que me han hecho es "gei"  No porque gay sea un insulto, es que lo escribieron tan mal y de paso con tanto odio...	sadness	0.458
+2018-Es-03991	@Nalgonauta Jajajajajajaja jajaj esa foto debe ser medio desagradable	sadness	0.130
+2018-Es-05240	@ObservadBinario Totalmente no. Solamente la planta baja lamentablemente. Más de 12 negocios devastados	sadness	0.604
+2018-Es-05888	Estaba encontrando el sueño y a alguien le está sonando la alarma del auto odio mi barrio	sadness	0.542
+2018-Es-02961	@miishelv20 Me hackearon! 😢	sadness	0.717
+2018-Es-02903	Que aburrido ni se para que tengo whatsaa	sadness	0.458
+2018-Es-00089	En Venezuela, el tráfico aéreo esta tan peligroso como el terrestre? Ya cayó otra avioneta.	sadness	0.587
+2018-Es-05172	—da un pisotón en el suelo y coloca los brazos en jarra, todo ofendido—. ¡Oe! ¡Oxigenada!	sadness	0.348
+2018-Es-06047	@MoyanoAgustin98 Te odio, jajajajaja. Feliz día, el mío es en serio😘😘	sadness	0.152
+2018-Es-05522	Tardé más esperando que se calentara la empanada que lo que duró la pelea entre ellos JAJAKJASDFM.	sadness	0.271
+2018-Es-06835	¿Por qué no calculan clases en mi escuela? No hice la exposición 	sadness	0.370
+2018-Es-02863	@miriwonderland Como en los viejos tiempos #nostalgia	sadness	0.667
+2018-Es-03634	@los14polichacao Lamentablemente a este gobierno no le importa paren la huelga. Los necesitamos vivos	sadness	0.708
+2018-Es-06642	Que perra del orto no para mas de torear	sadness	0.435
+2018-Es-05561	@etronvar @MikeJoestar Chicos dejen de tomarse un post en joda tan en serio	sadness	0.396
+2018-Es-03283	@Macnusxdxd Me metieron algo en el.....   Porq tenia un problema grave: :'v	sadness	0.565
+2018-Es-02364	#DraCorderoMV muy interesante  el tema. La #Depresion una enfermedad denigrada, poco entendida. Importante la cubre el  #Auge #SaludMental	sadness	0.500
+2018-Es-00077	ssssta maldita alergia q no se me va 😥	sadness	0.625
+2018-Es-04932	kihyun perdió el piedra, papel o tijera con wonho y le dio tremendo empujón a hyungwon JASJASJSAJSAJSAJ	sadness	0.125
+2018-Es-04510	@Laesebeefe Detesto comer fuera de hora.  😠	sadness	0.478
+2018-Es-05232	Dlvv, no puedo dormir y en 12:30 hrs tengo un examen 	sadness	0.521
+2018-Es-01698	Cada vez que estoy aburrida me corto el flequillo. Pero tan pelotuda voy a ser? Encima odio como me queda	sadness	0.583
+2018-Es-01653	Ahora va a poder comerse a las que quiera ya que tan desesperado estaba	sadness	0.377
+2018-Es-05137	La canción de "oye mujer" es la cosa más desagradable y corriente que puede existir ugh! No la tolero ...	sadness	0.457
+2018-Es-06316	Vivir amargado, estresado, impaciente o triste no tiene sentido. No tiene ningún sentido instrumental. Nada se va a lograr en esos estados.	sadness	0.457
+2018-Es-05889	Estoy tan desesperado que le escribiría a alguna fea de Facebook	sadness	0.500
+2018-Es-06514	Yo solo quiero que sea invierno para que se empareje el color de mis brazos con el resto de mi cuerpo 	sadness	0.386
+2018-Es-02143	@MariaSharapova preciosa cómo siempre , pero tu rostro es de preocupación o cansancio ?😞	sadness	0.417
+2018-Es-06775	7. Café oscuro. A la sombra parece negro, pero es café xD (Me doy cuenta de que repetí 5 dos veces, lel)	sadness	0.188
+2018-Es-03388	Quiero ir a lo del negro pero me gana el cansancio	sadness	0.500
+2018-Es-03450	che ya se que soy aburrida pero bueno q se le va a hacer	sadness	0.708
+2018-Es-04455	¿POR QUÉ LA ESCENA DE LILY DISFRAZADA DE BALLENA EN EL APARTAMENTO VACÍO ME HIZO LLORAR TANTO? AHHH	sadness	0.646
+2018-Es-04796	@bdelamaza Cansado si Alexis cambia o no se club	sadness	0.417
+2018-Es-06763	Recordé que un dentista estaba revisando mis dientes, se quitó los guantes e hizo movimientos obscenos con sus dedos en mi boca. 	sadness	0.375
+2018-Es-01436	@xBanshee_MS *Unos pitidos estridentes obligan a que una mano en la oscuridad tantee unos abdominales bien definidos. Vaya hacia abajo, >	sadness	0.261
+2018-Es-03013	el que se fue de la silla perdió su villa	sadness	0.313
+2018-Es-01545	Sigo indignada. Como vamos a usar NEGROOO??? Diablo perdónalos no saben lo que hacen 😂😠👊	sadness	0.438
+2018-Es-04364	@Hinzulina @niggavm03 Bebe que te he dicho de hablar con gente de color oscuro? Ni la hora se les da, vente.	sadness	0.396
+2018-Es-02789	Necesito que alguien me consiga un epicrisis 😟	sadness	0.542
+2018-Es-00768	@TRADEOSREYSA y yo lo tendre hasta el 29 😥	sadness	0.217
+2018-Es-03937	@NanaBlurl Como asturiana postiza estoy: indignada.	sadness	0.571
+2018-Es-04865	@DebRyanShow Son los que valen la pena 😳 #Rayito	sadness	0.250
+2018-Es-01045	Ser feliz no es tener una vida perfecta; ser feliz es reconocer que la vida vale la pena, a pesar de las dificultades.	sadness	0.402
+2018-Es-01102	Que tristeza prros. 😔	sadness	0.804
+2018-Es-02375	woa extrañar hablar con mi persona fav y no twittear gracias a que esta tonta perdió su adaptador >:v	sadness	0.480
+2018-Es-03102	Esta semana si me e cansado pero todo esfuerzo trae sus frutos	sadness	0.333
+2018-Es-00348	3 - las ratas,  las oscuridad onda total y los espíritus	sadness	0.460
+2018-Es-00211	Este dilema financiero me tiene con una zozobra tan brava.: me siento pensativo	sadness	0.563
+2018-Es-02981	@ArgTylerPosey @DEMIF4NCY Esto es deprimente :'(	sadness	0.977
+2018-Es-02279	Usted si que no vale la pena	sadness	0.480
+2018-Es-00319	@Fginer @CsValencia_C @CsCValenciana @CiudadanoVille @Albert_Rivera 👏🏻👏🏻👏🏻 ¡Muchas gracias por haberlo peleado!!	sadness	0.283
+2018-Es-06673	Estoy un poco deprimido, me acordé de cosas que me hicieron en mi pasado que aún no logro superar pero me ayudaron a ser mejor persona 💔🤨	sadness	0.979
+2018-Es-04787	No llevo ni 1h despierto y ya he tenido que pegarme una carrera para intentar pillar el tren... y perderlo. 😥	sadness	0.458
+2018-Es-00976	no es justo desde hace mil años llorando cada vez que las veo	sadness	0.833
+2018-Es-05382	Siempre brillando a pesar de tanta obscuridad ✨💫	sadness	0.458
+2018-Es-04808	@FernandaZarat14 Esto si que está bien cabrón. 	sadness	0.174
+2018-Es-00043	@SamuelHidalg0 @MexicoMor @chochos Pues quiero pensar que no anda squeando mexico como #peña	sadness	0.313
+2018-Es-06764	No me puedo dormir 	sadness	0.478
+2018-Es-03412	Pero saben que si me da tristeza? Que hoy no voy a ver a mi crushito xq tengo mucho trabajo 😑	sadness	0.708
+2018-Es-06695	Abs espero volverlos a ver pronto 	sadness	0.500
+2018-Es-06345	¿Algún indignado disponible? Que me aburro.	sadness	0.137
+2018-Es-03632	Debo ser la única persona que en vacaciones se llena de trabajo porque lo elige... acá ya estamos en el sobre, cansada y feliz 🤗☺️	sadness	0.083
+2018-Es-01616	Me gusta y te habló #Aburrido	sadness	0.109
+2018-Es-03915	Ya estos hps me tienen harto la verdad.😠	sadness	0.542
+2018-Es-00795	Para tristeza y felicidad, Ed Sheeran al rescate.🙃	sadness	0.396
+2018-Es-01314	es que archie colega sólo tienes músculos y judhead mira en serio ojalá te hubieran matado a ti y no a jason	sadness	0.271
+2018-Es-03659	@revistaproceso Ya me dio desconfianza el nuevo túnel en Acapulco!	sadness	0.478
+2018-Es-01444	-respecto a lo de antes, provocar o que me provoquen mientras juego o juegan.	sadness	0.479
+2018-Es-00217	¿A cuántos habrán mandado a la FriendZone hoy?...: me siento pensativo	sadness	0.354
+2018-Es-05076	@Grabea2010 @ertrivi69 Disfrutemos del Musicon igual Gra siento que hoy estamos sin suerte #AndaLevantaL25 	sadness	0.438
+2018-Es-05930	mi tristeza, mi locura, mi refugio	sadness	0.604
+2018-Es-03971	Me mente es demasiado horrible... No aguanto le aguanto ni me aguanto.	sadness	0.804
+2018-Es-00025	@SEAT_Mexico Valdrá la pena después de  60 días de lo sucedido ?? Lo hecho, hecho está	sadness	0.600
+2018-Es-01184	@ruizjavier21 @Segoviadanilo Cuando estés aquí 😡	sadness	0.614
+2018-Es-04311	ufff cuando vaya con luna a capi me llevo el parlantito y a full los red dios que nostalgia	sadness	0.625
+2018-Es-06529	Necesito salir en la oscuridad veo más claro que con dos soles, y es una porquería todo lo que se me atraviesa 😂	sadness	0.521
+2018-Es-06599	Escuchar musica triste y terminar mas triste que la música	sadness	0.833
+2018-Es-00266	@Mirandasv10 Ay ya me voy 	sadness	0.354
+2018-Es-05328	La vida ya de por sí es muy peligrosa, no por las personas que hacen mal, sino por las que se sientan a ver lo que pasa.	sadness	0.532
+2018-Es-01328	Todos estos días he estado durmiendo demasiado mal. No sé si es el país o mi ansiedad natural.	sadness	0.771
+2018-Es-00255	No coger los auriculares ha sido totalmente ilegal 	sadness	0.354
+2018-Es-01777	No puedo más, todas mis series fav se están terminando 	sadness	0.604
+2018-Es-00452	@frankymostro un favor, me ayudarías a compartir con tus seguidores una publicación mia? Es para una noble causa, se perdió mi perrita 😭	sadness	0.688
+2018-Es-01212	@SrDiegoPollo El mio no ya me encabrone, veré luego mi peli. 	sadness	0.333
+2018-Es-06691	Que horror quienes usan traje y converse.	sadness	0.313
+2018-Es-00958	Merlí, How to get away, 13 reasons, Stranger things, Narcos.. se van a dignar en aparecer denuevo algun dia? Me tienen abandonada..	sadness	0.438
+2018-Es-02691	Que la depresión no sea solamente un tema de interés cuando muera un famoso. Hablemos y escuchemos al resto, es necesario.	sadness	0.674
+2018-Es-05084	@DonCokeArayaT Lamentable, naaaada es eternooooo	sadness	0.625
+2018-Es-01807	@Gastako @realista111 Es una interesada no estaba tan enfadada con Alejandro?, Xq se fue con el al hotel? Buitre es un buitre	sadness	0.229
+2018-Es-03290	@Jos3M4rtin3z @maruarias123 no brother, bien criada, sino tendrás un asesino, los que son así lamentablemente hay que dormirlos	sadness	0.542
+2018-Es-00700	Hace mucho que no me sentía así... No todo es bueno, no todo es malo... #triste #increíble #rara	sadness	0.848
+2018-Es-06585	Me duele el cuello!!!! 	sadness	0.435
+2018-Es-05743	Eli está viendo un capítulo de ppl y me pregunta que pasa más adelante  , ansiosa donde ?	sadness	0.417
+2018-Es-00996	@MariferBanda ??¿ me siento ofendida	sadness	0.563
+2018-Es-01377	@CONCHETUNlALL En serio? Ooooh wn que bacán 😘😘 deberías ser mi ibf ya que la dafne es más lenta pa responder que la chucha	sadness	0.250
+2018-Es-03010	Que rabia con este guri	sadness	0.543
+2018-Es-00716	La puta madre que susto me pegué jajajajaja	sadness	0.271
+2018-Es-04615	@jordievole @jatirado @ManuelBartual Tranquilo! En Valencia hemos visto que la imprenta de @compromis  no tiene #Porno y tiene 	sadness	0.313
+2018-Es-03463	Cuando una mujer tiene los ojos llenos de lágrimas #YNuncaFaltaElQuePregunta  Estás llorando?... Nooo... Me entró una pestaña en el ojo... 😭	sadness	0.696
+2018-Es-00784	Cierta oscuridad a veces es necesaria para ver las estrellas. 🌌	sadness	0.521
+2018-Es-06651	Que negros de mierda,se tiene que morir todos esos hijos de puta	sadness	0.458
+2018-Es-04632	@Valyfreesh Casi te digo algo ordinario 	sadness	0.313
+2018-Es-03767	Mejor me voy a tratar de dormir 🙁	sadness	0.370
+2018-Es-04132	Hay manera de repetir este dia? En serio creo que nunca fui tan feliz	sadness	0.136
+2018-Es-00199	@DebRyanShow #RAYITO tengo cansada la vista estube todo.el.dia en el cel espredando algo nuevo	sadness	0.396
+2018-Es-06888	Si alguien me quiere hablar no me enojo jajajaja	sadness	0.146
+2018-Es-02674	| Caity: "Sara siendo intimidada por Supergirl"   —Muere—	sadness	0.458
+2018-Es-02412	Los martes yo estaba bien😡 no tenía ni que venir aquí a joder 	sadness	0.479
+2018-Es-04609	Sabemos que la vida es dura pero la amargura no es la solución ♪ #LVP	sadness	0.326
+2018-Es-01403	Ya estaba dormida y no sé por qué me desperté 	sadness	0.413
+2018-Es-03931	"Es que mi nivel de madurez es superior al de los demás"  - Una amargada.	sadness	0.354
+2018-Es-06227	@viviandecanha @thediegomen encontré suéter de conf hoy que arregle mi cuarto y me estaba acordando de todo 😢	sadness	0.543
+2018-Es-05825	por eso necesito estar re polle y perderme así las dejo de joder 	sadness	0.417
+2018-Es-06360	A veces cuando estoy aburrida pienso "FUNDIC" y me río sola.	sadness	0.188
+2018-Es-06472	@Abslx7 @karolsevilla JAJAJA WOW QUE GRAN MENSAJE Y QUE GRAN APORTACIÓN, a gran parte de los mexicanos que la admirabamos nos decepciono 	sadness	0.271
+2018-Es-03621	@Factanonverbaa_ Quién cojones eres y por qué me estás stalkeando si no me he dirigido a ti en la vida. Serás otro ofendido en fin. Block.	sadness	0.438
+2018-Es-05746	@ConElMazoDando #TeLoDijeLaConstituyenteSiVa UN GUARDIA HERIDO DE GRAVEDAD EN LECHERIA Y NINGUN PARIODICO LO PUBLICA!! TERRORISMO!!	sadness	0.522
+2018-Es-00943	Literal que todos pollerean hoy en vez de salir que onda?  Si no consigo segunda para la juntada me sumo lamentablemente	sadness	0.354
+2018-Es-02717	@michellevilaroo No puedo 	sadness	0.438
+2018-Es-02786	SI TE ELEGÍ COMO AMIGA ES PORQUE ESTAS IGUAL DE PINCHE LOCA Y DESQUICIADA IGUAL QUE YO	sadness	0.188
+2018-Es-06171	@Hironiak @Foro_TV Eso parece ... tristemente :(	sadness	0.896
+2018-Es-02156	#PameAlaTarde Moria la tiene ca.....do a Pamela·!  Voy a opinar dice xq me tienen pintada!!! ahora los panelistas le piden opinión. #miedo?	sadness	0.500
+2018-Es-02597	Estoy cansada de que me prometan cosas y después no lo cumplan	sadness	0.848
+2018-Es-05625	José me comprometió y no tuve a mi abuela para llamarla y contarle ni a mis dos mejores amigas para escribirle 	sadness	0.708
+2018-Es-06819	acabo de hacer un test de depresión y me salio 69 y el mayor grado de depresión grave es 54 opa	sadness	0.813
+2018-Es-01761	ENCIMA AHORA TIENE PELÍCULA EN SOLITARIO 😵🔫	sadness	0.396
+2018-Es-02433	Mejor Dime Que Me Extrañas! 🙁	sadness	0.625
+2018-Es-03669	Me he caído... nada grave... -No va a decir que Sheridan se le ha tirado encima, pero se está mareando-	sadness	0.458
+2018-Es-01288	@aguschimpf Upa, tremendo salto del gueymallen triple blanco a un Starbucks	sadness	0.229
+2018-Es-02604	@AnnaMariela96 @nataliaiv21 Kheeee?????? No saben tus señores padres @nataliaiv21  🙁	sadness	0.333
+2018-Es-04521	TUVE UN DIA TAN DE MIERDA Y LEER LO DE RICARDO ADRIÁN ME SACÓ TODA LA TRISTEZA	sadness	0.773
+2018-Es-06890	Solo emana desde dentro, como la furia roja del vagabundo de las estrellas.	sadness	0.313
+2018-Es-04319	Noches de llanto 😕	sadness	0.771
+2018-Es-02010	Te siento en carne viva ,me desperté llorando y supe ,supe que hoy volvías	sadness	0.783
+2018-Es-04710	Por que el te grite por algo  no significa que te tengo mas que desagradable con migo 😣😒😒	sadness	0.646
+2018-Es-06044	Pinta escuchar Numb hasta dormirse de la depresión 💔	sadness	0.860
+2018-Es-00371	@SoyPabloMiguel Expedito, porque es de las causas urgentes. Ideal para gente ansiosa, como sho.	sadness	0.360
+2018-Es-03644	@ischargro @dgannio Es mucho Peor d lo q dice el MENTIROSO d GONZALES FRAGA. Hay HAMBRE, POBREZA, TRISTEZA, DESAZÓN, HAMBRUNA, MUERTE.	sadness	0.696
+2018-Es-04195	Y no creo que sea el único infeliz Que ameniza por ti estos tiempos complicados. ¡maldita sea!	sadness	0.717
+2018-Es-05994	Qué feo irse a dormir con bronca o tristeza no se que es, pero creo que es sensibilidad 😩	sadness	0.891
+2018-Es-03500	El diagnóstico de depresión se hace al existir los 3 sínt. princip. (tristeza, anhedonia e ideación suicida) más otros 2 de los mencionados	sadness	0.604
+2018-Es-01665	@yiixings Ya me has sustituido! 	sadness	0.543
+2018-Es-02889	Dudes! Neta que se necesita estar bien pendejitos de la cabeza si piensan que con snaps asquerosos provocarán algo en una mujer.	sadness	0.396
+2018-Es-06915	La carita de desquiciada de hatice  #ElSultan	sadness	0.313
+2018-Es-04409	Si iaso por tu lado y no te saludo nq  o tomes como enojo que los amores q e se quieren se saludan con los ojos.	sadness	0.500
+2018-Es-02797	Me enoja que me agarre imsomnio cuando no dormimos juntos 😠 No tengo a quien abrazar, ni molestar porque no puedo dormir 	sadness	0.688
+2018-Es-04970	Aburrido!!!!!!!!!	sadness	0.438
+2018-Es-04528	Es muy fuerte El otro día estaba escuchando Leave out all the rest, me pone tan melancólica esa canción  Que si la escucho ahora...	sadness	0.708
+2018-Es-05856	aquela nostalgia gostosa escutando audioslave	sadness	0.625
+2018-Es-01062	@haashoficial  por que ami  Me tiene que pasar esto 💔 Quiero gritar que ya basta 😿 Quiero abrazarlas pero nunca podré Dios mío 😷😭  #triste	sadness	0.979
+2018-Es-01735	Hola Como amaneciste?  Akostado  Jajaja .ue gracioso! Como estas?  Sentado  Jaja En serio!  Que mas?  No, no quemo.	sadness	0.167
+2018-Es-00312	Cambie de celular y no me deja entrar a instagram de ninguna manera, estoy llorando tirada en el piso😭	sadness	0.771
+2018-Es-00379	Es legítimo responder a una provocación con agresión física como señal de imponer respeto.	sadness	0.438
+2018-Es-00788	@xSilenceDoctor « pinta de ser un caos provocado por el adolescente fugado, quien poco a poco iba espabilando por los lametones del perro »	sadness	0.500
+2018-Es-02975	Cercano por así decirlo. Y debo decir que no esperaba que fuese así de terrible el padecer de anorexia. En verdad, me.alegro muchisimo+	sadness	0.417
+2018-Es-01804	Ah caray...ya no entiendo nada 😟	sadness	0.413
+2018-Es-02568	Y todo fue mentira 😥	sadness	0.583
+2018-Es-00953	@joseman15749101 @Luisito_EE @ElementalCCR @PouLegion @SokingRcQ @Xerezano_cr @colton_wall @RomK7_CR Informante mas antes de insultar	sadness	0.370
+2018-Es-00947	😱😱😱😱escucharon ese trueno? ⚡️	sadness	0.375
+2018-Es-01313	Quemada es poco😤	sadness	0.396
+2018-Es-06118	@MrMisingno @VidaModernaOML A QUIÉN LLAMAS RARO, ESTOY OFENDIDO.	sadness	0.500
+2018-Es-03737	Sufro de insomnio provocado por la estupida guardia	sadness	0.604
+2018-Es-06683	@MirnaLizeeth @clarisaagarza  @brendaatoriz  k tiempos we lloremos 😭	sadness	0.708
+2018-Es-01712	+ detrás suyo era algo horrible o desagradable, pero no iba a verlo. Cerró sus ojos con fuerza mantenido su posición mientras sus brazos +	sadness	0.625
+2018-Es-00347	@Brendaa_C Todos chiquita....todos 🙁	sadness	0.438
+2018-Es-03905	¡Mas cansada,  imposible!	sadness	0.458
+2018-Es-00880	me tengo que levantar a las nueve 	sadness	0.177
+2018-Es-00311	En la pelea, se conoce al soldado; solo en la Victoria, we conoce al caballero. - Jacinto ,enavente.	sadness	0.208
+2018-Es-02730	Me imagino a Cande enojada y me acuerdo cuando le pintaban los celos! 14, 15 años 😂😂😂	sadness	0.271
+2018-Es-00282	@ResistentPatria @ScarletMoly ya estamos cansado d tanta baina x fabor	sadness	0.479
+2018-Es-02351	Estoy haciendo un retrato de los daft punk y estoy al borde del colapso nervioso porque me está costando un choto.	sadness	0.500
+2018-Es-03505	Bueno despues de una semana algo estresante y aburrida, mañana empieza mi fin de semana bien shingon. 😊😌😎	sadness	0.188
+2018-Es-02047	Hoy soy feliz con poco con mi tristeza me basta	sadness	0.729
+2018-Es-05999	su papá se irá para allá y el ira un tiempo	sadness	0.333
+2018-Es-04242	Hoy volví de brc y ya extraño todo, quiero llorar mil años basta	sadness	0.875
+2018-Es-00951	De nuevo Lunes  12:00 am 😥	sadness	0.396
+2018-Es-06481	Hoy pase bañándome sin mentir como hora y media y en serio que me siento más blanca no jodas haha	sadness	0.146
+2018-Es-05351	Chester fue la adolescencia de mi viejo y cuando supo se largó a llorar, se me partió el alma	sadness	0.891
+2018-Es-06945	@juancatab En serio!??	sadness	0.188
+2018-Es-02139	Deje el cargador completo del celu en el bolsillo del pantalón y lo pusieron a lavar #Miedo	sadness	0.478
+2018-Es-00479	"Qué significa taciturno -que le gusta andar de noche" JAJAJAJAJAJAAJAJJAAJAJJAJAJAAJJAJAJAJAJQJAJAJAAJ	sadness	0.125
+2018-Es-00681	Como que ya no me está gustando estar de aquí para allá. 😢	sadness	0.646
+2018-Es-01022	Paula está indignada y yo que no tengo ni para indignarme	sadness	0.583
+2018-Es-05633	@Itzykes @Paco_Salazar7 Oye es muy tarde para que andes repartiendo nostalgia 😢	sadness	0.729
+2018-Es-05337	Los sentimientos que más odio en esta vida sin el rencor, envidia, tristeza y enojo 🙍🏽	sadness	0.604
+2018-Es-04496	Que triste noticia... Mis oraciones estan con el, su familia y fans. RIP Chester Bennington  🙏🏼 😪	sadness	0.833
+2018-Es-02494	Keiko no tiene nada que ver con lo de Montesinos!Él se tomó atribuciones que no debía!El Fujimorismo es el principal opositor al terrorismo!	sadness	0.438
+2018-Es-02713	@Ojitoschinooos Esa quien? Porq siempre tenes q meter a alguien che pajerito resentido jajajajajajaja	sadness	0.104
+2018-Es-05116	Tu mamá en vez de dar a luz dio oscuridad, pinche morra.	sadness	0.417
+2018-Es-06760	Ojalá mi Dr use Twitter y me lea  *Ya dame el alta brother no puedo seguir aburrido en casa me amargo si no trabajo	sadness	0.521
+2018-Es-00240	Ojalá hubieses podido resistir un poco más. La depresión y las drogas ganaron otra batalla... Descansa en paz.	sadness	0.870
+2018-Es-01927	si yo no te vuelvo a ver, yo me voy a enloquecer, es para mí, la locura automática	sadness	0.625
+2018-Es-05497	@alexisperezf25 alegría inmensa y nostalgia porque no estas acá. te recordamos mucho	sadness	0.727
+2018-Es-00205	@indpcom @Albert_Rivera @InesArrimadas Y el berrinche de Cs tres cuartos de lo mismo	sadness	0.380

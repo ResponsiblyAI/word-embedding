@@ -1,0 +1,203 @@
+ID	Tweet	Affect Dimension	Intensity Class
+2018-Es-05016	@Rugwery En caso de ser mujer... Piensan en embarazo, quisiera tener anemia en ese caso. 😅	joy	0: no se infieren niveles de alegria
+2018-Es-03661	Creo que me quede libre hace un montón y todavía me queda un trimestre 	joy	0: no se infieren niveles de alegria
+2018-Es-02063	—Cómo quitarle la diversión a la vida, libro escrito por Jiwoo.—	joy	0: no se infieren niveles de alegria
+2018-Es-01986	Mañana es festivo 😍	joy	2: se infiere un grado moderado de alegria
+2018-Es-00372	[7/20 1:34 AM] Traidora: Ay te amo❤Feliz día mi puti. Otro año mas con vos. Sos única siendo como sos, y te amo así. Mañana estamos juntas	joy	3: se infiere un grado alto de alegria
+2018-Es-02136	@PabloEmanuel299 LAMENTO MI CONFUSIÓN DE RAMA LEGISLATIVA : Habida cuenta, publicamente corregí. Espero haber satisfecho el reclamo.	joy	0: no se infieren niveles de alegria
+2018-Es-02181	#FelizLunes cosas hermosas ! #Feliz	joy	3: se infiere un grado alto de alegria
+2018-Es-01681	La alegria se multiplica compartiéndola 😀	joy	2: se infiere un grado moderado de alegria
+2018-Es-01259	Buenas noches a toda la pipuuuuul. Que tengan una excelente semana 	joy	2: se infiere un grado moderado de alegria
+2018-Es-01520	@FelipeCacahuate Es entretenida, te la recomiendo	joy	1: se infiere un bajo grado de alegria
+2018-Es-00792	@Bordeline10 en realidad si me interesaba porque trabaja en street machine y hay ropa bonita . Lo hice por eso , por un descuento 	joy	1: se infiere un bajo grado de alegria
+2018-Es-02185	Y que tal si mejor estoy de oyente @ilennita ?   	joy	1: se infiere un bajo grado de alegria
+2018-Es-00243	Seguro el año que viene si nos acordamos 	joy	0: no se infieren niveles de alegria
+2018-Es-06583	Fin de semana de descanso total, dormir + de 10 horas seguidas, comer rico con heladito incluido y 24 hrs viendo the big bang theory 😋#feliz	joy	3: se infiere un grado alto de alegria
+2018-Es-03553	@Arteriza2 Siempre, jajajajaja sos la mejor 	joy	3: se infiere un grado alto de alegria
+2018-Es-00516	@carmenantzzz Que graciosa he😢	joy	1: se infiere un bajo grado de alegria
+2018-Es-02274	@KeikoFujimori @Cozumel Felicitaciones keiko 	joy	2: se infiere un grado moderado de alegria
+2018-Es-03098	Siento alivio al escribirlo.  	joy	0: no se infieren niveles de alegria
+2018-Es-05936	@Galarza_Agos Es graciosa la situación jajajajajja	joy	2: se infiere un grado moderado de alegria
+2018-Es-04140	@BattilanaMarti_ Con amar azul estoy 😄	joy	1: se infiere un bajo grado de alegria
+2018-Es-02300	Ya quiero que llegue mañana!! 😜😜 Ya que mañana juega mi @JuniorClubSA  A darle fuerza con toda • • • ¡Descanso, casita y no se que mas! 🏢📺🍻⚽	joy	3: se infiere un grado alto de alegria
+2018-Es-06869	@zuricataspy Estaría genial, ya que en otros lados no se fabrican  y se los llevarían.	joy	1: se infiere un bajo grado de alegria
+2018-Es-02463	Dios está conmigo neta 	joy	1: se infiere un bajo grado de alegria
+2018-Es-04278	@JulietaWells_ @haddidmia So re gracioso bro, es mi actual socioo	joy	2: se infiere un grado moderado de alegria
+2018-Es-04367	es gracioso ver gente q nunca se conforma con el amor que le brindan, siempre quieren más y más y más y PARA UN POCO LOCA YA TENÉS A ALGUIEN	joy	0: no se infieren niveles de alegria
+2018-Es-04634	@mary_ssun dichoso de aquel q la uso,, y lástima x el ardido q comento eso jajaj ok no!!	joy	1: se infiere un bajo grado de alegria
+2018-Es-04275	@JessicaAlvelais Ya vas a andar como el Juan en el salón 	joy	0: no se infieren niveles de alegria
+2018-Es-02721	@Camila_Cabello @BrunoMars ESTOY EMOCIONADA AAAAAH	joy	3: se infiere un grado alto de alegria
+2018-Es-04564	@ailenmercier55 Ahi vas a poder ahora. 	joy	0: no se infieren niveles de alegria
+2018-Es-03843	Solo le dije feliz dia a una persona jajja nose en la unica que pense😏	joy	3: se infiere un grado alto de alegria
+2018-Es-03912	@jeremiasmacario me puso contenta leer eso jajajaja yo a ustedes también, banco a ese grupito	joy	3: se infiere un grado alto de alegria
+2018-Es-05341	Estoy re boba hoy 	joy	0: no se infieren niveles de alegria
+2018-Es-02237	@lutteofthoran LA MEJOR DE TODAS!!❤❤❤Feliz dia Andrea!!!Gracias por todooo	joy	3: se infiere un grado alto de alegria
+2018-Es-02175	Si estar contigo es un delito, hago cien años en prision 😃	joy	2: se infiere un grado moderado de alegria
+2018-Es-01648	Kajajajaj no lo superó, no puedo ser tan pelotuda 	joy	0: no se infieren niveles de alegria
+2018-Es-04622	#felizdiadelamigo al amor de mi vida, que es, a su vez, mi más valioso amigo. ¡Feliz día, mi corazón!!	joy	3: se infiere un grado alto de alegria
+2018-Es-01195	Después de tres meses sin agua esta llego #Feliz  gracias intergaláctico hasta que ustedes llegaron. Las tuberías no existían #NMJ  😤😤😤	joy	2: se infiere un grado moderado de alegria
+2018-Es-06228	Cuanto amor hay en tus brazos.. 	joy	3: se infiere un grado alto de alegria
+2018-Es-01694	¿pupusas con albahaca y piña? donde es que te vas a meter @DiegoLopezTV 	joy	0: no se infieren niveles de alegria
+2018-Es-06469	Aún existe gente que "amenaza" con dar unfollow 😂	joy	0: no se infieren niveles de alegria
+2018-Es-04392	@sthephannym Considerate afortunada. El mío hasta me ignora. ;)	joy	0: no se infieren niveles de alegria
+2018-Es-04006	" La #Felicidad se guarda en naftalina, se esconde de los malos debajo de la cama " 🎈  - @montanertwiter	joy	2: se infiere un grado moderado de alegria
+2018-Es-00122	Estoy a dos de entregarte mi corazón, yo creo que a menos como 5 	joy	1: se infiere un bajo grado de alegria
+2018-Es-03848	@Santyzeniquel jajajajajajajajajajajja me muero  	joy	2: se infiere un grado moderado de alegria
+2018-Es-06850	Yo creo que me voy a hacer un tatuaje, o menos como cinco. 	joy	0: no se infieren niveles de alegria
+2018-Es-01701	Feliz día a todos los amigos!!!	joy	2: se infiere un grado moderado de alegria
+2018-Es-06052	+ emocionante.  ¿No era algo hermoso, que la música pudiera conectar a todas las personas? ~  Sí señor, si lo era.  A este paso acabaron +	joy	2: se infiere un grado moderado de alegria
+2018-Es-01321	@IvanovickAG Se llevaron mi juventud estos disque hombres. 😟😟 Ya viene lo bueno 	joy	0: no se infieren niveles de alegria
+2018-Es-02168	@davidpalma77 exactamente, con eso queda claro lo mierda que está todo ahora 	joy	0: no se infieren niveles de alegria
+2018-Es-04187	@ts8rr8t Mucho gusto.	joy	1: se infiere un bajo grado de alegria
+2018-Es-05428	Soy libre de hacer circular el amor y la alegría por todas partes en mi mundo ,amo la vida.	joy	3: se infiere un grado alto de alegria
+2018-Es-04091	Mujeres que tienen nombre de perras y le hacen honor a el 😅	joy	0: no se infieren niveles de alegria
+2018-Es-01106	@AfgaChronos Muchas gracias! 😊	joy	1: se infiere un bajo grado de alegria
+2018-Es-03397	@itapia918 Es lo más probable  	joy	0: no se infieren niveles de alegria
+2018-Es-02910	ibas a patin, nunca te conoci bien pero me caes genial	joy	2: se infiere un grado moderado de alegria
+2018-Es-04713	Yo se que le gusto, ajá, pero mejor así. No quiero nada serio con alguien..	joy	0: no se infieren niveles de alegria
+2018-Es-05964	@prensatur @DebeSaberQue @iCorreccion Explicame que entendieron los 11 que RT...? 	joy	0: no se infieren niveles de alegria
+2018-Es-06645	Pago los precios de tenerte, darte amor y ser feliz	joy	2: se infiere un grado moderado de alegria
+2018-Es-06438	Novio: si un día una amiga ocupa donde dormir, puede en nuestra casa? Yo: es una pregunta capciosa? porque tu no tienes amigas 🙂🔪 o sí? 😀	joy	0: no se infieren niveles de alegria
+2018-Es-01376	Yo no les digo Feliz día a mis amigos porque son mis hermanos! Bro bro bro	joy	2: se infiere un grado moderado de alegria
+2018-Es-03829	Lo llame a mi novio que dormía, solamente para cagarme de risa dos hs	joy	2: se infiere un grado moderado de alegria
+2018-Es-01810	@biaa_gz @joaovvelosoo KKKKK emocionado cara 🤦🏼‍♀️	joy	2: se infiere un grado moderado de alegria
+2018-Es-01151	felicidad mode on 💖	joy	3: se infiere un grado alto de alegria
+2018-Es-00770	@brozoxmizwebs Se me hace que es el 3GS 	joy	0: no se infieren niveles de alegria
+2018-Es-01413	Q agradable sujeto Icardi jajajaja	joy	2: se infiere un grado moderado de alegria
+2018-Es-02128	@debittoinjapan Me pone nervioso que tenga el pecho tan grande 😂	joy	0: no se infieren niveles de alegria
+2018-Es-00608	Que satisfacción que alguien se preocupe por vos,nose me encanta	joy	3: se infiere un grado alto de alegria
+2018-Es-01228	@JeffMynor Cabal! Ahí van bolos, no crudos. 	joy	0: no se infieren niveles de alegria
+2018-Es-01608	@Betiitozaiidbas El insomnio es divertido a veces	joy	0: no se infieren niveles de alegria
+2018-Es-00192	@chochos Me importa un reverendo coño ver programas de interés social exclusivo de personas con menos de dos dedos de frente 😀	joy	0: no se infieren niveles de alegria
+2018-Es-01197	@DeluxeSabado el salto de cama de la presentadora fue un intento de tener audiencia? 	joy	0: no se infieren niveles de alegria
+2018-Es-04284	@LuisPB4 Yo salí en la camioneta, desayuné McDonald's, almorcé China Wok y también se m olvidó ponerlo en las redes #sarcasmo 	joy	0: no se infieren niveles de alegria
+2018-Es-03080	@Laxusbr Fala tu 	joy	0: no se infieren niveles de alegria
+2018-Es-01218	@andreagmrz JAJAJAJAJA clavada 	joy	1: se infiere un bajo grado de alegria
+2018-Es-03688	@JBCPERU @pruperu Son tipos de doble rasero , se creen abanderados de la justicia, permitan que me sonría 😀	joy	1: se infiere un bajo grado de alegria
+2018-Es-06016	@Alvarez_guada15 Si no decime a mi que bese el piso 	joy	0: no se infieren niveles de alegria
+2018-Es-03250	@fdualipa pero es con cariño, si no te quisiera no hubiera caído en tu chantaje del piojito 	joy	0: no se infieren niveles de alegria
+2018-Es-00412	@Camila_Cabello @BrunoMars JAJDLZOXKSÑXJA estoy muy emocionada por ti, te lo mereces chica, te quiero	joy	3: se infiere un grado alto de alegria
+2018-Es-01420	Soñe contigo, más que una sonrisa me sacaste.	joy	3: se infiere un grado alto de alegria
+2018-Es-00237	@_marieeta Seee, mucha, viajar por este estadote no es rentable pero sí divertido.	joy	2: se infiere un grado moderado de alegria
+2018-Es-00007	@pao_renderos Vivimos en un tiempo de exhibicionismo tremendo, Pao. Me intriga cuál fue tu respuesta a eso. 	joy	0: no se infieren niveles de alegria
+2018-Es-01985	@lfaci Ahora van a fumar porros todos los días...Coalición Jamaica 🇯🇲 ja ja 😆	joy	1: se infiere un bajo grado de alegria
+2018-Es-03951	Mi sobrina vio la foto que esta en la pared, la que estoy con vos y me dijo "Mira tía cuando ahí estabas contenta" @AbrahamMateo	joy	0: no se infieren niveles de alegria
+2018-Es-05511	"La riqueza más grande es hacer un mundo que le pertenezca a la gente y lo sientan suyo, porque eso es lo que da felicidad."	joy	2: se infiere un grado moderado de alegria
+2018-Es-03122	Siempre que quiero escribir una nota utilizo twitter para que se quede como borrador 	joy	0: no se infieren niveles de alegria
+2018-Es-06629	@RobDomynguez Yo soy hija de Yecenia. 	joy	1: se infiere un bajo grado de alegria
+2018-Es-04134	Todo llega en su momento, vive el #presente ríe, siente, baila, enamorate de cada minuto vivido, vive la #Felicidad	joy	3: se infiere un grado alto de alegria
+2018-Es-01856	@alecadi92 Pues no le veo sentido a sentirse orgulloso porque los niños deseen estar ahí. Además Morata también fue chico y lo deseó.	joy	0: no se infieren niveles de alegria
+2018-Es-06272	@llemakmc @castellf1 El sarcasmo esta bajito 	joy	0: no se infieren niveles de alegria
+2018-Es-04008	De lo que se entera uno 😂	joy	1: se infiere un bajo grado de alegria
+2018-Es-02246	Mis amigas ya tomaron sus fotos con humo de colores menos io y las necesito en mi vida. 	joy	0: no se infieren niveles de alegria
+2018-Es-00983	Si espera rencor o alegría de verme sufrir....	joy	0: no se infieren niveles de alegria
+2018-Es-02710	Guanlin con quince años es el segundo más alto del grupo. El basquet le va perfecto así seguramente juega muy bien.	joy	2: se infiere un grado moderado de alegria
+2018-Es-00455	fav y te mando privado 😊	joy	1: se infiere un bajo grado de alegria
+2018-Es-02264	Daría lo que fuera por verte sonreír	joy	0: no se infieren niveles de alegria
+2018-Es-00360	@SeleneS06 Es festivo! Pero a mi me toca ir a trabajar! 😧	joy	0: no se infieren niveles de alegria
+2018-Es-00293	Me enviaron mensajes amigos no estoy tan olvidada 😅	joy	0: no se infieren niveles de alegria
+2018-Es-06537	Tengo mi propia versión del optimismo. Si no puedo cruzar una puerta, cruzaré otra o haré otra puerta.  Rabindranath Tagore	joy	1: se infiere un bajo grado de alegria
+2018-Es-00262	Estoy muy emocionada, ni hablar de lo que voy a llorar cuando me digan que ya nació Vamos princesa❤👶	joy	3: se infiere un grado alto de alegria
+2018-Es-03497	@KevenYHensy Quien no estaría orgullosa 😂 mi Amirsotee 😂😍	joy	2: se infiere un grado moderado de alegria
+2018-Es-06455	Con eso no se juega.	joy	0: no se infieren niveles de alegria
+2018-Es-05066	@kathmariie Se vio muy feo?  andas igual? Vos no tenes corazón cierto? 	joy	0: no se infieren niveles de alegria
+2018-Es-03483	Al principio no me llamó la atención, luego lo vi sonreír y fue como aplicar mil filtros de Instagram.	joy	3: se infiere un grado alto de alegria
+2018-Es-05720	Yo que ya no quiero tomar y mi mamá llegó con mis botellas de tequila que estaban en la casa de mi abuela😍 #Felicidad	joy	3: se infiere un grado alto de alegria
+2018-Es-04763	Poder sorprender y que te sorprendan. Qué fortuna.	joy	1: se infiere un bajo grado de alegria
+2018-Es-06838	@chochos JAJAJAJAJAKA no te pases de corneta 	joy	1: se infiere un bajo grado de alegria
+2018-Es-06129	La #frasedeldia "el amor es la mayor necesidad del ser humano". Perlas de Sabidurìa. #amor #Motivacion #Felicidad	joy	2: se infiere un grado moderado de alegria
+2018-Es-01308	@kopexinfinity FELICIDADES FER 💕 QUE ESTA PASANDO AL AGUS PARA DARLE LIKE A FOTOS DE CARO JAJAAAA 	joy	3: se infiere un grado alto de alegria
+2018-Es-03986	@Marcusftty Auch!! -relame sus labios al mismo tiempo que deja salir una sonrisa-. Mmh, no mucho. Traje otra mascota. -sonríe-.	joy	1: se infiere un bajo grado de alegria
+2018-Es-01929	Me la topé años más tarde luce igual de radiante.	joy	1: se infiere un bajo grado de alegria
+2018-Es-00401	Es gracioso como la gente que me trató como basura, hoy me salude para el día del amigo.	joy	0: no se infieren niveles de alegria
+2018-Es-03360	q sarna el año pasado le estaba diciendo feliz dia a alguien q hoy ni saludo y me recontramil cago. como cambia todo	joy	0: no se infieren niveles de alegria
+2018-Es-01787	Ooooooooo que agradable sujeto❣❣❣❣	joy	2: se infiere un grado moderado de alegria
+2018-Es-02241	Cagaron a tiro a alguien y si todo esos tiros fue para alguna persona la dejaron echo un colador 😂	joy	1: se infiere un bajo grado de alegria
+2018-Es-00882	En el verano ya voy a ir con el auto o con la camioneta, no camino nunca mas 	joy	0: no se infieren niveles de alegria
+2018-Es-00744	@VermynCL el mejor smeralda en scoria , el mas wn pero se te aprecia bro  no tengo el agrado de conocerte mucho pero por lo poco me caes bn	joy	0: no se infieren niveles de alegria
+2018-Es-01230	@villalobossebas @VlIIalobosSebas No jodas  mañana es día de escuela  hay que levantarse temprano 	joy	0: no se infieren niveles de alegria
+2018-Es-01579	Siguen los amigos que quiero tener, no me puedo quejar... Gracias por todo, ¡Feliz día! 💘	joy	2: se infiere un grado moderado de alegria
+2018-Es-01828	Estoy escuchando a mi hija y sobrino enviarse audios, y no necesitaré pasiflora con lo mucho que me están haciendo sonreír =') #LesNiñesRule	joy	3: se infiere un grado alto de alegria
+2018-Es-04355	Mi no tolerar a ese par. @SabMWest  dame cachetadas por fa. ¡Feliz dia del amigo cariño a ti y a @RoGlen_  los quiero ! 💖	joy	2: se infiere un grado moderado de alegria
+2018-Es-05887	me siento un fracaso pero es divertido hacer encuestas	joy	0: no se infieren niveles de alegria
+2018-Es-02738	Yo: flotaras pa. El: no puedo flotar por qué estoy gordito.  	joy	0: no se infieren niveles de alegria
+2018-Es-05005	@MauroFagoaga se te atoró el escabio hd1000 	joy	1: se infiere un bajo grado de alegria
+2018-Es-01956	Cuando se tienen muchas cosas que meter en él, el día tiene cien bolsillos #motivación #superación #felicidad	joy	2: se infiere un grado moderado de alegria
+2018-Es-03410	@StephBarbie Haste la muertita 	joy	0: no se infieren niveles de alegria
+2018-Es-02390	No les conté pero hoy me fue genial con la nutricionista!! 2% menos de grasa corporal y subí 1.8kg en músculo 🙌🏻💪🏻con edad metabólica de 19	joy	2: se infiere un grado moderado de alegria
+2018-Es-01764	Es bacanísimo tener el día libre el día del cumpleaños 😋😜😝😛😬😄😁😆 #felicidad	joy	3: se infiere un grado alto de alegria
+2018-Es-02978	El "hey me gustas quieres salir con tal y no se que" es lo que mas me ha dado risa en mucho tiempo	joy	2: se infiere un grado moderado de alegria
+2018-Es-05502	Que triste lo mio, Ni amigas tengo 	joy	0: no se infieren niveles de alegria
+2018-Es-01473	#DeColombiaMeGusta todo. Orgulloso de ser Colombia hijumadre !!!!	joy	2: se infiere un grado moderado de alegria
+2018-Es-00708	@Bxstixn_Vxssely ¡Feliz cumple!	joy	1: se infiere un bajo grado de alegria
+2018-Es-00659	Resaca le mandó gallardo Pero hacete culiar amargo 	joy	0: no se infieren niveles de alegria
+2018-Es-03601	@_DavidCastillo9 Ya vamos a cortarnos el pelo man. 	joy	0: no se infieren niveles de alegria
+2018-Es-00957	Te bajan al ex. Y estás llorando? POR FAVOR.  Nadie pelea por un pendejo! 	joy	0: no se infieren niveles de alegria
+2018-Es-03123	@OZphotograph JuajuajuajuajauJauJuJajajuajaua que chistoso 	joy	2: se infiere un grado moderado de alegria
+2018-Es-02097	@smxuller D: Me encanta tu cuenta. Amo como llevas a tu pj y tus fotos destacadas. Pareces una persona agradable.	joy	2: se infiere un grado moderado de alegria
+2018-Es-04068	@katyburghetti Jajajaja lose wachita 	joy	1: se infiere un bajo grado de alegria
+2018-Es-05515	Necesito compartir con alguien la alegría que me da ver las puertas de guido kaczka	joy	3: se infiere un grado alto de alegria
+2018-Es-03654	@AmorVIPcom Un gusto..	joy	1: se infiere un bajo grado de alegria
+2018-Es-02328	@OscarG93_ Jajaj Gracias Oscarin!! 😊	joy	2: se infiere un grado moderado de alegria
+2018-Es-05350	Vine a ver si se habían muerto en el apocalipsis y aún sigo leyendo sus tuits bien de la chingada 	joy	0: no se infieren niveles de alegria
+2018-Es-04519	En qué momento me hice así ajjjajjajajaa 	joy	1: se infiere un bajo grado de alegria
+2018-Es-00812	Tanto vas a junar a tu marido 	joy	0: no se infieren niveles de alegria
+2018-Es-01561	Hoy me ha pasado una de esas cosas tan importantes que no pueden contarse en Twitter pero que darán mucho que hablar #feliz	joy	3: se infiere un grado alto de alegria
+2018-Es-02293	@Haroldcollazos Logré ver esto y dije; ¿mi amigo?   Me da alegría saber que lo puede lograr, es más esto merece comida, ¿nos fuimos? 😂	joy	3: se infiere un grado alto de alegria
+2018-Es-02211	Que domingo herrrrmoso! 	joy	3: se infiere un grado alto de alegria
+2018-Es-02091	Acabo de abrir mi snap y tengo fotos guardadas del finde y me quiero MORIRRR JAJAJA POR KEEEE 	joy	1: se infiere un bajo grado de alegria
+2018-Es-05710	este Tito me hace llorar de la risa	joy	2: se infiere un grado moderado de alegria
+2018-Es-06904	Lo bueno es que las mentiras tienen patas cortas y las caretas se caen solas 😉 lo bueno de tener la consciencia limpia... 😊	joy	0: no se infieren niveles de alegria
+2018-Es-06492	Mi hermana delira demasiado cuando tiene tanta hambre 	joy	0: no se infieren niveles de alegria
+2018-Es-06843	@SignoLibraRD El mes de mi cumpleaños #Octubre #Libra #Enamorado y sobre todo #Feliz.  #TeAmo ❤😍	joy	3: se infiere un grado alto de alegria
+2018-Es-04646	@anapxulaa Jajajajjaaaaa creí que era el pirata de Culiacán JAJAJJAJA 	joy	2: se infiere un grado moderado de alegria
+2018-Es-04447	La satisfacción por el deber cumplido❤️	joy	3: se infiere un grado alto de alegria
+2018-Es-05048	Sonrie aunque tu sonrisa sea triste porque masztriste que una sonrisa triste es la tristeza no poder so,reir.	joy	1: se infiere un bajo grado de alegria
+2018-Es-02184	@paolastonexxx Que afortunado!! cojerse tan buena vieja	joy	2: se infiere un grado moderado de alegria
+2018-Es-03059	@SuperIvo7 Estaría entretenida y cansada, más cansada ..confirmado jajaajja	joy	1: se infiere un bajo grado de alegria
+2018-Es-02905	@AstionStimatiX @TheGrylleX @Marpha03 si al menos tuvieras buen gusto en 2d se te perdonaria	joy	0: no se infieren niveles de alegria
+2018-Es-05671	harry está emocionado por la gira mundial, y yo estoy deprimida de vuelta porque no tengo entrada.	joy	0: no se infieren niveles de alegria
+2018-Es-03903	Una persona puede dar mucho o poco, todo a su manera, pero no esta nada padre que lo vean a reclamo cuando solo quieres su bienestar.	joy	0: no se infieren niveles de alegria
+2018-Es-00899	Lo sé, soy hermosa!: me siento genial	joy	3: se infiere un grado alto de alegria
+2018-Es-01248	Empiezo los cursos y estoy súper contenta	joy	3: se infiere un grado alto de alegria
+2018-Es-05545	Domingo, 23:36   Quiero escuchar música y cantar a todo pulmón pero no quiero despertar a los demás 	joy	1: se infiere un bajo grado de alegria
+2018-Es-04129	El sol , los perros y una birra ! #felicidad	joy	3: se infiere un grado alto de alegria
+2018-Es-00616	@pinkkmaggit Estoy re encantada con la forma de tu boca, es demasiado lindaaaa 💛💛💛💛	joy	3: se infiere un grado alto de alegria
+2018-Es-00578	CTM que me hacen reir 😂	joy	2: se infiere un grado moderado de alegria
+2018-Es-00167	Encima hace rato que me quiero hacer esto y estoy re contenta♡	joy	2: se infiere un grado moderado de alegria
+2018-Es-05208	@KerubeD #Feliz #LunesDeAmorAzul en compañia de #MiDjFavorita besitos y abrazos reina @estereoazulfm porfis un tema de marco antonio solis 💙	joy	3: se infiere un grado alto de alegria
+2018-Es-06067	Mis sonrizas cual muecas 	joy	1: se infiere un bajo grado de alegria
+2018-Es-05188	Si como amiga me seguía los caprichos no me imagino que pasará ahora, próximamente termino tinturado 	joy	0: no se infieren niveles de alegria
+2018-Es-04515	La mamá de gaby me manda mensajes y me dice que deje de tomar 	joy	0: no se infieren niveles de alegria
+2018-Es-06768	@AnaPatrcia_APRB Alguien se la comió?  O se la llevaron las hormigas 	joy	0: no se infieren niveles de alegria
+2018-Es-01748	Estoy tan contenta, goddddddd, voy pa Grecia	joy	3: se infiere un grado alto de alegria
+2018-Es-03240	Le mande un mensaje lindo a sofia y me manda "ANTES DE LEER ESTO QUIERO DECIRTE QUE ENTRE PARA PASARTE UN VIDEO CHISTOSO AHORA LEO TE AMO"	joy	2: se infiere un grado moderado de alegria
+2018-Es-04308	#MePoneBien Contenta que nos compres TODO lo que quisimos ... adore el vestido y las zapatillas👗👠😍 Thanks... 😘	joy	3: se infiere un grado alto de alegria
+2018-Es-05422	Ya se a quien sacó la mala ortografía la pobre 	joy	0: no se infieren niveles de alegria
+2018-Es-00256	Magali tajes me tiene podrida, quiere meter psicología y hacerse la graciosa a la vez y no, la vdd que no, para	joy	0: no se infieren niveles de alegria
+2018-Es-04705	@CesarTeo señora... Me pongo de pie por la platica tan dinámica, divertida, versátil, fresca, fluida... 33 mins de amenidad en mi vida!	joy	2: se infiere un grado moderado de alegria
+2018-Es-03208	@JosuGearFoo23 Oye carnal ya no me gusto la pinche vieja se volvio muy pinche sangrona	joy	0: no se infieren niveles de alegria
+2018-Es-02892	Yo tengo un gozo, tengo alegría, tengo a Jesús, tengo el amor tengo la vida. #LaAdoraciónADiosEngrandeceLaNación	joy	3: se infiere un grado alto de alegria
+2018-Es-05320	que suerte que empece el tratamiento, increible el cambio desde mayo hasta ahora 😆	joy	2: se infiere un grado moderado de alegria
+2018-Es-05384	Brillante @germanven gran monologo!!!!!	joy	1: se infiere un bajo grado de alegria
+2018-Es-03740	Esta noche entre ligueos, lecturas de Tarot y ensaladas. Vaya que estoy entretenido.	joy	1: se infiere un bajo grado de alegria
+2018-Es-05823	Me hubiera encantado conocerte de otra forma, pero me estoy enamorando de tu interior, que eso es lo que realmente me importa	joy	1: se infiere un bajo grado de alegria
+2018-Es-06797	Que nunca se pierda mi bonita costumbre de enamorarme de alguien e inmediatamente verme con familia y futuro chingon. 😂 😂 😂	joy	3: se infiere un grado alto de alegria
+2018-Es-03724	@Camila_Cabello @BrunoMars LPM ESTOY TAN EMOCIONADA COMO TÚ	joy	3: se infiere un grado alto de alegria
+2018-Es-02736	Ha sido divertido me equivocaria otra veeeeeezzzz	joy	3: se infiere un grado alto de alegria
+2018-Es-02777	Hacia tanto tiempo que no sonreía tanto a mi celular mientras hablaba con  alguien 😊	joy	3: se infiere un grado alto de alegria
+2018-Es-00838	Es muy demasiado chistoso lo que lei cuando abrí Twitter jajajajaja	joy	2: se infiere un grado moderado de alegria
+2018-Es-00712	@RociioArcee Que te estaras comiendo no sé 	joy	0: no se infieren niveles de alegria
+2018-Es-00468	@Zita_Zaa Fue suave y corto. No alcanzó ni a prometer 	joy	0: no se infieren niveles de alegria
+2018-Es-02614	1 semana que no fui al colegio 	joy	0: no se infieren niveles de alegria
+2018-Es-01333	Que lindo que es viajar en moto vieja  	joy	1: se infiere un bajo grado de alegria
+2018-Es-04843	@bbcmundo ¡En Bolivia seguiremos los pasos de Alemania! #Feliz	joy	3: se infiere un grado alto de alegria
+2018-Es-03677	Ahora si buenas noches alegría 🤗	joy	2: se infiere un grado moderado de alegria
+2018-Es-01966	♥Feliz día del amigo♥ Gracias por todo, aunque miles de cosas hayan pasado o no nos hablemos más como antes, siguen siendo muy especial+	joy	3: se infiere un grado alto de alegria
+2018-Es-05637	Hasta mañana 	joy	0: no se infieren niveles de alegria
+2018-Es-03520	Ando buscando mis ganas de estudiar 	joy	0: no se infieren niveles de alegria
+2018-Es-06127	@Vane_Twitts No se te vaya a olvidar, yo que tú lo fijaba 	joy	0: no se infieren niveles de alegria
+2018-Es-05603	Tengo mucha suerte ❤	joy	3: se infiere un grado alto de alegria
+2018-Es-02816	La felicidad de tu vida depende de la calidad de tus pensamientos.	joy	1: se infiere un bajo grado de alegria
+2018-Es-04022	Soy tan orgullosa que no le voy a decir Felíz día.	joy	1: se infiere un bajo grado de alegria
+2018-Es-05136	@josephsvocals en mi escuela lo hicieron y las profesoras hicieron un drama y los encerraron todo el recreo para hablarles de dios	joy	0: no se infieren niveles de alegria

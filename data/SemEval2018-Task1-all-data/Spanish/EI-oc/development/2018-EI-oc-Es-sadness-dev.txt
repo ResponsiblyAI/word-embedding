@@ -1,0 +1,197 @@
+ID	Tweet	Affect Dimension	Intensity Class
+2018-Es-03627	Cualquiera se cansaría de hablar conmigo, no hay ni de qué hablar soy la persona mas aburrida y más sencilla del mundo🤷🏼‍♂️	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-01065	Todavía duele... 	sadness	3: se infiere un grado alto de tristeza
+2018-Es-03153	@3decorazones3_ Lamentablemente asi es mucha gente	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-01454	Que estén mis sobrinos en casa me genera mucho mal humor cuando estoy desde las 6 despierta y no dormí siesta. 😡	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-06073	Llorarás más de diez veces por amorrr	sadness	3: se infiere un grado alto de tristeza
+2018-Es-02637	1o de julio: fue cuando empezaste a cambiar conmigo. Han pasado 86 días y sigo extrañándote mucho. Tus palabras, las llamadas inesperadas. 	sadness	3: se infiere un grado alto de tristeza
+2018-Es-06290	@BlueValerie_ lamentablemente son cabezas de termos,no entienden	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02150	@Camila_Cabello lo que me mata en vida es saber que viviendo en Mex puedo morir a causa de un terremoto y no conocerte 😢	sadness	3: se infiere un grado alto de tristeza
+2018-Es-01485	Me tiene todo tan cansada	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-06344	Tu clamor pone al diablo a temblar, tu Alabanza lo confunde. #LaAdoraciónADiosEngrandeceLaNación	sadness	0: no se infieren niveles de tristeza
+2018-Es-03765	Se enojo 😂😂😂	sadness	0: no se infieren niveles de tristeza
+2018-Es-01563	Tú qué sabes de dolor y de tristeza sí no te la pasaste llorando todo un capítulo de Glee. 	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-03341	@ZeroSagitary a pesar de lo simple que suena nunca la e probado o no recuerdo comer algo con esa apariencia	sadness	0: no se infieren niveles de tristeza
+2018-Es-06435	10 me enteré un par tuyas, sos peligrosa	sadness	0: no se infieren niveles de tristeza
+2018-Es-05029	@tinchomoretti @elOrdenMundial Imaginate que terror ser ciudadano británico y que te quiera absorber Argentina. Salí de ahí maravillaaaaa	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02050	Acabo de ver Okja y si que es muy triste. ☹️	sadness	3: se infiere un grado alto de tristeza
+2018-Es-04463	Tantos cambios y la vida no te pregunta si los quieres, casi siempre los impone y las dos opciones que quedan es aceptar o seguir llorando.	sadness	3: se infiere un grado alto de tristeza
+2018-Es-04766	Deberían haberse rajado con la comida siquiera, para no llegar desesperado a comer.	sadness	0: no se infieren niveles de tristeza
+2018-Es-03825	Tan resentida vas a estar locaaa?	sadness	0: no se infieren niveles de tristeza
+2018-Es-06146	Viene mi hna con las amigas y se quedan a dormir y yo aca del helado de la musica depre y llorando van a pensar que estoy loca bueno	sadness	3: se infiere un grado alto de tristeza
+2018-Es-04007	@lautaro_capitan Jajajajajaja no me podía resistir, en serio!!!!!	sadness	0: no se infieren niveles de tristeza
+2018-Es-06792	@sloowlifee Jajajajajajaja ¿en serio el alacrán? :(	sadness	0: no se infieren niveles de tristeza
+2018-Es-04048	Vale .... tengo depresión y mis padres quieren llevarme un rato al departamento de mis abuelos a las 9:48Pm y encima a obligación	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-06837	Se me está partiendo el corazón en 10. 	sadness	3: se infiere un grado alto de tristeza
+2018-Es-06053	Me da miedo la oscuridad	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-06226	@melnicksergio @Guillermoic De acuerdo contigo no vale la pena comentar a Yuraszeck	sadness	0: no se infieren niveles de tristeza
+2018-Es-05001	Que feo,que anden matando gente en la calle,se ah puesto peligroso en Danlí,ya ni se puede salir a pie a comprar a la Pulpería. 😓😔😖	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-05684	Que aburrida la gente que quiere quedar bien con todo el mundo siempre	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-03856	Recién levantado y ya enfadado! Muy bien todo . Buenos días	sadness	0: no se infieren niveles de tristeza
+2018-Es-02679	#Nostalgia En unas horas es el lanzamiento oficial de la secuela de Splatoon 😆 siempre recordaré al primero con mucho gusto. 😢	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-01711	es algo q te hace infeliz naa posta comparto mg like rebloggear	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02812	@DianaVaazquez que oso y llegarás mañana a hacerla 😥	sadness	0: no se infieren niveles de tristeza
+2018-Es-05175	JAJAJAJAJAJAJJAJA la Andrea está viendo "Laura" que tanto está aburrida	sadness	0: no se infieren niveles de tristeza
+2018-Es-05820	Hasta que punto del límite puede llegar una ex resentida? 😂	sadness	0: no se infieren niveles de tristeza
+2018-Es-02711	Sivpaso por tu lado y no telsaludo no lo tomes como enojo que los amores que se quieren se saludan con gos oj,s.	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-04899	@FerivRivera Pero una que busca algo bien, ellos solo quieren diversión 	sadness	0: no se infieren niveles de tristeza
+2018-Es-03490	Yo tengo dos tipos de celos, los normales donde hasta digo que estoy celoso y en los que me enojo y me voy.	sadness	0: no se infieren niveles de tristeza
+2018-Es-04983	Hoy me partí la cabeza y me lastime en la cicatriz, casi muero llorando😂😂	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-06785	me desperte re temprano lpm y mi novia encima debe estar en el quinto sueño 	sadness	0: no se infieren niveles de tristeza
+2018-Es-06698	perdí una remera mi papa perdió las dos ojotas y mi hermana acaba de perder un buzo bien	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02134	Tengo que admitir que me estoy cagando de miedo. 	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-04770	Mis sueños me dan miedo 😥	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-06241	Se piensan porque son chorros o amigos de chorros le vas a tener miedo. De tal palo tal astilla. Todos negros cabeza !!!	sadness	0: no se infieren niveles de tristeza
+2018-Es-03679	@Juanjaramilloe @SJaramishanos Tienes razón la depresión es muy delicado ya e pasado por eso y es muy fatal 😭😭😭😭	sadness	3: se infiere un grado alto de tristeza
+2018-Es-02195	@lopezm_maria @AntonioJSMazuec @Rosariooo18 @gema_escobedo2 En serio te como eres increíble quiero verte ya	sadness	0: no se infieren niveles de tristeza
+2018-Es-00684	Ya. Ese fue mi berrinche del mes	sadness	0: no se infieren niveles de tristeza
+2018-Es-06284	@ELTIEMPO Tras de matón ladron? Bueno algo así dice el dicho	sadness	0: no se infieren niveles de tristeza
+2018-Es-00001	cerra la jeta infeliz	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-00330	En estos partidos es cuando mi corazón se divide terrible, me siento tan santandereana como rola.	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-00698	Como estoy un poco aburrida... Cada fav/mg es un dato de mi.	sadness	0: no se infieren niveles de tristeza
+2018-Es-02767	Soy bien pinche infeliz.	sadness	3: se infiere un grado alto de tristeza
+2018-Es-04736	El necio al punto da a conocer su ira;Mas el que no hace caso de la injuria es prudente.#mision	sadness	0: no se infieren niveles de tristeza
+2018-Es-02135	como si estuvieran comparando una ruptura de pareja, con algo complejo como la depresión	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02448	No quería creer todavía me cuesta entender porque! La depresión es algo muy difícil de superar si no se trata a tiempo	sadness	3: se infiere un grado alto de tristeza
+2018-Es-06707	xD  Al parecer no puedo tomar captura ... Que pena, que suerte la mia xD ... !!!!	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-05132	Tuve gripe por dos días, mi mamá dice que sólo era llanto contenido: le creo. 😢	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-04450	Tan enojado iba a estar Dio?	sadness	0: no se infieren niveles de tristeza
+2018-Es-05325	Apagaste todos mis faros y ahora a oscuras no le veo ningún sentido a seguir. Mejor me quedo aquí en la oscuridad a esperarte.	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-00773	La peor forma de extrañar a alguien es estar a su lado y saber que nunca lo podrás tener. #tristeza	sadness	3: se infiere un grado alto de tristeza
+2018-Es-00350	Estoy cansada de gente falsa en mi vida!!!	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-04734	Nunca hables mal de tu ex, si tú fuiste infeliz deja que otros también lo sean..	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-05228	Me falt 2 cap de Narcos. No te termines nuncaa 😢 Agente peña te voy a amar de por vida ❤	sadness	0: no se infieren niveles de tristeza
+2018-Es-05035	Tengo mucha depresión en mi corazón😪😪	sadness	3: se infiere un grado alto de tristeza
+2018-Es-01601	@Ivandagu @cmbustamante Es una acusación bastante grave, de la cual no tienes ninguna prueba	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-01046	No me enojo si alguien me da las buenas noches,ahr	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-05945	Me da tanta pena que los niños del sename sean tan vulnerables, tan desprotegidos y sin alguien que se haga cargo de verdad de ellos	sadness	3: se infiere un grado alto de tristeza
+2018-Es-02510	@ElAgussMoree Para no se ni que escribi , esto de ponerme ansiosa no es lo mio	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-04286	@JudgingLu ¡Buenos días! Yo tengo un social 😥	sadness	0: no se infieren niveles de tristeza
+2018-Es-03602	Trate por mi misma pero no pude me venció el cansancio que tengan buenas noches yo a ver si puedo....mañana es otro dia...	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-03546	@__sugu Si esos temblores andan con todo 	sadness	0: no se infieren niveles de tristeza
+2018-Es-04744	Con quién pelea Juana?	sadness	0: no se infieren niveles de tristeza
+2018-Es-02747	#5HEsTrending Necesito verlas por favor 😭	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-04449	No te olvides: el #ejercicio y la #actividadfísica mejoran el #ánimo, estimula la agilidad mental y alivia la #depresión. #CuidaTuVida	sadness	0: no se infieren niveles de tristeza
+2018-Es-01620	¡LAMENTABLE! Andrés Uzcátegui murió al explotarle mortero en el pechohttp://www.lechuguinos.com/andres-uzcategui-murio-mortero/	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-06105	Cuando me enojo pq me duelen muchos los ovarios le grito a mi vieja q pq mierda no me tuvo con pito jajaja	sadness	0: no se infieren niveles de tristeza
+2018-Es-04812	Yo no hablo de la depresión tengo suficiente con ver mi estado de cuentas y los planteamientos de Arias, ya vengo, voy a grabar los 📼	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-01720	Ya siento tus pasos acercarse, Señor. Tiempos de llanto y también de regocijo. Cúbreme con la justicia de Cristo. ¡VEN, SEÑOR JESÚS!	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-01451	Pa qué me enojo con gente que se le hace trágica la numeración de butacas...	sadness	0: no se infieren niveles de tristeza
+2018-Es-06061	@javiercedeo @florciampoli Imagínate eso! Yo solo lo conozco por esconderse en cielo rasos, ahora por incoherente...de 2-0	sadness	0: no se infieren niveles de tristeza
+2018-Es-00695	Como pueden ser tan idiotas? Como se pueden burlar así de algo tan grave? Xq mierda se muere gente buena y no se mueren estos hdp sin alma.	sadness	3: se infiere un grado alto de tristeza
+2018-Es-03682	No quería irme 🙁	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-00781	@salomecuerva Sorprenderme jajaja na vos sabes a la que no superó 	sadness	0: no se infieren niveles de tristeza
+2018-Es-04486	Desculpa por tanta tristeza	sadness	3: se infiere un grado alto de tristeza
+2018-Es-05878	Hace una semana que no como asado. #Depresion	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-05571	Ojala y no sea nada grave	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-05160	hice mi hermana fan de pll 	sadness	0: no se infieren niveles de tristeza
+2018-Es-01882	13 horas trabajando verg que cansancio	sadness	0: no se infieren niveles de tristeza
+2018-Es-06220	@enriquejesusgc Si abandonó Twitter ya saben por qué es 	sadness	0: no se infieren niveles de tristeza
+2018-Es-03707	@violetlightstar @sarcasmshouts @arrowsftcry @delusivcbes @gcldndark Me perdí la pelea del año.	sadness	0: no se infieren niveles de tristeza
+2018-Es-01623	x dios q aburrida estoy q alguien me charle un rato	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-05739	@poucito12 El que nunca me saluda 😟	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-06820	@Juliococo Es lamentable pero así es que se acabará el chavismo, esto si es pueblo	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-06121	[ Estoy súper deprimida porque el sábado iba a pasarme por la comic con y ya no porque no tengo quién me acompañe. Más fracasos.	sadness	3: se infiere un grado alto de tristeza
+2018-Es-06237	Era la noche perfecta, algo tenía que pasar 😥	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02860	@kjol_huellitas Ahora es aburrida pero con música 🙌	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-05299	Quisiera tener todas las jerseys de mis equipos y jugadores favoritos 🙁	sadness	0: no se infieren niveles de tristeza
+2018-Es-06611	ok, algo le pasa a mi twitter, sale como si estuviera siguiendo solo a una persona... #asustado	sadness	0: no se infieren niveles de tristeza
+2018-Es-05498	Entonces: ¿para quién fue la sorpresa? Se pregunta @DeniseMaerker tras revelar que la @SCT_mx estaba avisada del problema en el #PasoExpres	sadness	0: no se infieren niveles de tristeza
+2018-Es-01025	@israelk_18 He visto el vídeo y se ve que la chica lo graba porque está hasta el chirri y que está indignada, la risa no sé dónde está	sadness	0: no se infieren niveles de tristeza
+2018-Es-05466	Necesitando masajes hasta en el alma y una espalda nueva COMO SIEMPRE 	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02829	¿Insultan por dm?  ¿En serio?	sadness	0: no se infieren niveles de tristeza
+2018-Es-02045	@Gerablu sentí nostalgia volver y encontrar nuestra conversaciones 😂	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-04805	Necesito proyectos de diseño pagados en $$ 😭	sadness	0: no se infieren niveles de tristeza
+2018-Es-02205	Lo lamento tuve que irme estaba cansada de gritos de lo tóxico de mentiras y de tu ego. Si, si te extrañare, si te amo pero me amo mas a mi.	sadness	3: se infiere un grado alto de tristeza
+2018-Es-01963	Loca se enojo conmigo pq segun ella lo acababa d conocer y ya le hablaba como si fuera de hace mucho PERO PARALE LOCA	sadness	0: no se infieren niveles de tristeza
+2018-Es-04136	entre mujeres borrachas y no le estabas acosando y no he visto a nadie indignado en modo 'va provocando'.	sadness	0: no se infieren niveles de tristeza
+2018-Es-06085	Que #triste es poner la alarma y ver las horas que te quedan para dormir 😔😔😔😔	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-01650	Quiero hacer muchas intervenciones e instalaciones pero no tengo espacio/dinero 😭	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02973	@fantomastxiki Todavía sigue rabioso por haber perdido tantos millones con sus empresas de seguridad?	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-05362	@white_comonnerd ¿A costa de Rami Malek? #Indignada El es muy lindo 😌	sadness	0: no se infieren niveles de tristeza
+2018-Es-04179	Ha sido la semana más difícil sin hablarle a mi mejor amiga 😢	sadness	3: se infiere un grado alto de tristeza
+2018-Es-02180	Desesperado por encontrarte 🎶	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-05389	¿Por qué está Peña en todos los pinches canales? 	sadness	0: no se infieren niveles de tristeza
+2018-Es-04065	Y si, me estoy sintiendo como el orto, y si lo voy a compartir acá porque estoy cansada de reprimir toda la mierda y no hablar con nadie	sadness	3: se infiere un grado alto de tristeza
+2018-Es-06268	Que hermoso ver como salvaron a los gatitos de Patricio Sáenz #37 	sadness	0: no se infieren niveles de tristeza
+2018-Es-06346	¿Qué perro se perdió hoy?	sadness	0: no se infieren niveles de tristeza
+2018-Es-00896	@Melizzarp Lamentablemente estamos estancados porque precisamente no vemos el problemas desde la raiz. Buenas noches	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02668	Creo que esta fue la semana más aburrida de mi vida, me tendría que haber quedado en trenque lcdlg	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02052	Menos mal que nunca me dió vergüenza llorar en el bondi.	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-02506	@jorgehdz80 Jajajaja son vacaciones amargado💁	sadness	0: no se infieren niveles de tristeza
+2018-Es-05827	Ya quiero que sea vierneeees 	sadness	0: no se infieren niveles de tristeza
+2018-Es-01705	Que aburrida la gente que quiere quedar bien com todo el mundo siempre	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-01658	"Nada se olvida más despacio que una ofensa; y nada, más rápido que un favor" Martin Luther King BUENOS DÍAS FELIZ MIÉRCOLES	sadness	0: no se infieren niveles de tristeza
+2018-Es-03179	El intelecto de una alma oscura es peligroso y aterrador	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-04218	Que incómoda me siento a veces	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-00465	Una semana no es suficiente 😭	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-06338	Que feo se siente perder a una persona muy cercana 😥	sadness	3: se infiere un grado alto de tristeza
+2018-Es-04050	Me dijo eso y me quedé re pensativa😬	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-04075	El tiempo pasa incluso aunque parezck imposible, incluso a pesar de que cada movimiento de la manecilla uel reloj duela.	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-01679	Les trancamos toda la redoma de Petare y les prendimos la mecha durísimo hasta esta hora.. Petare se arrechó y perdió el miedo!!	sadness	0: no se infieren niveles de tristeza
+2018-Es-01611	Bueno amigo déjame tranquila me tienes cansada	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-01932	Estoy aburrida y mi linda no se conecta :c	sadness	0: no se infieren niveles de tristeza
+2018-Es-02040	frank se enojo por una boludes y quiere que le pida perdón en la cara, ya, ya estoy yendo a hacer dedo, no, mejor voy corriendo esperame	sadness	0: no se infieren niveles de tristeza
+2018-Es-02391	@JuniorAlvia Desgraciado infeliz jajaj	sadness	0: no se infieren niveles de tristeza
+2018-Es-05563	Estas son las mejores horas para hacer el tonto jurao😂😂😂😂😂😂😂😂😂 estoy llorando de la risa😂😂😂😂😂	sadness	0: no se infieren niveles de tristeza
+2018-Es-00567	Que desagradable está negra bolita	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-00271	@Sabanero_91 ganó el junior o perdió el América? Cómo fue?	sadness	0: no se infieren niveles de tristeza
+2018-Es-06385	@the_os_07 @globovision tiburón eres un enchufado mas y un laboratorio mejor ni te contesto no vale la pena	sadness	0: no se infieren niveles de tristeza
+2018-Es-04281	Que horrible sensación esa cuando algo realmente te duele o te molesta y te tenes que quedar ahí sonriendo y fingir  que todo esta bien	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-04811	No sé si fue buena idea haberle pasado mi cuenta de Spotify a mi hermana 😥	sadness	0: no se infieren niveles de tristeza
+2018-Es-03618	¿Habeis visto un dia de furia?. Hoy estoy de ese pelo, solo que no tengo motivos para estarlo. Igual es la edad, yo que se.	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-00935	Mucho a destacar en #DeathNote. Dos únicos apuntes: la última frase es magnífica, la #BSO incomprensible. #cine 	sadness	0: no se infieren niveles de tristeza
+2018-Es-02856	Estoy muy aburrido.	sadness	0: no se infieren niveles de tristeza
+2018-Es-05645	No sé por dónde volver a empezar 😥	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-00498	@Mayanvillafuert No mms me dolió leerlo 😟	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-02879	Lo que más me da tristeza es que es "aparente suicidio". Nunca sabes lo que otra persona sufre, nunca te lo imaginas.  #RIPChesterBennigton	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-02141	Ptm, donde esta mi lunar??? 😥	sadness	0: no se infieren niveles de tristeza
+2018-Es-03833	Ya se va a ir 🙁	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-06667	Mis pies estan super fríos 	sadness	0: no se infieren niveles de tristeza
+2018-Es-06029	Hoy encontré una librería atendida por un fantasma, un señor muy triste. Y es raro, porque pensé que los libros eran los tristes.	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-03544	Se delatan solitos... Tranquilos que el que riendo las hace llorando las paga... Ahi vamos 👌	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-05770	@ocwaca queríamos 🙁	sadness	0: no se infieren niveles de tristeza
+2018-Es-05056	@nohemidleon JAJAJAJAJ soy la persona menos amargada del 🌎	sadness	0: no se infieren niveles de tristeza
+2018-Es-04505	Sin chavos no somos nadie, lamentablemente.	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-03507	Y-#PensarQue 🙏Ya No Estas Papito😪'#TeAmoProhibido' 👫Olvidarte Viejito'🙇‍♀️😿: me siento triste	sadness	3: se infiere un grado alto de tristeza
+2018-Es-01378	Capaz soy yo la que incómoda acá o que?	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-00345	Que mierda que por un abuso sexual, exceso de drogas y depresión te lleven a quitarte la vida.. ojalá ahora estés en paz #ChesterBennington	sadness	3: se infiere un grado alto de tristeza
+2018-Es-04670	@HenryOuatx -Niega con la cabeza y deja escapar una risita nerviosa.-  Mejor no, cariño, esa, es una historia bastante retorcida	sadness	0: no se infieren niveles de tristeza
+2018-Es-06031	No voy a entrar a instagram hasta mañana, que depresión loco. Quiero estar ahí, con mis amigos	sadness	3: se infiere un grado alto de tristeza
+2018-Es-02787	@Blueberry_TRA hermanito te extraño 	sadness	3: se infiere un grado alto de tristeza
+2018-Es-01351	Mi hermana mayor esta pensando llevarme al extranjero el año que viene! No se si llorar o reír	sadness	0: no se infieren niveles de tristeza
+2018-Es-02549	@TejoMattioli Vale la pena para mechar con alguna otra serie. Está buena, para verla en la cena.	sadness	0: no se infieren niveles de tristeza
+2018-Es-03409	Asi o mas sospechoso 🤔😂✌️	sadness	0: no se infieren niveles de tristeza
+2018-Es-04482	Yo digo que deberían organizarnos una fiesta sorpresa a @Ing_Roger_Pa y a mi el sábado 22 de Julio en Tantima. Coff Coff @lachina_val 😂🎈🎁🎉🍻🍺	sadness	0: no se infieren niveles de tristeza
+2018-Es-01280	Para que me bloqueas hija de tu pu*a madre	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-05903	¿Después de cuantas depresiones llega la depresión que te adelgaza?	sadness	3: se infiere un grado alto de tristeza
+2018-Es-03432	La depresión es cabrona 😥	sadness	3: se infiere un grado alto de tristeza
+2018-Es-05508	||MIS COMPAÑEROS DE CLASE TIENEN UN ESCRACHE MÍO. ESTOY LLORANDO.	sadness	3: se infiere un grado alto de tristeza
+2018-Es-04481	La canción de la familia me da tanta nostalgia de mi cumpleaños 🔙🔙	sadness	3: se infiere un grado alto de tristeza
+2018-Es-01854	si me hablan hasta que me duerma no me enojo eh, me aburro	sadness	0: no se infieren niveles de tristeza
+2018-Es-02284	Que cansancio vale.	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-05443	¿Amor sin celos, sin berrinches, sin discusiones? Que aburrido.	sadness	0: no se infieren niveles de tristeza
+2018-Es-04541	Esta insolada valió la pena cada segundo.	sadness	0: no se infieren niveles de tristeza
+2018-Es-04337	A pesar de este revés en el Proyecto de Ley sobre Aborto, debemos unirnos para no darle la espalda a las mujeres y niñas de Chile	sadness	0: no se infieren niveles de tristeza
+2018-Es-01206	Últimamente me cuesta diferenciar los miembros de bts, confundo a Tae con JungKook y a Jin con Jimin QUE PUTO TRISTE QUE ME PASA HELP	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-04548	Siento mucha pena por aquellas personas que sin completamente fans de LP... Se de primera mano lo que es que se muera la persona que admiras	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-06349	Harry dijo que es genial y agradable ver que a los chicos les va bien en sus carreras en solitario 💕💕	sadness	0: no se infieren niveles de tristeza
+2018-Es-01137	mera dale estoy aburrido	sadness	0: no se infieren niveles de tristeza
+2018-Es-05018	@SarpY_icerde Pero #Baris va ser un gran personaje desde ahora #Sarp soempre preocupado de su padre #IcerdexMega #NocheDeTeatro 😁	sadness	0: no se infieren niveles de tristeza
+2018-Es-03333	Quien juega contigo y tu mente no es un ser astuto es un cobarde.	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-04640	okay hablando en serio, es a las 5am..... tendré que poner mi alarma t_t	sadness	0: no se infieren niveles de tristeza
+2018-Es-05568	@SxrcasticBatman -Derek frunció el ceño al escucharle y no pudo evitar soltar una pequeña carcajada.- ¿Dónde? -Y entonces el moreno bajó >	sadness	0: no se infieren niveles de tristeza
+2018-Es-00988	En serio no puedo creerlo.. estoy en shock	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-04169	No voy ni a llorar ya, porque para qué.	sadness	3: se infiere un grado alto de tristeza
+2018-Es-01118	Acabó de encontrar un cover de 4O'CLOCK en español y es tan  hermoso, estoy llorando 😭😭	sadness	0: no se infieren niveles de tristeza
+2018-Es-04825	Qué rabia cuando hay una tercera persona en la relación.	sadness	3: se infiere un grado alto de tristeza
+2018-Es-01901	Si es por mí puedes ir sin temor porque a mí ya no me importa nada	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-03675	@KarlitaGarcia8 Jajajajaja tu me haces estresar con tu impuntualidad 😥	sadness	0: no se infieren niveles de tristeza
+2018-Es-06005	Anoche no me estalló la vena de la furia de milagro.	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-05715	3:48 y yo sin poder dormir 	sadness	2: se infiere un grado moderado de tristeza
+2018-Es-02362	Me da un asco que se quiera hacer la hippie todo el tiempo, tremenda fantasma	sadness	1: se infiere un bajo grado de tristeza
+2018-Es-00749	mañana a las 6 arriba 😢	sadness	0: no se infieren niveles de tristeza
+2018-Es-00726	@macacifuentesC @sergmujica Perfect... Y de una mansa ni que terrible PLR	sadness	0: no se infieren niveles de tristeza
+2018-Es-01108	Una persona misteriosa (no vale dejar comentarios) me pidio fotos.. supuestamente para un video "sorpresa" ??? 	sadness	0: no se infieren niveles de tristeza
+2018-Es-05485	Ojalá se pudiera elegir a la familia de uno, lamentablemente te tenés q aguantar q gente hipócrita sea de tu sangre	sadness	3: se infiere un grado alto de tristeza
+2018-Es-01674	Estoy muy triste pq me dijo que era bien enfadosa jajajaj	sadness	1: se infiere un bajo grado de tristeza

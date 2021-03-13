@@ -1,0 +1,649 @@
+ID	Tweet	Affect Dimension	Intensity Score
+2018-Es-03373	Siempre que me quiero bañar entran al baño 	valence	0.521
+2018-Es-05122	@erickf4lopa No se por que preguntan esas cosas te juro 	valence	0.417
+2018-Es-01526	@carlostorresrob #ironico pero es cierto. Promueven la Muerte vendiendola hasta por carteles. #LasVegas	valence	0.250
+2018-Es-02649	@dania_gamboaC Jaja el sábado trabajo todo el día 	valence	0.521
+2018-Es-04475	A celebrar con gusto	valence	0.913
+2018-Es-02577	Qué dicha y tiene su novio al tenerla a su lado...	valence	0.660
+2018-Es-02144	kadillac juega super pussy	valence	0.542
+2018-Es-06389	A veces no entiendo como en la biblioteca no encuentro ningún estudiante de letras #Ironía xD	valence	0.542
+2018-Es-02157	Me: Only deep and meaningful lyrics get to me Factoria: hay otro en mi vida que curó mis heridas me devolvió la alegría que daba por pérdida	valence	0.563
+2018-Es-00203	Siempre me preocupé por darle tiempo a ambas,para que no sientan que las dejo de lado.Ahora ellas son bff y me dejaron de lado a mí.#irónico	valence	0.348
+2018-Es-03398	Bien dicen reír de último reír mejor. Sinónimo de ese mejor es reír jocoso y con tranquilidad.. total.	valence	0.583
+2018-Es-04612	Tengo más antojos que una embarazada 	valence	0.542
+2018-Es-00799	Intento hacer sonreír a la gente	valence	0.854
+2018-Es-02966	Yo me asombro de la mala suerte que tengo no pego ni una	valence	0.295
+2018-Es-03978	@SomosRayados Le clavan dos pepinos y uno segurito es a su palo. 	valence	0.479
+2018-Es-05586	Estaba hiper concentrada mirando final de PPL y papa me vino a asustar, juro que grite para todo el barrio y sigo asustadaaaaaa	valence	0.375
+2018-Es-00980	@GalaxyyGod AYYYYY ME VAIS A HACER LLORAR	valence	0.375
+2018-Es-05893	@Antoniolaisla @juanmalaisla Eso no es nada... Que vamos a hacer sin el 24h de Gran Freak Hermano?! #PORQUESEÑORPORQUE 😭 #SARCASMO	valence	0.457
+2018-Es-06652	@jlruizmlg Es un cambio fuerte porque llevo ya varios años con Linux pero todo es acostumbrarse. Eso o un Mac 	valence	0.583
+2018-Es-00532	@SIAOCTRL @JCYCTRL Males 😃	valence	0.646
+2018-Es-04678	Sabemos que la vida es dura pero la amargura no es la solución.♪	valence	0.542
+2018-Es-05004	¿Y qué pasa cuando por fin la vida te da eso que tanto querías, y descubres que ya no es lo mejor para ti? #Ironía #TenCuidadoConLoQueDeseas	valence	0.354
+2018-Es-04352	Estoy to’ triste porque el culebrón catalán acaba mañana... #Ironía	valence	0.229
+2018-Es-06260	@facudelacoope10 ta bien ta bien 	valence	0.750
+2018-Es-06766	Mi @Angela_ChefMX "corazón de chocolate" 👉👈 😍 😅	valence	0.783
+2018-Es-00912	Tu cama es tu cama! 😊	valence	0.667
+2018-Es-00404	Llega a tener algo grave, la batata esa se la rompo toda.	valence	0.188
+2018-Es-04307	Ya lo terminé y me dejó esa sensación repugnante en la boca como la de después de vomitar. 10/10, me tomaría otro.	valence	0.417
+2018-Es-00775	Hoy estaba en cine y andaba una niña como de 10 meses debajo de las sillas y pues nada me pego horrendo susto.	valence	0.412
+2018-Es-04657	@vegetta777 Quiero verte triste ni enfadado. Te queremos muchísimo 💜💜💜	valence	0.771
+2018-Es-01028	¿Se habrá quedado olvidado mi optimismo junto a las otras hojas que arranqué?	valence	0.396
+2018-Es-02011	@CamiRa24 Por que te enojo	valence	0.250
+2018-Es-00365	Hermoso dia! Hermosa visita.  Por arrancar la rutina. #felicidad pura... 😀😀😀😀	valence	0.909
+2018-Es-03036	@DR_Chiva @Pau_Zoe @Ikki_del_Fenix Jajajaja!!! Eso jamás Doc, a lo mucho mugroso perver; aunque Lady Pellitur no suena mal... 😂	valence	0.652
+2018-Es-00600	Soy un total desastre pero me causo mucha gracia el error que cometí, a dormir feliz 😄 #BuenasNoches💋	valence	0.792
+2018-Es-02485	J. Pelea cada mañana con tus miedos y fantasmas. Tus armas: la sonrisa, el silencio, la determinación, la palabra de Jesús, el diálogo...	valence	0.440
+2018-Es-04526	Hoy me siento mucho más monárquica que ayer. De hecho, algún sociólogo diría que más que monárquica soy Felipista... #referendumCat #Ironía	valence	0.435
+2018-Es-04704	@PerdigueroSIPEp Usted no debería estar curado de espanto?	valence	0.435
+2018-Es-04105	@eri_zu3 Jajaja veci me hiciste la noche 	valence	0.695
+2018-Es-00486	@daeduv @DanielSamperO Imbecil.. Ya era mayor de edad.. Estrene cerebro infeliz.. Argumentos proporcionales a su criterio pusilánime.	valence	0.083
+2018-Es-05169	Creo en el amor porque nunca estoy satisfecho...	valence	0.458
+2018-Es-06565	Jajajajajaj acá nomas por darle con un palo 	valence	0.563
+2018-Es-06864	Si está bien padre cuando te dicen cosas bonitas 	valence	0.817
+2018-Es-01191	@RondonCNE Esto del simulacro es una clara provocación más por parte del gobierno a la violencia e intolerancia. Total apoyo a @RondonCNE	valence	0.348
+2018-Es-06266	Porque mierda soy tan orgullosa loco por que por que POR QUEE	valence	0.341
+2018-Es-05397	Yo solo parlo cuando voy buscando algo serio al final, por eso solo he parlado al que fue mi primer amor, aún lo es ): me les deprimo mk	valence	0.261
+2018-Es-02022	Oye, ¿Y quienes eran los #PSLP que cayeron en el fake? Digo para reirme un rato, o webiarlos...No sé 	valence	0.479
+2018-Es-00879	Me voy a poner cinta en la boca para no decir ni A y poder recuperar la voz 	valence	0.458
+2018-Es-02309	hay algo de lo q hablan siempre acá y me genera mucha ansiedad y cada vez q lo leo tiro el cel por la ventana me deben como 9 telefonos ok	valence	0.261
+2018-Es-03994	@ActualidadRT @NicolasMaduro Claro, que orgullo... Pena ajena. Digan lo que pasa en palo verde a esta hora.	valence	0.271
+2018-Es-02594	Ahora por lo visto los zapatos Oxford o brogues se llaman zapatillas #ironía	valence	0.375
+2018-Es-02813	@MagnificoElMulo @Aristoi_Nomin Lo mismo, sí. #ironía	valence	0.458
+2018-Es-03919	Solterito se vive mejor 	valence	0.773
+2018-Es-06108	@ElAlbanBorja cuando eras niño el mejor plan de fds era ir a los juegos del cc y terminar comiendo en tacos california #GrandeElAlbanBorja 	valence	0.823
+2018-Es-04907	Tengo alto resentimiento con mi hermano últimamente	valence	0.096
+2018-Es-00154	@Lelecbacity @TuttinMarquez JAJAJAJ que les pasa oigan 	valence	0.750
+2018-Es-05157	@CiteiBrisas @marycailleaux Pavor ?	valence	0.417
+2018-Es-00280	Que busssshona me saliste que hasta esa te sabes 	valence	0.568
+2018-Es-03630	@CristianChucu26 No ni a palo 😤	valence	0.479
+2018-Es-04406	@DebRyanShow #rayito no importa el color lo que importa es tu preocupación por tus seguidores, muchas gracias por esto💖💖💖	valence	0.750
+2018-Es-06636	@iPxdfoot —no era sorpresa, recordó haber regresado de la biblioteca con Lily, Marlene, incluso Severus iba con ellos pero se mantenía—	valence	0.583
+2018-Es-02921	Carmen no podes ser tan densa	valence	0.396
+2018-Es-05266	Gracias @BBVAContinental por hacer la pre venta de entradas para el Perú vs Colombia. 	valence	0.750
+2018-Es-00196	Q horrible es ser político viven siendo criticados,temen x sus vidas,son traicionados,y un paso en falso lo tumba,su familia es vigilada.	valence	0.283
+2018-Es-01296	@Gipsy_Toy @Dieci7Rayas Holii, yo por mí encantada JAJAJAJA	valence	0.917
+2018-Es-00688	Proximamente contenido nuevo, genial y estupendo manada en #señiorlobo #gamers #youtubers #juegos #otakus #BuenosDias #felizjueves	valence	0.652
+2018-Es-00466	Tengo que dedicarle tiempo a mis amigas, ya es demasiado esto!!! Jajajajaja Pieri me dice que la tengo abandonada !	valence	0.729
+2018-Es-06772	@Lazarini17 así te paso cuando ne viste?  	valence	0.587
+2018-Es-06151	Tengo dos porciento de bateria. Mi celular también. 	valence	0.396
+2018-Es-01655	Si se les nota un montón la tristeza por el fallecimiento de #Hiromi 👎 #sarcasmo @Ventaneando13	valence	0.208
+2018-Es-05996	Paso a paso y paso firme 😊	valence	0.761
+2018-Es-03241	we estoy preocupada por fer lei que se tuvo que ir de su lugar porque se estaba asfixiando :(	valence	0.146
+2018-Es-01587	@JuanGalt11 Tanta comparación sin sentido que apunta....?? a agravar una falta sobre otra... con el fin de??	valence	0.338
+2018-Es-03667	@iQueVanessa No nos sigue esa parte. 	valence	0.542
+2018-Es-02881	@As_TomasRoncero @diarioas Jajajaj.  La antimadridista disgustada	valence	0.479
+2018-Es-06219	#Ironía es que la hija de un militar franquista acuse de dictador a gente de otro partido.	valence	0.313
+2018-Es-06536	@soydarygro Que no van a regresar 	valence	0.333
+2018-Es-05894	Cuanto resentido suelto 😂	valence	0.542
+2018-Es-01042	@guio_roglan @mossos Pero los violentos no era la guardia civil y los nacionales? #Ironía	valence	0.292
+2018-Es-03762	@paolaarl1622 Tu y tus berrinches mujer!. Háblame aqui que msn no me jala	valence	0.479
+2018-Es-05019	Es bien heavy esto de tuiter. Se pasan por todas las emociones aca! En un ratito pasé de la rabia a alegría-pena-risa. Mejor me duermo. ✨✨💚💍	valence	0.457
+2018-Es-05907	@KevenYHensy Estoy super orgullosa de ustede😘👍😭👌	valence	0.896
+2018-Es-00221	@_andreapaz Por lo menos hay una creatividad y un esfuerzo en desarrollar eufemismos tan desarrollados 	valence	0.391
+2018-Es-00393	@iiann_x4 Ajajaja pero he-man era rubio y yo no 	valence	0.688
+2018-Es-03134	en spotify en uno de los anuncios dicen "estas cansado, estresado, ya no aguantas a nadie?" re si	valence	0.354
+2018-Es-01467	Que aburrido ni se para que tengo whatsapp en el celular. 💥	valence	0.306
+2018-Es-06205	@CristinaLlore12 @JavierC94099618 @y0v4n4 @CCivicaCatalana Estoy a favor de que apaleen a niños y ancianos. #Ironía	valence	0.391
+2018-Es-01978	Que divertido, verdad?	valence	0.750
+2018-Es-05844	@DementeYT que sujeto agradable	valence	0.848
+2018-Es-05585	La frase de hoy: "Rivera y Glas son como siameses" como diría el Chapulín: "qué habrá querido decir" #Sarcasmo	valence	0.522
+2018-Es-04391	Aún recuerdo a la gente super indignada por lo de Kirigiri y lo de Nanami  Mi alimento su odio fuck yeah	valence	0.333
+2018-Es-06590	Un aplauso para esas cuentas que te mandan amor a un que no te conoscan	valence	0.680
+2018-Es-03691	@cholucon Por cierto me falto #sarcasmo	valence	0.479
+2018-Es-05852	Flipando con la historia de @ManuelBartual. Es para cagarse de miedo. @cesardelalamo aquí tienes tela para una peli de miedo 	valence	0.417
+2018-Es-00794	Yo tmb puedo bardear igual 	valence	0.458
+2018-Es-04030	Pero que ahora no me demuestran el mismo respeto. #Irónico	valence	0.292
+2018-Es-01567	@juanjorinconm Se perdió desde que salió con esa formación	valence	0.375
+2018-Es-04698	Dios que tristeza y dolor Venezuela	valence	0.074
+2018-Es-03918	Iria a la casa de mis amigos pero NO PUEDO CAMINAR,ESTOY LLORANDO	valence	0.104
+2018-Es-01177	@DarwinHK Recuerdo que Rajoy condeno la represión en Venezuela #ironico	valence	0.479
+2018-Es-05068	Feliz día fandom ❤	valence	0.788
+2018-Es-01011	Igual le dije a mi abuela "quédate tranquila que lo que menos tengo es un embarazo, puedo tener lo que quieras pero no un embarazo" 	valence	0.500
+2018-Es-04491	Mucho gusto, el placer viene después 😋	valence	0.771
+2018-Es-03786	A raiz de tanta ira causada a iglesia catolica apoyo a #LGTB por Lorena Castillo, Ulloa deberia devolver los millones incluso a nunciatura.	valence	0.417
+2018-Es-00247	@EmiCuniglio Soy un glam rock amigo freddy Mercury estaría orgulloso	valence	0.652
+2018-Es-03611	Un poco de alegría a las penas 😊💚	valence	0.804
+2018-Es-03700	FALSA ALARMA! Si vi todas la escenas que podía ver ✌🏼(Osea si le sé a esto 🤘🏼)	valence	0.583
+2018-Es-05393	UPA CUCHA AMARGO O DULCE	valence	0.438
+2018-Es-05815	Era para ahorrar tiempo uacho 	valence	0.521
+2018-Es-02621	Lo bueno es que de las primeras 5 se me ve en una 	valence	0.563
+2018-Es-04810	@llullmonpedrenc @BibiDori @jodido_cielo Sí, porque el pequeño minifundista, como todo el mundo sabe, no recibe fondos europeos #ironía	valence	0.133
+2018-Es-01037	@brozoxmiswebs Complacencia, negligencia o conveniencia	valence	0.391
+2018-Es-00758	@AbySampallo @FeerSalass Perdón, se me va el pedo 	valence	0.479
+2018-Es-02325	Al menos la administración de Roselló tiene gran destrezas para la redes sociales 😎. #MariaPR #femapr #ironia	valence	0.580
+2018-Es-05768	Feliz dia! X levantarme el animo cuando estoy triste,x cuando tome decisiones q no debía solo bastaba mirar tu ejemplo x hacerme feliz ❤	valence	0.896
+2018-Es-05943	Se que tienes un nuevo amor, sin embargo te deseo lo mejor. Si en mi no encontraste felicidad, tal vez alguien más te la dará🎶🍷	valence	0.438
+2018-Es-01291	Me voy a dormir bien feliz por qué hable contigo por teléfono 	valence	0.797
+2018-Es-00786	Una no se levanta amorosa todos los días, aprovechen 	valence	0.690
+2018-Es-05908	@NayibFajre @BIackPplVids De pana que me voy a vacilar mas el trash talk de las giras que la pelea jajajaja	valence	0.630
+2018-Es-04197	Esta indignado el Botto por el cargador jajaja	valence	0.458
+2018-Es-05993	Nunca hay que creer que los artistas se suicidan porque son cool. Son cool muy a pesar de ese destino fatal.	valence	0.438
+2018-Es-02607	Madrugar es de guapas ¿no? Pues espero ser hoy miss universo... @lavecinarubia 	valence	0.537
+2018-Es-00093	Una aventura es más divertida si huele a peligro 😏	valence	0.620
+2018-Es-01135	@javier_ruescas Javi @verogv15 canta muy bien que video tan divertido un book challenge muy gay	valence	0.688
+2018-Es-01577	Creía haber encontrado calma pero volví a enloquecer	valence	0.333
+2018-Es-02249	@TELMEXSoluciona @carlosslim LLeva días sin linea y sin internet mi hermana, viuda reciente de trabajadorTelmex #Ironía! @HernandezJuarez	valence	0.333
+2018-Es-02643	Esta pelea está bien intensa... 😱😱😱😱	valence	0.354
+2018-Es-05833	La gente se está muriendo de emoción por conocer a Sachin. Se nota en los tweets que nombran a la Wonkru #Ironía	valence	0.478
+2018-Es-06710	El CN Electoral,al poner un acto de votación simulado el mismo día del plebiscito puede provocar más confrontación.	valence	0.261
+2018-Es-03482	Qué desconsiderado @raulromeva hablando en inglés en Bruselas. Mira que no usar el francés como está mandado... #sarcasmo	valence	0.479
+2018-Es-01798	Ahora por fin voy a poder twittear la lista de la compra. ¡Ya era hora!   #280caracteres #ironia	valence	0.604
+2018-Es-02694	@LeandroLeunis Un aplauso para los enviados de la RAE a corregir en Twitter 😂😂😂	valence	0.717
+2018-Es-06525	@Anarhefoto Lo mío era un poco #Ironía 😉	valence	0.440
+2018-Es-01596	No hay nada mejor que mirarte en la ventanilla de un coche 🚗 y no darte cuenta que hay un hombre dentro partiéndose el culo 😡😡😡. #Ironia	valence	0.340
+2018-Es-02988	@DominguezViki Te faltó la ratita y hubiera sido más gracioso jajajajaja	valence	0.696
+2018-Es-05674	@Manu_SVQ27 Ya sólo cogerle el teléfono es un insulto	valence	0.340
+2018-Es-00981	@AudGuelaguetza terrible sonido en el concierto de #Mexicanto  Inadmisible para el público y para los artistas...	valence	0.159
+2018-Es-01165	Y sigo esperando la invitación 	valence	0.479
+2018-Es-05406	@eldiarioes Me vienen ganas de votar que NO en el referéndum...  #ironía	valence	0.326
+2018-Es-00964	@el_Jorda Lo he intentado.... Cómo eso de ser gracioso en tuiter pero no me sale y me frustro. 😅 Pd: diez años? No creo q seas tan viejo.	valence	0.625
+2018-Es-06084	@esegatovengador Marcate un Cardenas y pon chicas con poca ropa #IRONIA	valence	0.543
+2018-Es-00112	@CerenDarwin A pesar de haber perdido me siento orgulloso de ustedes sudaron la camiceta de mi selecta asi no duele perder	valence	0.717
+2018-Es-04248	Me voy a dormir con una alegría enorme	valence	0.938
+2018-Es-02867	Entonces todo solucionado después del discurso del rey oye, que claro lo ha dejado todo. #ironía  #discursodelrey #nochebuena	valence	0.471
+2018-Es-02495	@daniidmontiel Ya las cortaré 	valence	0.521
+2018-Es-04474	@mariemati Kore .. de brujas es lo tuyo... 😂😂😂 	valence	0.740
+2018-Es-04575	@DebRyanShow #Rayito 169 Que clase en copa de champán me dieron mi jugo que terrible patraña 😈🎶🎶	valence	0.413
+2018-Es-03257	#DeColombiaMeGusta Cuando la gente se incapacita porque juega la seleccion	valence	0.563
+2018-Es-00678	Da igual si se acaban rápido los fines total no hago nada 	valence	0.478
+2018-Es-00588	En defensa de @MrAncelotti decir que ha hecho lo mismo que Guardiola pero no han tenido paciencia.. no es el inventor del fútbol #ironia	valence	0.583
+2018-Es-03989	@TELMEXSoluciona @arturoelias LLeva días sin linea y sin internet mi hermana, viuda reciente de trabajadorTelmex #Ironía! @HernandezJuarez	valence	0.472
+2018-Es-02316	No había cachado que el Miguel Ángel era el N*ctar, 	valence	0.500
+2018-Es-03778	No quiero que sea 26 😢 .	valence	0.217
+2018-Es-03687	@maferestrada @clauprdzs RT X 100000000 y la conozco desde hace mas años que tu 	valence	0.563
+2018-Es-02003	Agustin esta re inquieto, lo voy a mandar a dormir afuera, encima ronca 😠	valence	0.125
+2018-Es-00633	@CattaCarp igual.....es lindo meter la pata y q se enojen ..... Jajajajajaja es una satisfacción	valence	0.613
+2018-Es-02197	En serio, es que el problema radica en lo cultural y en la educación. Demasiado verídico	valence	0.417
+2018-Es-01924	"De n el pasado ser caballero era bueno y encantador, hoy dedicarles un reggaeton y se enamoran " #ElQuijote #Sarcasmo  #Lol	valence	0.500
+2018-Es-04838	@offinthemorning ¿En dónde se le da el “me divierte”? 	valence	0.792
+2018-Es-03259	La inmensidad del mundo no te recuerda lo pequeño que eres SINO LO GRANDE QUE PUEDES SER.  #Felicidad	valence	0.854
+2018-Es-04788	Porque soy muy llorona, 😭😭😭 ay Dios, 😭😭😭😭 pero q lindo ver como la apoyan, 😍😭😭😭😭😭ya q acabe esta tormenta, q intensa por Dios soy 😭😭😭😭	valence	0.253
+2018-Es-02093	Dios realmente tuvo que mover la tierra para que mi papá se pusiera a trabajar... #ironia	valence	0.435
+2018-Es-06131	Oie pana lo Q' haces es #IRÓNICO ???	valence	0.346
+2018-Es-00905	Quién juega Chess?	valence	0.447
+2018-Es-06595	Mi grupo de whatsapp de clase ahora mismo es puro amor.  😍 #Ironía   ♪♪¡Bonito, todo me parece bonito! ♪♪	valence	0.674
+2018-Es-02473	#votar no es legar, pegar al pueblo con la porra si. #MarcaEspaña #CatalanReferendum #1O #hemvotatihemguanyat ole la @guardiacivil #ironía	valence	0.370
+2018-Es-01714	@AscencioYareni Jajajaja wey la recogiste de nuevo? O la agarró él porque ya no estaba 	valence	0.583
+2018-Es-01216	Es tan gracioso escuchar a un viejo diciendo que está muy mal vender droga mientras sale de una farmacia con sus 15 medicamentos	valence	0.500
+2018-Es-01275	Mueran todos. 	valence	0.087
+2018-Es-01875	Con 22 años voy a sacarme sangre con mi abuela, y se me hace un nudo en la garganta! #Decrecernihablemos #Miedo	valence	0.326
+2018-Es-00750	Lmp que bien me siento 😆	valence	0.848
+2018-Es-05822	@montanertwiter " La #Felicidad a muchos les da envidia, a algunos les da miedo, a otros les da vida y la viven..." 💞	valence	0.833
+2018-Es-05774	@beckam102 @AdrianaRico25 Lo mismo para el chico #10 	valence	0.542
+2018-Es-06801	@javierveri @MonaLavro solo diré que vi 1 min. del trailer y como me amo veré friends porque me cagué de susto #tioaliennomelleve	valence	0.500
+2018-Es-00315	Los videos de el dipy intentando cantar en ingles me causan menos risa que el canal rural	valence	0.457
+2018-Es-03496	@DaniMateoAgain Es verdad yo los ví!!. Tenían en la calle una mesita de esteticista para los casos de 1x1...#IrONía. 😂😂😂😂... #NoMeCreoNada!!	valence	0.750
+2018-Es-04848	Que aburrido que estoy	valence	0.304
+2018-Es-05462	Un amigo calculó que yo medía como 1.70 y me hizo el día 	valence	0.542
+2018-Es-02646	Le robaron el campeonato.  Malditoooooos!! #Noeraempate #Enojado	valence	0.083
+2018-Es-06066	Todo esto es culpa de los gobiernos anteriores!!!! Este gobierno ha sido transparente y ha dado resultados!!! #Sarcastico!!!!	valence	0.304
+2018-Es-02701	#Hispanofobia Con esto ya seguro, que sí, que sí, convencemos a los catalanes de que se queden. #ironia	valence	0.458
+2018-Es-05469	La felicidad es un maquillaje	valence	0.409
+2018-Es-02059	@Valeria_Morante En mi caso, si le valgo madre 😅	valence	0.543
+2018-Es-06774	Anoche se la hice de pedo a un pendejo porque apenas me descuide 30 segundos y ya le estaba intentado hablar a mi novio. 	valence	0.250
+2018-Es-01119	@guillevaldes Brillante  👏👏👏👏	valence	0.771
+2018-Es-00500	No hay cosa que atormente mas mi corazon como forense. Causa de muerte? Preocupacion por forense #ironico #tengomiedo	valence	0.479
+2018-Es-04057	He escuchado a personas decir que si comen por la noche luego no pueden dormir, en mi caso es al revés, si yo no como no duermo!! 😂	valence	0.688
+2018-Es-02007	@DKev_14 Optimismo al 💯 cabron! Vengaa👊🏻	valence	0.740
+2018-Es-06318	@belgamexicana Siempre haces la segunda parte! JAJA #sarcasmo #teamokim	valence	0.508
+2018-Es-03736	Estamos pensando en que le puedo mandar y salte con él le digo SABIAS QUE AUMENTARON EL PAN 	valence	0.543
+2018-Es-06245	Siempre es lamentable un suicidio.	valence	0.125
+2018-Es-04517	@sical30 Un pato 🦆 que va cantando alegremente cuá cuá 🎤	valence	0.646
+2018-Es-03266	Me hubiese encantado salir con mis amigos pero me tengo que levantar temprano para trabajar. 😢	valence	0.235
+2018-Es-03571	No creo en el horóscopo porque a veces puede y a veces no puede ser lo que te va a pasar, pero ahora si coincidió #Miedo	valence	0.400
+2018-Es-00003	¿Será que tantos celos y mal genio es lo que no me deja crecer? 	valence	0.261
+2018-Es-03050	#FanArmyFaceOff #ARMY Estoy escuchando Spring day y casi lloro, me siento orgullosa.	valence	0.750
+2018-Es-06550	¡Qué divertido es GH! #ironía #bostezo #vergüenza #miedo #preocupación #culturaausente #primitivo #bastaya #jueguecitostontos #mejorleo	valence	0.652
+2018-Es-06386	Gracias por absolutamente todo y sobretodo, gracias por ser la persona que me completa. ¡Feliz día! @CXClV	valence	0.932
+2018-Es-02042	Con q cara lo miro ahora? 	valence	0.196
+2018-Es-01090	Hoy le he dicho a un chico que estudiaba el pir y sabía lo que era. #Felicidad #LuegoDicenQueSiMeEnamoro	valence	0.739
+2018-Es-05829	Siempre tengo la suerte de cruzarme con gente de mierda.	valence	0.043
+2018-Es-06684	Google me pregunta si me atendieron rápido en un local de ropa del que recién salgo 	valence	0.563
+2018-Es-02844	Nunca nadie me hizo tanto berrinche por teléfono 😕 yo no quiero imaginarme a ese sujeto de novio porque aullo como perro callejero a las 5AM	valence	0.226
+2018-Es-04196	Que sorpresa grata fue el ver que estaba ahí y era el único CD que había!!! Ahora mi fé por mi cuidad creció un poco :)	valence	0.813
+2018-Es-04494	Estar rodeado de mucha gente, pero finalmente sentirse sólo. Quizás sólo me pase a mi. 😢	valence	0.123
+2018-Es-06204	Desvelada pero cagá de la risa con las cuentas #Fake 😂	valence	0.708
+2018-Es-03940	@M4X1BYM @ElKevinBellaco @AlocPlays @lawleeex @Taguz_ Jajajajajaja tomatela, tremenda poronga tengo	valence	0.604
+2018-Es-05796	eu alejo estas nervioso por el evento? ahre jaja @AlejoIgoa	valence	0.543
+2018-Es-02283	Una feminista queme una revista Playboy. Hugh Hefner debe estar super preocupado en su mansión.	valence	0.364
+2018-Es-06206	Que chistoso cuando sales con alguien pero al final no funciona y la amistad sigue, entonces hasta le dices que te presente a tu crush 🙊😂	valence	0.840
+2018-Es-00823	dibujo hojitas le doy color a los pezones para que resalten de furia en fin es un trabajo duro pero alguien debe hacerlo	valence	0.591
+2018-Es-02380	Con todo en general, digo con seguridad NO me equivoco 	valence	0.604
+2018-Es-02358	@f85a2c19162a4cd @NituPerez Necesitamos realidades!!! Sino va a ser realista callase!!! 	valence	0.217
+2018-Es-04563	Me siento enojado con la vida y por muchas razones 😶	valence	0.167
+2018-Es-05612	Este año no hay beca. Constitucional y Fiscal, tumbadas. Un disgusto.	valence	0.117
+2018-Es-03230	Quiero subir fotos y no puedo 😢	valence	0.220
+2018-Es-03963	Chicos el meme del dia del amigo con icardi y maxi dejo de ser gracioso en el 2014. SOLTAR	valence	0.500
+2018-Es-00019	Esto de estar muda por mucho tiempo ,no va conmigo #FelizLunes #Bueniniciodesemana  #Alegria	valence	0.583
+2018-Es-05488	@mcdlr13 Eh, cuidao, que dos yoyas a tiempo te solucionan la vida... 😂😂😂😂 #ironía	valence	0.646
+2018-Es-04422	@Fcoantoniou Depresiva diagnosticada? Es como decir que te cae mal la gente con alzheimer (ambas son enfermedades😑)	valence	0.313
+2018-Es-06144	@chicaacocodrilo Porque no me dices que si, y después que no y con esas cervezas no se juega	valence	0.457
+2018-Es-02771	Nunca he podido votar que España sea una república o la eutanasia sea legal, pero ahora resulta que a #Cataluña no le dejan opinar. #ironía	valence	0.386
+2018-Es-03764	@SoffiaEndrigo Ahhh me asusté, no es tan grave entonces 😅	valence	0.568
+2018-Es-03254	Mientras mas triste sea tu hi|toria, mas fuerte debe ser tu sonrisa...	valence	0.477
+2018-Es-00304	Yo me enojo y automáticamente me caga todo	valence	0.188
+2018-Es-05457	@ForeverYoungMGT @antena3com De la suerte, no de los cojones. A ver si nos aprendemos los nombres 😂😂😂😂😂 #ironía	valence	0.542
+2018-Es-04446	El problema de que chavales de 2°ESO duerman solo 7 horas al día y estén con el móvil 3 es del sistema educativo. Ayuda, Pedagogías! #Ironía	valence	0.309
+2018-Es-00320	@Mireyam8 encima de tongazo, ofendida. Ya no me bloqueas mas mi cuenta. Sino quedate en casa o se mas sutil.Eres simple,incapaz y evidente	valence	0.152
+2018-Es-01477	@monsexgee La mesera por que la gefa es conmigo, bendito sea el descuento jajajaja 	valence	0.708
+2018-Es-02240	@agarzon Y ud pasará a la historia por la heroica defensa de las mismas. #Ironía	valence	0.563
+2018-Es-06096	@Anahi vas a ver Anabelle? 🤔🤔🤔 #MIEDO	valence	0.396
+2018-Es-04222	@paulaquimor Mi felicidad va en aumento	valence	0.947
+2018-Es-04357	Lo bueno es que el cortante soy yo #ironia	valence	0.500
+2018-Es-03952	La peor entrada en lo que va de año #ironía	valence	0.292
+2018-Es-04897	Quesque bien payasas por la limpieza y agarran su teléfono después de haberse limpiado la cola! Jaja #Ironía #MeCaenMal 😌	valence	0.438
+2018-Es-05922	Me hubiera vuelto directamente a mi casa 😤	valence	0.348
+2018-Es-03788	Desde el viernes que estoy comiendo milanesas 	valence	0.435
+2018-Es-05602	@MuhammadFuji1 bodoooo~ 	valence	0.630
+2018-Es-03570	Dejará algún día ser un laburo buscar laburo #Ithinking #Frasespreocupantes #controversial #ironia #lavidaesasi	valence	0.391
+2018-Es-00790	"Nada que no se sane y se olvide en tierra de rumba con tragos de licor" #Ironía #ThisIsGozar 😂	valence	0.771
+2018-Es-03407	LA PREGUNTA DEL MILLON  Soy graciosa? Ahr	valence	0.667
+2018-Es-06848	eh dormido tres horas y estoy entre triste y enfadada	valence	0.043
+2018-Es-06000	@Hecate2punto0 @Gobegnadog Qué oportuna ^^ #ironía	valence	0.438
+2018-Es-06845	Todos los que me acompañaron ayer de vdd tienen un lugar en mi corazón ❤️ ¡Gracias amigos! (más el ceja que vive para el aeropuerto) jaja 	valence	0.906
+2018-Es-04759	@c3saro Es la tapa de la burda del 84' 	valence	0.754
+2018-Es-01851	@sofia_gamb Desde aquí lejos de él me imagino LA hablada que se podría echar 	valence	0.341
+2018-Es-02627	@Fulanitodetalcr Que buen #sarcasmo con la ubicación 😂😂	valence	0.600
+2018-Es-00569	Quiero mirar una peli graciosa y no se cual mirar ._.	valence	0.604
+2018-Es-03534	Cada cosa que le digo se me caga de risa 😑	valence	0.625
+2018-Es-01512	@dmorenochavez Esto es de lo más repugnante que ha dicho en todo el día el secretario. Si	valence	0.174
+2018-Es-00753	Mi her está haciendo terrible reforma en el cuarto y mi madre le dijo para que cambiemos de cuarto y dijo que si	valence	0.417
+2018-Es-04001	Que horrible es estar diciendo algo que te molesta y que al otro no le importe	valence	0.087
+2018-Es-02585	Hasta la verga que no es pa' ustedes les incómoda 😂 ¿por que siguen gente de la cual no les gusta el contenido que suben?	valence	0.637
+2018-Es-01013	Los que habláis y no hacéis nada al respeto. Seguid así que vamos muy bien. #Ironia #ModoON	valence	0.354
+2018-Es-03118	Sus ojos, su sonrisa, tienen un no sé que...	valence	0.674
+2018-Es-04112	#EGO: ¿Por qué #twitter necesitaba #280Caracteres? Porque no me alcanza 140 para escribir lo que pienso. Y esta vez es una #ironia	valence	0.417
+2018-Es-03296	@DavidGmez99 Piensa lo que quieras y como quieras que ellos seguirán donde están y tú igual de amargado por estos temas #XD	valence	0.425
+2018-Es-01539	@MasterChefMx  como cuando lloras en las entrevistas para conmover a los chef 	valence	0.500
+2018-Es-01035	Alguna buena pelicula en netflix (?) Terror , suspenso ....	valence	0.522
+2018-Es-03639	Me daban risa los comerciales d julio regalado dond las señoras se avientan y enloquecen cn las promos pro la realidad supera a la ficción	valence	0.688
+2018-Es-05356	Ni todos los videos y conciertos en vivo de Linkin Park van a tapar el vacío. Que tristeza. Se nos fue Chester, se fue un pedazo de mi vida.	valence	0.125
+2018-Es-00661	Que #ElDeforma haya sido adquirida por #SDPnoticias es una noticia digna para aparecer en El Deforma. #elMundoAlReves #ironia	valence	0.540
+2018-Es-04523	Mis últimos días en Twitter 	valence	0.167
+2018-Es-04361	@pabloalboran Y ojalá que me leas porque quiero decirte que estoy  más que ansiosa por escuchar tus primeras canciones de tu nuevo álbum 😊💙🎵	valence	0.847
+2018-Es-05222	@AnyiInstituto Porque estas enojada? estas mas loca que una cabra y si te seguis hablando con esa vas a quedar peor jajaja	valence	0.625
+2018-Es-01838	20. ¿Película de terror favorita?	valence	0.500
+2018-Es-05338	Se ve muy feliz.Voy hacer que la depresión llegue,que sienta que es insuficiente y que es totalmente reemplazable. *La vida conmigo*  Re-si.	valence	0.478
+2018-Es-00528	Hasta dando conferencias de prensa es el mejor Gallardo JAJAJAJAJAA que hdp 	valence	0.795
+2018-Es-06195	@juani_alleva @Guille_Cejas15 es q vi algo tan gracioso q tuve q contestar	valence	0.792
+2018-Es-05065	La concha de tu hermana que orgullosa soyyyy	valence	0.646
+2018-Es-06406	Me voy a matar😤😩😩	valence	0.110
+2018-Es-05560	@dgaxiola92 ah, aquí en twitter se usan los #hasgtags o como diría mi amiga niurka los #hashtash, te recomiendo usarlos #sarcasmo.	valence	0.478
+2018-Es-02407	He descubierto que soy el pasaje a la felicidad .. Mis ex's están triunfando ahorita jajaja uno hasta en Dubai anda .	valence	0.674
+2018-Es-06805	@JosPastr @DunQuijote Civismo y derecho a huelga, q problema hay hombre?? #ironía	valence	0.375
+2018-Es-05565	@rasec023 Lamentable pérdida que se suma a la de Cornell.	valence	0.292
+2018-Es-00531	creo que Fabri se enojo enserio y se fue a dormir jajaja, ahora me voy a aburrir 😢😢	valence	0.375
+2018-Es-00508	Que bonito es el Derecho Romano 😊  #IRONIA	valence	0.705
+2018-Es-01303	AAA WP DEL ORTO ME PONE NERVIOSO	valence	0.292
+2018-Es-02545	@anetbustamante, Si te digo cosas horribles no significa que te odie, te quiero, pero ser #Sarcástico me sale tan natural; como respirar. 😁	valence	0.521
+2018-Es-02756	Send nudes, perdón nubes* (? 	valence	0.523
+2018-Es-06181	@RubenSanchezTW La encuesta para premiar la han realizados en los acampados de Coca cola en lucha? #ironía	valence	0.354
+2018-Es-05090	Eso de comprar ropa de niño /bebe fue toda una aventura jaja 	valence	0.740
+2018-Es-06137	nunca le dije a nadie porque pensé que se asustarían o algo después investigué y encontré que a otra gente también le había pasado	valence	0.375
+2018-Es-06043	Esta chocolatina me la estoy comiendo con una felicidad 🤤 me mima de una manera.	valence	0.881
+2018-Es-04488	@los40mx @PaolaGalina @CD9 Una divertida y padre entrevista Pao	valence	0.667
+2018-Es-06357	Me acaban de dar me gusta a un tweet de hace meses #miedo	valence	0.396
+2018-Es-06287	@dontfuckburrito faltan 5 minutos acá para que sean las 12 asi que aun estoy a tiempo ¡Feliz cumpleaños! que los dioses no te jodan la vida💕	valence	0.899
+2018-Es-04910	Jeje seres mortales, jurando amor eterno.  #irónico 😼 jeje 😂	valence	0.636
+2018-Es-03188	Leída personalizada de zns jajaja 😅	valence	0.729
+2018-Es-06467	Lo bueno es que Dios no cumple caprichos 😅	valence	0.708
+2018-Es-03552	Feliz día para vos! Prima, hermana, amiga y mi otra mitad 💛👭 te amo infinitamente.  Sofy Hernandez	valence	0.970
+2018-Es-00642	Últimamente al estar fascinado por la majestuosidad de 'La cubita', he olvidado a mi mentor: El whisky. 🙁	valence	0.543
+2018-Es-02715	@WACO490 @PaulGoltieri @MonederoJC @PPopular Pdm denunciado insultar no es gratis	valence	0.313
+2018-Es-03864	Crucé al pibe con el que quería tener muchos hijos y saben que? LE DIJE FELIZ DIA!!!!  A las cuadras me largue a llorar 😢😭	valence	0.229
+2018-Es-06388	Menosmal y en clara no anda nunca nadie. Jajaja 	valence	0.696
+2018-Es-06034	@aiidaRCDE23 Muchos goles, no? #Ironía	valence	0.457
+2018-Es-01765	@EduSierra95 @Eas_TeeL Yo no lo he superado. Entre eso y la espinita de spirit.sensity… pffff #depresión	valence	0.229
+2018-Es-02084	@haroldazuara Ya que nos asustaste a lo pendejo :v 	valence	0.478
+2018-Es-02081	Nunca vi un barrio que tenga tantos perros como el mio 😥	valence	0.537
+2018-Es-00810	Da gusto levantarse y escuchar el dulce sonido de la excavadora, el pico y el asfalto levantándose. #LaNaturalezaSiempreMeAsombra #ironía	valence	0.565
+2018-Es-06670	Sospecho de Loulogio con una oreo envenenada, en la sala de juegos de Christian Gray	valence	0.458
+2018-Es-04069	"La autenticidad es el camino más directo a la felicidad".  - Robin Sharma	valence	0.688
+2018-Es-05975	Huele a peligro 🔥💪🏽🎶	valence	0.335
+2018-Es-05905	De verdad estaba muy emocionada por Disney on ice :(	valence	0.542
+2018-Es-01749	#PensandoElFuturo #AlbertoGil #ironía no descartemos nichos de trabajo como aduaneros o constructores de vallas	valence	0.417
+2018-Es-04306	Like Si Sobreviviste al Fin De Mundo 💡 	valence	0.615
+2018-Es-02560	@Dxllnweeks Gracias. 	valence	0.674
+2018-Es-04520	No cabe duda porque vivir así cuando me ofrecen amor puro y sincero a mi me guste el amor patán #IRONICO #PREJUICIOS	valence	0.435
+2018-Es-05061	¡Feliz! Mi hermanito ya mejor, ¡Grande mi Dios!🙌🏼	valence	0.926
+2018-Es-01287	@juanrallo La estrategia de Mariano va como la seda #ironía	valence	0.457
+2018-Es-03203	Como me está gustando mi vida loco, porqué no me pasó esto antes. Que hermoso año 😀	valence	0.938
+2018-Es-06135	@alondraheravil @miranda_patino eres toda una doña 	valence	0.523
+2018-Es-05322	Odio a la gente que un rato esta bien y a los dos minutos tiene cara de orto 	valence	0.146
+2018-Es-04536	El sentido común es el menos común de los sentidos... #ironía #paradojas	valence	0.518
+2018-Es-01476	Al principio estaba tentado, Ahora estoy envenenado	valence	0.340
+2018-Es-00869	@tohosjinki enojo* ya esta dicho xd oka	valence	0.354
+2018-Es-06666	@tamaritedu @palop_jaime @Javi_ramosmarco Será por culpa del @yetradio  #Ironia	valence	0.396
+2018-Es-02620	Dia de pinote 😅	valence	0.560
+2018-Es-00733	Si vas a tener pareja y vives con desconfianza, mejor quédate sola(o).	valence	0.188
+2018-Es-04903	@RenaCorrea15 También 	valence	0.563
+2018-Es-06007	@robftjimmy Pero jota es legendario 😭	valence	0.246
+2018-Es-05444	Ya reportan + de 9 millones votaron. En el referéndum saldrá por amplia mayoría, con apoyo de 12 millones,  sí #CatalanReferendum #ironía	valence	0.500
+2018-Es-05180	@tati_luna07 Mira , mira lo que dice esta guaranga bo , es grave lo tuyo jajajajaj	valence	0.563
+2018-Es-04896	@triquis Que bien !!!' A descansar 	valence	0.667
+2018-Es-01835	No puedo estar mas cansada lpm	valence	0.152
+2018-Es-06872	Esa sensación de alegría interna el estar en casa y aún poder ver las estrellas, no tiene precio 😊	valence	0.792
+2018-Es-02517	Jorge Luis Borges: Yo no hablo de venganzas ni perdones, el olvido es la única venganza y el único perdón.	valence	0.380
+2018-Es-02459	El filtro que tengo, terrible	valence	0.313
+2018-Es-01055	No puede pasar un rato y que a mi mamá se le olvide alguno de mis tatuajes porque apenas lo vuelve a ver, le entra otra vez el empute 	valence	0.152
+2018-Es-00793	Después no fue un gruñido sino como un suspiro así super fuerte acompañado del gruñido. Más humanizado o algo D: fue terrible.	valence	0.292
+2018-Es-01552	¿Qué hago con mi pie? 😭	valence	0.271
+2018-Es-00817	En serio, no sé como interpretar nada ya	valence	0.375
+2018-Es-01762	Al pedo mire esa película de terror. Lpm	valence	0.282
+2018-Es-05279	@BurgosChochy Bueno dale monurdoooo, el que te viene a buscar entra y te despierta?,  hace ese servicio tambien monooo? 	valence	0.500
+2018-Es-04106	Después d la excesiva reacción d la policía nacional, comienzo a sospechar q la intención del gob español era la separación... #ironía	valence	0.313
+2018-Es-06491	Este es uno de esos momentos en los que la nostalgia,soledad y tristeza invaden el ambiente	valence	0.125
+2018-Es-01509	"prosperidad es invertir tu tiempo, no gastarlo" sgt	valence	0.543
+2018-Es-03921	Nmms que estes 🙄	valence	0.520
+2018-Es-05713	@1DPri1D si te extraño bien Bautister 	valence	0.458
+2018-Es-02124	Es de masoquistas saber que la persona que te gusta juega contigo, y aun así seguirle el juego.	valence	0.420
+2018-Es-06296	@GarciaAller Anyway, lo siento, no la quise ofender, sólo que me dejé llevar por el tono inspirador de su artículo	valence	0.542
+2018-Es-03962	La vdd no sé si estoy enojada, triste o idk,	valence	0.370
+2018-Es-00234	Y luego todavia despertar y ver que me guardaron una hamburguesa para cenar! ❤ Esta pequeña parte de mi vida se llama felicidad.	valence	0.932
+2018-Es-06569	Pasarán cosas. Los catalanes hacemos cosas. Mariano Rajoy: expresión audaz y directa. #ironía #lascallessonnuestras #poderalpueblo	valence	0.417
+2018-Es-05503	Qué locura! Un jugador defendiendo el derecho a decidir! Pero qué se ha creído que es esto? Una democracia? #PiqueFueradelaSeleccion #Ironia	valence	0.354
+2018-Es-03194	Me encanta cuando las cosas salen como quiero y cuando quiero. #Contenta.	valence	0.854
+2018-Es-02609	@gxspardeleon Igual sigo enojada con vos	valence	0.229
+2018-Es-00097	Cómo juzgan por no estar en algún buen momento... y cómo olvidan cuando siempre apoyaste en las malas #ironia	valence	0.409
+2018-Es-00229	Qué mejor plan para una tarde de jueves q ...pasar los apuntes y ver un documental sobre Lady Gaga en Netflix? #estoyatope #sarcasmo #ironia	valence	0.435
+2018-Es-06267	@Kevshica FUI A TODAS LAS REDES DE LALI RE DESESPERADA, ME CAES MAL ahre	valence	0.174
+2018-Es-05390	"Tienes esa sonrisa que me gustaría ver cada día de mi vida."	valence	0.833
+2018-Es-02822	@romoyano_26 Tal cual, el tema es que pasó caleta de tiempo dejando plsp enamorados, que hasta le compartian sus claves de Netflix 	valence	0.646
+2018-Es-03860	@ferdipoca Con todo gusto 😏	valence	0.750
+2018-Es-03315	Hacer un pedido en @AmazonESP,que digan que llega en un día,pero no llega..  ¿Es engaño? ¿Para eso me suscribí a @amazonprimenow? #enfadado	valence	0.174
+2018-Es-00395	@CopaInterProvCR @baldes_santiago Q me pongo nervioso xd	valence	0.438
+2018-Es-06607	Evidentemente Wonder Woman pasó a estar en mi top 5. TREMENDA.	valence	0.708
+2018-Es-05308	Siempre he dicho que elegiría twitter si solo pudiera usar una red social: aquí hay memes y gente amargada como yo, no necesito más PERO	valence	0.396
+2018-Es-05101	Me encantan los fines de semana de Overwatch gratis, la gente aprovecha para crearse smurfs y dar todo el sida, es precioso. #ironía	valence	0.591
+2018-Es-01848	los amo mucho son muy talentosos bailan super bien (su sincronización is no joke) cantan como los dioses son hermosos rapean genial	valence	0.854
+2018-Es-03638	¿Qué pacíficos los independentistas en la huelga de hoy no? #ironía #flipo	valence	0.320
+2018-Es-01380	#Ironia ✋ no ✍️ de Política: Sale 🎥📼 de Martín Santos en NY. 😖😭😭 No Colaboran 😡😡	valence	0.250
+2018-Es-03021	#manosblancasm4 Donde estaban los del #ppcorrupto y vuestra indignación en el homenaje a las víctimas del franquismo,en el congreso??? 🖕🖕🖕🖕🖕	valence	0.250
+2018-Es-00222	Hay gente q critica el día del padre, de la madre, del amigo. Densos dejen de quejarse y aprovechen la excusa para ver a sus seres queridos	valence	0.341
+2018-Es-04387	Que triste que tu mayor motivación sea el alcohol que consumas..	valence	0.225
+2018-Es-02142	Dormirse y tener una pesadilla. Dale luni vamos bien	valence	0.239
+2018-Es-01923	Me da risa siempre todas mis tías me preguntan si estoy pololeando🤦🏻‍♀️	valence	0.669
+2018-Es-01598	No mames @EPN como ignauragas algo peligroso? No mames...puras pendejadas #MiercolesCiudadano #Fail #Fraude	valence	0.220
+2018-Es-05639	Ir a la primera higiene del día, que se rompa la ducha y acabar duchado, empiezo bien el jueves! #Ironia 🤦🏼‍♂️🤦🏼‍♂️	valence	0.340
+2018-Es-00123	@LittleIsaaM o sea la chama se confundió de mesa pues, fue tremendo trambolikeo	valence	0.625
+2018-Es-00435	Que risa con las personas que dicen que unos hacen pedos cuando todos los pedos los hacen ellos. #Irónico	valence	0.625
+2018-Es-00136	@fuckrockbands Que agradable sujeta <3	valence	0.891
+2018-Es-02574	Es abominable que mantenga sus principios en vez de unirse a la masa para mantener la popularidad #ironía	valence	0.375
+2018-Es-02114	pobre y triste wn :) :) :) :)	valence	0.229
+2018-Es-02049	No hay peor comunicación que la de los comunicadores, ni estudiante que un profesor #Ironía #LaVidaMisma	valence	0.304
+2018-Es-01867	La felicidad llega cuando menos la esperas; ¡Aprovéchala! que nada pierdes con tenerla. #Fav #RT #FF #felicidad	valence	0.854
+2018-Es-00139	Es que tienes algo que me hace sonreír en solo pensar en ti. Tienes algo tan especial, que cada vez que te miro me vuelvo a enamorar de ti😍😚	valence	0.860
+2018-Es-01217	@liliamaranta Hasta q no compre su pasaje, no voy a ilusionarme 😂	valence	0.717
+2018-Es-00180	Jamás he tuiteado su nombre jajaja por miedo.	valence	0.660
+2018-Es-01654	Que felicidad me da saber que mañana te veo Mj amigo😻💜	valence	0.935
+2018-Es-03264	Con vino de ese que pinta la lengua 	valence	0.604
+2018-Es-01334	@ivanbelmonte96 Hay un gol que el central negro se duerme que seguramente será culpa de Escrivá... #ironía	valence	0.521
+2018-Es-01573	Ojalá pero OJALÁ... Que les vaya muy bien juntos 	valence	0.578
+2018-Es-05849	Cada vez pongo más temprano la alarma, ese pánico si se puede ver	valence	0.208
+2018-Es-00886	Si aprendes a perdonar y a olvidar, vas a encontrar la verdadera felicidad. #Fav #RT #FF #UnaVidaPk #felicidad	valence	0.615
+2018-Es-05483	Lo que menos pense termino pasando 	valence	0.438
+2018-Es-06242	Tener dos solicitudes de musulmanes y una de un judío en feisbuc, el mismo día, randomly. 	valence	0.438
+2018-Es-01073	No me puedo dormir, así que fui a tocar a Nala para ver si vivía porque desde que vinimos de la plaza que no se levantó 	valence	0.309
+2018-Es-03710	Llevo casi 7 horas sin internet de hogar de @kolbi_cr . Espero que me rebajen de la factura las horas sin servicio ( #sarcasmo )	valence	0.280
+2018-Es-02152	Me quiere cambiar el fernet por un licor de melón. Chau yo me voy a dormir. 	valence	0.375
+2018-Es-05664	@Guille_Pacheco Claramente! Era lo que me hacía falta para dormir tranquila y a gusto 	valence	0.750
+2018-Es-05305	"De pronto ya no quise regresar a casa. No tenía una casa. No tenía nada más que rencor y miedo."	valence	0.125
+2018-Es-05620	-Ella enojada me putea en 12 idiomas. En ese momento es la mas hermosa! #enojada #love #tarde	valence	0.522
+2018-Es-01219	#DigimonETC se arregloooo! Tenemos tamers, señores #felicidad	valence	0.896
+2018-Es-00476	@ImBroLyK @ImQuantiCoo__93 Il pue la merde 	valence	0.458
+2018-Es-00069	Me hago la fuerte pero no aguanto más, no puedo seguir con todo esto 😥	valence	0.079
+2018-Es-04912	Mi peor temor en la vida son las agujas y que me vayan a sacar sangre mañana me hace pensar en cómo suicidarme ahorita ya	valence	0.261
+2018-Es-06050	@AngieFretes Yo te aguanto 	valence	0.493
+2018-Es-06879	@GranaNacho @EscJmiranda @aznarez_toti @AnaKafci @noelmesa @Cybertario En vez de insultar a realizar mas comprension lectora	valence	0.313
+2018-Es-04917	"Aún le escribía, a pesar de que la había borrado de su historia."	valence	0.333
+2018-Es-00504	Me dueles demasiado petrologia 😢	valence	0.083
+2018-Es-05760	Realmente da gusto estudiar.  #ironía	valence	0.522
+2018-Es-05778	Usted afirma ANC traerá paz y prosperidad. Yo pienso resultará en dictadura, miseria, bloqueo económico, represión, humillación y Migracion.	valence	0.146
+2018-Es-01858	No me bastaba con tener los labios carnosos necesitaba que se me hincharan más.🙄😒🤕😷😭 #Ironía #DueleMucho	valence	0.271
+2018-Es-04095	@draco_malfoyesp —La rubia intentó asimilar aquellas palabras lo mejor que pudo, pero acabó por fruncir el ceño con una expresión que»	valence	0.375
+2018-Es-01617	Ni en pedo, bueno en pedo si 	valence	0.479
+2018-Es-05111	@arielmou Waow! Y en México no se necesita tener un arsenal para tanto muerto verdad? #irónico	valence	0.354
+2018-Es-02151	@ruggelariamor_ Ay que bien 😃	valence	0.631
+2018-Es-02983	@matadoreltiempo Definitivamente el q hizo ese meme perdió el bachillerato.  La falta de educación,  un problema  historico	valence	0.375
+2018-Es-06441	Me enojo en secreto cuando veo tus etiquetas de memes de putería.	valence	0.208
+2018-Es-02028	@Muzskatolista Lo digo porque a la peña se la sopla si es para ofender o no, lo van a hacer igual xd	valence	0.500
+2018-Es-05100	Q re manden video mostrando el piso xq no hay audio #Miedo #insta #Desconocido	valence	0.396
+2018-Es-03680	Chiks pls, no es gracioso que se hagan pasar por Sebastián justo ahora   #SebastianVillalobos #PDCs #SaakTrendy #KCAMexico	valence	0.331
+2018-Es-03609	Que ningún gil te apagué tu sonrisa	valence	0.522
+2018-Es-00359	La vi muy abrigada 	valence	0.565
+2018-Es-02075	siempre que cocino algo le mando fotos re emocionada seguro está re podrido	valence	0.604
+2018-Es-05983	@AlisonVivanco Brillante !!! Nada más	valence	0.833
+2018-Es-05345	La voy a subir a wsp 	valence	0.652
+2018-Es-03423	Soy tímida al principio,  pero cuando entro en confianza,  probablemente pienses que estoy LOCA!!!! 😉😜✌	valence	0.833
+2018-Es-04071	@feminoacid Claro como siempre se da por hecho que todos somos heteros y CIS por que cambiar eso? Si todos somos personas! #ironía	valence	0.521
+2018-Es-05841	Feliz día manga de kokemones!	valence	0.854
+2018-Es-05108	@TankiianCandado Se ve claramente que estás alimentando al pobre animal con chocolate #ironia	valence	0.479
+2018-Es-02434	demasiado tiempo perdido y amargada	valence	0.140
+2018-Es-03395	@AlanFrankenteen Jajajaja pensé que ya te habían agregado. Ya les volví a decir 	valence	0.625
+2018-Es-04991	Tremenda loba había sido	valence	0.313
+2018-Es-03473	LAS FOTOS DE BTS X PUMA ME SACARON DE LA DEPRESIÓN ESO	valence	0.646
+2018-Es-05028	Tremenda loba había sigo	valence	0.500
+2018-Es-05426	@gxrbxgs Qué agradable sujeta.	valence	0.740
+2018-Es-01675	Tengo dos trabajos y no me alcanza para vivir 😂	valence	0.438
+2018-Es-06703	Por que no me habia dado cuenta que tengo público mis publicaciones de fb?😤😤😤😨	valence	0.479
+2018-Es-03417	Qué cansancio lpm	valence	0.239
+2018-Es-01192	@Ivansexxxoso Exagerado... me cuesta encontrar amigos así y luego luego te quieres ir... 🙁	valence	0.435
+2018-Es-04250	A esta hora a uno se pone sad, horny, alegre con hambre	valence	0.500
+2018-Es-04885	"con esa cucharita y terrible boca no vas a terminar de comer" amorosa	valence	0.457
+2018-Es-01326	@ELTIEMPO Lamentable decisión, ese man no tiene palabra y no cumple lo que promete,	valence	0.205
+2018-Es-04782	Que es lo que más te gusto de Madrid?? #PabloAgustinResponde	valence	0.674
+2018-Es-05812	Agus se caga de risa por como lo puteo😂❤	valence	0.792
+2018-Es-01900	Va LLENA de dios pero VACÍA por dentro 😂  #ironía	valence	0.583
+2018-Es-02296	bad es excelente a pesar de que los grammys lo despreciaron, lleno de optimismo, romance, urbanismo, vocals y su mejor gira	valence	0.560
+2018-Es-04459	Acaban de asaltar a mi hermano menor, lo han pateado en la cara, en emergencias por la lacra de la sociedad, rabia e impotencia	valence	0.125
+2018-Es-04776	menos mal que por el tl no me he topado a ninguna rata hablando pestes de jongin, esto es a lo que llamo felicidad	valence	0.473
+2018-Es-00519	Que afortunada que soy por tener a la gente que tengo en mi vida. Que lindo que lindo que lindo todoooo💞	valence	0.917
+2018-Es-04121	Que traidora me salió Celeste 	valence	0.250
+2018-Es-02656	tener el pelo lacio y fino es horrible, se me enredatoooooodo	valence	0.354
+2018-Es-00546	Muy indignada con la película que acabo de ver 😭😭😭😭	valence	0.140
+2018-Es-06095	A mi las cosas se me dan porque siempre creo que se me van a dar, si alguna vez pienso en negativo en el fondo siempre soy optimista 	valence	0.625
+2018-Es-02286	Tener sueño y no poder dormir #Ironico😑	valence	0.292
+2018-Es-02735	@Guille_Mera Cada vez lo estas dejando mejor... 😒 #Ironía	valence	0.457
+2018-Es-03598	@UnOsocornio Ponte mejor pantalones para dormir. 	valence	0.500
+2018-Es-03749	Estas pláticas parecen rounds que divertido👹👹	valence	0.625
+2018-Es-00736	Cuando nos agarre el fin del mundo todos vamos a estar en esta mierda    	valence	0.290
+2018-Es-01309	La vía electoral convalida ANC. Y esta a su vez aprobará refinanciamiento de deuda, compra de armas y nueva deuda... Gracias #ironico	valence	0.458
+2018-Es-02587	@katerinenene Puedes escribirme cuando quieras bonita 	valence	0.708
+2018-Es-02295	@bg_elwazoswki Cual cállate  viejo ya!	valence	0.162
+2018-Es-06924	Qué horror pelearse en la "despedida"😔😢😕😫	valence	0.167
+2018-Es-03370	Hay ternurita 🙄 a mi ni él café me quita él sueño 😉 #Odiosa #Sarcastica	valence	0.635
+2018-Es-03754	Dicen que no es bueno que duermas enojada, yo por eso comento lo que no me parece, eso no quiere decir que me enoje.	valence	0.304
+2018-Es-04863	@SCT_mx @gruizesp @beltrandelrio Hubo al menos 5 oficios que indicaban el peligro inminente pero no hicieron nada.	valence	0.200
+2018-Es-00650	Ayron de Valle juega a buscar la falta, que vaina para aburrida. Se pierde sorpresa en la salida y en el ataque Millos a mejorar mucho	valence	0.565
+2018-Es-01625	Miedo a que comiencen a matar políticos y líderes sociales de manera sistemática. Miedo a que en casa no podamos hablar de política. 	valence	0.188
+2018-Es-03139	@NazoC2H Trabajen vagos estudien y vuelvansen unos "prestigiosos y honorables" magistrados de la rama judicial #sarcasmo	valence	0.396
+2018-Es-05182	Y se hacen llamar periodistas, muy pocos los decentes eh! Aplausos @Miguel_layun	valence	0.227
+2018-Es-06383	Que cagada que mañana tenga que ir a reposición 🙁	valence	0.196
+2018-Es-01215	@uri_r46 @policia Defienden tu derecho de imitar al Rey Misterio, sigue las normas incívico! #Ironía	valence	0.396
+2018-Es-01883	Mi mayor miedo es presumir a alguien que me esté fallando.	valence	0.313
+2018-Es-02024	Detrás de una sonrisa se esconden  tú felicidad o tú tristeza, en un abrazo tú seguridad y en tu sangre tú pasión.	valence	0.696
+2018-Es-00855	@makikuroneko Sí, en las buenas y en las malas, hasta que la muerte nos separe 	valence	0.674
+2018-Es-03734	@chochos Mejor que los horrendos corsé que le ponian, si está el saquito 	valence	0.458
+2018-Es-04940	@TusEncuestas_ TED si tuviera el fantasma me dirían loca igual con el oso pero soy miedosa	valence	0.396
+2018-Es-05055	Sólo estoy muy enojado con todos son razón aparente.	valence	0.208
+2018-Es-05596	Por un momento pensé que era jueves y llegaba a clase, una alegria que sea miércoles y si que me de tiempo a ir...#IRONÍA.  😊🔫	valence	0.500
+2018-Es-00212	#TengoDerchoHaSaber porque en las escuelas ya no cantan la cancion #LosPollosDeMiCajuela #Sarcasmo	valence	0.413
+2018-Es-03435	@_ELBRAYAN_ Muy malvado él que juega así con uno jejeje	valence	0.625
+2018-Es-02631	Mis hermanos de vacaciones y yo poniendome la alarma para ir a trabajar mañana 🤷🏻‍♀️	valence	0.261
+2018-Es-04341	@mybosscabello Jajajajja csm sono muy raro 	valence	0.780
+2018-Es-05974	que es eso de enojarse porque no les dan bola tan resentido vas a ser la puta que te pario MIRAME CUANDO TE HABLO	valence	0.130
+2018-Es-06531	@Camila_Cabello @BrunoMars ME TIENES ALTERADA EMOCIONADA GRITANDO Y SIN PODER DORMIR 😅	valence	0.660
+2018-Es-06110	O sea que ya no saldrá la Liga Salvadoreña en el FIFA 2018? #Ironía	valence	0.500
+2018-Es-05661	@MiguelStraube que oso mi yo del 2012 jajaja , te refieras de pela yolo tuitazo? , con el diego 	valence	0.583
+2018-Es-06341	Divino arrancar el día cayéndote con furia en la vereda a las 5 y media de la mañana.	valence	0.391
+2018-Es-04202	Otro entretenimiento para mi alma sin ganas tendré que encontrar	valence	0.370
+2018-Es-05213	@JoseAMdeejay con ese summertime me has hecho recordar mi primer festival en bcn con 18 años, emocionado al recordar a mis amigos de alli	valence	0.708
+2018-Es-05879	@MicaSuarez12 @Hugmesuarez No te gusta nada sos yo 	valence	0.458
+2018-Es-02425	@PenaPenardz Claro que no está súper chistoso 😂	valence	0.792
+2018-Es-05209	“Todos conocemos el final Y el final no es #feliz Porque sabemos el desenlace, pero ignoramos el argumento” #DavidTrueba #TierraDeCampos	valence	0.360
+2018-Es-01029	'Si te veo sonreír me siento completo'. Estallo de amor por mis amigoooos💥💖💖	valence	0.938
+2018-Es-03288	@JuanOrlandoH Muy contenta porque mi familia era mas que explotada con esos elevados intereses.. Se les termino la fiesta	valence	0.625
+2018-Es-05377	@KidGuilty @cathy Jajajajaja ctm la #pipeton 	valence	0.532
+2018-Es-06542	@Nacho21GD Eso es ser cobarde.   En palabras chilenas es eso es de Maricon	valence	0.188
+2018-Es-02254	El partido de Isco fue una mierda y el de Bale, Modric, Kroos, Casemiro y CR7 fue la hostia en verso JAJAJAJA #ironia	valence	0.479
+2018-Es-00031	¿Qué es amar? Nacer y morir a cada paso, alegrarse y sufrir, tener y perder. ¿Qué es amar? solo tu me lo puedes decir . A Kiko de Patri TQM	valence	0.750
+2018-Es-06234	Quiero ir a Queretaro a las librerias gigantes y geniales. 	valence	0.792
+2018-Es-05454	@poeticjoels EN OTRAS PALABRAS CREO YO Q QUISO DECIR ES Q SI TIENEN PREFERENCIA EN UN PAIS DE ELLOS JAJA NO SE 	valence	0.458
+2018-Es-00625	@sophia712 Jajaja la vea estamos igual 	valence	0.546
+2018-Es-03129	Lo que me gusta de Francis (House of Cards), es que el no miente por presentarse tan cual es, es un ser terrible y lo disfruta.	valence	0.630
+2018-Es-00820	A la Semana claro está #ironico	valence	0.543
+2018-Es-01973	Por favor qué referéndum más democrático con papeletas ya introducidas en las urnas antes de votar la fiesta de la democracia #ironía	valence	0.354
+2018-Es-06310	Oye..! Que alegría ver @k_Johansen cantando a #VioletaParra ... Una elegancia tremenda...!!! 🇨🇱🎶❤️🎶🇦🇷	valence	0.886
+2018-Es-05033	Qué aburrido estoy	valence	0.263
+2018-Es-00917	Q susto ... 😖😖😖	valence	0.375
+2018-Es-02753	Cuando olvidas ponerle a un tuit la etiqueta #Ironía y todos crees que lo que escribiste es una afirmación #MalaMía	valence	0.326
+2018-Es-01524	Me siento mal, al no poder ir a ayudar 😟	valence	0.208
+2018-Es-00895	Pues eso, que la solución es la democracia #ironía.	valence	0.413
+2018-Es-02509	Hoy #2Oct es el #DiaInternacionalDeLaNoViolencia. Hoy #2Oct es el #DiaDeLaPolicia.  La #ironía	valence	0.417
+2018-Es-02253	No hay cosa que me alegre más el día que ir guiando y ver un perrito en la ventana de otro carro jugando con el viento :')	valence	0.917
+2018-Es-05870	Yo puedo estar feliz, triste, enojada, con miedo, cansada, aborrecia, eléctrica, pensativa, borracha o sobria y mi cara siempre será 👉🏽 😒	valence	0.542
+2018-Es-00451	@jcsosazpurua Yo lo llamaría socialismo populista, estado de bienestar, cohabitación criminal, culillo, en fin, tantas cosas!! Lamentable!	valence	0.271
+2018-Es-06948	@Alex_albert_1 hola Alex, que seas muy feliz en este miércoles, inténtalo o me enfado 🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈	valence	0.909
+2018-Es-04733	aparte creo q lo dijo en serio ajajajajajajajajajajjajaajja pero fue muy gracioso	valence	0.870
+2018-Es-06063	Que afortunada soy de tener a los amigos que tengo, de verdad lo mejor de mi vida❤	valence	0.938
+2018-Es-06040	"Spotlight" - Iglesia, pederastia, abusos, investigación, periodismo, ética, religión, poder...muy recomendable #asco #rabia #vergüenza	valence	0.125
+2018-Es-04890	La tercera es una copa q vivi por un Idiota 🍸🐕😡	valence	0.250
+2018-Es-00463	Me parece que me falta una noviesita durante la semana ahno 	valence	0.500
+2018-Es-04396	¿Se imaginan lo aburrida que sería la vida si complaciéramos a todo mundo?	valence	0.385
+2018-Es-03591	Vamos a ver una epiquísima lucha por ver qué support rushea antes el Ardent Censer #Ironía #Worlds2017 #PlayinWorldsLVP	valence	0.653
+2018-Es-04531	@santiagoforero_ ¿Juegas? 	valence	0.630
+2018-Es-00209	@arlenemusume Ufff. Es terrible. Mi ex sufría ene por eso y yo me sentía muy mal por no entregarle la ayuda que correspondía	valence	0.413
+2018-Es-03299	Me va a costar un huevo despertarme temprano 😅	valence	0.543
+2018-Es-04545	#CiclismoUruguayo  El camino para que los medios de alcance nacional le den más difusión al ciclismo, es insultandolos.  #ModoHumor  #ironía	valence	0.333
+2018-Es-03173	@PauMancilla_ @Tincho_moras10 Compas de mate amargo jaja	valence	0.583
+2018-Es-06936	#4Oct #DEAGalicia2017  Nótese a #ironía coa que estou tuiteando ...es que a mí la eterna derecha gallega me aburre 😴😴	valence	0.295
+2018-Es-03424	@35PAIS @pameaguirre1 @35PAIS ES UNA PENA,la gente y me incluyo!,esta enfadada con LENIN,creemos en AP,somos AP , pero UDs pueden CAMBIARLO!	valence	0.348
+2018-Es-02354	Terrible playlist se armó el Mesa, lo banco	valence	0.522
+2018-Es-03485	Si el Chacon llegó a Magdalena yo le doy la vuelta al mundo 	valence	0.457
+2018-Es-05913	@SoyFan10 #HailCantera Estoy orgulloso del pescado	valence	0.879
+2018-Es-06416	Estoy más ofendido que alzate cantando.	valence	0.208
+2018-Es-06662	Sólo se que estoy muy lejos de casa, donde no conozco a nadie, nadie me conoce y Google maps no funciona. 😭😭😭😭😭😭😭 #tdiario 	valence	0.167
+2018-Es-00503	Puta madre, en la vida había estado más enojada	valence	0.125
+2018-Es-02979	Es agradable, se siente la comodidad entre nosotros a pesar de no vernos todo el tiempo, hablar sin preocupaciones, me da tranquilidad.	valence	0.875
+2018-Es-02132	@MtzAnaid Nunca en tu vida habías visto tan buenos memes 	valence	0.646
+2018-Es-06470	@JimJusticia Si, hay miles de agresiones al día por ello... Totalmente de acuerdo #ironia	valence	0.292
+2018-Es-02512	Querer lo q tw hace daño jajajajaja #ironico	valence	0.604
+2018-Es-01052	Volver a la pega no me entusiasma pero yo lo pedí. Capaz que me estén esperando con el medio sobre azul 😂	valence	0.500
+2018-Es-02817	Era una mujer herida por el pasado, desconfiada, fría, una de esas que difícilmente vuelven a querer.	valence	0.348
+2018-Es-03713	Ve bien por la vida y te ira bien en la mida... asi ei!	valence	0.717
+2018-Es-06784	@omarlavieri Jajajaja! Está fusionado con la ligustrina y cada tanto se materializa. 	valence	0.761
+2018-Es-04415	@TwoPotz Calla que la hackeas bien rico 😅	valence	0.667
+2018-Es-04672	Mi abuela dice que Messenger se le perdió solo 😂 ( lo elimino )	valence	0.708
+2018-Es-00107	@Lu_Pereez tremenda crota ahora q me pongo a pensar jajajajjaajajajajajajaajja menos disimulación	valence	0.640
+2018-Es-04066	Cada alarma que escucho se me pone la piel chinita y un hueco en el estomago 	valence	0.214
+2018-Es-00188	Lo que no sabes es que cuando te vas a dormir, me enojo a propósito para que te quedes más tiempo hablando conmigo.	valence	0.478
+2018-Es-01266	Ahora a entrenar el viernes y el sabado ya se juega	valence	0.604
+2018-Es-03929	@7Spain7 Tu siguete creiendo lo que te dicen por la tele que seguro que todo seguirá yendo bien #ironía	valence	0.326
+2018-Es-02872	Lo divertido de Twitter es qué hay tweets con dedicatoria, solo porque si, con feelings, con memories, sin sentido. Etc..	valence	0.674
+2018-Es-00529	Estaba muy emocionada por hacer fiesta de despedida y todo ese show pero la neta ya lo único que quiero es irme alv	valence	0.332
+2018-Es-03332	Re tímido mi tio para roncar jajajajajajaja	valence	0.792
+2018-Es-05821	Me pongo nervioso cuando tengo que tomarle la orden a mi crush.	valence	0.375
+2018-Es-03651	Definitivamente soy el tipo de persona que da lo que recibe, y la forma en que nos llevamos es el más claro ejemplo de eso 	valence	0.542
+2018-Es-02311	bueno, a ver que yo me entere, ¿ha votado ya la familia Pujol o aún nada? #ironía	valence	0.417
+2018-Es-04067	@LorenzoArado Feliz día Loren!👐💕	valence	0.833
+2018-Es-00090	Bueno lo re faveaba 	valence	0.542
+2018-Es-03549	Hoseok esta muy esperanzado y optimista con respecto a su mixtape, por eso espero que lo valoren y lo aprecien como de verdad se merece	valence	0.667
+2018-Es-03518	Tengo q hacer algo o está ansiedad me va a consumir	valence	0.174
+2018-Es-06249	@GustiSabio Por que hablas así porque sos internacional ahora? 	valence	0.500
+2018-Es-06083	@TodoRating @telefe Y a esa hora no hay nada 	valence	0.491
+2018-Es-02825	@JorgeBustos1 @vilpetrus Asco, indignidad y que dice Pedro Sánchez ?	valence	0.217
+2018-Es-06403	-En Arabia Saudi lapidan a las mujeres por adulterio. -Ya pero les dejan conducir. Mándales un barco con armas, anda.  #ironia	valence	0.292
+2018-Es-05542	@Ancler_123 @emocritoMCPE Joder que nostalgia :'v	valence	0.304
+2018-Es-01690	El Rey hablando de la gravisimad corrupción del @PPopular #Ironía	valence	0.413
+2018-Es-01188	Estaba bien emocionada por mañana porque iba a ver a mi novio chiquito bebé y resulta que a la mera hora no porque puta vida. 😢💔	valence	0.174
+2018-Es-06021	Yyy se enojo, como siempre.  La entiendo.  Si, ya se, siempre la cago🤦	valence	0.295
+2018-Es-04330	@PliskoPova Yo lo vi hace poco, esta super chistoso jajaja. Y con la misma expresión de Vegeta mientras graba a Davis 😊	valence	0.743
+2018-Es-04824	@YoSoyDeLeon Leonés hasta el alma (todavía hablo cantadito) pero también ya soy de esta ciudad 	valence	0.500
+2018-Es-06367	@SofiaIturres Talvez vio algo...👻 	valence	0.523
+2018-Es-05660	Me dieron ganas de comer gomitas y por acá no venden😡😡😡	valence	0.477
+2018-Es-01891	Me encanta esa gente que cuando deja de tener novi@ vuelve a querer salir contigo, pero si se echa otr@ vuelve a desaparecer #Ironia	valence	0.396
+2018-Es-01319	Odio estar tan enojada y que me de risa💆	valence	0.479
+2018-Es-03368	@FuriosoChe @10Requena Cada día nos dan más motivos para estar orgullosos de ser españoles... #ironía	valence	0.521
+2018-Es-02704	@xxxeyla Yo he leido ciertas cosas 	valence	0.542
+2018-Es-05757	@AtTimesMX y hace bien para eso lo pusieron lo canadienses. No que el pena es mas agachon y corrupto que ya regalo todo (incluye poblacion)	valence	0.341
+2018-Es-03822	sigo aca y tendría q estar durmiendo 🙁	valence	0.403
+2018-Es-04470	@DiandraViloria Y tu comes eso, loca? 	valence	0.458
+2018-Es-06015	Que desesperación neaa	valence	0.238
+2018-Es-01047	@KevenYHensy Yo estaría muy orgullosa si fueras mi hijo, pero no eres mi novio, y estoy muy orgullosa de lo que mi novio esta logrando.😏💙	valence	0.860
+2018-Es-02742	@eliasintwiter Suerte y disfruta!!! 	valence	0.761
+2018-Es-06244	Bienvenida Estefanía! Eres muy afortunada, tienes una familia maravillosa y unos padres muy queridos @lauragarza y @MxUlysses Felicidades!	valence	0.938
+2018-Es-05634	@PPTenel13 Una q se dio cuenta q su pelea esta ahi.	valence	0.457
+2018-Es-05641	@natymartins No amor, vos también lo podrías hacer. Pensé que solamente eras fan de La Sole, pero parece que del Pro también. 	valence	0.609
+2018-Es-00517	@gines_natalia Buenas noches ami gordita @gines_natalia q descanses amor mañana mos vemos tequiero amor #siempre #feliz #4y7meses	valence	0.875
+2018-Es-02779	El internet viene y va, así como el ánimo del Venezolano.	valence	0.348
+2018-Es-04288	@OzielCVargas9 Gracias!!! 	valence	0.750
+2018-Es-03970	@dbaezare @gaaatoso @weonaenchucha @cathy Ese mismo 	valence	0.563
+2018-Es-05714	#A5días1OctARV Que incisiva entrevista de Ferreras a la señora Gabriel. La tiene acorralada. #Asco #Ironía	valence	0.223
+2018-Es-00014	Le parece que es copetencia 	valence	0.522
+2018-Es-06390	Vivo #Feliz, #vivo #danzando, vivo mi #música, vivo #Bailando	valence	0.891
+2018-Es-00168	@NekoJitaBlog Ah, como decíais que se dormía en vuestro futon y luego lo llevabais a la cuna... 	valence	0.625
+2018-Es-06401	No puede haber mirado asi y yo tampoco 	valence	0.478
+2018-Es-06115	Demasiada tensión. Días definitivos en los que todo se juega.  Que no se pierdan las esperanzas. Hay que seguir luchando siempre.	valence	0.396
+2018-Es-05572	No estoy llorando, se me metió un Hybrid Theory en el ojo.	valence	0.421
+2018-Es-03614	@javier_ruescas Que video tan divertido no paraba de reir de verdad muy divertido muy guay el video saludos de guadalajara México	valence	0.841
+2018-Es-01415	Jeje se nota que estoy aburrida , le respondo todas las preguntas a @FrChinx	valence	0.563
+2018-Es-01496	Murió para mi 	valence	0.250
+2018-Es-03938	@MPerez1598 @VTVcanal8 @NicolasMaduro en serio crees que te van a leer? si quieres llamas a superman	valence	0.458
+2018-Es-06199	Aléjense de los buenos ciudadanos feligreses del optimismo neoliberal. No necesitan esa clase de negatividad en su vida.	valence	0.455
+2018-Es-03106	@Camila_Cabello @BrunoMars SISISISISISI ESTOY TAN EMOCIONADA POR VOS MI AMORRRRR	valence	0.938
+2018-Es-05007	Cuánto odio hay en un país para que hasta una noticia buena, la conviertan en insulto?	valence	0.208
+2018-Es-06240	@Rusmandown Yo lo entendí pero bueno no fue gracioso :/	valence	0.236
+2018-Es-02924	10 el que juega poqui! Te quiero broda	valence	0.717
+2018-Es-01781	Y ahora un poco de política:  Maduro tiene miedo.	valence	0.348
+2018-Es-01220	@alejahuva12 Chistoso Anael.	valence	0.563
+2018-Es-02580	@Camila_Cabello @BrunoMars ESTOY TAAAAN EMOCIONADA	valence	0.958
+2018-Es-03865	@AntonioMaestre En España no hay nacionalistas @AntonioMaestre! #Ironia	valence	0.522
+2018-Es-04561	Mi horóscopo de “cuidate de los dolores estomacales” y llevo dos hras retorciendome de dolor.  Como no quieren que sea tan creyente de eso 	valence	0.239
+2018-Es-06868	@bascois Actos de venganza contra un dictador y sus acólitos? Por supuesto.	valence	0.370
+2018-Es-02218	Te tardas 4 meses en subir 5 lbs y las bajas en menos de 2 semanas😅 #irónico	valence	0.500
+2018-Es-04613	Las mujeres podemos diferenciar miles de tonos en labiales, pero no podemos diferenciar a un patán de un hombre que valga la pena. #ironico	valence	0.413
+2018-Es-03790	@J_Ghoul22 No se, pregúntale a tus amiguitas 	valence	0.313
+2018-Es-04483	@blurrycux hablar contigo me da tremendo asco pero me tengo que aguantar, no das más de depresiva puta emo de mierda tu cuenta es una cagada	valence	0.180
+2018-Es-04035	@Jerry_Eliz Es normal que me sienta orgullosa?	valence	0.667
+2018-Es-04999	@Psicovivir Creo q el lado oscuro d muchos salió a flote...	valence	0.458
+2018-Es-02578	A esta hora lo extraño más de lo normal 	valence	0.375
+2018-Es-03983	sueño con que todo esto sea algo que yo me haya imaginado y exagerado y al final no sea tan grave pero SEGURO LO ES quiero un abrazo	valence	0.479
+2018-Es-06601	@LaariDalfonso @MelRomano_ Juega a dos puntas...	valence	0.542
+2018-Es-04714	Hija:Ma quien es Juan F. Velasco?Ma: No sabrás! Yo: el que canta "baila baila mi vida..." #sarcasmo H:No Pa ese es Juanes! #aunsepuedesalvar	valence	0.583
+2018-Es-02556	@carls____ Jajajaj que agradable sujeto	valence	0.667
+2018-Es-06676	Cuando se #pelean tb deben subir fotos, no solo cuando hay #felicidad @LaRadioRedonda @XavierOZevallos @ADE_personal	valence	0.542
+2018-Es-04229	Jajajajajajajaja se te escapó el corazón jajajajaja mimoso 😂	valence	0.875
+2018-Es-04368	Me tenés tan pero tan cansado, porque no te vas a cagar y me dejas tranquilo 👍	valence	0.152
+2018-Es-04584	Esa Idea Me Gusto 💯💕👅	valence	0.875
+2018-Es-00515	@SebaGuerrero19 @NottoBerna Jajajaja sobre todo porque podían mantenerse parados 😂	valence	0.750
+2018-Es-04886	@Nellatronic Pero como, si tiene al país sumido en la miseria, un caos total,deben ser zurdos los que hicieron el ranking #sarcasmo	valence	0.217
+2018-Es-01364	La depresión no sabe de dinero ni de estatus social.  Solo que los pobres valemos triple verga.	valence	0.130
+2018-Es-06170	@luiskyburg Lamentablemente es así Luis. Espero que usted agarre un muy buen estado hoy!	valence	0.438
+2018-Es-05478	@EileenWally Gracias! 😊 igual para ti! 💪	valence	0.902
+2018-Es-04742	No mates al tigre si le vas a tener miedo a la piel	valence	0.438
+2018-Es-00722	estaba muy ansiosa para el show en argentina obvio y fue increíble pero ahora es en mi país y voy estar con mis mejores amigas	valence	0.917
+2018-Es-06054	Porto Alegre 5°C	valence	0.646
+2018-Es-05910	Mis 2 mejores amigas subieron historias bardeandome porque nunca más veo, yo subi una contenta porque nos organizamos. ASI SON EH	valence	0.460
+2018-Es-01348	Acompañenme a vivir esta triste historia 😂	valence	0.292
+2018-Es-01815	@madridesvida2 La coña viene por las conversaciones que me tocan, que simpatizan hacia una ideología. Pero no todos son así, por fortuna.	valence	0.238
+2018-Es-05342	Se nota q no quiero ir a la escuela.?? Hahaha espero llegar a tiempo 🙄 #Sarcasmo	valence	0.500
+2018-Es-02539	La gente amargada no mas no👎	valence	0.208
+2018-Es-05451	La ventolina que hay jesus se mueve toda la puerta 	valence	0.458
+2018-Es-04875	@Patty_Mene oye es en buena onda, diciéndolo con risa xdddddd no de pesa2, eso nunca hahaha	valence	0.833
+2018-Es-04590	Le grité "Falsa" y ella me respondió "dímelo en la cara" Y yo le respondí  "en cual de las dos" #Sarcasmo	valence	0.375
+2018-Es-02538	@Gonzz14 @braianwredeok Literaaaal Yo la fui a ver y ni pensé en eso Buen Dato eh 	valence	0.636
+2018-Es-00754	Estoy enfadada y odio a todo el mundo,  por qué simplemente no me puede dar igual	valence	0.109
+2018-Es-04553	@Loladiani Jajaja seguro era por eso! 	valence	0.900
+2018-Es-06322	@YanetCein Ave María purisima, no manches 	valence	0.438
+2018-Es-04527	Quejarse de la existencia de un canal de crítica a otros creadores de contenido es como quejarse de las críticas al cine	valence	0.327
+2018-Es-04989	No le gustaba la idea de estar en solitario pero acá lo tienen arrasando, Louis es la gloria. #BackToYou	valence	0.587
+2018-Es-02310	@pilypardo Realmente guapa jaja 	valence	0.800
+2018-Es-01049	me quieren hacer molestar pero soy una persona muy divertida, a los 20 deje los problemas de ira	valence	0.688
+2018-Es-01237	Cuando el cuerpo te pesa como 646481311kg... y ni un yogurt bifidus te ayuda a sentirte mas ligera. #FelizMiercoles #ironia #unagruagracias	valence	0.348
+2018-Es-01915	@MrKinoccio Jajajaja, hay que ganar audiencia tío y hay que provocar	valence	0.667
+2018-Es-03442	@liberixngirl Encima las chabonas con alta cara de satisfacción ahí pero dejate de joder y comete una buena verga	valence	0.375
+2018-Es-05368	@Rhysand_wv Eso es cool, Soy Maggie.   >> Le tiende la mano con una sonrisa	valence	0.688
+2018-Es-06410	Casate conmigo! La frase más aterradora del momento.  #VidadeHoy  #Miedo  #Terror #Amor_Locura	valence	0.565
+2018-Es-05217	Acabo de comprar el bikini más hermoso del mundo , estoy muy feliz 🌊❤️	valence	0.979

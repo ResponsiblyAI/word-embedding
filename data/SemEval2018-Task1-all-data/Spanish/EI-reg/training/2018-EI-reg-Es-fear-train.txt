@@ -1,0 +1,1167 @@
+ID	Tweet	Affect Dimension	Intensity Score
+2018-Es-06796	La vida ya de por sí es peligrosa, no por las personas que hacen mal, sino por las que se sientan a ver cómo pasa.	fear	0.750
+2018-Es-06846	@ShunOfLove -Cuánta confianza y alegría, sobretodo su 0 temor a el... Pero bueno. Sonrisa leve- ¡Gracias, chica!~	fear	0.375
+2018-Es-00605	26 mmm sospechoso jajaja la mejor con vos 😘😘	fear	0.250
+2018-Es-04552	#Temblor 4.5 de magnitud. Desde Caracas, un piso 11. 	fear	0.667
+2018-Es-01176	Después de todo aún me pones nerviosa... Te extraño	fear	0.500
+2018-Es-02642	Este año salen tantas pelis de terror quiero ir a verlas con alguien saben!😊	fear	0.458
+2018-Es-00134	"Practiquen el derecho y la justicia. Libren al oprimido del poder del opresor." - Jeremias 22:3	fear	0.179
+2018-Es-01098	@witch_scm Con la dos primeras ya eres especie peligro de extinción	fear	0.563
+2018-Es-02379	"No me va a temblar el dedo" -antonella bernal	fear	0.370
+2018-Es-05187	Tengo miedo de hacer matrícula	fear	0.917
+2018-Es-03001	Olvidé de del tal cabeza e mango, otro peine del gobierno...nuestra preocupación y objetivo es el gran evento nacional del #16deJulio	fear	0.543
+2018-Es-06873	Le daria un like al que dibujara a mi oc con vestido (esto no lo vera nadie mas que nicole, aunque me debería asustar un poco...)	fear	0.583
+2018-Es-05676	titi iba a poner la alarma en la calculadora JAJAJAJJA	fear	0.051
+2018-Es-05840	Me puse a llorar de mal y después paraba enojada y decia soy fuerte. Que onda Es como si el diablo me quiere mal y Dios me dice no caigas❤	fear	0.479
+2018-Es-02672	Mañana tengo que actuar lpm toy nervioso, vah es verguenza? Jajaja de travesti lpm 😂😂	fear	0.479
+2018-Es-01022	Paula está indignada y yo que no tengo ni para indignarme	fear	0.438
+2018-Es-03967	—Le está dando mucha pena Kelly porque intuye que no lo entiende— Cosas que los niños no hacen todavía, pequeñaja. Ellos dos son mayorcitos.	fear	0.457
+2018-Es-04373	@losmartines Vamoooos #PeñA!!! El coach está demostrando que es gigante!!!#Leo	fear	0.217
+2018-Es-03287	@albanagrigo Jajajajajajajajajajajaja fue lo mas y mas cuando perdió el arito jajjaajja	fear	0.130
+2018-Es-02164	Cómo me enferrrrman estás cosassss 	fear	0.688
+2018-Es-06008	Quiero que mi hermana mire el internado y no quiere, es una soreta.. 😭	fear	0.479
+2018-Es-00358	Que bajón me dio ver eso 😭	fear	0.813
+2018-Es-01511	@rodaned contestaste con un insulto, por eso te pregunto si estas nervioso	fear	0.375
+2018-Es-00380	@germxnthief < espalda del rubio, la cuál probablemente estaría marcada, pero ni con eso logró sofocarlo pues un gruñido salió de sus >	fear	0.500
+2018-Es-01314	es que archie colega sólo tienes músculos y judhead mira en serio ojalá te hubieran matado a ti y no a jason	fear	0.500
+2018-Es-04038	Pesa mas la #rabia q el #cemento	fear	0.375
+2018-Es-05490	@ObservadBinario Es preferible salir por Cúcuta. Por Maicao es demasiado peligroso	fear	0.957
+2018-Es-00706	vivo cansada como que el cansancio ya es parte de mi, me acostumbre	fear	0.479
+2018-Es-00730	Menos amor  y mas Aleteo 🎼🎼🎼🎼🎻🎻🎻	fear	0.146
+2018-Es-03931	"Es que mi nivel de madurez es superior al de los demás"  - Una amargada.	fear	0.354
+2018-Es-02617	A dormir, 1 fav = 1 pesadilla	fear	0.542
+2018-Es-05682	Una feminista quemó una revista Playboy. Hugh Hefner debe estar super preocupado en su mansión.	fear	0.226
+2018-Es-05008	@lareina_alerta @MuniLaReina actividad sospechosa, vecinos y yo llamamos al 1419, quedaron de mandar un móvil y no llegó.	fear	0.604
+2018-Es-00556	Debora P Volpin, 50 años, acaba de darse cuenta de la pobreza /conventillos, a pesar de que era conductora, NO PERIODISTA. En A fuego lento	fear	0.396
+2018-Es-04223	@Sergio_616 Btw si es por BSO me quedo con la de Wonder Woman la verdad, toda una sorpresa.	fear	0.271
+2018-Es-05892	Me asusté mirando "la momia" y nisiquiera era de terror.. a mí nomas me pasa esto jaajaj	fear	0.750
+2018-Es-06104	Hace 2 días quiero ver a mi novia y no puedo,tengo una amargura una cara de orto.. ahhh pero 2 birras más y le sonrió Hasta al matambre jaja	fear	0.479
+2018-Es-00716	La puta madre que susto me pegué jajajajaja	fear	0.854
+2018-Es-06533	Me siento como en Navidad cuando esperaba los regalos re ansioso	fear	0.458
+2018-Es-00159	Que matón vale jaja.	fear	0.188
+2018-Es-03827	Es peligroso acostumbrarse a alguien.	fear	0.646
+2018-Es-02593	Anoche me enamore de un pibe por sus ojos, pero lo vi una sola ves estoy llorando VUELVE QUE SIN TI LA VIDA SE ME VAAAAAA OOOO VUELVEEE	fear	0.333
+2018-Es-05395	Me invitan a tomar una birra y vuelvo borracha a mi casa.  Así  no  se  puede En tres horas me levanto 	fear	0.396
+2018-Es-03387	Tengo tremendo sueño	fear	0.309
+2018-Es-06378	Estoy aburrida .. quiero hacer algo!!!	fear	0.173
+2018-Es-02997	@LuchoCassinotti yo no pq me dijiste resentida y sabes q no lo soy	fear	0.396
+2018-Es-06340	Ahorita quisiera que mi preocupación más grande fuese no poder ir festivales de música y esas cosas	fear	0.521
+2018-Es-02138	@dejazmines Jajajajaja me paso lo mismo hoy (culpa de la tormenta obvio) 	fear	0.221
+2018-Es-05198	Que peligro Renata locoooooooo	fear	0.583
+2018-Es-06300	No fue broma :( lo preguntó en serio hahahahaha	fear	0.188
+2018-Es-05361	SACARON AMERICAN HORROR STORY EN NETFLIX  LA FRUTA MADRE QUE ME PARIÓ CHICOS ESTOY LLORAMDO POR QUE LA VIDA ME HACE INFELIZ	fear	0.625
+2018-Es-01057	"Escoger modos de no actuar fue siempre la atención y el escrúpulo de mi vida"	fear	0.396
+2018-Es-04398	@elenasmirnov8 @IsraelXVL0L estas preocupado por el ?	fear	0.543
+2018-Es-01271	LO AME ❤️❤️  Pero fue estilizado y capaz los matan 😱😱 	fear	0.396
+2018-Es-00545	@bianca43721 Dos tweets seguidos. Vos debes tener ansiedad por el viaje me parece...	fear	0.559
+2018-Es-06908	El que está asustado que chotee	fear	0.750
+2018-Es-00944	Los hombres son tipo: uy no esa vieja es horrible, es muy perra, la más paila, nunca me metería con ella.  Y CON ESA SE METEN!	fear	0.333
+2018-Es-03100	@JHarryStylinson *c va a amenazar gente para conseguir un dm larry* ahr 😂😂💜💜todo por ustedes 💜	fear	0.417
+2018-Es-05557	@wilnowil Dependiendo de cuán ansiosa sea (que se las quita con la otra mano) o si hace mucho oficios en la casa.	fear	0.413
+2018-Es-00952	@LulyCarreras_Ok No puedo darte otra sorpresa que no sea un mensaje/llamado porque no estoy. Perdón	fear	0.370
+2018-Es-06763	Recordé que un dentista estaba revisando mis dientes, se quitó los guantes e hizo movimientos obscenos con sus dedos en mi boca. 	fear	0.522
+2018-Es-06218	Tremenda pudrición tengo	fear	0.542
+2018-Es-01500	@NTN24ve No le pongan cuidado a ese bandido que no tiene pais donde esconderse por corrupto, tambien ira preso y por muchos años!!	fear	0.417
+2018-Es-00290	Le dije a Joel que me avise cuando llegue a su casa, hace como dos horas se fue y todavía no le llegan los mensajes.. Preocupación modo on	fear	0.938
+2018-Es-06718	Entramos con mi sobrina a mi cuarto, prendí la luz y ella dijo HOLAAAAA! a quién mierda saludó? 	fear	0.583
+2018-Es-00241	No hay palabras para describir lo inmenso que es mi papá, la tremenda persona que es, no puedo pedir nada más 💟🤗	fear	0.188
+2018-Es-04720	Que nervioso me hizo poner hoy la vieja esa en la escuela jajajajaja	fear	0.542
+2018-Es-03344	No hay ser humano, por cobarde que sea, que no pueda convertirse en héroe por amor #Bot	fear	0.333
+2018-Es-06150	Me llega de pronto la desesperación y el sinsabor.	fear	0.908
+2018-Es-04740	Les juro que si alguien me viera en mi fase de fangirl loca y obsesionada nivel Dios, se asustaría y probablemente no me vuelva a hablar 🙃	fear	0.587
+2018-Es-02475	Y esto de la recuperación a casi una semana... Imposible !! #Dolor #desolación #angustia  #tristeza  #perdida #muerte #impotencia	fear	0.896
+2018-Es-03578	Más ansiosa que nunca tramitame 43 litros de lejia	fear	0.708
+2018-Es-02676	supongo que una se cansa de hacer daño y huye como una cobarde (te dejé de seguir bloqueándote y desbloqueándote, no entré en tu cuenta)	fear	0.565
+2018-Es-04883	En 5 días me dicen en que universidad y en que carrera me quedé😱 estoy nerviosa xDx espero que me haya quedado en Medicina *pone changuitos*	fear	0.896
+2018-Es-00199	@DebRyanShow #RAYITO tengo cansada la vista estube todo.el.dia en el cel espredando algo nuevo	fear	0.479
+2018-Es-05763	Miedo es la primera vez que no puedes hechar el segundo; pánico, la segunda vez que no puedes hechar el primero. #miedo	fear	0.833
+2018-Es-03511	curao d espanto,	fear	0.652
+2018-Es-03690	El Rhodesia nos da un vistazo de como sería la humanidad si los Coapos hubieran ganado la segunda guerra mundial. 	fear	0.604
+2018-Es-01797	Estoy por mandarle un mail a mi ex-tutora para preguntarle si puedo seguir con el tfg #tristeza #morriña #sentimientosencontrados #confusion	fear	0.625
+2018-Es-00089	En Venezuela, el tráfico aéreo esta tan peligroso como el terrestre? Ya cayó otra avioneta.	fear	0.875
+2018-Es-06663	Si no tienes miedo es que eres un cobarde. 	fear	0.604
+2018-Es-04317	Soy tan fobica a las arañas que ni bien veo una o me las nombran las empiezo a sentir por todo el cuerpo 	fear	0.917
+2018-Es-04402	Y todavía, sigo perdido en el desierto de tu cobardía te lo dije, que si no lo intentas, no sabrías, y si algún día funcionaría.🎵♫♬	fear	0.458
+2018-Es-02196	A pero que lindo que anda el internet 🙄😒	fear	0.125
+2018-Es-05230	Ayer antes de irme me salió lo de la escoba y hoy cuando me levanto sigue todo igual. 	fear	0.625
+2018-Es-00993	Acá se generó debate acerca de me meto o no en esas camitas simil morgue de Kioto q acaba de mostrar @agustinneglia. Eso se cerrará? 	fear	0.354
+2018-Es-05548	@endgamebitch TO TODA ME TREMENDO	fear	0.375
+2018-Es-06584	#Terror lo voy captando. La culpa fue nuestra, las víctimas los musulmanes y el ayuntamiendo de Barcelona tomó todas las medidas posibles.	fear	0.813
+2018-Es-02148	Alguien sabio me dijo hace tiempo, el arma letal del ser humano,  La lucura, ese día la escuche como una profecia y con incredulidad 	fear	0.396
+2018-Es-06251	@negrabh Qué pasó Eimmy? 🙁	fear	0.438
+2018-Es-05196	@solm_ferzm Nota mental: no volverme a quedar a dormir en tu casa. 	fear	0.604
+2018-Es-06847	@AlfonsinaVin Gracias loca! Vení al brindis, estoy con algunos amiguitos. Me pintaron la calle rre nerviosa estaba jeje	fear	0.417
+2018-Es-05031	feliz día del amigo a la persona que perdió 200 pesos en la casey para que los encuentre yo. que sepa que la amo	fear	0.261
+2018-Es-05450	No lo veo como venganza, es más como justicia poética, espero...	fear	0.521
+2018-Es-01582	@TaquitoDeCecina Tiene muchos retuits. 😟	fear	0.292
+2018-Es-06374	Que no cunda el pánico	fear	0.625
+2018-Es-01186	#AlertaYihadM4 ¿Qué pretendéis diciendo a la población que está en manos de negligentes q ni siquiera atienden alertas de Bélgica? #Terror	fear	0.688
+2018-Es-01012	El único peligro de tener una #hotwife que terminarás loco enamorado de ella.	fear	0.458
+2018-Es-01288	@aguschimpf Upa, tremendo salto del gueymallen triple blanco a un Starbucks	fear	0.375
+2018-Es-00015	Qué odio y desesperación estar tan lejos de Tito en este momento! Unas ganas de abrazarlo fuerte, mi sol😳.	fear	0.500
+2018-Es-00994	@ValeDesavado Jajajaja y si, ni la alarma de tu casa te despierta hdp	fear	0.292
+2018-Es-04813	Ahora me agrego a snap 	fear	0.229
+2018-Es-00158	@Muzskatolista Eso de "sin ofender" sobra en Twitter	fear	0.261
+2018-Es-03392	Me da cosa que se valla asi! Ese dia voy  andar todo el dia preocupada😓	fear	0.688
+2018-Es-00929	son como Juan Carlos sacando una tirada de engaño tres para envenenar a alguien "toma este veneno DIGO... ESTA FANTA"	fear	0.500
+2018-Es-02270	Mientras el cobarde reflexiona, el valiente va, dstua y regresa victorioso.	fear	0.333
+2018-Es-00553	estoy mirando una peli de terror con las amiguitas de mi hermana y se estan asustando con una peli mas boliviana q yo	fear	0.544
+2018-Es-06482	@EmiBrez Te odio	fear	0.521
+2018-Es-02655	Kimberly me tiene más nerviosa	fear	0.792
+2018-Es-05803	y yo le tengo pánico a usar bikini vieron q soy re imbecil	fear	0.887
+2018-Es-04554	@Norwichtty Buenas, señorita. Algo aburrida, usted?	fear	0.188
+2018-Es-00145	Caliéntame con besos que yo no me enojo por eso.	fear	0.146
+2018-Es-06003	@DebRyanShow #Rayito turbo nervioso⚡️	fear	0.625
+2018-Es-00509	Odio ser tan ansioso	fear	0.771
+2018-Es-06109	Golpeas pataleas y haces berrinche porque no quiero ser tu novio 😝#JustFriends	fear	0.370
+2018-Es-04806	Fíjese este momento @alinroberto , nos está leyendo @cocosaez y se hace él desentendido y guarda silencio. Le tiene pánico a la dama.	fear	0.646
+2018-Es-06424	RT DianaferValle: Ser universitaria te lo defino como estar y tener una depresión,enojo y estrés más grandes que los de Hanna baker litera…	fear	0.696
+2018-Es-03548	desde q me entere q entregamos la 🗝️🔑 estoy muy desanimada...😟	fear	0.583
+2018-Es-00839	Chicos recomendarme un juego de terror. Pero terror de verdad estilo PT! 👻  #terror #miedo #pc	fear	0.646
+2018-Es-00573	Tremendo sueño tenngo	fear	0.304
+2018-Es-03446	Es que no existe temor cuando se prende el corazón...	fear	0.313
+2018-Es-04518	@SardellaAgustin Estoy escuchando el mismo tema x la misma parte y justo lei tu tw lpm 	fear	0.250
+2018-Es-01602	Desde ayer que vengo súper alterada y nerviosa con náuseas, y en casa me dijeron yyyy bueno MANDALE AL TILO  deja prefiero un vino	fear	0.750
+2018-Es-03702	Mañana voy a lo de la colo y quiero ver películas de terror pero no me va a poner pq no le gustan	fear	0.563
+2018-Es-01431	Tengo una ansiedad xq mis niños hagan la comunión y a la vez será mi primera comunión como catequista 😇	fear	0.750
+2018-Es-03769	LN la cerrrrda,te quieroo pesadilla	fear	0.396
+2018-Es-04280	De esto que estas a las 5:30 en la calle, como toda persona normal, te suena la alarma y retumba por todo Maliaño 😂😂😂🖒	fear	0.292
+2018-Es-03324	Estoy viendo el primer capítulo de AHS con una amiga y tengo 	fear	0.370
+2018-Es-05961	@florenciagerez_ Jajajajajaj tomatela cara rota esa sos vos 	fear	0.174
+2018-Es-03625	Va a estar tremenda la pelea esa ya en el primer cruce se dijeron de todo	fear	0.333
+2018-Es-06279	@CNT_EC tengan la gentileza de reparar el servicio de internet en mi casa! Es terrible que todos los días tenga problemas con la conexión	fear	0.396
+2018-Es-04841	No me habla nadie terrible garron jaja	fear	0.458
+2018-Es-01845	Mi superagenda handmade me dice hoy:"Por cada minuto que estas enfadada pierdes sesenta segundos de felicidad"😀😀😀	fear	0.396
+2018-Es-06700	No hay mal que dure 100 años ni cuerpo que lo aguante!!! Gracias a muchos por su preocupación 😽😽😽	fear	0.435
+2018-Es-06384	Lamentablemente soy muy sensible y cualquier tonteria me hace daño.	fear	0.604
+2018-Es-06853	Mi sobrina sigue en cama. No ha comido en varias horas. Parece que la energía del cuerpo se le ha ido. La luz le molesta un poco. #tristeza	fear	0.729
+2018-Es-04443	Tremenda angustia tengo jajaja	fear	0.761
+2018-Es-02277	Me siento tan desanimado de todo... Supongo que algún día esto me tendría que pasar.	fear	0.646
+2018-Es-04188	@CarlosBasombrio ☀️deseamos ir al centro histórico, pero no hay #Seguridad , Adios visita  #Santuario de #SantaRosa  Y #Mistura 2018 	fear	0.583
+2018-Es-06376	#AlertaMeteorologico no te tengo 	fear	0.413
+2018-Es-00472	Tu cuerpo será mío, te llevare a la cama, te haré sudar y temblar. Te dejaré sin fuerzas. —Att: La gripe.	fear	0.391
+2018-Es-03353	tenía re abandonado twitter literal😂😂	fear	0.167
+2018-Es-00255	No coger los auriculares ha sido totalmente ilegal 	fear	0.396
+2018-Es-06940	@NoticiasVenezue En claro signo de desesperación por verse descubierto el gigantesco fraude cometido a la nación.	fear	0.717
+2018-Es-02417	Que lluvia de mierda 	fear	0.479
+2018-Es-05607	En mi casa siempre se caen cosas y 	fear	0.729
+2018-Es-04716	#SelenasNewSingleOutNow he escuchado una parte de fetish y es re hermosa, voy a morir de la desesperación ahr	fear	0.438
+2018-Es-05953	@selene_pauluna Espero valga la pena!!!! 😅 😅	fear	0.188
+2018-Es-01704	@Lucas_Castel me vas a hacer llorar lucas	fear	0.625
+2018-Es-04215	Ayer me baje dos juegos de terror y me da cosa jugarlos🙄	fear	0.771
+2018-Es-04199	@EspiralCanal11 que tema, esta muy bueno y casi no se toca entre nosotros los hombres por temor a ser criticado	fear	0.587
+2018-Es-03999	@violekraut cuando quieras lisiada ;)   terminé de leer el tuit y se me autoguiño el ojo #miedo	fear	0.688
+2018-Es-02500	@zaurendrunks Cállate señorita venganza	fear	0.391
+2018-Es-03310	puedo parecer cool y lo soy, pero realmente soy una pendeja con mucha ansiedad, depresión y sueños en la basura ¿:D?	fear	0.708
+2018-Es-03197	Toy re triste me dejan	fear	0.542
+2018-Es-00901	Madurar es poder sonreír frente a esa persona que te hizo llorar.	fear	0.188
+2018-Es-06182	@abbigailnz Jajajajaja cuál es la sorpresa amiga?	fear	0.208
+2018-Es-03189	Se enojo por que le hacerte el nombre😂😂	fear	0.250
+2018-Es-02630	@globitohuracan Tremendo un avión tirado en el piso	fear	0.542
+2018-Es-03235	Creo que karol hizo bien en no ir a fans, estoy segura que se iba a sentir incómoda con las preguntas que seguro le harían	fear	0.565
+2018-Es-06408	¿Neta CDMX? 3 bloqueos en toda la ciudad. 3 pinches bloqueos y perder 3 horas en el tráfico. ¿Neta? 😠😠😠	fear	0.521
+2018-Es-04807	@GusMenFox @clubleonfc Muy feo!! Horrible se ve la publicidad !!	fear	0.688
+2018-Es-01088	@Vibra1049   @LeonardoUrregoM permíteme tener dulces sueños con manillas.... No dejes que siga en la pesadilla de no ir al #VibraTYM 😍	fear	0.500
+2018-Es-05304	fina pero en la cama tremenda sata	fear	0.313
+2018-Es-04492	Tengo un corazón terco, tonto, raro, impredecible, temeroso y muchos defectos más; pero que sabe amar como pocos aman	fear	0.413
+2018-Es-06622	Este es un mensaje encriptado y sólo las personas con coeficiente intelectual lo pueden leer.  	fear	0.125
+2018-Es-01313	Quemada es poco😤	fear	0.438
+2018-Es-00326	Ayyy que horror casi entro a wpsss	fear	0.846
+2018-Es-05699	@VickyFH_2891 Te acordas de esto? Es cuando recién empezaba todo el año pasado 😰 que horror	fear	0.625
+2018-Es-00129	@guillermochoa Siiiii por favor 🙁	fear	0.229
+2018-Es-00798	Estar durmiendo y que te despierten las voces de un atraco.... #susto 😩	fear	0.979
+2018-Es-05237	@zoidoJI Lo siento de corazón ❤️. Mucha fuerza le envió desde Galicia . 	fear	0.458
+2018-Es-00495	@BuffaloWingscol ☡ resulta alarmante  la  situación  señalada, requiere de respuesta de fondo y clara. Da cuenta de irregularidad. ☡	fear	0.604
+2018-Es-03873	Cuando una niña sospecha de otra niña, nunca falla.	fear	0.375
+2018-Es-04407	No sabía que estabas tan desesperada, chére.	fear	0.505
+2018-Es-06757	Imagino la indignación, preocupación y rabia de turistas que eligieron Perú para disfrutar y al final pasarla mal. La indiferencia es peor.	fear	0.625
+2018-Es-01880	Muero de la risa escuchando a Esdras como le tira a Mel,  en lo que quedaron, es terrible los políticos en este país.	fear	0.413
+2018-Es-01168	@la_huitlacocha Hazlo piede que te tenga una sorpresa 🙉🙉	fear	0.196
+2018-Es-03323	Unas pelis de terror👌😝 @lolo_ok02 	fear	0.542
+2018-Es-02403	@CaroThompson2 Las letras reflejaban la depresión que llevaba el loco	fear	0.646
+2018-Es-05808	Soy el terrible farsante oe	fear	0.432
+2018-Es-00759	@ManuelBartual Ah no, se viene contigo? 	fear	0.292
+2018-Es-05850	Qué horrible no poder confiar, sentir que te harán daño otra vez y no saber cómo huir sin mirar atrás!!	fear	0.875
+2018-Es-01812	El PERÚ está cansado de tanta Podredumbre Porquería y Kagadas del PresidenteDeLUJO!  No acierta una! Se dispara a los pies! NO AMA AL PERÚ!	fear	0.583
+2018-Es-01545	Sigo indignada. Como vamos a usar NEGROOO??? Diablo perdónalos no saben lo que hacen 😂😠👊	fear	0.583
+2018-Es-04692	Detesto que la gente que esta deprimida llegue a ponerlo a uno igual o peor.	fear	0.565
+2018-Es-01346	Me pronostican lluvia toda la semana. #Depresión	fear	0.587
+2018-Es-00836	La ironía que amo las plantas y nunca me regalaron ni un ramo de flores cortado de una alguna casa #Tristeza	fear	0.354
+2018-Es-04606	@arcasmarc1 @PPopular @_virginiavargas Para qué hablar de derechos humanos, si con insultar basta no crees?	fear	0.417
+2018-Es-03161	YO CREO que el único corto de casita del horror con kodos y kang que vale la pena es cuando maggie resulta ser su hija.	fear	0.542
+2018-Es-02229	yo no soy de amenazar me gusta hablar con echossssss...	fear	0.208
+2018-Es-00261	No hay nada mas peligroso qué una mujer herida #LaNocturna	fear	0.717
+2018-Es-03535	No hay terrorismo en Araucania dice @marcoporchile en @elinformanteTVN  muy de acuerdo contigo!!!	fear	0.292
+2018-Es-00656	Bueno... todos son unos malditos idiotas. Ya entiendo el resentimiento #Feminazi	fear	0.521
+2018-Es-04110	Dile a tu alma que no sea cobarde...🎶🎧	fear	0.438
+2018-Es-01519	Y yo pensé q una estrella fugaz era una estrella muy bonita q tenía miedo de brillar, y huir lo más lejos posible. Un poco como tú, como yo.	fear	0.458
+2018-Es-01741	Siempre sale uno enojado cuando jugamos a la lotería😂	fear	0.375
+2018-Es-02120	Qué rabia que tengo y me tengo que ir a cosoooo	fear	0.479
+2018-Es-01751	@El_Intermedio Estoy alucinando con las razones expuestas por los universitarios catalanes: mucho eslogan y nada de contenido #triste	fear	0.583
+2018-Es-06876	Ansiosa y estresada estoy y no tengo tiempo para nada... pero bueno, esa ha sido mi pequeña reflexión de hoy😊 (tmb es xq me estoy leyendo +)	fear	0.630
+2018-Es-03729	Todo lo bueno tiene algo malo, si este mes está bien no quiero saber el mes que viene  	fear	0.563
+2018-Es-00566	@JafetLuza colapso nervioso (culpa de dejar la medicación, sospecho) en medio de un examen. Una cosa humillante :(	fear	0.875
+2018-Es-06742	Christopher no sabe ni guiñar el ojo pero hace ese intento de tic nervioso y tiene a miles de rodillas, pásame el tip papi	fear	0.354
+2018-Es-05864	Odio que se metan 	fear	0.521
+2018-Es-04778	Temes mas a lo que no puedes ver que a lo que ves y te hace mas daño.... 	fear	0.688
+2018-Es-01418	Mi huerta necesita agua con desesperación y yo me duermo.	fear	0.646
+2018-Es-04581	No soy tonta, no soy mala y no soy cobarde.	fear	0.397
+2018-Es-00297	Nada más caja que leer conversaciónes antiguas con "amigos" jajaja que horror	fear	0.348
+2018-Es-05257	Y por miedo a perder, termino perdiendo siempre.	fear	0.813
+2018-Es-04016	Dios bendice al pueblo de Venezuela en esta horas de oscuridad, que llegue la luz!!!	fear	0.521
+2018-Es-06713	@NANCYPAZOS manipularon los resultados de las Pazos... ahora una mesa pro militar...	fear	0.354
+2018-Es-06177	"¿Se puede ser valiente cuando se tiene miedo?"  "Ese es el único momento en que lo puedes ser."	fear	0.667
+2018-Es-01590	Menos mal que remata al suelo! 	fear	0.354
+2018-Es-04193	Horas antes de un final mi cerebro no tiene mejor idea que tener un colapso nervioso por cosas que nada que ver 😩😩😩	fear	0.667
+2018-Es-03301	y ella tenía un re orto podría ver triste cansa pero tenía terrible orto	fear	0.396
+2018-Es-05167	Ah y se me abrió todo esto en la cuenta de mi hermano y cuando quise cambiar le perfil veo q el perfil de mi hermano no tiene cara 	fear	0.542
+2018-Es-04866	28. Soy tímida pero cuando tengo confianza me descontrolo ahre	fear	0.333
+2018-Es-00900	@noticiarepretel Peligroso algo sabe guima acuerdese que el hijo es celso	fear	0.688
+2018-Es-00937	@laufer4 @balfederico Muero x saber q pasó hoy en la sentencia.  Muero x saber q pasará mañana en LAM #miedo	fear	0.729
+2018-Es-02494	Keiko no tiene nada que ver con lo de Montesinos!Él se tomó atribuciones que no debía!El Fujimorismo es el principal opositor al terrorismo!	fear	0.438
+2018-Es-04364	@Hinzulina @niggavm03 Bebe que te he dicho de hablar con gente de color oscuro? Ni la hora se les da, vente.	fear	0.457
+2018-Es-04171	@isnardobravo q horror! a esos también hay q quemarlos x malos...	fear	0.804
+2018-Es-03776	#ANCentral la medida de coerción procesal penal de prisión preventiva sera infundado, pues ni existe peligro procesal	fear	0.458
+2018-Es-00953	@joseman15749101 @Luisito_EE @ElementalCCR @PouLegion @SokingRcQ @Xerezano_cr @colton_wall @RomK7_CR Informante mas antes de insultar	fear	0.458
+2018-Es-02931	Me tiene cansada, te deseo lo peor pero yerba mala no muere 😠	fear	0.396
+2018-Es-01043	@Sofiaaaeiou_ ¿Cuál es la pelea? Jajajajajaja la chismosa.	fear	0.188
+2018-Es-05499	No hay peor amor que el que no se da por miedo a que te dañen.	fear	0.583
+2018-Es-05165	@JuliannaHdz Deberías pasarme tantito pegue 	fear	0.155
+2018-Es-04236	Se ve que es hiper difícil preguntar en lugar de que te llueva el cabreo de la otra persona y encima llamarle amargado. xD	fear	0.396
+2018-Es-04276	@MabelQuibrera ya me habia asustado amigaa eb	fear	0.696
+2018-Es-00731	@ponchito_rubio Es el requisito número uno para ser papás we jajajaja echarse un caldazo hirviendo para combatir fuego con fuego. 🔥	fear	0.292
+2018-Es-03459	@nahuivan15 innecesario comentario en mi opinión. Es q me ponia nerviosa man ataje mas q vos. 1 solo gol me hicieron	fear	0.565
+2018-Es-03406	Y toda la NFC norte perdió hoy 🙁 #NFL	fear	0.333
+2018-Es-00777	Vale tanto y yo no me había dado cuenta! 	fear	0.333
+2018-Es-05045	Mi mama: "no no, no estoy enojada"  Yo: no se si te creo que no estoy enojada jajaja	fear	0.326
+2018-Es-04966	Como extrañaba a Manu, me hacia bruta falta, y hoy que andaba re mal me hablo, tremendo amigo, aunque medio histérico pero lo amo igual	fear	0.375
+2018-Es-06534	@fedeedelseri QUE DEPRESIÓN	fear	0.646
+2018-Es-01446	Domingos,en @radioiris7:13-15h:#Rumbas|16h,'SCANNERS:#Cine #BladeRunner #Mother;resto #2017|23h:INSTRUMENTAL|24h,'NOVIEMBRE NOCTURNO:	fear	0.229
+2018-Es-02647	—Al escuchar el cierre del vestido abrirse, el mayor dio un sobresalto.  Su expresión fue un poema, porque incluso agachó la cabeza para +	fear	0.438
+2018-Es-01328	Todos estos días he estado durmiendo demasiado mal. No sé si es el país o mi ansiedad natural.	fear	0.761
+2018-Es-02999	@PaabloCarballo @felixsquash @LucasCsir23 @NicoFl2015 @leoferro5 @YamiLaCsir Nervioso yo??? Te pica el culo porteño. Amarguísimo	fear	0.417
+2018-Es-06630	No pensé que correguir exámenes fuera tan pinche cansado 	fear	0.313
+2018-Es-05331	Cancele la suscripción a Netflix, hijos de puta me sacaron American Horror Story. Ojala se fundan los hijos de puta	fear	0.417
+2018-Es-06070	HIJO DE TU REPUTOSIMA BOMBA PERRA ESTUPIDA BABOSA MADRE😡😡😡😡😡😡😡sin ofender a su mama no la conozco es solamente una expresión de odio así el	fear	0.354
+2018-Es-06432	Soñé cosas super raras 	fear	0.563
+2018-Es-03811	Me olvide la ansiedad	fear	0.413
+2018-Es-03089	@amparychilena @Cooperativa Tipico de amargada,que triste tu vida pabree,y tontorrona🙊	fear	0.396
+2018-Es-01203	Tremendo estalcaso con mg incluido jaja	fear	0.313
+2018-Es-02129	Próxima semana al casino $$$$$ #Suerte #Miedo	fear	0.813
+2018-Es-03731	Tengo una especie de obsesión con formar una amistad con mis ex parejas. Me parece terrible la idea fingir que nada ocurrió entre nosotros.	fear	0.500
+2018-Es-06882	Me da miedo encontrar a alguien con quien me encariñe mucho y que después se vaya. 🙇🏻‍♀️	fear	0.854
+2018-Es-02408	Estoy viendo un especial de Linkin Park y no tenía la menos idea de el motivo de eso. Que lamentable 😔😑	fear	0.479
+2018-Es-04914	una compañera del colegio subió la foto de su bebé y parecía tener una tenaza en vez de pie 	fear	0.417
+2018-Es-01399	No nos dejemos intimidar, todos salimos el domingo a las calles a ejercer nuestro derecho. #ConsultaPopular	fear	0.303
+2018-Es-01660	Iría a molestar a mi amiga Laura porque estoy tan aburrida. Pero esta re frío.	fear	0.229
+2018-Es-05077	@Teeo16_ la depresión existe	fear	0.500
+2018-Es-01840	No esta @ferlo75 en twitter con el partido de #PeñA???	fear	0.313
+2018-Es-03652	amo porque yo soy re tímida pero en el boliche me pones música y bailo con quien sea	fear	0.167
+2018-Es-02113	Ya esta conmigo el vestido, una preocupación menos	fear	0.458
+2018-Es-00284	@JPAlvarezGuedea @clubleonfc @VivoEnLeon @LeonesEsmeralda @fitopons3 QUE HORROR DE PLAYERAS!	fear	0.500
+2018-Es-06101	Paciencia. Conozco gente que por no tener paciencia, fe y confianza perdió tanto q hoy podría disfrutar. Hay q ser leal a quien cree en ti.	fear	0.375
+2018-Es-00009	Soy demasiado ansiosa🤦‍♀️	fear	0.792
+2018-Es-05834	00:45 to preocupado 😥	fear	0.813
+2018-Es-04513	The1975 son los mejores los amo por siempre 	fear	0.167
+2018-Es-04558	Mi más terrible año fueron los 12 😖😖	fear	0.604
+2018-Es-00217	¿A cuántos habrán mandado a la FriendZone hoy?...: me siento pensativo	fear	0.170
+2018-Es-04166	Llevo 24 horas sintiéndome mal. 	fear	0.604
+2018-Es-02055	@Ale_Mastrolia Y son las cuatro de la tarde 	fear	0.313
+2018-Es-04904	@SoyGroupie lo peor es que si quiere hacer algo lo va a hacer, es un tipo super peligroso y hoy quedó demostrado. ojalá se muera por favor	fear	0.729
+2018-Es-05608	SORPRESA EN LA PUERTA: ¬°unas tentadoras cajas de regalo rojas y amarillas est√°n causando revuelo en las puertas! #SmurfsVillage @SmurfsG	fear	0.354
+2018-Es-03445	La #JuezaMentastyPROPepsico ordena un cobarde desalojo nocturno a los obreros q sólo quieren mantener sus empleos #NoDesalojenPepsico	fear	0.438
+2018-Es-03140	@enigma1187 Pues un concocido va a ir el sábado a la meta... 	fear	0.313
+2018-Es-02713	@Ojitoschinooos Esa quien? Porq siempre tenes q meter a alguien che pajerito resentido jajajajajajaja	fear	0.229
+2018-Es-00967	@_DAVE_fs No, sigue siendo una pesadilla..	fear	0.804
+2018-Es-05388	@DebRyanShow #Rayito estoy súper ansiosa 😵😂 me cago porque llegue él día	fear	0.729
+2018-Es-00765	Parece que va a ser una buena temporada de cine de género, tras #Verónica viene #It. No quiero imaginar cuál me va a dar más yuyu 	fear	0.413
+2018-Es-02615	En cualquier momento miro por la ventana y sale una planta volando del viento que hay #miedo	fear	0.875
+2018-Es-04000	Estoy ansioso de que vuelva para ver como suena con el silens	fear	0.543
+2018-Es-04968	@DebRyanShow #Rayito Falsa alarma 🚨 sigo sacando ideas de mi cabeza 😉	fear	0.458
+2018-Es-00595	@stranger_foryou mañana es mi día de prueba pero estoy muy muy muy nerviosa	fear	0.870
+2018-Es-01594	@Esahoraonunca05 Que horror, lambusio	fear	0.583
+2018-Es-00307	Lo mío es ver películas de terror sólo :/	fear	0.609
+2018-Es-01368	de ti quiero mas bellaquera menos timidez	fear	0.333
+2018-Es-05247	@darth_cesar Es q en ese q te menciono sale personificado hasta con corona de espina po jajajaja terrible de flaco puro hueso	fear	0.250
+2018-Es-00756	Estoy ante una terrible tesitura: Me muero de sueño pero Dalas ha subido un video y quiero enterarme del chisme. Espero a mañana o no? 😂	fear	0.292
+2018-Es-02355	Mi cuerpo se vuelve carne y el deseo no es mutuo ni nomade. La misma pesadilla de deshumanizar lo que en algun momento fue mio y fue amor	fear	0.458
+2018-Es-05220	Tal vez Abraham tiene razón y debo hacerlo, pero soy muy cobarde esa es la verdad.	fear	0.717
+2018-Es-06691	Que horror quienes usan traje y converse.	fear	0.652
+2018-Es-02790	@AsisOberdan: "Lo de Lula me parece un espanto"	fear	0.604
+2018-Es-06661	@roxinda @AngeldebritoOk Déjalo, está aburrido... 🙄	fear	0.261
+2018-Es-00479	"Qué significa taciturno -que le gusta andar de noche" JAJAJAJAJAJAAJAJJAAJAJJAJAJAAJJAJAJAJAJQJAJAJAAJ	fear	0.188
+2018-Es-06092	EN alguna parte del mundo acabo de temblar bien fuerte ....	fear	0.804
+2018-Es-03268	@dayanaolivaa puse 'Al' jajaja que horror, me corrijo, ALL	fear	0.417
+2018-Es-01463	@Apixelados Ai esta feliz,trizte,enojado,preocupado,asqueado y drogao	fear	0.471
+2018-Es-03212	que ansiedad tan fea	fear	0.700
+2018-Es-04403	Tengo miedo de después de haber tomado 6 birras y casi quebrar en una noche le agarre asco como me pasó con el tequila Sol Azteca 😢	fear	0.875
+2018-Es-03389	-Pero que lo pone nervioso demasiada gente.-	fear	0.542
+2018-Es-01132	Terrible dolor de rodilla chaabaaan!!!😑	fear	0.646
+2018-Es-00177	Fluye la desilusión  Muda desesperación  Pero todo tiene alivio  Menos el decir adiós <3	fear	0.583
+2018-Es-05433	Y de golpe son las 7 de la tarde 😱😩⛈ 	fear	0.396
+2018-Es-01122	se puso la 10 Flor con un buen café y peli d terror, esa es mi amiga	fear	0.333
+2018-Es-03159	Si eres tranquilo y confiado, o miedoso y con baja autoestima, depende de la dopamina (hormona del placer).	fear	0.354
+2018-Es-03148	@GenPenaloza y el primero q corre es él pero para esconderse	fear	0.439
+2018-Es-02623	Claramente soy muy ansiosa.	fear	0.750
+2018-Es-02212	verás tú el cuadro esta noche tengo 	fear	0.391
+2018-Es-04755	Con que me levanto mañana 🤔 tremenda noche 🍷😂	fear	0.188
+2018-Es-00676	#Terror El primer día mató al gato y se dedicó a cazar moscas para alimentarse El segundo día saltó sobre su mujer y quiso enlularla en tela	fear	0.727
+2018-Es-06488	Estoy re a full con todo de Ámbar. Y super nerviosa !!!!!! 😣😣	fear	0.729
+2018-Es-06704	tus nervios, tu timidez, das ternura cosaa.	fear	0.432
+2018-Es-06189	Cierra los ojos, te tengo una sorpresa	fear	0.188
+2018-Es-03832	Después de todo el mes de agosto (comiendo mierdas, y sin hacer nada) me voy a pesar. 😅  	fear	0.583
+2018-Es-01865	Está forma tan cobarde de decirnos que no ... ☕️🍃	fear	0.521
+2018-Es-04524	El corazon helado como puede ser? si dentro de mis venas fluye sangre hirviendo.	fear	0.500
+2018-Es-03010	Que rabia con este guri	fear	0.375
+2018-Es-00004	¿Por qué no cancelan clases en mi escuela? No hice la exposición 	fear	0.542
+2018-Es-02605	Horrible lo que me pasó recién, no voy a poder dormir tranquila	fear	0.969
+2018-Es-00761	OJO QUE SE VIENE LA VENGANZA 	fear	0.604
+2018-Es-06221	"pegarle a una nena es de cobarde" mi primo de 7 años♥️	fear	0.261
+2018-Es-05932	Abril tiene prohibido quejarse conmigo.	fear	0.375
+2018-Es-04642	Fa loco no quiero cumplir 18, quiero jugar con autitos y que mi única preocupación sea llegar a casa a las 7 para tomar la chocolatada.	fear	0.438
+2018-Es-02745	pavor de gente retardada	fear	0.521
+2018-Es-02139	Deje el cargador completo del celu en el bolsillo del pantalón y lo pusieron a lavar #Miedo	fear	0.761
+2018-Es-03739	Te necesito en mi vida 	fear	0.477
+2018-Es-04871	Miedo profundo. Con tontito uno y dos. @lionardosofia faltas vos! 🙇🏽‍♀️	fear	0.848
+2018-Es-06028	@prinnabenavides estupida, contéstame snap! , estoy preocupada por voos	fear	0.688
+2018-Es-05532	@MPvenezolano Pronto la veremos en un tribunal y destituida por corrupta y traidora, por su inacción y complicidad en el terrorismo!!!	fear	0.333
+2018-Es-02484	Había olvidado todo eso del zika y chiconguya y andaba bien vergas sin repelente hasta que me tapizaron de piquetes y mentró'l susto.	fear	0.897
+2018-Es-06217	@camille_blonde_ Jajajaja creo q se vuelve más rápido Tt diciendo no hables Lau o tengo miedo a lo que dice Lau jajajaja	fear	0.432
+2018-Es-00231	@ATTMx  #pésimoservicio. No avisan cambio de política a usuarios y se perdió mi numero con saldo a favor.	fear	0.396
+2018-Es-00194	@Arteem @camilocnn Simplemente era una inquietud no voy a entrar en controversia gracias que estés bien	fear	0.370
+2018-Es-03664	La oscuridad q hubo...😮 Otra que el eclipse! 	fear	0.479
+2018-Es-05239	@Larissacostas @Almagro_USA2015 Eres tremenda Larissa q risa con almugre	fear	0.208
+2018-Es-06651	Que negros de mierda,se tiene que morir todos esos hijos de puta	fear	0.583
+2018-Es-01410	to2 me responden la hist de ig como si hubiera echo algo grave lloro JSJAJAJ	fear	0.396
+2018-Es-01698	Cada vez que estoy aburrida me corto el flequillo. Pero tan pelotuda voy a ser? Encima odio como me queda	fear	0.396
+2018-Es-03867	La preocupación y el dolor de ver a tu perrita desmallarse en tus brazos  neta no se lo deseo a nadie.	fear	0.833
+2018-Es-03093	Por que sorete me dejas tan nerviosa no se AAAAAAAAAAAAAH me voy a morir(?????ahr si	fear	0.854
+2018-Es-03322	Terrible tarta de ricotaa	fear	0.333
+2018-Es-03236	mi gasista de burzaco en el 2015 ponia 55 estufas hoy 3 ... ya esta, es la medida de un laburante- este sistema es deplorable	fear	0.423
+2018-Es-02925	ay nooo que horrible... me acordé cuando me pasó lo mismo hace como dos años ajjajajajaja	fear	0.479
+2018-Es-01443	Que horror pensar en todo y que se me caían las lágrimas, estoy tan triste	fear	0.813
+2018-Es-02368	si no me sigues pa q cotilleasssssss q pesadez	fear	0.243
+2018-Es-02032	@radiopanama Lo sentí  @costadeleste 	fear	0.326
+2018-Es-00120	"Mañana viaje de negocios"  *tengo que ir a poner una alarma a un pueblito que ni sabía que existía*	fear	0.417
+2018-Es-03923	Cada vez que tengo que caminar y podría estar manejando el auto me enojo conmigo misma	fear	0.417
+2018-Es-01805	@Limzul @Jotaderos Jajajajajajaj ai que lloro, no se ve en la foto pero no lleva zapatos y lleva sus calcetines motivaciones 	fear	0.107
+2018-Es-01895	@Supervivientes Un vago redomado que al principio hacia gracia, perdió kilos y perdió gracia, las dos cosas, al final es un resentido pelota	fear	0.313
+2018-Es-06594	Estoy llorando pero no tengo cara para pedirte perdón, enserio lo siento	fear	0.667
+2018-Es-00211	Este dilema financiero me tiene con una zozobra tan brava.: me siento pensativo	fear	0.813
+2018-Es-04252	No hay caso nunca llegó a terminar una peli de terror #Miedo	fear	0.958
+2018-Es-03164	-¡Me cagan los lunes! -Pero si ya es martes. -Ya sé, pero todavía me acuerdo. 😒💔😡	fear	0.417
+2018-Es-05097	Mucha presencia policial en estación Constitución y aledaños desde ayer. 	fear	0.563
+2018-Es-00996	@MariferBanda ??¿ me siento ofendida	fear	0.435
+2018-Es-02508	Yo no soy como ella & eso también me hace diferente es horrible la situación y la debe estar pasando mal prefiero no reírme y ta q horrible	fear	0.696
+2018-Es-04311	ufff cuando vaya con luna a capi me llevo el parlantito y a full los red dios que nostalgia	fear	0.340
+2018-Es-03770	@djscaracas @joseolivaresm @cesaralonsoUNT @stalin_gonzalez @unidadvenezuela q susto eres un lame perros solo eso .	fear	0.771
+2018-Es-00525	Si hay que ir se va.... a las 20 nos vemos #castellers #xiquetstgn #rabia #orgull	fear	0.417
+2018-Es-02961	@miishelv20 Me hackearon! 😢	fear	0.646
+2018-Es-03422	Mis ganas de que ya sea fin de semana son terroríficamente impresionantes	fear	0.455
+2018-Es-03044	Yo indignada en 2017 por series de 2007, la película. Ah no, que seguro que la quitarían también.	fear	0.348
+2018-Es-04853	chicas no saben lo cuanto q estoy ansiosa para sábado es algo q no puedo explicar	fear	0.729
+2018-Es-03668	Ella tenia terrible cara de perra y tenia tremendo pote	fear	0.646
+2018-Es-03379	@marcoporchile @sebastianpinera El viejo truco de mentir, mentir...millones? El primo es dueño? Tan desesperado Marquitos ??	fear	0.583
+2018-Es-05378	Siempre estoy enojada, es mi don.. mi maldición.	fear	0.646
+2018-Es-00344	@samario2 @YFERLEYHR @petrogustavo Habla de Terrorismo y se esconde detrás de un nick falso, pobre Uribestia ardido	fear	0.417
+2018-Es-00048	Iris siendo la líder del team flash y wally usando el traje de barry espero que solo sea un flashpoint 2.0 porque seria tremenda cagada chau	fear	0.323
+2018-Es-06009	@Fabr1_320 Deberías quitarme de tus notificaciones, sigo ofendida por lo de la peli, cambio y fuera	fear	0.522
+2018-Es-00080	odio ser tan desconfiado firme	fear	0.625
+2018-Es-06949	#Barcelona Cual es el nombre del #juez ?! Quien ha detenido la deportación del #Terror Iman #Satty  con el argumento no es un #riesgo  !	fear	0.772
+2018-Es-03971	Me mente es demasiado horrible... No aguanto le aguanto ni me aguanto.	fear	0.625
+2018-Es-06180	Que alguien me diga alguna película de terror bueena (y que este en netflix)	fear	0.500
+2018-Es-06422	No estás deprimido, estás distraído  Distraído de la vida que te rodea🎶👌🏽	fear	0.479
+2018-Es-05126	Pese al bajo nivel de Copa Oro grata sorpresa ver a Martinica competir con selecciones superiores a ellos. Ya sé estoy enfermo de fútbol	fear	0.354
+2018-Es-00954	Dj Luan do Tabajara o terror da Sul 💯	fear	0.522
+2018-Es-02834	No me canso de ver mi abuelo es un peligro	fear	0.417
+2018-Es-01355	Me impresiona todo el amor que me tiene Leia a pesar de que cada 4 días la dejo sola 😭 💔	fear	0.333
+2018-Es-02053	Tremendo asco me da cuando me lo nombran.	fear	0.587
+2018-Es-05583	Estoy demasiado llorona hoy 😭.	fear	0.646
+2018-Es-06074	@lizardo_jesus Ya estoy cansada de llorar ,ya quiero q se acabe está pesadilla ,que desgracia el día q Chávez dijo "por ahora ".	fear	0.729
+2018-Es-05135	Tremendo día de trabajo, muy productivo 2/2 a ver si se hace una racha.	fear	0.104
+2018-Es-01210	No puedo con está ansiedad.	fear	0.729
+2018-Es-00270	Quiero ponerme trenzas de nuevo 😭	fear	0.271
+2018-Es-02303	@marisolglzz Aburrido y panza México	fear	0.313
+2018-Es-01438	@NTN24ve eso es lo unico que sabe hacer este señor , amenazar y amenazar	fear	0.542
+2018-Es-05801	Hay veces q me dan ganas de rajarme un tiro de lo salame q soy 😤	fear	0.458
+2018-Es-03868	!Miedo!,tuve miedo de encontrarla - 	fear	0.917
+2018-Es-01663	Estoy muy ansiosa con este viajeee 😊😊	fear	0.604
+2018-Es-00205	@indpcom @Albert_Rivera @InesArrimadas Y el berrinche de Cs tres cuartos de lo mismo	fear	0.375
+2018-Es-00471	Recién estaba en el living de mi casa sola y el parlante de mi pieza se PRENDIO SOLO 	fear	0.804
+2018-Es-01667	No estaba ofendido? ;)	fear	0.313
+2018-Es-03131	El muodo no esta amenazado por las malas sersonas, sino  or aquellos que permiten la maldad. f Albert Einstein	fear	0.522
+2018-Es-01976	Mi abuelo es un peligro 😅🎬	fear	0.455
+2018-Es-03468	@kasoamp Qué horror este engendro. Repulsivo.	fear	0.813
+2018-Es-01837	Cómo le saltan los prejuicios de clase al progre cuando ve colas de gente por un descuento. Ay que  espanto gordooo.	fear	0.646
+2018-Es-01543	Tormenta con truenos 😭 	fear	0.625
+2018-Es-04997	Marco...¿no es terrorismo en la Araucanía?... pues te escucho ¿ qué es?	fear	0.500
+2018-Es-03234	Pero les tengo una sorpresa para ustedes, así que valió la pena 💃.	fear	0.229
+2018-Es-04701	@camimanques20 Shadowhunters, es tremenda cagada pero la amo ahre	fear	0.217
+2018-Es-00040	@sorlandoponce Juan Carlos le pregunto temeroso y con mucho respeto a Pinto,luego queda hablando en el programa	fear	0.542
+2018-Es-05593	@Viejastirpe Además no necesita haber pelea de por medio.	fear	0.375
+2018-Es-02818	|| Acabo de leer el twett de user de Brooke y mi mama al mismo tiempo dijo "anda mal el internet" #miedo. Ahre les contaba su vida.	fear	0.625
+2018-Es-04994	Estoy muy indignado, ellos estan ebrios y flayean que yo estoy ebrio y no me dejan tomar, alta familia	fear	0.321
+2018-Es-05896	@Oskhar111099 Donde estaba independiente es lo que te digo!!! Cómo jugaba, eran horrible, este es el mejor independiente de los últimos años	fear	0.417
+2018-Es-05998	@fiooresilva Fuera de joda si vi a tu hermana, vos sos la unica amargada que no sale nunca!!	fear	0.435
+2018-Es-02871	#AnimalesSueltos es el único momento que miro este programa ya que Asís con una mirada simple de la política pone nervioso a los globitos	fear	0.457
+2018-Es-05050	@salvaoret pues ya, cargar con un disgusto sin garantizar solucionarlo para la siguiente... :(	fear	0.521
+2018-Es-01982	Pa es una pesadilla	fear	0.682
+2018-Es-03295	Soñé que me robaban y en mi sueño vi perfectamente la cara de ambos choros 	fear	0.646
+2018-Es-06213	Me estoy empezando a asustar.	fear	0.833
+2018-Es-01885	@antronco2082 Estaba fuera de peligro.	fear	0.542
+2018-Es-01411	FLORES VOTA EN CONTRA LA LEY  SI LO ÚNICO QUE DEFIENDE ES A SU MENTOR POLÍTICO   EL CHICO ZALDÍVAR A QUIEN  NO SOPORTO VERLO LLORAR	fear	0.375
+2018-Es-04600	Estoy muy preocupado 😢 Solo espero que se recupere pronto	fear	0.813
+2018-Es-01821	Me encanta mi celu sin funda, pero me da miedo que se me caiga y se me rompa😑	fear	0.813
+2018-Es-00671	Que hago leyendo eso jajajajajaja que horror	fear	0.313
+2018-Es-00417	@cokep Que eres terrible fome! 🙄 Y añejo poh!	fear	0.500
+2018-Es-01740	Que cansada estoy 😢	fear	0.375
+2018-Es-04441	@FLOYD_1975 @MARTINAMARIS Que peligro están emputados las Farc y su papá Maduro. @JuanManSantos, y ahora quién podrá defenderlo ?	fear	0.625
+2018-Es-05776	@EmiRatajkowski Es que es una ofensa para la población penastica, okis.	fear	0.340
+2018-Es-00559	@Gonzatraverso22 Quiero saber quien	fear	0.250
+2018-Es-04374	#MiSolucionParaElInsomnio la verdad tengo unas pastillas del terror ZAVIANA FS 12,5mg hipnótico va directamente sistema nervioso central 💤💤💤	fear	0.542
+2018-Es-00577	Ha saltado supersubmarina en el aleatorio y ya estoy llorando xd	fear	0.604
+2018-Es-02397	No sé cómo le haces para que no pueda durar enojada contigo más de 2 días	fear	0.313
+2018-Es-01954	@LauraBarriosHer Y más encima me insulta!! Ufff...ahora ya se me pasó el susto y me dio toda la rabia 😠	fear	0.625
+2018-Es-01870	NO PUEDEN SACAR AMERICAN HORROR STORY DE NETFLIX. LLAMEN A MIS ABOGADOS	fear	0.375
+2018-Es-03216	No sé de dónde sale estar salty porque Steve Carrell no ha ganado ningún Emmy por The Office pero estoy 100% indignada yo también.	fear	0.413
+2018-Es-01265	@obrienftme_ pero aun asi tengo 	fear	0.167
+2018-Es-04775	@LadyRosalya No es eso Otra ve entraste en depresión o preocupación y eso es feo >^<   Tu mereces amor y ternura ♥	fear	0.521
+2018-Es-04528	Es muy fuerte El otro día estaba escuchando Leave out all the rest, me pone tan melancólica esa canción  Que si la escucho ahora...	fear	0.542
+2018-Es-03068	aliade: las mujeres son x si solas no x un hombre sí al poder de decisión💪 *se entera de que tienes novi* aliade: bua m enfado y no rspiro	fear	0.375
+2018-Es-00067	@shawnefasto dijiste q un shipp q me incluía era horrible así q me hablaste d alguna manera	fear	0.521
+2018-Es-02424	Acciones para desmitificar la depresión como tarea pendiente.	fear	0.458
+2018-Es-03974	Así que lamentablemente el mundo del Rock está de luto #QEPD Chester Bennington	fear	0.563
+2018-Es-00947	😱😱😱😱escucharon ese trueno? ⚡️	fear	0.771
+2018-Es-06012	@Clentrus @DalasReview lo consideras alguien terrible,pero¿te das cuenta de lo que escribes?	fear	0.479
+2018-Es-04979	Ansiedad, frustración, gracias por ser mis fieles compañeras.	fear	0.696
+2018-Es-06932	Me trague el alambre de los brackets con una súper Mac 	fear	0.563
+2018-Es-05296	jajajajajaj seguimos resentida??	fear	0.083
+2018-Es-00984	« daño que le hiciera a pesar de ser un crío desde su punto de vista. Ni cómo podía acabar. Volvió a pegarle una vez más, esta vez en la »	fear	0.587
+2018-Es-02451	@Julio_Camejo @multimediostv @LisVega Sr. Julio camejo ke no le influya chavana se ve ke los kiere intimidar.	fear	0.438
+2018-Es-02227	@reecevolution te juro que lo amo mucho y toy con tremendo nudo en la garganta capaz es exagerado pero ok lo voy a extrañar	fear	0.479
+2018-Es-05567	@ranitadh Muchas Gracias por tu preocupación y me estoy cuidando 😊😘😘	fear	0.354
+2018-Es-05447	Qué tristeza sentir que uno no es suficiente para nada ni para nadie. Meh, matenme que ya ni yo me aguanto.	fear	0.646
+2018-Es-04659	Me va a dar algo si sigo tan nerviosa	fear	0.875
+2018-Es-04706	AMO el "OMITIR INTRO" de Netflix ☺... (cómo andamos con la ansiedad) 😂	fear	0.375
+2018-Es-00115	Cansancio para regalar. Info aquí 👋	fear	0.313
+2018-Es-00862	@Curiosa 😰 a mi se me detuvo el tiempo por esos instantes 	fear	0.458
+2018-Es-04835	La #Cárcel más grande es el 	fear	0.417
+2018-Es-00343	@milebebe claro, mira el tolima perdió con nosotros por igual marcador y hoy ganó	fear	0.333
+2018-Es-01913	Me chamuyaba uno en la trafic y ahora me agregó al facebook 	fear	0.304
+2018-Es-05073	Y yo, lo único que quería es que lucharás por mi, por nosotros 	fear	0.370
+2018-Es-06540	Inhala-exhala, no voy a caer en el juego, inhala-exhala... 	fear	0.396
+2018-Es-04003	L, A, D y N en la presentación de los PCA's estaban nerviosas, Lauren en especial. Ella antes de salir tuvo ansiedad y quiso vomitar.	fear	0.587
+2018-Es-03656	2 días para el lanzamiento de #miedo @CGaitanOficial qué ganas enormes de escucharla 👄💕	fear	0.521
+2018-Es-03117	Me dicen y mas nerviosa me pongo	fear	0.875
+2018-Es-01281	La miedosa X Sólido jamssss	fear	0.604
+2018-Es-04034	Porque la luz de mi cuarto siempreee titila, como en las películas de terror cuando se viene algo malo	fear	0.813
+2018-Es-05579	ya se que estoy quedando en ridículo pero es la desesperación no soy yo es la desesperación	fear	0.792
+2018-Es-00916	Mi nombre es Max desperté en mí coche cerca de casa ,voy a casa ahora pero las fotos de mi teléfono me dicen que no será lo mismo 	fear	0.563
+2018-Es-02841	"Chongo" usa mi cuenta de Netflix y sólo ve cosas de narcotráfico 	fear	0.326
+2018-Es-00878	De ti quiero más bellaquera menos timidez	fear	0.250
+2018-Es-01554	@MiicaaJunior Que ni culo inquieto es😒😂	fear	0.208
+2018-Es-04267	Lamentamos profundamente el fallecimiento del usuario de BiciMAD por atropello en c/Alcalá. Nuestro más sentido pésame a la familia. …	fear	0.448
+2018-Es-01488	Pero y esa furia? No te ajites te puede dar algo !🤔😂😂	fear	0.646
+2018-Es-01184	@ruizjavier21 @Segoviadanilo Cuando estés aquí 😡	fear	0.208
+2018-Es-06787	8:20 puse la alarma. Gordo especifico daaa ponela a las 8 u 8:30. Incalmable	fear	0.417
+2018-Es-02493	Se puede temer a la vida, se puede temer a la muerte, pero más temo yo dejar de tenerte. 	fear	0.652
+2018-Es-05861	Eso para vos no es un insulto?	fear	0.438
+2018-Es-04677	Sanguíneos en muchos casos. Se indica SIEMPRE que las pastillas pueden provocar trombosis y tienen otros efectos secundarios.	fear	0.438
+2018-Es-01692	La primera act en Derecho fue imaginar una soc sin Estado. La profesora ya va a conocer mi lado anarco 🙈 	fear	0.500
+2018-Es-02960	Ya se hizo de noche 	fear	0.457
+2018-Es-02386	@sanitas_atiende estoy muy disgustada por la gestión en mi póliza y me van pasando de un lado a otro. Decepcion Es la palabra	fear	0.457
+2018-Es-00337	@teleSURtv Cuanto ántes en cana!!! Viejo satánico cobarde y corrupto!!! Temer = a mugrizzio.	fear	0.563
+2018-Es-06051	@TodaPasion @RodolfoDonofrio esta preocupado?	fear	0.417
+2018-Es-04858	@frostscientist Mire no me venga a amenazar >:'v	fear	0.604
+2018-Es-01546	No es de resentimiento madre pero hubiese preferido que me pusieses en el polivalente	fear	0.417
+2018-Es-05353	Hoy, a pesar de los reclamos de miles de ciudadanos, el @INEMexico aprobó por unanimidad lineamientos para censurar las redes sociales.	fear	0.458
+2018-Es-00490	me acabo de acordar de que este curso hago selectividad y tengo 	fear	0.354
+2018-Es-02763	@ZampiniAldana AH BUE!!! JAJAJAJA 	fear	0.083
+2018-Es-06548	La desesperación escucha indiferencia en silencios que no son más que desamor  #MiercolesDeGanarSeguidores	fear	0.604
+2018-Es-06789	COMO ES ESO QUE ME SACARON AMERICAN HORROR STORY DE NETFLIX LLORO💔💔💔💔	fear	0.563
+2018-Es-00440	Por qué entre dos caminos elegir el más riesgoso? // Mayor riesgo implica mayor temor. Le temes a lo que deseas.	fear	0.583
+2018-Es-02674	| Caity: "Sara siendo intimidada por Supergirl"   —Muere—	fear	0.458
+2018-Es-00551	va mejor venganza contra quien rompio tu corazon, es demostrar que eres nerfectamente capaz de ser feliz sin el/ella.	fear	0.438
+2018-Es-03137	Hasta los webs de tanta burocracia, comisiones y getismo en general. Dan ganas de hacer de Michael Douglas en Un día de furia...	fear	0.396
+2018-Es-04437	Tratare de vencer el temor	fear	0.792
+2018-Es-02730	Me imagino a Cande enojada y me acuerdo cuando le pintaban los celos! 14, 15 años 😂😂😂	fear	0.391
+2018-Es-03621	@Factanonverbaa_ Quién cojones eres y por qué me estás stalkeando si no me he dirigido a ti en la vida. Serás otro ofendido en fin. Block.	fear	0.375
+2018-Es-06627	Lo peor es que como solo te atienden por mail, no se hacen cargo!, la atención al cliente post venta es de #terror @DespegarAr	fear	0.667
+2018-Es-01534	@Lamariquita_vol Chica, alejate de cualquier objeto filoso o peligroso	fear	0.604
+2018-Es-05146	Ansiosa y estresada estoy y no tengo tiempo para nada... pero bueno, esta ha sido mi pequeña reflexión de hoy😊 (tmb es xq me estoy leyendo +	fear	0.761
+2018-Es-02507	odio que me toquen el cuello que sensacion horrible no me gusta	fear	0.604
+2018-Es-02153	O mi verano cambia radical o se convertirá en el verano mas aburrido de la historia	fear	0.250
+2018-Es-06345	¿Algún indignado disponible? Que me aburro.	fear	0.438
+2018-Es-02579	Hay quienes ante el peligro se crecen.	fear	0.396
+2018-Es-03182	@tomacuaquer @caritocabrera28 Te creo a veces pasan esas cosas #miedo	fear	0.804
+2018-Es-06055	@xFedrxgon quedo parada allí a un lado de la puerta claramente sintiendo aquel repugnante olor a alcohol en sus fosas nasales y aunque -->	fear	0.583
+2018-Es-04964	Con la tremenda siesta que dormi olvidate que me duermo ahora,la puta madrrrree	fear	0.354
+2018-Es-05876	@Mickey_Dozanti Lamentable para mi, no creo que sea posible vernos, y eso si me pone sad. 😢💔 Igual se divierten y la pasan bonito. 😃❤✨	fear	0.417
+2018-Es-02840	@yeyoadbm @MConsuelofg @Pamelafy @Interpanic Oye que terrible esta gente.	fear	0.583
+2018-Es-04939	-Su mochihermano es consumido por la oscuridad.-	fear	0.543
+2018-Es-03312	Como q mi hermano cumplió 16 y parece de 20 	fear	0.313
+2018-Es-06252	@armando_bubu @CNNEE Ya decia yo. Era el sospechoso principal. Jajajaja	fear	0.283
+2018-Es-06238	menos mal que me quedé en mi casa pq en cualquier momento me quedo pelada de tanta depresión	fear	0.708
+2018-Es-02718	@AntoAntimilla Si las ves te vas a arrepentir, terrible asco	fear	0.563
+2018-Es-00885	Creo que el peor insulto que me han hecho es "gei"  No porque gay sea un insulto, es que lo escribieron tan mal y de paso con tanto odio...	fear	0.479
+2018-Es-05524	Mentira sólo tengo una Shepherd  Peligroso y me matan también a mi.	fear	0.688
+2018-Es-06529	Necesito salir en la oscuridad veo más claro que con dos soles, y es una porquería todo lo que se me atraviesa 😂	fear	0.457
+2018-Es-06409	@DalasReview Sinceramente mi preocupación va más Argos y en todo lo que esto le va afectar :(	fear	0.792
+2018-Es-01940	Que noche más aburrida.	fear	0.271
+2018-Es-06587	Desesperación nivel: media hora con hipo. ¡Para YA!	fear	0.625
+2018-Es-06571	Sentir como un terrible vacío en el pecho, lo peor💔	fear	0.750
+2018-Es-01661	@ShxrxnRivxz Y bueno falsa alarma 😂 quiero que seas vos de verdad😍	fear	0.292
+2018-Es-00888	@vertvnoticias Bueno a estos le hemos escuchado decir cada cosa... !! Infeliz ...	fear	0.375
+2018-Es-02411	@AdamLGNevill @minotaurolibros •Género: #misterio #terror   •Saga: No.  •Traducido por: Manuel Mata.	fear	0.630
+2018-Es-02497	@DebRyanShow #Rayito tengo ansiedad	fear	0.646
+2018-Es-02036	@NTN24ve Este narco es impresentable...además de narco y corrupto... sólo sabe amenazar. Ordinario, además.	fear	0.521
+2018-Es-06339	Cada vez que digo pongo el pc y me pongo a estudiar, truena. #tormenta 	fear	0.652
+2018-Es-01083	Estoy re nervioso con este tema	fear	0.813
+2018-Es-02482	Mi papa me dice vos estas nerviosa por algo a mi no me jodes y yo nonono,ni les conte que desaprobe todavia alto estresss mabel	fear	0.729
+2018-Es-06888	Si alguien me quiere hablar no me enojo jajajaja	fear	0.292
+2018-Es-00635	es una persona PELIGROSA y con mucho poder encima	fear	0.740
+2018-Es-00607	Mañana es mi acto de graduación y no puedo dormir por la ansiedad.	fear	0.783
+2018-Es-00244	Camila no dejaba de reírse, terrible😂	fear	0.083
+2018-Es-02697	El descontento, el cansancio, la obstinacion, LA ARRECHERA esta tomando el plano atmosférico en mi país!	fear	0.813
+2018-Es-06033	Tenía mucho que no me ponía tan nerviosa al hablar por teléfono.	fear	0.646
+2018-Es-00023	Odio la gente cerrada, que no se deja ayudar. Para colmo la mayoría de la gente que quiero es así 	fear	0.438
+2018-Es-02409	Este se la da de monje y es terrible pelotudo, y ella le habla.	fear	0.438
+2018-Es-06436	Si las lluvias continúan, como de hecho ocurrirá, cuántas obras públicas más están en peligro de colapsar?	fear	0.607
+2018-Es-04049	No me tientes Santanaaaassssss 	fear	0.479
+2018-Es-00363	De ti quiero mas bellaquera menos timidez	fear	0.208
+2018-Es-00544	Tengo el pelo horrible, cuando cobre me voy a comprar hasta lo imposible para tenerlo hermoso	fear	0.292
+2018-Es-03472	Mientras puedas mirar al cielo sin temor, sabrás que eres puro por dentro, y que, pase lo que pase, volverás a ser feliz.	fear	0.417
+2018-Es-06743	Mata mi inquietud y espera a que pase Apaga la luz, amor, aquí estaré...	fear	0.364
+2018-Es-01588	Simplemente corruptos e infames los diputados, cubriendo sus espaldas #NoMásCorrupción #enojado #triste #Guatemala	fear	0.521
+2018-Es-03854	@PeliOviedo5 Jajajajajjajjajajajajajajajajajaja tremenda experiencia,	fear	0.063
+2018-Es-04589	no me contesta y me enojo mas de lo ya estoy	fear	0.417
+2018-Es-00347	@Brendaa_C Todos chiquita....todos 🙁	fear	0.348
+2018-Es-02198	Un asco me quedo el pelo 😤😤	fear	0.500
+2018-Es-06265	sintieron el temblor?? #panama , todo mi sillón se movió 😩	fear	0.938
+2018-Es-01521	@71Marting @FernandoPoyo1 @SilMercado @GekkoLeeson @silvinamarq Gira la cabeza, como la del exorcista #MIEDO 😨	fear	0.854
+2018-Es-05855	—Tengo miedo. —¿De qué? —De que te canses de mí. —¿Tú te cansas de respirar? —No. —Pues es lo mismo.	fear	0.750
+2018-Es-02190	EL PUEBLO DESPERTO , Y VA A CRISTALIZAR LA LIBERTAD DESTRUIDA POR TODOS AQUELLOS QUE LA JUSTICIA LOS ESPERA CON MUCHA ANSIEDAD T ANHELO	fear	0.563
+2018-Es-01033	Pensé que era una gilada lo de sentir que molestas, pero es lejos lo más horrible	fear	0.708
+2018-Es-02320	Que horror, llegue a donde NO QUERIA! Ya valí.	fear	0.875
+2018-Es-04708	Asumo mis consecuencia y admito mis errores, esos que excusé, por nerviosismo, por temores.	fear	0.792
+2018-Es-03678	Con la facilidad que ciertas personas me cambian el humor es tremendo.	fear	0.333
+2018-Es-00614	Lamentablemente, sí, lo conozco. —Ni se ha molestado en apartarle, le da un poco igual que se apoye en él.—	fear	0.458
+2018-Es-03242	@WaldoCasal @larisalvarezg @fiorelabarbera les deseo suerte con esto chiquis 🙈👅⚠😔😚 	fear	0.313
+2018-Es-06678	En su mayoría, el cine #porno y el cine de #terror son similares, presentan situaciones absurdas y se aprovechan de la excitación humana.	fear	0.458
+2018-Es-00572	@elangelGmendo @manuelquieto Por un momento pensé que habías ido a verlo cantar!! #Susto	fear	0.708
+2018-Es-03958	estoy: enfadada y yo nunca me enfado	fear	0.438
+2018-Es-01126	@BNE_biblioteca @PostigoElena ...para gran disgusto de Quevedo 😝	fear	0.313
+2018-Es-02843	@waldorftty < Elisabeth había peleado. El espejo estaba hecho añicos, y varios tramos del suelo se habían manchado de sangre. Segundo >	fear	0.563
+2018-Es-03792	@Ashleymusica Sii 😂💔, eso si es incómodo Ash 😂😂	fear	0.313
+2018-Es-05640	@potterfxck que susto!!!	fear	0.854
+2018-Es-01350	@antenaxxx2 De los creadores de Bendecida y Afortunada llega blindada por mi novio feo pero narco. #Susto	fear	0.625
+2018-Es-04694	@AlargueCaracol saludos tremendo programa abz desde punta del este Uruguay	fear	0.196
+2018-Es-03474	Encontré ropa en mi casa y tiene olor al perfume que usa mi profesora de química 	fear	0.413
+2018-Es-06479	Mi grupito de amigas me tiene abandonado	fear	0.333
+2018-Es-06907	@cova_21 Joer pones cara de Kondogbia en su presentación... #susto	fear	0.708
+2018-Es-01990	@SergioNovelli @hcapriles @ElNacionalWeb Condecorado, abandonado y preso MUY PRONTO	fear	0.354
+2018-Es-02950	Es increíble la ansiedad que tienen estas minas por salir a kta, las quiero un poquito nomas 😂😂😂	fear	0.438
+2018-Es-02083	Yo y mi suerte para cruzarme con chabones con hijas y las hermosas madres celosas👏👏😡	fear	0.417
+2018-Es-01755	Adivinen quien tiene médico el lunes que viene y tiene miedo porque la van a pesar 😣	fear	0.833
+2018-Es-02327	@arodsol1 TAMBIÉN YOOOOOO, y en mty no hay 	fear	0.304
+2018-Es-03292	@nicosomerville El mejor hashtag que nunca vi! Jajaja #MejorSacarRapido #PorLasDudas 	fear	0.146
+2018-Es-06894	Si haces sangrar a un dios la gente dejara de creer en el, el agua se teñira de rojo y asistirán los tiburones	fear	0.489
+2018-Es-06004	Vengo d mi antiguo insti dond estudié bach d artes #Getafe #antoniolopez #nostalgia #Rabia al ver q se lo están cargando al no darles apoyo😡	fear	0.396
+2018-Es-04504	En mi trabajo hay una app donde  nos tenemos que dar estrellas entre compañeros.. #BlackMirror #IsHappening 😱🤔 	fear	0.354
+2018-Es-03386	@SUR_cultura @cacmalaga @ajavierlopez Pero vamos que es un poco la tesis del cura Perez Pallares de no ofender a nadie.	fear	0.479
+2018-Es-00371	@SoyPabloMiguel Expedito, porque es de las causas urgentes. Ideal para gente ansiosa, como sho.	fear	0.563
+2018-Es-03725	ver esas transmisiones de crunchy es peor que pasar oyendo esa horrenda canción que se hizo popular en este hemisferio	fear	0.438
+2018-Es-03858	Mi prima está internada con parto inducido,  Ambar apúrate que tu madrina no da más y quiere conocerte😍😍😍 estoy ansiosa les juro jajaja	fear	0.438
+2018-Es-03547	@ObservadBinario Por costoso en avión y peligroso por tierra	fear	0.696
+2018-Es-05479	TENGO 16% DE BATERÍA Y SON LAS 16:16 	fear	0.333
+2018-Es-02020	1 - El hecho de que el presidente Medina se escude detrás de los jefes militares ante esta válida alarma de los buenos y verdaderos...	fear	0.438
+2018-Es-05507	Espiritu chocarreros del WP se nos metio en el GRUPO 	fear	0.458
+2018-Es-06333	ok ME CANSE D ESPERAR voy a dormir #enojada #estresada #indignada	fear	0.563
+2018-Es-00161	Quedé sola en el colectivo 	fear	0.708
+2018-Es-02127	Me comi una palabra por estar enojada jaja	fear	0.313
+2018-Es-01809	Me sigue haciendo preguntas sobre el color de mis pies y hasta no responder todo no me va a decir el motivo de su curiosidad 	fear	0.375
+2018-Es-02850	Ante última alarma 👐😍 #LaFelicidaaaat	fear	0.021
+2018-Es-02266	Mayco y yo organizando algo? Nc como ira a salir eso😂😂😂😂	fear	0.396
+2018-Es-02808	Faa estoy re lleno 	fear	0.208
+2018-Es-03272	Aveces me coloco a ver películas sin ninguna razón para poder llorar tranquilo y no me pregunten el por que.	fear	0.583
+2018-Es-00063	brillito me salvo de un momento de desesperación como la amo	fear	0.500
+2018-Es-00398	@_AryaStark_ ¡Este es peor! #Miedo	fear	0.854
+2018-Es-06638	que terrible extrañarrrr!!!que me pasaa 🙄🙄	fear	0.542
+2018-Es-00386	@its_fedra La neta yo me veo igual de feo llorando sea la situacion que sea, así que por eso siempre pregunto JAJAJJAA PERDÓN	fear	0.348
+2018-Es-03363	@Darkphan Pues ya ves!!  	fear	0.167
+2018-Es-03451	Viste cuando estas ansioso para que salga él tema Mirame y se te hace eterno bueno así! @MaxiKilates @DakosMusic	fear	0.458
+2018-Es-00715	Seguro se le apago el celular 	fear	0.435
+2018-Es-05904	@AndresF_Garcia Todos los dibujos tienen cachos, sospechoso @josesalaaas @Dederlealdair @I_amghoul @JhonCruz0525 @jhonatanperez__	fear	0.438
+2018-Es-00319	@Fginer @CsValencia_C @CsCValenciana @CiudadanoVille @Albert_Rivera 👏🏻👏🏻👏🏻 ¡Muchas gracias por haberlo peleado!!	fear	0.167
+2018-Es-05214	@loveslywatson omg me paso lo mismo la otra vez, tremendo moretón en él culo me hice	fear	0.396
+2018-Es-01708	El cobarde muere muchas veces. El vals,nte solo una. - Willian Shakespeare	fear	0.479
+2018-Es-01807	@Gastako @realista111 Es una interesada no estaba tan enfadada con Alejandro?, Xq se fue con el al hotel? Buitre es un buitre	fear	0.458
+2018-Es-04405	Recién @jlespert recordó que la última vez que vistió a ML fue en noviembre de 2001 	fear	0.271
+2018-Es-01260	"Para tapar un desaguisado monta uno que parezca mayor"  Y el 1-O parece hermoso. 	fear	0.333
+2018-Es-05622	@KloudZNiper Cosas que pasan. Estoy cansado de muchas historias a raiz del pelo. Pero mira el lado positivo, por fin te sigo.	fear	0.239
+2018-Es-03889	@DavidManrique20 @mauropalacio10 @mauricio1143824 @stevenarce Sospechoso el penal que no quisieron pitar en el partido contra millonarios	fear	0.396
+2018-Es-00055	@aluksicc Buenas noches Andronico...cuando uno tiene una edad avanzada da más susto emprender como es el caso mio	fear	0.813
+2018-Es-06699	@glopezlecube Igual va grabada... 	fear	0.375
+2018-Es-01190	Hoy un paciente en ciru no paraba de decirme que me iba a abrazar toda 🙄 porque no tenía mas dolor. 	fear	0.333
+2018-Es-02975	Cercano por así decirlo. Y debo decir que no esperaba que fuese así de terrible el padecer de anorexia. En verdad, me.alegro muchisimo+	fear	0.396
+2018-Es-00146	La reflexión que nos deja el video de silvestre es que, A Otro Nivel es otro programa de la televisión Colombiana que es pregrabado. #Triste	fear	0.354
+2018-Es-03937	@NanaBlurl Como asturiana postiza estoy: indignada.	fear	0.521
+2018-Es-01444	-respecto a lo de antes, provocar o que me provoquen mientras juego o juegan.	fear	0.479
+2018-Es-03993	@AngeldebritoOk Por favor que cosa horrible	fear	0.729
+2018-Es-01996	Cualquier excusa me viene bien. Tremenda	fear	0.292
+2018-Es-06819	acabo de hacer un test de depresión y me salio 69 y el mayor grado de depresión grave es 54 opa	fear	0.688
+2018-Es-03380	@radicalyfeliz @evoespueblo Y para insultar da la cara y nombre cobarde	fear	0.435
+2018-Es-00233	Subió un chico lindo al bondi y no pare de mirarlo hasta que se acercó más y baje la mirada. Así de cagona soy. Me defraude a mi misma	fear	0.563
+2018-Es-03502	@LastiriAriel una pintura para mañana creo q tuve q haberme preocupado un poquito antes🤦🏻	fear	0.563
+2018-Es-04302	está ansiosa para a premiére de dunkirk? #askdirectioner	fear	0.479
+2018-Es-03658	Que peligroso depender de alguien que no depende de ti	fear	0.542
+2018-Es-04371	Tengo mucho miedo.	fear	1.000
+2018-Es-05735	#SexoYReligion la combinación de palabras que generan pánico en la sociedad.	fear	0.563
+2018-Es-00778	Policia abajo de mi casa con un tío #miedo	fear	0.771
+2018-Es-03997	Y me acuerdo que a veces me daba rabia pq no me hablaba, pasaba semanas ignroada por el pndejo y luego no recuerdo pq nos hicimos más unidos	fear	0.378
+2018-Es-06224	@malditaternura @atvpe A sacar todo el juego entre el terrorismo de estado y SL; en tanto muchos inocentes morían	fear	0.625
+2018-Es-06605	Ahora sí se escucha tormenta 😓 	fear	0.750
+2018-Es-00402	@Jhendelyn Que terrible....  Casi se me quebraron los dientes y me da un infarto...  Qué mujer por Dios 😍😍😍	fear	0.708
+2018-Es-06539	Nooo hoy quedo sola 	fear	0.729
+2018-Es-05414	"Botón anti pánico para mujeres violentadas". ¿Cómo salva a las mujeres que aún piensan que es normal el maltrato y un acceso a un celular?🤔	fear	0.583
+2018-Es-05702	tengo miedo d seguir a mi entrenadora por tw por las pelotudeces que twitteo lpm	fear	0.813
+2018-Es-05274	No qiero ser aprensiva pero ... si se perdió mi saco favorito del mundo .. si me voy a emputar y a sentir muy decepcionada d mi misma 😩	fear	0.604
+2018-Es-01632	@ManuelBartual Cómo se puede dormir si supuestamente ves a un hombre mirando hacia tu balcón to quieto 	fear	0.830
+2018-Es-03836	Contrastes de nivel en la #Concacaf: mientras que Martinica es la sorpresa de la #CopaOro2017, E.U. y Costa Rica no pasan por buen momento.	fear	0.272
+2018-Es-00696	@ErickLindoro Siii, súper triste 😩	fear	0.646
+2018-Es-06485	Una de terror 🙏🙏🙏	fear	0.646
+2018-Es-00427	Mi amiga habla sola dormida, es más estamos teniendo una conversación...... 	fear	0.347
+2018-Es-01719	Madre mía! El doble de Manuel Bartual saliendo en las TVs. 	fear	0.271
+2018-Es-03586	Thian no me suelta y quiero ir a fumar un cigarro 	fear	0.375
+2018-Es-04137	La alarma de mi celular es re fea y ya me tiene re podrido en cualquier momento lo voy a revolear hasta la peron	fear	0.438
+2018-Es-01652	@AMERICA_1916 A pesar de ser chivista, si es buen jugador lo que pasa es que falla demasiadas, le falta ser un poco autocrático y humilde.	fear	0.292
+2018-Es-02350	@ferro_facu tuvo que poner la alarma en su celular para hacerme acordar que nos tenemos que juntar mañana,friendship colgados goals	fear	0.417
+2018-Es-04217	Negro culiadooo, me tenés abandonado en el Paladins, en el LoL, en todo jajajajaja cuando nos juntamos a chupar?	fear	0.271
+2018-Es-03907	En cinco minutos mezclé dulce con salado, hablame de tener ansiedad y estar nerviosa. En cualquier momento vómito todo, lo siento	fear	0.729
+2018-Es-06329	Éste fin de semana la cita es con #Terror La Dama de Negro Colombia te espera   CASA ENSAMBLE   COMPRA YA #TuBoleta… …	fear	0.396
+2018-Es-03078	@Aguero1Nahuel Hirviendo estoy jajajajajaja	fear	0.167
+2018-Es-02228	Las malas decisiones que se toman cuando uno está aburrido 🙄 @MariaAOlivero	fear	0.604
+2018-Es-05743	Eli está viendo un capítulo de ppl y me pregunta que pasa más adelante  , ansiosa donde ?	fear	0.521
+2018-Es-04036	yo preocupada por lo q le paso y el ni la hora me dice 💔😣	fear	0.646
+2018-Es-05431	@xbxbygirl_x A-ah... —se sentía intimidado solo con verla fruncir el ceño, se agarró un hombro y desvió la mirada— Pedirte perdón...	fear	0.542
+2018-Es-05300	poner la alarma y ver las pocas horas para dormir que te quedan es mas que un puñal al corazón	fear	0.458
+2018-Es-00890	Soy mas peligrosa aburrida que enojada ...	fear	0.500
+2018-Es-00274	Cuando se junta la hipocresía las ganas y las ganas de lucirse el resultado es lamentable y repugnante.	fear	0.313
+2018-Es-02244	@p_legancemodels @Lenin El voto más vergonzoso y repugnante de mi vida.	fear	0.563
+2018-Es-02443	@Lupitaaa27 @SofiaHdz1724 Jajaja i was a little but eres mi amiga no me enojo para siempre 🙄🌚	fear	0.375
+2018-Es-02959	Estoy pensando en esos segundos pisos que hicieron para salir de la CD.MX. hacia el sur... #miedo	fear	0.833
+2018-Es-03855	@bbgxam Ese fue el primer susto que me lleve putos jueguitos	fear	0.854
+2018-Es-01452	Ahora tendré la oportunidad de escuchar a Gutiérrez diciendo "sospechoso" (?).	fear	0.354
+2018-Es-01148	Programar esa alarma me da justo en lo perezosa.	fear	0.292
+2018-Es-05951	Hasta con una traba encima montan videos en Instagram, no tienen temor de Dios. No respetan oiga.	fear	0.542
+2018-Es-05174	Que mentiroso es Facebook como puede decir eso de mi nombre: me siento preocupada	fear	0.688
+2018-Es-01666	@NivoXZ AMARGADA, EN SERIO 🤣🤣🤣🤣😂	fear	0.457
+2018-Es-05323	Como que Corea del Norte le está tocando la orejita a Japón??? 	fear	0.625
+2018-Es-00036	@infobae Apuesto que no sale!!alguien se va a ofender, a alguien no le va a cerrar el proyecto xq ñañaña	fear	0.479
+2018-Es-00164	Me estoy comiendo tremendo viaje escuchando un recital entero de Luciano Pavarotti y fuaaa	fear	0.271
+2018-Es-05724	Es una estupidez pero cuando algo me sale bien de la nada en lugar de celebrar me pongo ansiosa 😖😖😖	fear	0.500
+2018-Es-02521	@SarpY_icerde Sólo puedo decir ... Sarp siempre preocupado de tía fusun	fear	0.625
+2018-Es-05658	@Jhosy2121 Cuándo me he enojado contigo oe JAJAJAJA la hago un finde!	fear	0.188
+2018-Es-05130	Ahora cada vez que escuche The Messenger lloraré. Esa canción significó mucho para mí en un momento, ahora bueno, con lo que pasó 😔	fear	0.521
+2018-Es-05981	Maradona puede opinar lo que quiera cabros, yo no puedo opinar de lo que dijo. porque el pobre estaba tan drogado que no le entendí nada 	fear	0.250
+2018-Es-05517	No voy a poner alarma, que sea lo que el alienígena supremo quiera. Merezco descansar.	fear	0.333
+2018-Es-04021	@Anahi Oyee, Any.. vas a ver Anabelle? #Miedo	fear	0.875
+2018-Es-01536	@cintiatrinidiaz Vení que estamos cerca, te juro que no me enojo	fear	0.313
+2018-Es-04955	Estás escuchando radio y de pronto aparece tu voz y te da como susto escucharte a ti mismo... Llevo algunos años en esto y no me acostumbro	fear	0.740
+2018-Es-05838	La premonición de q voy a tener algún tipo de internación en México 	fear	0.583
+2018-Es-00432	osea da las putas gracias que no has estado deprimido hundido en la mierda en vez de llamar a alguien cobarde	fear	0.583
+2018-Es-00227	Esta alarma está establecida para dentro de 4 hs y 12 min, estoy llorando	fear	0.563
+2018-Es-02245	Hoy me voy pa la calle a vacilar sin tiii	fear	0.146
+2018-Es-04573	Cabeza e' mango està perdido. La Humanidad en vilo porque su reserva intelectual està en peligro...	fear	0.604
+2018-Es-05858	Sospecha que no es fácil la cosa jajaja	fear	0.292
+2018-Es-02922	@MilagrosLeivaG @RPPNoticias Porqué negó vínculos con apristas a pesar de las fotos? Si nada debe o teme?	fear	0.700
+2018-Es-05212	Ese momento de desesperación cuando no encuentro un emoji	fear	0.604
+2018-Es-02799	La primita d mi novio asustada pq tiene un moretón y piensa q se le salió un hueso d la costilla 😂😂 me la como a bss	fear	0.688
+2018-Es-04861	Iba con algo de temor por mis haters, pero Dios no abandona, hermoso día!	fear	0.500
+2018-Es-01481	Un bebe mas adelante ,ahora no! :/ 	fear	0.583
+2018-Es-06380	el caso de silvya likens es tan horrible lpm	fear	0.729
+2018-Es-05370	Ella se ve fria, pero no lo es, en realidad es muy dulce y tierna, solo tiene miedo a que la lastimen	fear	0.542
+2018-Es-05318	@_alejandramttz @Rivera_Alv22 La ultima temporada de esa serie no me gustó 😢	fear	0.479
+2018-Es-01693	Hay pelís q deberían venir con un “no recomendado para gente sensible” al igual q hacen con la edad #Manchesterfrentealmar #pena #angustia🔄	fear	0.696
+2018-Es-04780	Imaginense un mundo sin pastillas anticonceptivas numa que PESADILLA	fear	0.913
+2018-Es-04655	@LeSet_ @_XpressTV Ahora solo existe en mi memoria 	fear	0.396
+2018-Es-04926	@AngeldebritoOk @laufer4 Y yo que pensaba dormir hasta tarde... Cancelo todos mis planes, ya me puse la alarma!! 💕💕	fear	0.333
+2018-Es-02418	Estoy ansiosa mal por ir a Disney y falta un año todavía	fear	0.500
+2018-Es-06560	@josedli24 Que horror q dientes tan amarillos y q cara tan fea además yo soy más bella q vos	fear	0.413
+2018-Es-01911	@laclaux Bah, era como evoluciones del mismo sueño, sobre una casa en Córdoba. Hace un par de años la encontré. 	fear	0.313
+2018-Es-02158	Acabo de ir rápido al súper y sorpresa me llevé al encontrarme con una sabrosa salsa macha de mi bello Veracruz ♥️☝🏾	fear	0.208
+2018-Es-04510	@Laesebeefe Detesto comer fuera de hora.  😠	fear	0.438
+2018-Es-04623	Al pedo pongo alarma si la apago y sigo durmiendo 💁	fear	0.167
+2018-Es-03498	@AlfredoLecona @Danetth Y el Jetta quedó fuera de peligro?	fear	0.458
+2018-Es-03694	Si mensa, se nota tu desesperación ya todos lo notamos ntp	fear	0.542
+2018-Es-01023	@LuisRodriguezSt De Katy? O de Calvin? O de Kimye? Que tal hable de los cuatro en todo el album? 	fear	0.354
+2018-Es-00437	@Miotroyo2parte @amparelampa Solo hay que verle la cara de amargada, gentuza y aborto viviente. Para comprender todo. Asco dais asco !!!!!	fear	0.478
+2018-Es-01700	"Hombres cuya única preocupación pasa por si sus nalgas estan erguidas"	fear	0.250
+2018-Es-05330	Culia le di rt a a un tw citado de annabelle y al segundo me salio que mirara debajo de la cama 	fear	0.771
+2018-Es-03426	Agradecemos a @gpscongreso y a @Pdemocratacat expresar la indignación ante la llegada mal y tarde del Gobierno al compromiso con #refugiados	fear	0.458
+2018-Es-00658	@pagina12 Lo unico q hacen es inaugurar/arreglar plazas. Vamos a comer pasto a este paso. Un horror	fear	0.688
+2018-Es-00637	Estoy muriendo de sueño 	fear	0.208
+2018-Es-00156	Un joven que iba sentado a lado mío tardó como 10 en mandar un wa, a una chava que seguro apenas estaba ligando, estaba sumamente nervioso.	fear	0.583
+2018-Es-03733	Que aburrido mi dia del amigo!!!	fear	0.333
+2018-Es-04435	Día tan re aburrido u_u	fear	0.229
+2018-Es-00367	Cuando el uber te pregunta y tienes novio o por qué tan solita 	fear	0.271
+2018-Es-01564	mejor hubiera nacido en barrio peligroso donde todos son adictos a los gyms con pesas de cemento, ya no quiero panza.	fear	0.458
+2018-Es-00213	es muy frustrante practicar y practicar en tu instrumento y que no sientas mejora alguna, de verdad me pone triste eso 😥	fear	0.604
+2018-Es-04458	Esta alarma está establecida para dentro de 4 hs y 11 min, estoy llorando	fear	0.521
+2018-Es-02162	Que horror es querer dormir con este sentimiento 😖	fear	0.875
+2018-Es-02436	@ObservadBinario @nakamartinez Berro larguísima!! Todo esta muy tétrico esto va mas allá de tensa calma	fear	0.729
+2018-Es-03157	@IraidaTravis Hace poco fui a un concierto y apareció Joe de sorpresa cantando ese tema y de ahí que la tengo pegada jaja 💕	fear	0.146
+2018-Es-02852	maldita pesadilla de mierda	fear	0.833
+2018-Es-04300	Me acabo de leer la historia de Manuel Bartual y estoy escuchando ruidos en mi habitación 	fear	0.958
+2018-Es-00385	MI HERMANA SE ACABA DE LEVANTAR Y HA EMPEZADO A HABLAR PERO NO HA DICHO NADA EN ESPAÑOL Y ESTABA DORMIDA 	fear	0.652
+2018-Es-03311	La silla de Annabelle se mueve sola o la está moviendo? @chekozaun @disparamargot @Horacitu @ximenadelam @szurita @faustoponce  #miedo 😖	fear	0.957
+2018-Es-02558	HT contra los historicos, perdió (Millos, SF, Calix2), empato (medellin, nacional, cali), gano (junio, cali). Osea mal. Solo 9 pts de 27.	fear	0.292
+2018-Es-01796	Me verás volar, por la ciudad de la furia... Donde nadie sabe de mí, y yo soy parte de todos.	fear	0.438
+2018-Es-02845	Yo no sé cómo da los primeros besos la gente normal porque en mi caso siempre ha sido sin que yo me dé cuenta. Sino me alejo porque 	fear	0.415
+2018-Es-00802	Desde primaria soy Fan fan fan faaaaan de hilary duff h estoy bien indignada porque no están sus albums viejos en Spotify ¡SON LOS BUENOS!	fear	0.271
+2018-Es-02776	@edufeiok ESE PHOTOSHOP AMERITA UNA DENUNCIA ! TE ESTÁ CALIFICANDO DE NAZI Y ESO ES UNA INJURIA GRAVE!	fear	0.521
+2018-Es-04238	@Arg_GOT Para mi está enamorado de Danny o le prometió algo a Cersei que no sabe si va a poder cumplir. 	fear	0.229
+2018-Es-01434	Como es que a la facu llego una hora después y para el teaser despierto mágicamente sin alarma y justo a tiempo?   #BAMA2017_EXO	fear	0.348
+2018-Es-06901	@loreinsanchez Quién no... Yo tuve insomnio tres días. Horrendo.	fear	0.708
+2018-Es-02635	No hay momento mas nervioso como cuando vas a ver si entraste a la facu o no	fear	0.813
+2018-Es-00311	En la pelea, se conoce al soldado; solo en la Victoria, we conoce al caballero. - Jacinto ,enavente.	fear	0.368
+2018-Es-02268	Temor a estar solos.	fear	0.896
+2018-Es-06505	Jengibre, limao, miel y agua caliente + ajo intenso y más limao con ensalada para espantar los bichos de este cuerpo	fear	0.326
+2018-Es-02428	Llovizna en Agosto??? 😨	fear	0.313
+2018-Es-03819	@TheNotoriousMMA mamita querida que animal!!!! 	fear	0.396
+2018-Es-01421	Andy aprende a tapar que estabas mas nervioso que cuando tenias la calcomania XDDDDD	fear	0.478
+2018-Es-05482	ya estoy preparada para ver el último episodio pero voy a rezar unos rosarios por mi alma porque todavía tengo 	fear	0.625
+2018-Es-05888	Estaba encontrando el sueño y a alguien le está sonando la alarma del auto odio mi barrio	fear	0.417
+2018-Es-03281	@ErasmoGAA @nico_alegriam Jajajaja es un fanático e ignorante. Peligrosa combinación	fear	0.354
+2018-Es-05103	@LauraSalgado75 Yo si decia porque se habian perdido los days 	fear	0.229
+2018-Es-04894	#Terror  Por un simple bostezo se tragó una araña que anidó tras su epiglotis y desde allí gobernó el resto de su vida. Murió en tres días.	fear	0.848
+2018-Es-02154	amelia entró en pánico	fear	0.833
+2018-Es-00518	#RecuerdosDeChibolo ser el mas tímido de mi clase 😌😌😌	fear	0.333
+2018-Es-03866	La mejor arma es la que transforma el pesimismo en optimismo.	fear	0.208
+2018-Es-02502	No quiero ser alarmista. Pero mi padre tiene una empresa de alarmas y la voy a heredar...	fear	0.438
+2018-Es-01009	El subnormal diciendo que le hemos amenazado xdddddddddd	fear	0.438
+2018-Es-06048	Hace 9 años desde la última vez... y OMG, pánico escénico!!!	fear	0.771
+2018-Es-05902	Informe del acto: se trata de quema de basura y escombro, sin peligro de propagación, se trabaja @PrimeraCoquimbo @Cuarta_Coquimbo	fear	0.479
+2018-Es-01572	@nunurob Tía, he apuntado el número HOY para asistir de público. 	fear	0.313
+2018-Es-00612	@la_huitlacocha Es una sorpresa 💁🙈🙈 Adivina... 😁	fear	0.167
+2018-Es-02563	Uy lpm que miedo, espero que no sea nada grave	fear	0.815
+2018-Es-00999	Los dos queremos pero nos mata la cobardía !!!	fear	0.750
+2018-Es-00904	Ya regresó la luz. Ahora sí, guarden silencio que voy a cenar y se me puede espantar el hambre. 😌	fear	0.333
+2018-Es-04877	no entiendo por que verga teniendo tanta capacidad de debatir y siendo tan extrovertida cuando debato en mi curso empiezo a temblar	fear	0.674
+2018-Es-05522	Tardé más esperando que se calentara la empanada que lo que duró la pelea entre ellos JAJAKJASDFM.	fear	0.229
+2018-Es-05619	Robado el achique! Tremendo partido ganado a huevo! Vamos nosotros.	fear	0.104
+2018-Es-06522	Hoy me contaron "historias de horror en un parto en el seguro social" jajajajajajaja y neta no puedo estar más agradecida con Dani...	fear	0.543
+2018-Es-06292	tremenda rara esta mira las cosas que twittea	fear	0.417
+2018-Es-03434	Que termine esta tormenta porque no voy a poder dormir!  	fear	0.917
+2018-Es-04799	@CFCorrecaminos Y ese parche tan horrendo enfrente de la playera que pedo?  #Gacho	fear	0.413
+2018-Es-01393	No puede ser q esa rubia q esta tremenda, se coma alto braza, dios mio, ahora si q deje de entender a las minas...	fear	0.333
+2018-Es-01045	Ser feliz no es tener una vida perfecta; ser feliz es reconocer que la vida vale la pena, a pesar de las dificultades.	fear	0.208
+2018-Es-01070	Ya cansan con sus intentos de insulto jajjaja besos	fear	0.229
+2018-Es-05948	Ah borrarse del mapa😪 cansado de lo mismo, entero solo en esta vida✌ :(	fear	0.438
+2018-Es-00379	Es legítimo responder a una provocación con agresión física como señal de imponer respeto.	fear	0.438
+2018-Es-04905	@JosemaNOB PARA porque hoy me mando una foto que decía que era una "Valentina". 	fear	0.391
+2018-Es-02056	@galancantu Todo está tan mal... que no sé ni por dónde empezar. Pero la foto de sssssssteve parece de un violador en serie. 	fear	0.783
+2018-Es-01557	Queramos o no vivimos en una sociedad cobarde, que cuando la ves te sonríen pero al darles la espalda te apuñalan.	fear	0.521
+2018-Es-02231	Tuve una pesadilla en la que James se iba del Real Madrid al Bayern Munich por menos de lo que quieren pagar por Mbape... oh wait.	fear	0.491
+2018-Es-02080	Se va asustar si ve todo esto😅😅	fear	0.522
+2018-Es-04072	Qué grata sorpresa ha sido Merida	fear	0.292
+2018-Es-01253	El tren va re a lo toretto 	fear	0.438
+2018-Es-01116	Me sale re piola hacer enojar a Eve,pero despues para sacarle el enojo te la debo.😂💞	fear	0.375
+2018-Es-00701	Fui hecha mierda a la cancha pero que manera de disfrutarrrrr, terrible partido	fear	0.396
+2018-Es-06118	@MrMisingno @VidaModernaOML A QUIÉN LLAMAS RARO, ESTOY OFENDIDO.	fear	0.563
+2018-Es-06933	Cómo cuando Dross ya no pública nada bueno... Jajajajajaja 😂  Hasta @TeVeoGeek sale en uno de sus vídeos..!!  #Fama #Suscripciones 	fear	0.188
+2018-Es-02082	Que se hace para que se te peguen 4 hojas en media hr? 	fear	0.354
+2018-Es-05240	@ObservadBinario Totalmente no. Solamente la planta baja lamentablemente. Más de 12 negocios devastados	fear	0.750
+2018-Es-00513	@alejandromesias Justo eso quiero evitar... la tristeza!	fear	0.479
+2018-Es-04244	Estás en el colectivo, solamente hay cinco tipos y todos te miran 	fear	0.688
+2018-Es-02037	que horror que escriban REYNA	fear	0.563
+2018-Es-00482	Este año estamos + alejadas pero sabes q seguís contando conmigo p todo, a pesar de todo lo q pasa quiero q sepas q t quiero y valoro 1000	fear	0.307
+2018-Es-04153	@RodrigoR99 Y van por Zampedri parece.... tremendo 9	fear	0.333
+2018-Es-00533	fandom de st sufre miedo al votar por su idolo My #TeenChoice vote for #ChoiceBreakoutTvStar is Finn Wolfhard @FinnSkata #StrangerThings	fear	0.630
+2018-Es-05254	@DeniseDresserG horror! Pueden provocar otras desgracias!	fear	0.674
+2018-Es-03600	Pensé que se me habría pasado el disgusto pero no	fear	0.500
+2018-Es-04409	Si iaso por tu lado y no te saludo nq  o tomes como enojo que los amores q e se quieren se saludan con los ojos.	fear	0.220
+2018-Es-05868	NECESITO QUE SALGA EN SPOTIFY PARA PODER ESCUCHARLA QUE DESESPERACIÓN	fear	0.500
+2018-Es-01683	#todasqueremosajohn por favor salvamos! #Annabelle #terror #monafea #miedito @ktta_f9	fear	0.761
+2018-Es-05590	#DeNocheenlaCiudad @LeonardoUrregoM  sin duda alguna la sorpresa de la noche fue la canción que interpretó @CamVelandia de @piso21music	fear	0.146
+2018-Es-06574	@adrianmilo123 Los periodistas porteños sin de terror!! Creo que Ya está con un pie en Central	fear	0.708
+2018-Es-06330	Recuerda mijo @DalasReview una mujer herida es muy peligrosa... mucho animo @MIAREsproject	fear	0.521
+2018-Es-00992	Que horrible dormir con pantalon lpm	fear	0.646
+2018-Es-06443	Es que estoy nerviosa y cuando lo estoy me da por comer, comer, comer y más comer 😢	fear	0.792
+2018-Es-03787	@MilagrosLeivaG por favor a cambiado hay peligro por q sus hijos ya estan fuera del pais.	fear	0.783
+2018-Es-06849	Ohhh hasta se me fue el sueño del disgusto 😔	fear	0.500
+2018-Es-04081	He descubierto hace unos días que existe #rupaulsdragrace y no lo he visto nunca, y mis amigos me dicen que rozo la heterosexualidad 	fear	0.326
+2018-Es-04097	@SayaTsundere17 saya se me acabo el cafe amargo!!	fear	0.333
+2018-Es-05219	Tengo que estar despierta hasta las 12, y ya tengo horror sueño	fear	0.583
+2018-Es-06633	Cayó el trueno y me sonó el timbre que nunca funcionó xq no hay botón afuera desde q me mudé! 	fear	0.708
+2018-Es-06614	Está zona ya es sumamente inestable y peligrosa, las personas de #VenustianoCarranza Michoacan deben de ser evacuadas.	fear	0.771
+2018-Es-00751	@CarolinaWebb Es más difícil quitar la ansiedad que los piojos	fear	0.604
+2018-Es-06621	@GeroDiego12 @MartiPallanza Noooo , vieron eso jajajajajajajajajaja 	fear	0.125
+2018-Es-03510	¿Que se siente ser orgasmo y verla siempre, y que no pueda esconderse? 📚	fear	0.521
+2018-Es-06573	Temiendo ser peor temiendo ser mejor temiendo al fin siempre temiendo.	fear	0.854
+2018-Es-06589	Te contestara tu estado pero eres tan culon que me eliminaste en una pelea similar👀😂	fear	0.354
+2018-Es-03845	Si vamos juntos no hay porque tener temor.	fear	0.478
+2018-Es-06803	ahora tengo miedo d q se despierte y me vea q los estoy usando 😹😹😹	fear	0.708
+2018-Es-01535	@santi_falcone Los machitos agresivos del boxeo se piensan q no se puede opinar. #LibertadDeExprecion 	fear	0.354
+2018-Es-03107	Román estuvo inquieto todo el día, llegó un momento que ya me hacía doler 😰😰	fear	0.417
+2018-Es-06397	Me desperte desp de una pesadilla q feo	fear	0.875
+2018-Es-02469	mis Oppies están muy calladitos... 	fear	0.354
+2018-Es-04348	cainemaribel21 Que Nadie Olvide el nombre y el rostro de la Violencia y Terrorismo. #VotosSIBalasNO	fear	0.521
+2018-Es-00998	no soporto ver que maltraten a un animal o que lo maten para comerlo pero lamentablemente la carne es TAN rica	fear	0.458
+2018-Es-03155	Ansiosa para sábado 😍	fear	0.417
+2018-Es-01173	🤑Terrible lo bien que me caes! sos muy buena onda y copado😊🤙	fear	0.188
+2018-Es-06158	Cuando te quedas en una casa que te causa terror pero aún asi te encanta.	fear	0.604
+2018-Es-03862	Y dale con el #miedo ! Que no! Que es cosa de #amor !!!! #Cristovive	fear	0.583
+2018-Es-01155	Cómo justificáis el desprecio de Carmena al #HomenajeBlancoEP? Cómo podéis decir que Otegi es un luchador por la paz? Os importa ofender?	fear	0.458
+2018-Es-02692	Me odio, soy muy ansiosa😣😣	fear	0.625
+2018-Es-04652	Siento que pasaron mi snap a algun grupo o algo pq me añadieron como 9 personas 	fear	0.457
+2018-Es-01394	Mi mamá me puso a cocinar con la Olla de presión, es normal que le tenga pánico a ese artefacto de cocina ?? 	fear	0.875
+2018-Es-06649	que lindo va a ser desactivar la alarma de las 6 am por dos semanas	fear	0.109
+2018-Es-03114	El coño e su madre , tembló aquí en Caracas. En la castellana 	fear	0.934
+2018-Es-02356	Hay una flaca que mira todas mis historias y no me sigue!!! Que onda me busca todos los días en Instagram a ver si subo una historia? 	fear	0.333
+2018-Es-00292	@RocioPereyra22 Jsajak no puedo soy muy ansioso	fear	0.479
+2018-Es-06325	4 dias pros 18 , ansioso talvez	fear	0.479
+2018-Es-02372	Que seca q es la #LuzCroxatto tremenda  actriz #12DiasCHV	fear	0.167
+2018-Es-00970	Mami rol tuvo una pesadilla... y aquí estoy	fear	0.667
+2018-Es-04369	cami: a veces pienso que eres tímida pero recuerda que puedes hacer las locuras que tú quieras sin importar lo que digan, te adoro	fear	0.250
+2018-Es-04550	Estar lavando a esta hora, debe ser un delito 	fear	0.417
+2018-Es-06407	via @glendyvasquez: @carloshenrypari  Amargado ... Solo era una pregunta y yaaa ... Deje la amargura	fear	0.330
+2018-Es-01322	Yo pensaba que Henry Boys era de mentiritas, tanto por su nombre como por sus opiniones 🤔 pero no, el wea existe 🙄 #Miedo	fear	0.833
+2018-Es-06511	Hay un caballo perdido y asustado por casa porque se escucha como va y viene y relincha todo tiempo💔	fear	0.604
+2018-Es-03326	"Cuarenta años estuve disgustado con la nación, Y dije: Pueblo es que divaga de corazón, Y no han conocido mis caminos."	fear	0.396
+2018-Es-00955	En la comida canalizo todo, sea felicidad, tristeza, aburrimiento, bajon, ansiedad y todo lo que exista. No tengo solucion.	fear	0.604
+2018-Es-05696	Vivir es lo mas peligroso que tiene la vida 🎶	fear	0.500
+2018-Es-00865	@frataslafraok Maaal, lo vi la semana pasada, saben mas de mi vida q yo misma!! 	fear	0.438
+2018-Es-06162	Sin ofender pero, representas todo lo que desprecio en el mundo.	fear	0.394
+2018-Es-06013	Bno bno chicos ya realizando los preparativos para este fin de semana hacer el directo ojala no me coja el temible lag cod bo3 😂😂😅😅☺	fear	0.417
+2018-Es-00044	Horrible es todo lo que te aferras y lo difícil que es soltar	fear	0.739
+2018-Es-03804	Estaba viendo una peli de terror y así de la nada, a mitad de la peli  comienzan a coger dos minas ahre de que me perdí dije	fear	0.583
+2018-Es-05459	Pero nose si el se enojo o yo	fear	0.432
+2018-Es-05882	Me pone de mal humor hacer maletas 😤	fear	0.417
+2018-Es-00478	Me pongo nerviosa que hace media hora se escuche a la policía, o bomberos, o ambulancia. Agarrame Martaa	fear	0.973
+2018-Es-05337	Los sentimientos que más odio en esta vida sin el rencor, envidia, tristeza y enojo 🙍🏽	fear	0.542
+2018-Es-01827	@Katherinrinrin No parce no es para menos en serio quede muy preocupada por ti JAJAJAJAJAJA.	fear	0.273
+2018-Es-02861	Al cura le da miedo ponerlo yo creo, ya esta muy grande la maria elsa pa un cura #PerdonaNuestrosPecados	fear	0.729
+2018-Es-05104	Y qué es lo que tu amigo más te dice? Otros: te quiero, te extraño, vamos a comer. A mí: Qué sufrida eres csmr.   Te odio. 😢	fear	0.370
+2018-Es-01639	Ya necesito vacaciones y a penas van los primeros parciales!!! 	fear	0.417
+2018-Es-00584	Ojalá hubiese sido algo mas grave, así tal vez se haya preocupado por mi.	fear	0.583
+2018-Es-00496	@esposlittle Eeeeepa, gracias! Tu cuenta parece tremenda	fear	0.042
+2018-Es-05427	La peluquera me dijo que tenía un carácter fuerte sólo porque tenía un remolino grande 	fear	0.458
+2018-Es-06312	Por que carajos estoy viendo una pelicula de terror solo 	fear	0.833
+2018-Es-06316	Vivir amargado, estresado, impaciente o triste no tiene sentido. No tiene ningún sentido instrumental. Nada se va a lograr en esos estados.	fear	0.583
+2018-Es-06927	Una lástima que se llevaran a @alo_oficial por delante... Salida perfecta, el podio estaba ahí... 😩 #Rabia #VamosFernando #GpSingapur #F1	fear	0.542
+2018-Es-04621	no toda sorpresa es agradable u.u	fear	0.500
+2018-Es-03916	Soy muy impulsiva, en el momento que me enojo digo cosas que después me termino arrepintiendo	fear	0.542
+2018-Es-06394	@Rubiu5 No lose quizás valga la pena verla 	fear	0.271
+2018-Es-03491	@Hangulptbr @AnnaLovesJinnie Qu susto fia	fear	0.813
+2018-Es-05835	@sofivp29 Que horror 😐🙊	fear	0.792
+2018-Es-00950	🎵No me folles con tus barbas🎵 que las tienes pringadicaaaaas 🎵y si lo haces, por venganza🎵 yo te pego mis ladillaaaaas🎵🎵 #SilvesJotero	fear	0.261
+2018-Es-05034	Y daltamos se um susto	fear	0.878
+2018-Es-06481	Hoy pase bañándome sin mentir como hora y media y en serio que me siento más blanca no jodas haha	fear	0.188
+2018-Es-06423	Yo sé que necesito hablar con un psicólogo (pienso demasiado en que no quiero vivir mas), pero no quiero ir, me da mucho miedo :(	fear	0.958
+2018-Es-04874	@valereyes25 Ya me había espantado pense que sólo era mi cel	fear	0.717
+2018-Es-06906	Horrorizado !! Qué pasó con las tetas de Luisana Lopilato ?? Era lo mejor que tenía. Desaparecieron...	fear	0.568
+2018-Es-05402	@noemtzi Me caga la lluvia en las noches, me da miedo bye.	fear	0.896
+2018-Es-01236	@LaPelotaNSM_KO Madre mia, pensar que esto puede ser asi toda la temporada... #miedo	fear	0.833
+2018-Es-03217	@PauDybala_JR @douglascosta Tremenda dupla se viene 😍 @juniorarias92	fear	0.167
+2018-Es-02544	@Natalistica que miedo jajaja	fear	0.583
+2018-Es-01532	Ojalá encontrar una buena película de terror, ahora son todas más falsas que las tetas de vicky	fear	0.375
+2018-Es-02750	Mi amigo y su novia cuando toman se desconectan bien cabron y si se pelean, se agarran hasta a madrazos. Ayer fue uno de eso días 😩😳 	fear	0.521
+2018-Es-06018	Ojala nunca se den cuenta 😫 	fear	0.500
+2018-Es-03964	@AmericadeCali vamos con toda equipo. Saludos desde Villavicencio. #mechita. Se perdió una ballata mas no la guerra	fear	0.229
+2018-Es-01071	porque será que no le creo una mierda a nadie soy tan desconfiada que ni en mi sombra confío.  Una mierda ser así	fear	0.646
+2018-Es-02224	@Nhaaaawn @MacroRocha Que susto mano	fear	0.792
+2018-Es-05281	abandonada ¯\_(ツ)_/¯	fear	0.500
+2018-Es-00837	Volver a esa época donde mi única preocupación era ya estar en mi cama para ver Los Únicos	fear	0.354
+2018-Es-06373	Será que Rihanna estará preocupada por el pago del recibo de la luz? 🤔	fear	0.208
+2018-Es-00568	@RamsesGirala Pero que pez amargo que sos...	fear	0.415
+2018-Es-05765	Que triste querer decirle lo mucho que amo a mi novio pero mi enojo no me lo permite	fear	0.417
+2018-Es-04194	Ya no quiero volver a ir a mi gym, después de lo que me pasó hoy. 	fear	0.792
+2018-Es-04566	Vaina pa'ridícula y patética, publicidad d locas jalabolas llorando porq se les quemo la casa, sólo se salvó cuadro dl HDP difunto. #Susto 😝	fear	0.500
+2018-Es-01767	Últimamente estoy tranquilo. Me asombro. Estoy extrañando pelear. 😂	fear	0.208
+2018-Es-03780	tengo comezón en la garganta que desesperación	fear	0.625
+2018-Es-03915	Ya estos hps me tienen harto la verdad.😠	fear	0.500
+2018-Es-03506	Tremendo pelotudo! Lo hubiera dejado ese sabado solo)	fear	0.333
+2018-Es-01212	@SrDiegoPollo El mio no ya me encabrone, veré luego mi peli. 	fear	0.417
+2018-Es-00721	@ghiskon no, no ofendido no jaja pero no saludarme....😂😂	fear	0.229
+2018-Es-06512	@PaisaVlogs Que descanses Dani! Gracias x la bonita sorpresa de subir el vídeo ❤️	fear	0.104
+2018-Es-01967	@_wocker Loco y peligroso!	fear	0.500
+2018-Es-05510	Que peligro cuando te corta la respiración el deseo...	fear	0.560
+2018-Es-05597	Si antes me sentía desanimada ahora estoy peor /patea su banquito y se va alv.	fear	0.625
+2018-Es-06191	Que me perdone mica pero yo lo voy a leer 	fear	0.396
+2018-Es-02889	Dudes! Neta que se necesita estar bien pendejitos de la cabeza si piensan que con snaps asquerosos provocarán algo en una mujer.	fear	0.396
+2018-Es-03228	Muchos de los que opinan sobre la detención de Lula luego defienden a voz en cuello la no injerencia en asuntos extranjeros.	fear	0.375
+2018-Es-03747	Me re incómoda esto	fear	0.435
+2018-Es-02426	Hoy mi papá me dijo que está preocupado porque aún no tengo novio 😂🤷🏻‍♀️💔	fear	0.283
+2018-Es-04687	@DebRyanShow #Rayito esperar ansioso	fear	0.629
+2018-Es-01759	Creo que tocando la guitarra la tristeza es mas hermosa.	fear	0.375
+2018-Es-04389	Aveces siento que me quieren agarrar ataques de pánico	fear	0.938
+2018-Es-02230	Dizque a poner la alarma en el calendario xd	fear	0.208
+2018-Es-04808	@FernandaZarat14 Esto si que está bien cabrón. 	fear	0.375
+2018-Es-01529	Acullá, saya, sayo, sayón, vid, atropello, afligir, aflicción, yute, vitud... ^_^	fear	0.313
+2018-Es-05372	Mis días estaban muy lindos pero con lo de hoy quede mas triste😣 a levantar cabeza y seguir, vamos rojo!	fear	0.458
+2018-Es-03225	@LauCuk ¿Lo escuchaste evocar su última visita? Fue en noviembre de 2001 	fear	0.333
+2018-Es-01927	si yo no te vuelvo a ver, yo me voy a enloquecer, es para mí, la locura automática	fear	0.479
+2018-Es-02946	@DalasReview Uno puede tener su opinión sobre el tema, pero amenazar de muerte a alguien ya me parece demasiado	fear	0.500
+2018-Es-06890	Solo emana desde dentro, como la furia roja del vagabundo de las estrellas.	fear	0.370
+2018-Es-03930	Será una noche de esas donde la mente no me dejara dormir 😟	fear	0.625
+2018-Es-01199	Por favor déjame terminar con esta pesadilla que llamas vida	fear	0.783
+2018-Es-05656	@osoriojdanielp no joda eso sí da rabia hp	fear	0.479
+2018-Es-05440	Que mh wacho 	fear	0.313
+2018-Es-05012	¿qué tan cobarde soy si no quiero pasar a despedirme?	fear	0.729
+2018-Es-03364	Michell me marcó para decirme que me tiene una sorpresa, que lleva 3 meses planeándola y me la dará en mi cumple ESO NO SE HACEE	fear	0.407
+2018-Es-06452	Tengo unas ganas ni las más hijueputas de comprar una Lona de boxeo y darle puños a lo maldita todo el día con horror temas a todo volumen.	fear	0.458
+2018-Es-04707	@IgnacioIriarte @pantxus Todaesa gente es dl terror.Yo escuchaba a la vocera y quede espantada. Hittler no seria peor que ella.	fear	0.792
+2018-Es-05755	Se me vienen cosas a la cabeza sin sentido que después ocurren,por ej la muerte de alguien o un accidente. 	fear	0.792
+2018-Es-00170	Ansiedad y frustración, gracias por ser mis fieles compañeras.	fear	0.708
+2018-Es-03525	Hola, ansiedad. Pasa. Llegas temprano.	fear	0.646
+2018-Es-06604	@SebasDominguezs @Mariano817 @LAVOZcomar Buenísimo!!! Si lo puedes lograr hacer para mañana te espero ansioso.	fear	0.229
+2018-Es-05528	@Tricker_FD Alguien que me entiende perfectamente Lamentablemente no tenemos control ante aquello	fear	0.457
+2018-Es-03626	¿Por qué los zancudos me persiguen? 🙁	fear	0.438
+2018-Es-01470	Directo al cora la alarma 6 am	fear	0.367
+2018-Es-01392	He notado que cuando tengo depresión no puedo dejar de comer, me agarra ansiedad	fear	0.708
+2018-Es-01113	@eddiebaeza estoy de acuerdo contigo lamentablemente lo economico esta por encima del deporte me refiero a dos torneos cortos saludos	fear	0.313
+2018-Es-01103	De los 7 tp que dio la de matemáticas  para el 2do trimestre solo entregue 1😂 Matemática a diciembre ya te siento 	fear	0.396
+2018-Es-04544	Necesito una película de terror right now	fear	0.500
+2018-Es-05746	@ConElMazoDando #TeLoDijeLaConstituyenteSiVa UN GUARDIA HERIDO DE GRAVEDAD EN LECHERIA Y NINGUN PARIODICO LO PUBLICA!! TERRORISMO!!	fear	0.792
+2018-Es-03211	Ojalá no tenga un Lenin Moreno entre mis amigos. De terror!	fear	0.729
+2018-Es-00601	Cada vez que twittea veo la foto de winnie pooh que tiene de perfil y parece tremendo violador, 	fear	0.646
+2018-Es-05251	Empecé el sexto libro y saber que es el último me tiene muy preocupada, no quiero terminarlo	fear	0.783
+2018-Es-04865	@DebRyanShow Son los que valen la pena 😳 #Rayito	fear	0.229
+2018-Es-05328	La vida ya de por sí es muy peligrosa, no por las personas que hacen mal, sino por las que se sientan a ver lo que pasa.	fear	0.688
+2018-Es-06749	"El #miedo solo sirve para perderlo todo." — Manuel Belgrano 😱👀	fear	0.646
+2018-Es-06132	#Maracaibo me huele a peligro. Alguien sabe porque los comando de la GNB están vacíos? Y muchos saqueados.	fear	0.771
+2018-Es-01295	Sale uno del estadio como todo preocupado.	fear	0.792
+2018-Es-00039	alta desconfianza me tiene, siendo q yo soy la que tiene q desconfiar, pero bueno no sé	fear	0.667
+2018-Es-06855	El suicidio es el capítulo final de una novela más larga e incomprendida. No se resuelve diciéndole a alguien que "no esté triste" y ya.	fear	0.604
+2018-Es-03151	-provocar. Tengo que comentar algo al respecto???	fear	0.375
+2018-Es-05679	Es fácil para los cobardes esconder la cara en una cuenta fantasma para ofender. Pero es entendible, la envidia les corroe. #QueTristeVida	fear	0.583
+2018-Es-02546	Se dieron cuenta? Siempre hago lo mismo, en el colegio cuando me gustaba alguien, ese año era donde más materias me llevaba. TERRIBLE.	fear	0.521
+2018-Es-03205	Tengo tanto miedo a perderte, que prefiero morirme ahora para no perderte nunca. 	fear	0.957
+2018-Es-03291	"Quédate con la persona que te dé respuestas y no problemas, seguridad y no temor, confianza y no más dudas."	fear	0.292
+2018-Es-06865	Taiga se enojo.	fear	0.396
+2018-Es-06706	@wolfinglouis si a mi tambien me pasa,por eso nunca estudio ahre si t pones nerviosa es peor	fear	0.729
+2018-Es-06450	Fran se acordo que estaba enojado conmigo 😡	fear	0.521
+2018-Es-00273	Quizás antes de provocar linchamientos públicos podríais buscar algo más de fundamento que el "me lo dijo no se quién".	fear	0.479
+2018-Es-01909	No quisiera sentir celos pero lamentablemente no se me da.	fear	0.500
+2018-Es-04461	¡Gran susto en la casa de #MOParaguay!😱 ¿Ña Susy sonámbula? ¿Actividad paranormal? Se convirtió en Lobo😐😐https://t.co/5mpN73aILF @MOParaguay	fear	0.875
+2018-Es-00881	@selenagomezbr to ansiosa #SelenasNewSingleOutNow	fear	0.500
+2018-Es-03711	@ClaudiaLopez No se deje intimidar senadora, con esos corruptos toca ir sin piedad. Son unos amigos de los recursos públicos.	fear	0.521
+2018-Es-03795	Que pesadilla el Facundo que escucha Maná.	fear	0.587
+2018-Es-06075	Quejarse de los spinners es igual de pendejo que usarlos.	fear	0.375
+2018-Es-02065	Jajajajajajajajaajjajajaajaj era peligrosa la tecnica	fear	0.261
+2018-Es-05094	Yo engañé a mi temor, rompí con mis dudas y ahora estoy a punto de casarme con mis sueños.	fear	0.479
+2018-Es-06538	@CamiiMunguia Si, pero es de terror. No sé si te gustan ese tipo de pelis 🤔 jaja	fear	0.500
+2018-Es-02096	Tengo que estudiar, qué paja. Hace tiempo no tenía que hacerlo, la vida era más linda 😥	fear	0.354
+2018-Es-03532	OMG! Mi perro estaba dormido y se tiró un pedo super fuerte y de se despertó asustado y salió corriendo 😂😂😂😂😂😂	fear	0.396
+2018-Es-01404	Estaba granizando me voy a morir	fear	0.813
+2018-Es-05289	@KarlaSc24 Mañana voy a visitarte mejor 🙆 así de -casi- sorpresa ☺💕	fear	0.167
+2018-Es-06755	Pa me siento horrible	fear	0.563
+2018-Es-00523	AAYYYYYY QUE EMOCIÓN TENGOOOOO NO ME HABÍA SENTIDO TAN NERVIOSA Y FELIZ EN MI VIDA AAAAAAAA 😍😍😍😍	fear	0.271
+2018-Es-01409	@ElyangelicaNews @osmarycnn Mira pues... Tan tímido que es..  SIN VERGÜENZA	fear	0.333
+2018-Es-05287	uy dios solo porque estoy 💍 no me lo quiere decir, lo odio😠	fear	0.283
+2018-Es-06317	Qué amargo sabor a despedida todos los momentos musicales del #DesayunoDeLas10 de esta semana. @carlespena @antoniofraguas @HoyPorHoy	fear	0.438
+2018-Es-00571	Algunos tienen más de lo que merecen, lamentablemente siempre va a ser así.	fear	0.435
+2018-Es-04362	@JuliPlini Yo probé y quedó parado también. 	fear	0.174
+2018-Es-00128	Este tweet esta deprimido por muchos recuerdos:(	fear	0.563
+2018-Es-06231	tengo mucha ansiedad de nunca poder hacer nada con mi vida y además mi autoexigencia a ser super inteligente me parece de hija de la mierda	fear	0.771
+2018-Es-02351	Estoy haciendo un retrato de los daft punk y estoy al borde del colapso nervioso porque me está costando un choto.	fear	0.729
+2018-Es-05575	Sola nomas me hago la cabeza	fear	0.417
+2018-Es-02811	#AnimalesSueltos a Asis le parece un espanto lo de Lula por un dpto de mierda. PERONISMO EXPLICITO ✌️✌️✌️✌️	fear	0.625
+2018-Es-06039	@moranzonidiego @djalemontero @Barman_Emiliano ansioso por la #FiestaPeatonal con:@FlavioAzzaro @LaMasa_N1 grosos!!! saludos desde Mercedes.	fear	0.396
+2018-Es-06500	@JuventusGO Excelente noticia. Ese culebron ya me tenia preocupado. Saludos.	fear	0.542
+2018-Es-05098	@robertomendez Consulta q tiene muy nerviosa a la gobernación	fear	0.625
+2018-Es-00236	@MeyerAna Porqué esa cara de susto no pasa nada	fear	0.604
+2018-Es-01226	"Estaba rico" ( era tremendo verde yazmin que asco)	fear	0.292
+2018-Es-04265	Yo sé que no me ha dado sueño porque estoy indignado.	fear	0.604
+2018-Es-04206	Ya se me pasó la pena	fear	0.354
+2018-Es-05348	El sistema nervioso de uno nunca será controlado.	fear	0.479
+2018-Es-05614	No sé qué me voy a poner el dda y eso me tiene demasiado nerviosa	fear	0.729
+2018-Es-05383	To desanimado de tudo	fear	0.563
+2018-Es-05398	@DebRyanShow #Rayito muero por que menciones a los ganadores, dentro de dos semanas 😵 estoy súper ansiosa	fear	0.587
+2018-Es-06822	I have questions me tiene la vida triste cada vez que quiero ver el video de crying in the club	fear	0.500
+2018-Es-03905	¡Mas cansada,  imposible!	fear	0.271
+2018-Es-03550	#BetoASaber. Animarles Guzmán  tirarse abajo economía política  crear caos con su terrorismo y dar pasó a la privatización. del Perú	fear	0.667
+2018-Es-00411	Estoy tan aburrida que tengo ganas de hacerme amiga de alguien, si, a ese extremo llegó jajajaja	fear	0.167
+2018-Es-00092	[27/8 23:04] wawitaaa: Vez q no t da boluda [27/8 23:04] wawitaaa: Mañana voy a hablar seriamente con vos  	fear	0.375
+2018-Es-02149	@softestangcl No me enojo, es una expresión :( me refería a molestarlo un poco. Gerardito jajaj qué lindos podo(?	fear	0.333
+2018-Es-04323	La fuente de la uja a las 12:00 debe de estar hirviendo #Jaen #calorextremo	fear	0.370
+2018-Es-02547	@SraruizruthRuth Si obvi y no lo digo por él, lo digo por algunas que ayer subian el de la piscina etiquetando a Aylén y me dio mucha rabia	fear	0.500
+2018-Es-00700	Hace mucho que no me sentía así... No todo es bueno, no todo es malo... #triste #increíble #rara	fear	0.478
+2018-Es-05020	Tengo un antojo terrible de cafesito 😢	fear	0.375
+2018-Es-00788	@xSilenceDoctor « pinta de ser un caos provocado por el adolescente fugado, quien poco a poco iba espabilando por los lametones del perro »	fear	0.563
+2018-Es-05226	ahora mi temor es perderme un live no confío en IG y sus notificaciones 😐	fear	0.729
+2018-Es-02523	Limpie toda la pieza, me re duelen las piernas.  Era un quilombo terrible	fear	0.435
+2018-Es-06393	@som0scasualidad tú y to nacimos el mismo día y nos ha salido lo mismo......... 	fear	0.413
+2018-Es-01877	Mañana juega la albirroja 	fear	0.250
+2018-Es-01069	Por ti, es que ya son tan desconfiado de las personas.	fear	0.542
+2018-Es-04401	Puedo. Con lo cual, me ha hecho darme cuenta del poco control q estoy teniendo sobre mis cosas y me ha empezado a subir la ansiedad +	fear	0.771
+2018-Es-03246	A veces me gusta ser chocante	fear	0.115
+2018-Es-06058	Nunca jueguen con mi ansiedad	fear	0.717
+2018-Es-02118	Cuando te veo sonreír todo mi ser ríe con vos y si te veo lagrimear me entra la desesperación 🎵🎶	fear	0.417
+2018-Es-01769	@DebRyanShow #Rayito estoy tan nerviosa	fear	0.688
+2018-Es-01501	Esto es tan doloroso 😭 Ya dejen de sufrir 😭	fear	0.542
+2018-Es-05651	@milaaagros2 @BrisaBaier no te conviene, es una pesadilla esta piba jajajaja	fear	0.326
+2018-Es-01133	me pone re ansiosa estar en el otro tw por que están todos hablando del 21 ojalá estuviera mintiendo	fear	0.604
+2018-Es-00461	@cecimarti79 Siii va a estar tremendo 👌👌veremos que onda hoy, se sabe a que hora es?	fear	0.146
+2018-Es-02994	Tremenda bronca, mejor me voy a dormir para no matar a nadie	fear	0.652
+2018-Es-06165	Igual vieron que HORRIBLE ESCRIBIR CON ESE LÁPIZ DE MENTIRA EN ESE COSO AZUL ALTA LETRA DE MIERDA TE SALE	fear	0.522
+2018-Es-06097	Se noto bastante creeme disque glass negro 😂😂😂 me encanto escucharte nerviosa chiquita✋😢	fear	0.391
+2018-Es-05343	Ya estoy ansiosa por ver el final de #suspiciouspartner	fear	0.646
+2018-Es-01385	@DalasReview me encanta la terrible hipocresia y doble moral que tiene esta gente, claro, cuando ella te lo quita ILEGALMENTE no importa...	fear	0.479
+2018-Es-01649	Estuve todo el día dibujando y me duele mucho todo. Vale.  Estoy ansiosa y tenía que hacer algo.	fear	0.542
+2018-Es-06776	La verdad prefiero a las personas honestas. Las mentiras están llenas de miedo e inseguridad, definitivamente no quiero eso en mi vida.	fear	0.543
+2018-Es-03223	@_lailaareco Jajajajaja terrible, la mejor ei!	fear	0.109
+2018-Es-00985	Clase cansancio 😪😪	fear	0.375
+2018-Es-02717	@michellevilaroo No puedo 	fear	0.292
+2018-Es-05891	Y lo que me gusta más es esa timidez que no te deja hablar❤️	fear	0.375
+2018-Es-05078	@Quadratin_Ver ¡Tremendo hijo de mil putas! Asco!	fear	0.414
+2018-Es-06107	@1Pinipon Acabo de leerlo! 	fear	0.239
+2018-Es-03108	este juego lo había jugado cuando era nene Y ME CAGABA DEL SUSTO	fear	0.688
+2018-Es-03589	Terrible juego el Half-Life	fear	0.396
+2018-Es-05831	@lahistoriaec @classo2012 Tiemblan porque habían logrado la autocensura a punta de terrorismo	fear	0.667
+2018-Es-05297	@adnradiochile Tienen el tremendo billete... Eso tienen x que abren la boca y queda la escoba	fear	0.229
+2018-Es-05067	What, me despertó alto relámpago ahora no duermo más 😭 	fear	0.708
+2018-Es-06399	@AguilaRey1 El #Sismo se sintió con fuerza en Guarenas/Guatire. Por donde trabajo, la gente salió a la calle 	fear	0.833
+2018-Es-00680	@UrreliG Si es por eso qué tengo yo super depresión	fear	0.630
+2018-Es-04752	Que inquieto está este perro😂😂😂	fear	0.283
+2018-Es-00422	@MaspiDIAL #trapero Panda de ignorantes!!...perdio 17 horas vitales...no vio bombonas...no vio versiculos #coran...no puso #bolardos, #miedo	fear	0.708
+2018-Es-04498	no me tiro para atras no me importa quien sos no sean tan cobarde y boxea con este chabon 🎶😛	fear	0.457
+2018-Es-03115	quien me entrtiene mientras caen 8 relampagos por minuto al lado de mi casa xfa !!!!! 	fear	0.750
+2018-Es-02383	@_FedeMF @LMental007 Está pintando desde el día que se largó el agua. Es que se nos viene la criatura, ¿vio? 	fear	0.322
+2018-Es-06880	@LaCarlangas_ch 😞 qué triste todo	fear	0.604
+2018-Es-06412	Quiero dejar de ser tímido	fear	0.652
+2018-Es-01360	@CarlosLoret Dios que horror capaz que cuando este el aeropuerto haya una catástrofe más grande y sean más victimas que las de hoy	fear	0.875
+2018-Es-01657	@julisologaistoa Vos que vas a saber si sos una amargada que no quiere que la llame 😢	fear	0.370
+2018-Es-01584	@DaniiiLoyola es horrible 😢 q onda vos tanto tiempo	fear	0.542
+2018-Es-03953	@kimchimandus Yo siempre estoy perdida! Me salvaste!! Alarma puesta 👍👍👍	fear	0.542
+2018-Es-00943	Literal que todos pollerean hoy en vez de salir que onda?  Si no consigo segunda para la juntada me sumo lamentablemente	fear	0.521
+2018-Es-03383	Tomando birras porque por un tiempo muy largo no voy a poder #Tristeza 😖🍺	fear	0.229
+2018-Es-05782	Mi pasado,un horror	fear	0.625
+2018-Es-06635	@Marionshy Y que seria ser viejo? 😅 #susto jajajas	fear	0.479
+2018-Es-01680	"No le puedes decir a los chilenos que va a haber gratuidad y dar la sorpresa que es 60%" @marcoporchile en #ElInformante #PresidenteMarco	fear	0.396
+2018-Es-00667	Ya me entró ansiedad y ganas de llorar porque me acaba de caer la cuenta de el poco espacio y falta de privacidad que tendré...	fear	0.929
+2018-Es-04172	Tengo tremendas ganas de salir a caminar ahora pa sacarme un poco la decepción y el enojo y pensar bien q voy a hacer	fear	0.479
+2018-Es-04804	Y ahora fui a verlo y no esta roto 	fear	0.348
+2018-Es-04084	Cuando se vayan a montar en el carro no activen la alarma a distancia, hacerlo lo más cerca posible siempre viendo hacia todos lados.	fear	0.438
+2018-Es-06895	😍😍😍😍😍 Hay Diossssssss... me va a enloquecer!!!!!!	fear	0.250
+2018-Es-06564	Hoy comi como 🐷 y ya me dio hambre otra vez 	fear	0.146
+2018-Es-03880	Claro que el año pasado invitaron al actor que hacía de Renly. Esa sí que hubiese sido una sorpresa, un Renly resucitado en la temporada 6	fear	0.304
+2018-Es-02793	@viridianaHls Yo lo patrocinó :v aquí también hace un calor horrible! Ya extraño el invierno y la nieve 😭	fear	0.313
+2018-Es-02628	Mi mayor problema es que no puedo estar enfadado. Siempre termino perdonando a las personas, incluso cuando no lo merecen.😚	fear	0.396
+2018-Es-01570	cuando le erras a las teclas...#Rabia #Traición #Histeriquismo	fear	0.521
+2018-Es-00951	De nuevo Lunes  12:00 am 😥	fear	0.208
+2018-Es-04852	Defensa de #OllantaHumala dijo que fiscal señala "las niñas generan peligro". Parece que no se entero de los millóncitos de esas niñas.	fear	0.457
+2018-Es-03715	@la_iguanatv mariguanita, cuando te llegue la ley no te pongas a llorar como una marica. Se te nota la cara de pargo.	fear	0.391
+2018-Es-04644	Sii "MI CRUSH" fuera un poco mas seguro de si mismo y no tan desconfiado waaa lo haría feliz y fuera un beta bn... Debate llevar chamito...	fear	0.354
+2018-Es-04010	Estoy tan ansiosa que mis uñas desaparecieron jaaaaj	fear	0.604
+2018-Es-01104	#PereiraEnVivo.   A esta hora congestión en la vía Pereira Santa Rosa por causa del trágico accidente de tránsito que dejó una mujer muerta.	fear	0.583
+2018-Es-02346	qué depresión ver todos los vídeos de las chicas que abrazaron hoy a los chicos, YO QUIERO	fear	0.646
+2018-Es-05252	Espero q después d los #atentadosenbcn, nuestro #pudor a #manifestarnos para #defender nuestros #derechos, no se convierta en 	fear	0.563
+2018-Es-02963	@SoyNovioDeTodas @MayraJiraaSCF Querer darte una sorpresa y que salga mal 😂	fear	0.396
+2018-Es-03112	@YoSoyAlii @Cristian20166 @cachoo01 @DjMaRiiO_90 @MIAREsproject Es que no me gusta faltar pero es que me pone muy nervioso:(	fear	0.833
+2018-Es-05783	No hay nada mejor, que se salga de su fiesta, e ir hasta tú casa, sólo para calmar tú enojo😍😍	fear	0.354
+2018-Es-02236	Segunda vez que sueño con la misma persona, esto se está complicando 	fear	0.542
+2018-Es-06352	Que nunca nadie lea las conversaciones con juli, vería lo tremenda gila que soy jajajaj	fear	0.250
+2018-Es-06919	Terminé la segunda temporada de @MerliTV3 . Ansiosa espero la tercera ♡♡ @davidsolans96 @AlbertBaro3	fear	0.292
+2018-Es-01447	@javo_naranja18 Nombre, con esos 2 tenemos. Lo de Mora no es tan grave y confío en que caute despierte esta temporada	fear	0.563
+2018-Es-06331	weonnn, weooooon, WEOOOOOOOOOOOOOOOOOON EL DIECIOCHO YA PASÓ 	fear	0.425
+2018-Es-00070	@Conigagliardi8 Soy tu pesadilla perdón ajjajaajja	fear	0.250
+2018-Es-00892	Que pena siento por esa gente que es tan celosa que a la pareja no la deja tener ni amistades nada que mierda vivir con esa desconfianza	fear	0.480
+2018-Es-04957	me siento muy frustrado conmigo mismo: me siento ansioso	fear	0.750
+2018-Es-06658	Eres azúcar amargo , delirio y pecado✨	fear	0.250
+2018-Es-06935	Ese tema de que Leo Castro está ansioso y por eso no marca ni por error ya no se lo traga ni tu Abuela; El nivel es PERVERSO!!	fear	0.630
+2018-Es-06835	¿Por qué no calculan clases en mi escuela? No hice la exposición 	fear	0.479
+2018-Es-06098	Anotación mental a compartir: Tu hija de 3 años SI puede escaparse con tu vehículo si dejas las llaves puestas 	fear	0.541
+2018-Es-04245	@Majunezd horrible. Por eso un punto intermedio es la excusa que se sabe excusa como la de "estoy con alguien".	fear	0.489
+2018-Es-01544	@delegacionMH @XochitlGalvez están asaltando a los autos en la colonia daniel garza !!!!! Urge vigilancia 😱😱😱	fear	0.917
+2018-Es-05529	Alarma lista para mañana temprano pues	fear	0.271
+2018-Es-06878	@DavidChoro Y mira que para que te espanten a ti.... 😈 	fear	0.417
+2018-Es-03190	@AngeldebritoOk @laufer4 Estoy ansiosa!😀	fear	0.717
+2018-Es-06642	Que perra del orto no para mas de torear	fear	0.304
+2018-Es-01921	tremenda siesta jajajajajajaja me voy a la mierda siempre me despierto a cualquier hora	fear	0.188
+2018-Es-01493	Terrible velero están haciend	fear	0.500
+2018-Es-02440	Qué sorpresa, no puedo dormir. ☺	fear	0.521
+2018-Es-04428	@ElectrikalStorm @pilimbergo Jajaja 	fear	0.167
+2018-Es-05189	me voy a morir sin saber por qué @. y @.. y @... me dieron block y los espantaré cada noche hasta que se arrepientan	fear	0.625
+2018-Es-06236	@manuelrosalesg Verdad ? Te creemos ? Tu huiste como lo q eres un traidor y cobarde, después negociaste tu salida con esas ratas del  Psuv	fear	0.500
+2018-Es-05967	O la gente confía demasiado fácil en otra gente o yo soy súper desconfiada. Me tiro por la segunda	fear	0.583
+2018-Es-05985	¿Sabéis el pulpo de buscando a Dory? ¿Recordáid que le faltaba un tentáculo y que vivía totalmente amargado y resentido?	fear	0.391
+2018-Es-06295	Me desperté y estaba la ventana abierta. 	fear	0.436
+2018-Es-06567	#NowPlaying No me importa [cBH] - Thony y su Orq. Peligro	fear	0.438
+2018-Es-06883	Ganas de decirte lo que me pasa con vos no me faltan  Pero AY QUE COBARDE QUE SOY	fear	0.667
+2018-Es-04251	Que desasosiego es enfrentarse a cosas tan difíciles.	fear	0.729
+2018-Es-06499	#SiMeMatan por decir lo que pienso, por ser sensible a al dolor humano, por luchar por mis ideales, por críticas al mal gobierno y #Enojada	fear	0.604
+2018-Es-03541	ahora vamos a rendir matemática  tengo 	fear	0.500
+2018-Es-04976	Se antes pensaba que eras tremendo pelotudo pero por lo poco que te conozco sos muy piola, espero conocerte mejor	fear	0.354
+2018-Es-01830	@de_sofiiaa Puto* Hubiese peleado con luna x maxi 😂😂😂	fear	0.313
+2018-Es-02671	#temblor acaba de temblar durísimo en la zona de la Florida Caracas 	fear	0.966
+2018-Es-02665	Será q me pongo a estudiar ahora como tremenda fraca?	fear	0.302
+2018-Es-06900	Que imaginación la mía cuando estoy celosa o preocupada	fear	0.521
+2018-Es-04954	empezaba a sonar una alarma corte sirena y tenia que llamar a mi oncologo a las 5 de la mañana para que me diga como desactivarla 🤔	fear	0.542
+2018-Es-02281	@BullDeMielda "Sabes que no me ha bajado la regla, eso me tiene preocupada" me dijo.	fear	0.750
+2018-Es-00022	Todavía sigo perdido en el desierto de tu cobardía	fear	0.522
+2018-Es-02955	Porque demoran en Venirme a buscar?😠😠😅	fear	0.417
+2018-Es-00732	@AzulRosito Ya lose,pero es tan lindo,y encima negrito,voy a llorar 😢	fear	0.333
+2018-Es-05929	Hoy me sentí como mi ídolo, si como Julio César Chavez Jr. En su pelea con el Canelo.	fear	0.292
+2018-Es-04959	"Mi abuelo es un peligro" en HBO2!! De nada.	fear	0.271
+2018-Es-03737	Sufro de insomnio provocado por la estupida guardia	fear	0.500
+2018-Es-02949	@Noedglez1 Cualquiera diría que Noelia está enfadada conmigo, pero no, en realidad está enfada conmigo y ya	fear	0.438
+2018-Es-02200	「@Rodolphustty」 «momento entendió que quería batirse en duelo con ella. Frunció el ceño al ver sus gestos mirando al cielo apuntando con la»	fear	0.500
+2018-Es-05172	—da un pisotón en el suelo y coloca los brazos en jarra, todo ofendido—. ¡Oe! ¡Oxigenada!	fear	0.479
+2018-Es-03659	@revistaproceso Ya me dio desconfianza el nuevo túnel en Acapulco!	fear	0.625
+2018-Es-01027	No tengo wifi y quiero ver la peli de death note por netflix pero tengo miedo de quedarme sin credito 	fear	0.729
+2018-Es-01086	No he dormido en toda la semana, pero igual yo me voy a vacilar mi fin de semana a mil.🤙	fear	0.125
+2018-Es-05024	Estoy tan ansiosa por la 7ma temporada de Game of Throne que ya me siento una Targaryen.	fear	0.458
+2018-Es-04831	@ToadAmarillo Todas las partidas de worlds y trasnochado a clases 😢	fear	0.500
+2018-Es-00296	Hace dos días no tenía ni idea de qué era Castlevania y hoy estoy enfadada porque solo hay 4 capítulos de mierda.	fear	0.354
+2018-Es-06489	Es la primera vez que me pongo de nerviosa así jajj	fear	0.583
+2018-Es-06674	No han sacado nada de Banri ni Itaru y me siento muy indignada.	fear	0.542
+2018-Es-05695	Llevo 3 o 4 días conectándome poquísimo y veo que lo estáis pasando genial. #Susto	fear	0.481
+2018-Es-04417	@pablopecaro @poderAGMX @arnemx @arelibiciteka @banquetalibre @LBallesterosM @ReyPeatonCDMX @Peaton_No A pesar de que mueran ciclistas.	fear	0.424
+2018-Es-04502	MI FUTURO DE TUITERA SE ESTÁ VIENDO AMENAZADO CALL 911	fear	0.667
+2018-Es-02722	Dime si es verdad, me dijeron que estás cansado #SebastianVillalobos #PDCs #KCAMexico	fear	0.354
+2018-Es-03791	Quede de cara cuando apareció donald glover en spiderman ,tremenda felicidad me dio	fear	0.068
+2018-Es-01969	Datos @FPCIUDADANA y @GobiernodeChile dicen q delincuencia ha bajado, sin/emb sensación d inseguridad sigue. Gran trabajo d la prensa 	fear	0.565
+2018-Es-03632	Debo ser la única persona que en vacaciones se llena de trabajo porque lo elige... acá ya estamos en el sobre, cansada y feliz 🤗☺️	fear	0.250
+2018-Es-02156	#PameAlaTarde Moria la tiene ca.....do a Pamela·!  Voy a opinar dice xq me tienen pintada!!! ahora los panelistas le piden opinión. #miedo?	fear	0.604
+2018-Es-06444	Un vacío amargo, es lo que siento.	fear	0.625
+2018-Es-06078	@pagina12 Entiendo la preocupación familiar pero deberían ser más cuidadosos porque mucha gente se moviliza tras estos pedidos	fear	0.387
+2018-Es-02761	Por alguna razón odio que me sigan mujeres que no conozco en instagram. Es como sospechoso, no se, vainas mías	fear	0.583
+2018-Es-03012	@_pgl99 @TatianaQuinones Pelea de parejas a otro ladito.	fear	0.396
+2018-Es-00824	@FedeFjpuppato No me quejo jajaja pero no levanto ni sospecha así que mucho no va a cambiar	fear	0.292
+2018-Es-02883	Tanto que hablaban de poder popular y ahora el desgobierno le tiene terror a la expresion y opinión de pueblo. #ConsultaPopular	fear	0.729
+2018-Es-05947	No confundas la velocidad de mi amabilidad y cortesía, con el atropello de tu imaginación	fear	0.375
+2018-Es-05243	@tayyjaguarr Es que esto es mucho ya wey nomms por eso pongo esto tipo de cosas 	fear	0.438
+2018-Es-06225	al final vamos a terminar viviendo cada uno es su burbuja...con el temor de encontrarte con alguien que es distinto a ti...	fear	0.826
+2018-Es-02673	T paso alguna vez?Vi x la puerta d la pieza pasar a alguien x el pasillo. Miro y no hay nadie.  #raro #tepaso   #espanto 	fear	0.896
+2018-Es-01000	@Anxi_us Te llevaría, pero está a punto de llover y me da miedo el ambiente eléctrico y me dan paja los mosquitos	fear	0.860
+2018-Es-04984	tengo tanta bronca junta q voy a terminar llorando lpm	fear	0.688
+2018-Es-00351	Es peligroso acostumbrarse a alguien	fear	0.667
+2018-Es-01619	@RocioBattagini Tremendo capitulo jajajaj	fear	0.083
+2018-Es-03874	@HmGerardo @examonterrey Ya di la sorpresa ❤️😛	fear	0.208
+2018-Es-03933	#HagamosMemoria que el Humedal de la Conejera estuvo amenazado debido a la obra pretendida por familia de Petro.	fear	0.563
+2018-Es-02086	@OverDoradoC grande preocupación para docentes de entes territoriales como Bogotá y Barranquilla quienes están sujetos a la CNSC y 915	fear	0.729
+2018-Es-04615	@jordievole @jatirado @ManuelBartual Tranquilo! En Valencia hemos visto que la imprenta de @compromis  no tiene #Porno y tiene 	fear	0.354
+2018-Es-03960	@Juls555 @donfelixSPM He visto hombres llorar con desesperación y angustia ante una pequeña y fina agujita de jeringa.	fear	0.583
+2018-Es-01791	Hoy que estoy ansiosa a la gente le da con  joder🤦🏾‍♀️	fear	0.604
+2018-Es-02307	Cada espacio de tu cuerpo es mi desesperación 💑💑	fear	0.417
+2018-Es-03554	@clarymaffeis boluda en serio no sabias es como la primer cosa de la q te enterás cuando entras a la secundaria	fear	0.417
+2018-Es-00086	@nico_gomes22 Asi que andas nerviosa ehh? Ajajaj	fear	0.354
+2018-Es-05347	@jet1403 Clavillazo y su banda de ratas no tienen madre, y Lopez Obrador es un peligro para México? Por favor	fear	0.436
+2018-Es-05525	Que susto da porraa	fear	0.896
+2018-Es-06818	Ustedes entienden q tenía pelo??? Siento q no soy yo q horror	fear	0.583
+2018-Es-03802	Hay tanta timidez en mi cuando se trata de ti.	fear	0.521
+2018-Es-04230	Terrible desconaiderada sosss amiga	fear	0.542
+2018-Es-05260	@gabyvikz @arcadefire Ahhhhh gracias!	fear	0.104
+2018-Es-05559	que ironía que el café sea amargo y te endulce la vida	fear	0.229
+2018-Es-00206	Que horror jamás sentirte suficiente	fear	0.771
+2018-Es-04654	Ya arranco el vientito ... que dia nos espera ... #miedo ! 🙈🙉	fear	0.813
+2018-Es-00409	Ains quiero hacer el reto de los 30 días de Américan Horror Story	fear	0.521
+2018-Es-01487	Algien que alguien que me venga a alegrar la vida porque la neta soy bien amargada😂😂	fear	0.435
+2018-Es-02809	@JohannVera1 Opino que es bueno opinar hm JAHSKAAHHAJ okno :") estoy bien pinche nerviosa y no se porque	fear	0.646
+2018-Es-04932	kihyun perdió el piedra, papel o tijera con wonho y le dio tremendo empujón a hyungwon JASJASJSAJSAJSAJ	fear	0.208
+2018-Es-06056	@andremarinpuig @clubleonfc Es playera o periódico de anuncios , horrible pinche trapo	fear	0.333
+2018-Es-00185	Que bien me hace hablar con gente que siempre estuvo y está conmigo a pesar de todo 😌👏🏻	fear	0.188
+2018-Es-05270	Les juro que los teragrip ultra cachuos del horror forte noche siguen sabiendo a agua sucia.	fear	0.604
+2018-Es-00447	@xvrvr ah ya me había asustado hahaha sí es mi superhéroe fav de la canasta básica pero saitama es mi husbando sorry	fear	0.478

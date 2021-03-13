@@ -1,0 +1,203 @@
+ID	Tweet	Affect Dimension	Intensity Class
+2018-Es-05242	@NacchoHernandez Jajajajajajajajaja lpm quedo horrible	fear	0: no se infieren niveles de miedo
+2018-Es-06551	@tccharless  -Peligro al volante -Tec -Los Santos -Memes -Galletas -3C	fear	2: se infiere un grado moderado de miedo
+2018-Es-05666	Sigo pensando, en que suerte que esa vez que tuve parálisis del sueño estaba durmiendo conmigo,  si no me moría del susto sola.	fear	3: se infiere un grado alto de miedo
+2018-Es-03009	Entre algunas cosas del rol y pensamientos desagradables que tengo desde hace rato me terminé por sentir desanimada, Eme. ; ;	fear	1: se infiere un bajo grado de miedo
+2018-Es-00118	Hola me han dejado sola en casa y tengo 	fear	2: se infiere un grado moderado de miedo
+2018-Es-02865	@DebRyanShow #Rayito estoy bien pin%# nerviosa 😂 y falta un monton para que menciones a los ganadores	fear	3: se infiere un grado alto de miedo
+2018-Es-04933	gabriel bola atoa, pavor	fear	1: se infiere un bajo grado de miedo
+2018-Es-02747	#5HEsTrending Necesito verlas por favor 😭	fear	0: no se infieren niveles de miedo
+2018-Es-04449	No te olvides: el #ejercicio y la #actividadfísica mejoran el #ánimo, estimula la agilidad mental y alivia la #depresión. #CuidaTuVida	fear	0: no se infieren niveles de miedo
+2018-Es-03136	La constituyente d Maduro es un remedio más peligroso que la enfermedad que sufre nuestra amada Venezuela. Por eso el 16J votemos SI, SI, SI	fear	1: se infiere un bajo grado de miedo
+2018-Es-03825	Tan resentida vas a estar locaaa?	fear	1: se infiere un bajo grado de miedo
+2018-Es-04570	Esa ansiedad de enfrentar tus diseños con la aceptación del público objetivo...	fear	3: se infiere un grado alto de miedo
+2018-Es-01235	El mundo es un lugar peligroso.	fear	3: se infiere un grado alto de miedo
+2018-Es-03707	@violetlightstar @sarcasmshouts @arrowsftcry @delusivcbes @gcldndark Me perdí la pelea del año.	fear	0: no se infieren niveles de miedo
+2018-Es-05175	JAJAJAJAJAJAJJAJA la Andrea está viendo "Laura" que tanto está aburrida	fear	0: no se infieren niveles de miedo
+2018-Es-04482	Yo digo que deberían organizarnos una fiesta sorpresa a @Ing_Roger_Pa y a mi el sábado 22 de Julio en Tantima. Coff Coff @lachina_val 😂🎈🎁🎉🍻🍺	fear	0: no se infieren niveles de miedo
+2018-Es-04136	entre mujeres borrachas y no le estabas acosando y no he visto a nadie indignado en modo 'va provocando'.	fear	0: no se infieren niveles de miedo
+2018-Es-02001	estoy tan ansiosa que no hago más que comerfumarcomerfumarfumarcomerfumarcomercomer	fear	3: se infiere un grado alto de miedo
+2018-Es-00162	es que nunca vas a dejar de ponerme nerviosa	fear	2: se infiere un grado moderado de miedo
+2018-Es-05313	Tremendo el viento que hay afueraaa 😯	fear	2: se infiere un grado moderado de miedo
+2018-Es-01280	Para que me bloqueas hija de tu pu*a madre	fear	0: no se infieren niveles de miedo
+2018-Es-06580	Fui a comer con mis amigos y ya estoy comiendo compota en mi casa, estoy muy ansiosa.	fear	1: se infiere un bajo grado de miedo
+2018-Es-05029	@tinchomoretti @elOrdenMundial Imaginate que terror ser ciudadano británico y que te quiera absorber Argentina. Salí de ahí maravillaaaaa	fear	2: se infiere un grado moderado de miedo
+2018-Es-02105	@_chiarabisso Si escucho la alarma voy	fear	0: no se infieren niveles de miedo
+2018-Es-02531	La Mastrofobia es el miedo a los senos	fear	2: se infiere un grado moderado de miedo
+2018-Es-06005	Anoche no me estalló la vena de la furia de milagro.	fear	1: se infiere un bajo grado de miedo
+2018-Es-00757	Qué sensación más horrible e incómoda	fear	3: se infiere un grado alto de miedo
+2018-Es-00684	Ya. Ese fue mi berrinche del mes	fear	0: no se infieren niveles de miedo
+2018-Es-06130	@AngeldebritoOk @analiafranchin @laufer4 Siempre lo mismo. Qué pesadilla. Aburre!!!	fear	1: se infiere un bajo grado de miedo
+2018-Es-05362	@white_comonnerd ¿A costa de Rami Malek? #Indignada El es muy lindo 😌	fear	0: no se infieren niveles de miedo
+2018-Es-04899	@FerivRivera Pero una que busca algo bien, ellos solo quieren diversión 	fear	0: no se infieren niveles de miedo
+2018-Es-02378	@sharonaailen Perdona! Pero a mi no me tienen miedo jajajaja😂	fear	0: no se infieren niveles de miedo
+2018-Es-05568	@SxrcasticBatman -Derek frunció el ceño al escucharle y no pudo evitar soltar una pequeña carcajada.- ¿Dónde? -Y entonces el moreno bajó >	fear	0: no se infieren niveles de miedo
+2018-Es-06611	ok, algo le pasa a mi twitter, sale como si estuviera siguiendo solo a una persona... #asustado	fear	2: se infiere un grado moderado de miedo
+2018-Es-06435	10 me enteré un par tuyas, sos peligrosa	fear	1: se infiere un bajo grado de miedo
+2018-Es-04709	T paso alguna vez?Vi x la puerta d la pieza pasar a alguien x el pasillo. Miro y no hay nadie.  #raro #Tepaso   #Espanto 	fear	3: se infiere un grado alto de miedo
+2018-Es-05001	Que feo,que anden matando gente en la calle,se ah puesto peligroso en Danlí,ya ni se puede salir a pie a comprar a la Pulpería. 😓😔😖	fear	3: se infiere un grado alto de miedo
+2018-Es-04325	@Bono_fran @Z0UlSP0RR0 Pero fideo es el mas peligroso	fear	1: se infiere un bajo grado de miedo
+2018-Es-06241	Se piensan porque son chorros o amigos de chorros le vas a tener miedo. De tal palo tal astilla. Todos negros cabeza !!!	fear	1: se infiere un bajo grado de miedo
+2018-Es-06460	"Esta alarma está establecida para dentro de 4 hs y 11 min", estoy llorando	fear	1: se infiere un bajo grado de miedo
+2018-Es-06926	No c si ir a urbanica tengo miedo  de perder mi dignidad	fear	3: se infiere un grado alto de miedo
+2018-Es-01836	me acabo de dar cuenta que perdí TREMENDA foto en el celular, kill me	fear	1: se infiere un bajo grado de miedo
+2018-Es-06061	@javiercedeo @florciampoli Imagínate eso! Yo solo lo conozco por esconderse en cielo rasos, ahora por incoherente...de 2-0	fear	1: se infiere un bajo grado de miedo
+2018-Es-01601	@Ivandagu @cmbustamante Es una acusación bastante grave, de la cual no tienes ninguna prueba	fear	1: se infiere un bajo grado de miedo
+2018-Es-00935	Mucho a destacar en #DeathNote. Dos únicos apuntes: la última frase es magnífica, la #BSO incomprensible. #cine 	fear	0: no se infieren niveles de miedo
+2018-Es-02510	@ElAgussMoree Para no se ni que escribi , esto de ponerme ansiosa no es lo mio	fear	3: se infiere un grado alto de miedo
+2018-Es-00072	Recién llego y ahora d nuevo d salida a buscar a mis sobris! Q no se largue 	fear	1: se infiere un bajo grado de miedo
+2018-Es-00763	Horrenda la division politico administrativa chilena	fear	1: se infiere un bajo grado de miedo
+2018-Es-01454	Que estén mis sobrinos en casa me genera mucho mal humor cuando estoy desde las 6 despierta y no dormí siesta. 😡	fear	0: no se infieren niveles de miedo
+2018-Es-02187	Una persona solamente conoció todo lo que puedo llegar a dar x alguien y ME DEJO POR LA EX gracs a eso soy una desconfiada de todo y todos a	fear	1: se infiere un bajo grado de miedo
+2018-Es-01274	Humilde o está intimidada??? #Bailadisimo o ardidaaaaa @CamyGMusic jajajaja😂	fear	0: no se infieren niveles de miedo
+2018-Es-02362	Me da un asco que se quiera hacer la hippie todo el tiempo, tremenda fantasma	fear	1: se infiere un bajo grado de miedo
+2018-Es-05403	Sólo tengo miedo a una cosa: no sentime querida por los que me rodean. #miedo	fear	3: se infiere un grado alto de miedo
+2018-Es-01258	"Si no conoces a los enemigos, ni te conoces a ti mismo, correrás peligro en cada batalla", #SunTzu.	fear	1: se infiere un bajo grado de miedo
+2018-Es-03334	@flucita UFFFF, fuerte 	fear	0: no se infieren niveles de miedo
+2018-Es-02993	Por lo visto esta pesadilla se acaba cuando el pueblo le pase por encima a la MUD más que al mismo régimen!	fear	1: se infiere un bajo grado de miedo
+2018-Es-06328	@TATANCDLM_ Pero viendo videos de los conciertos de Queen, el tipo tenia tremenda presencia sin necesidad de mucha cosa.	fear	0: no se infieren niveles de miedo
+2018-Es-00113	Ésta forma tan cobarde de no decirnos que no.	fear	2: se infiere un grado moderado de miedo
+2018-Es-01599	Una amiga tiene dos Doppelgänger y con una al parecer vivirá! 	fear	0: no se infieren niveles de miedo
+2018-Es-01304	Inexplicable sensación #Nostalgia #Alegría #Dudas #Ansiedad #Miedo #ExcesoDeConfianza #NoSe	fear	3: se infiere un grado alto de miedo
+2018-Es-03449	NO PUEDEN SACAR AMERICAN HORROR STORY DE NETFLIX. LLAMEN A MIS ABIGADOS	fear	1: se infiere un bajo grado de miedo
+2018-Es-05820	Hasta que punto del límite puede llegar una ex resentida? 😂	fear	0: no se infieren niveles de miedo
+2018-Es-01163	Personas que generalizan sobre temas de los que saben bien poco, con argumentos estrambólicos que no van más allá de su percepción 	fear	0: no se infieren niveles de miedo
+2018-Es-03517	#Wisharsrecomienda la riqueza cultural que ofrece @InsolitaEdit Publicamos libros que revientan la cabeza #CienciaFicción #Terror #Fantasía	fear	0: no se infieren niveles de miedo
+2018-Es-06288	Necesito un abrazo sincero 	fear	0: no se infieren niveles de miedo
+2018-Es-05761	Falta una semana y yo ya estoy preocupada por esa maldita matrícula	fear	3: se infiere un grado alto de miedo
+2018-Es-00592	Hoy comprobe que mi temor a las alturas es peor de lo que pensaba...	fear	3: se infiere un grado alto de miedo
+2018-Es-06105	Cuando me enojo pq me duelen muchos los ovarios le grito a mi vieja q pq mierda no me tuvo con pito jajaja	fear	0: no se infieren niveles de miedo
+2018-Es-02782	Vamos a ver q sucedio en mi barrio en los 90 #veronicalapelicula  #Vallekas 	fear	0: no se infieren niveles de miedo
+2018-Es-04281	Que horrible sensación esa cuando algo realmente te duele o te molesta y te tenes que quedar ahí sonriendo y fingir  que todo esta bien	fear	2: se infiere un grado moderado de miedo
+2018-Es-04825	Qué rabia cuando hay una tercera persona en la relación.	fear	1: se infiere un bajo grado de miedo
+2018-Es-02973	@fantomastxiki Todavía sigue rabioso por haber perdido tantos millones con sus empresas de seguridad?	fear	1: se infiere un bajo grado de miedo
+2018-Es-03540	@isarafaniello @agugarcia65 QUE ME DIO EL SUSTO DE MI VIDA TAL VEZ, PENSÉ QUE ME IBA A DECIR QUE ME ESTABA MIRANDO POR LA VENTANA	fear	3: se infiere un grado alto de miedo
+2018-Es-00201	@DebRyanShow #Rayito  cayendo en desesperación	fear	3: se infiere un grado alto de miedo
+2018-Es-03816	Peli de terror ,toy re cagada	fear	3: se infiere un grado alto de miedo
+2018-Es-06820	@Juliococo Es lamentable pero así es que se acabará el chavismo, esto si es pueblo	fear	1: se infiere un bajo grado de miedo
+2018-Es-06258	@enzoesquivl_ mira como tiemblo 	fear	2: se infiere un grado moderado de miedo
+2018-Es-00498	@Mayanvillafuert No mms me dolió leerlo 😟	fear	1: se infiere un bajo grado de miedo
+2018-Es-05389	¿Por qué está Peña en todos los pinches canales? 	fear	0: no se infieren niveles de miedo
+2018-Es-06524	Que horrible es la gente que no te quiere dejar soñar	fear	2: se infiere un grado moderado de miedo
+2018-Es-03490	Yo tengo dos tipos de celos, los normales donde hasta digo que estoy celoso y en los que me enojo y me voy.	fear	1: se infiere un bajo grado de miedo
+2018-Es-03542	Entre otro orden de ideas, que horrible ser Miguel Montero y pasar de ser el prospecto numero1 de los yankees a la liga mexicana por pinchao	fear	1: se infiere un bajo grado de miedo
+2018-Es-03899	hay un pibe mirándome fijo hace 1 hora en el bondi 	fear	2: se infiere un grado moderado de miedo
+2018-Es-06235	@jlespert te saqué la careta...economista y asustás a la gente. Vos sos El hombre de la bolsa! 	fear	1: se infiere un bajo grado de miedo
+2018-Es-01646	¿Por qué gran mierda borras los tuits, @juanfruz? Cobarde :(	fear	1: se infiere un bajo grado de miedo
+2018-Es-00590	Más bellaquera, menos timidez	fear	0: no se infieren niveles de miedo
+2018-Es-05385	Yo preocupada pensando que mi papá ya había llegado y me estaba llamando para decirme que el vuelo todavía no había salido 👍	fear	2: se infiere un grado moderado de miedo
+2018-Es-00275	Hace una vergüenza terrible en esta habitación tan vacía.	fear	1: se infiere un bajo grado de miedo
+2018-Es-06344	Tu clamor pone al diablo a temblar, tu Alabanza lo confunde. #LaAdoraciónADiosEngrandeceLaNación	fear	1: se infiere un bajo grado de miedo
+2018-Es-01674	Estoy muy triste pq me dijo que era bien enfadosa jajajaj	fear	0: no se infieren niveles de miedo
+2018-Es-02506	@jorgehdz80 Jajajaja son vacaciones amargado💁	fear	0: no se infieren niveles de miedo
+2018-Es-04208	@manzanavioleta Si no te dormis hay sorpresa :)	fear	0: no se infieren niveles de miedo
+2018-Es-01901	Si es por mí puedes ir sin temor porque a mí ya no me importa nada	fear	1: se infiere un bajo grado de miedo
+2018-Es-02141	Ptm, donde esta mi lunar??? 😥	fear	1: se infiere un bajo grado de miedo
+2018-Es-01658	"Nada se olvida más despacio que una ofensa; y nada, más rápido que un favor" Martin Luther King BUENOS DÍAS FELIZ MIÉRCOLES	fear	0: no se infieren niveles de miedo
+2018-Es-00323	Soñe que estaba saliendo con un pibe que jamás vi en mi vida :| 	fear	1: se infiere un bajo grado de miedo
+2018-Es-03409	Asi o mas sospechoso 🤔😂✌️	fear	0: no se infieren niveles de miedo
+2018-Es-03719	Estaba #triste y 	fear	1: se infiere un bajo grado de miedo
+2018-Es-04430	Normalmente me chupa todo un huevo pero hoy estoy preocupado.	fear	2: se infiere un grado moderado de miedo
+2018-Es-00058	Ambiente perfecto en #huesca para ver una peli de terror @DarkTV_es #tormenta #rayos terror ambiental uuuuuu #susto	fear	1: se infiere un bajo grado de miedo
+2018-Es-03335	No está uno para reuniones familiares sorpresa a medio miércoles	fear	1: se infiere un bajo grado de miedo
+2018-Es-03821	salir del cine, está lloviendo 😓y agradecer a los del valet por cerrar mis vidrios, evitando una tragedia ❤️	fear	1: se infiere un bajo grado de miedo
+2018-Es-03333	Quien juega contigo y tu mente no es un ser astuto es un cobarde.	fear	1: se infiere un bajo grado de miedo
+2018-Es-05043	@DebRyanShow #Rayito ¿Cuando nos das la sorpresa de que seras papa ? 🙈😂	fear	0: no se infieren niveles de miedo
+2018-Es-00291	Me agarro sueño que miedo	fear	3: se infiere un grado alto de miedo
+2018-Es-02438	wey si me hablas por messenger corres peligro que te conteste hasta el 2018 la vrd jajaj	fear	0: no se infieren niveles de miedo
+2018-Es-04898	@val_rl eso es raro, desaparece el comisario del pueblo y a nadie le parece llamativo, no hace el intento de buscarlo? 😅 sospechosa la we..	fear	2: se infiere un grado moderado de miedo
+2018-Es-00150	@HmGerardo y la sorpresa?? 😕❤	fear	0: no se infieren niveles de miedo
+2018-Es-03481	pensé que era algo malo. No me gustaba hacer esas cosas. Fue la noche más horrible de mi vida.	fear	3: se infiere un grado alto de miedo
+2018-Es-06350	@ImmersionMak En serio??? Jajaja en el mismo tren? 	fear	0: no se infieren niveles de miedo
+2018-Es-01046	No me enojo si alguien me da las buenas noches,ahr	fear	0: no se infieren niveles de miedo
+2018-Es-05056	@nohemidleon JAJAJAJAJ soy la persona menos amargada del 🌎	fear	0: no se infieren niveles de miedo
+2018-Es-06284	@ELTIEMPO Tras de matón ladron? Bueno algo así dice el dicho	fear	0: no se infieren niveles de miedo
+2018-Es-05538	@sofiakd anon sos terrible cornuda y bla etc	fear	1: se infiere un bajo grado de miedo
+2018-Es-03856	Recién levantado y ya enfadado! Muy bien todo . Buenos días	fear	0: no se infieren niveles de miedo
+2018-Es-04817	contestame que me da ansiedad lpm	fear	2: se infiere un grado moderado de miedo
+2018-Es-00807	Mi única preocupación es que el wifi esté conectado	fear	1: se infiere un bajo grado de miedo
+2018-Es-02549	@TejoMattioli Vale la pena para mechar con alguna otra serie. Está buena, para verla en la cena.	fear	0: no se infieren niveles de miedo
+2018-Es-02115	Miedo es la primera vez que no puedes hechar el segundo; pánico, la segunda vez que no puedes hechar el primero. 	fear	2: se infiere un grado moderado de miedo
+2018-Es-03214	La ansiedad me impide continuar leyendo, odio esa sensación.	fear	3: se infiere un grado alto de miedo
+2018-Es-05132	Tuve gripe por dos días, mi mamá dice que sólo era llanto contenido: le creo. 😢	fear	0: no se infieren niveles de miedo
+2018-Es-00361	Quiero tocar tu cielo, reinar en tu reino y enloquecer con vos..	fear	0: no se infieren niveles de miedo
+2018-Es-01963	Loca se enojo conmigo pq segun ella lo acababa d conocer y ya le hablaba como si fuera de hace mucho PERO PARALE LOCA	fear	1: se infiere un bajo grado de miedo
+2018-Es-03765	Se enojo 😂😂😂	fear	0: no se infieren niveles de miedo
+2018-Es-02787	@Blueberry_TRA hermanito te extraño 	fear	0: no se infieren niveles de miedo
+2018-Es-04747	@SantiagoACanton Víctimas dl terrorismo en Argentina sin DDHH. Terrorista con cenotafio q figuran en muro de MEMORIA!! Cdo tendrán justicia?	fear	2: se infiere un grado moderado de miedo
+2018-Es-03950	David Bowie decía: La religión es para la gente que tiene miedo de irse al infierno. La espiritualidad es para aquellos que han estado allí.	fear	1: se infiere un bajo grado de miedo
+2018-Es-03037	@LezoBlas @PedroInsua1 @jsierrah @xesusgalan ¡Que no lo veamos! #susto	fear	3: se infiere un grado alto de miedo
+2018-Es-04736	El necio al punto da a conocer su ira;Mas el que no hace caso de la injuria es prudente.#mision	fear	1: se infiere un bajo grado de miedo
+2018-Es-04218	Que incómoda me siento a veces	fear	1: se infiere un bajo grado de miedo
+2018-Es-05316	Den gracias a Dios que no ganó la chavista de Distrito Capital el #MissEarthVenezuela se imaginan al Nico con una cadena para eso?! #susto	fear	1: se infiere un bajo grado de miedo
+2018-Es-03119	@DebRyanShow #Rayito esto me pone súper nerviosa jajaja ya quiero que pasen las 2 semanas😜😂😂👌🏻	fear	1: se infiere un bajo grado de miedo
+2018-Es-03297	Bp siempre me llamaste la atención, por comentarios sos tremenda mina, me encantaría conocerte. Sos hermosa	fear	0: no se infieren niveles de miedo
+2018-Es-05250	#Ollantahumala Espinoza: "El viaje de sus hijas a EEUU no constituye peligro de fuga porque aún depende de sus padres" @NuevoSolPeru	fear	0: no se infieren niveles de miedo
+2018-Es-00829	@marianoybueh Bellester, Adelina, Martelli y Bosch #TodosMalandras mejor no pasar #cuidate #TodosChorros sin clase 	fear	1: se infiere un bajo grado de miedo
+2018-Es-04079	No estoy lista para escuchar la respuesta a 1 pregunta #asustada	fear	3: se infiere un grado alto de miedo
+2018-Es-02698	@tallerarteluz Cómo me haría falta ese taller en estos momentos, carajo...  #Novela #Miedo #Temor #Bloqueo #ParálisisMental #NoSeaCoyón	fear	2: se infiere un grado moderado de miedo
+2018-Es-03618	¿Habeis visto un dia de furia?. Hoy estoy de ese pelo, solo que no tengo motivos para estarlo. Igual es la edad, yo que se.	fear	0: no se infieren niveles de miedo
+2018-Es-03561	espero que den toda la obra, espero ansiosa el tras bambalina😊 #NocheDeTeatro #Içerde	fear	1: se infiere un bajo grado de miedo
+2018-Es-03560	Soy muy desconfiado, demasiado diria yo.	fear	2: se infiere un grado moderado de miedo
+2018-Es-05443	¿Amor sin celos, sin berrinches, sin discusiones? Que aburrido.	fear	0: no se infieren niveles de miedo
+2018-Es-03926	Lo que más me asusta de la historia de Manuel Bartual son los comentarios que le hace la gente. Leedlos, por favor. NO SON FICCIÓN. 	fear	2: se infiere un grado moderado de miedo
+2018-Es-02401	Que te despierte ahogandome en una pesadilla, no es bueno.	fear	2: se infiere un grado moderado de miedo
+2018-Es-05867	¿ juega @LuisSuarez9 ? #Nostalgia 	fear	0: no se infieren niveles de miedo
+2018-Es-00766	Dios que susto lpmmm 🙏😡	fear	3: se infiere un grado alto de miedo
+2018-Es-01854	si me hablan hasta que me duerma no me enojo eh, me aburro	fear	0: no se infieren niveles de miedo
+2018-Es-01786	Que cosa del demonio la alarma	fear	1: se infiere un bajo grado de miedo
+2018-Es-05160	hice mi hermana fan de pll 	fear	0: no se infieren niveles de miedo
+2018-Es-02711	Sivpaso por tu lado y no telsaludo no lo tomes como enojo que los amores que se quieren se saludan con gos oj,s.	fear	0: no se infieren niveles de miedo
+2018-Es-02767	Soy bien pinche infeliz.	fear	1: se infiere un bajo grado de miedo
+2018-Es-02770	Cdmo no me he preocupado de nacer, no me preocupo de morir. - Federico Garcia Lorc..	fear	1: se infiere un bajo grado de miedo
+2018-Es-06326	@Mar_DeChocolate Jajajaja no el chiste es que sea un buen susto jajaja	fear	0: no se infieren niveles de miedo
+2018-Es-01025	@israelk_18 He visto el vídeo y se ve que la chica lo graba porque está hasta el chirri y que está indignada, la risa no sé dónde está	fear	1: se infiere un bajo grado de miedo
+2018-Es-00920	Voi a poner la alarma a las 7:45	fear	0: no se infieren niveles de miedo
+2018-Es-04971	En las partes q siento q van a ser de terror me tapo los oídos y cierro los ojos, cuántos años tengo? Cinco?	fear	2: se infiere un grado moderado de miedo
+2018-Es-04205	@doctorconejo Fui a stalkearte y leí y tu bio y me siento un poco intimidada.	fear	2: se infiere un grado moderado de miedo
+2018-Es-03179	El intelecto de una alma oscura es peligroso y aterrador	fear	3: se infiere un grado alto de miedo
+2018-Es-04620	@RCTV_CONTIGO CUANDO salgamo de esta pesadilla todo debemos aprender y pedir quienes lleven la riendas del país sean los mejores en su aría	fear	1: se infiere un bajo grado de miedo
+2018-Es-05215	@Ludmialcayde me cae re bien, tremenda diosa, ella y su grupo me odian creopp igual la mejor	fear	0: no se infieren niveles de miedo
+2018-Es-01108	Una persona misteriosa (no vale dejar comentarios) me pidio fotos.. supuestamente para un video "sorpresa" ??? 	fear	2: se infiere un grado moderado de miedo
+2018-Es-06767	Tremenda ganas de ponerme las pilas 🙃	fear	0: no se infieren niveles de miedo
+2018-Es-03418	Soy más ansiedad que persona	fear	2: se infiere un grado moderado de miedo
+2018-Es-00511	Necesito abrazar a alguien el nudo en la garganta es tremendo	fear	3: se infiere un grado alto de miedo
+2018-Es-03607	#ElInformante Díganle a ME-O que los Haker Hunter no mataron a Allende, se suicido el cobarde para no responderle al país por se ineptitud.	fear	0: no se infieren niveles de miedo
+2018-Es-06425	Que feo está el cielo 	fear	1: se infiere un bajo grado de miedo
+2018-Es-06190	que ansiedad de mierda vo	fear	3: se infiere un grado alto de miedo
+2018-Es-00200	@putzkassy Susto**	fear	2: se infiere un grado moderado de miedo
+2018-Es-04640	okay hablando en serio, es a las 5am..... tendré que poner mi alarma t_t	fear	0: no se infieren niveles de miedo
+2018-Es-02860	@kjol_huellitas Ahora es aburrida pero con música 🙌	fear	0: no se infieren niveles de miedo
+2018-Es-06090	MEO: "En la Araucania NO hay terrorismo" #ElInformante	fear	0: no se infieren niveles de miedo
+2018-Es-02666	@diegoeduardosp En el topman, hym, son terrible baratos, más en estas fechas yo cacho.	fear	0: no se infieren niveles de miedo
+2018-Es-06031	No voy a entrar a instagram hasta mañana, que depresión loco. Quiero estar ahí, con mis amigos	fear	2: se infiere un grado moderado de miedo
+2018-Es-05495	@MenferAna Está clarísimo, salir corriendo!!! (Y con todo lo relativo a este tema igual) SALIR POR PATAS Y NO MIRAR ATRÁS #asco y #terror	fear	3: se infiere un grado alto de miedo
+2018-Es-05144	La ansiedad no desaprovecha ni un segundo.	fear	2: se infiere un grado moderado de miedo
+2018-Es-00723	Ey este temblor fue como muy fuerte para mi gusto! 	fear	3: se infiere un grado alto de miedo
+2018-Es-04670	@HenryOuatx -Niega con la cabeza y deja escapar una risita nerviosa.-  Mejor no, cariño, esa, es una historia bastante retorcida	fear	1: se infiere un bajo grado de miedo
+2018-Es-04760	@LaoaLuis ¿Miedo? A mí me daría tranquilidad 🤷🏻‍♀️😂	fear	1: se infiere un bajo grado de miedo
+2018-Es-03200	Sobrevivo Por Pura Ansiedad,Con El Nudo En La Garganta!!!!!!	fear	2: se infiere un grado moderado de miedo
+2018-Es-04789	A ctm....estan pasando aviones cerca ...y helicópteros  .....estoy asustado necesito un abacho ;_;	fear	3: se infiere un grado alto de miedo
+2018-Es-02897	@Leila_Nash @chrisortizr_10 @danieljadue El cara de raja es un cobarde ni siquiera contesta	fear	1: se infiere un bajo grado de miedo
+2018-Es-04744	Con quién pelea Juana?	fear	0: no se infieren niveles de miedo
+2018-Es-00430	@fredyPaSa @fernansubreal @ChavaFerrer Problemas de trabajo, un embarque detenido. #terror	fear	3: se infiere un grado alto de miedo
+2018-Es-00475	@Faby_jime jaja y quedarte dormida del susto no?? jaja	fear	1: se infiere un bajo grado de miedo
+2018-Es-06020	Me metí en la cama sin cenar de tan cansada que estoy, quiero  ver algo divertido, liviano pero no tonto. Qué veo en Netflix?	fear	0: no se infieren niveles de miedo
+2018-Es-05498	Entonces: ¿para quién fue la sorpresa? Se pregunta @DeniseMaerker tras revelar que la @SCT_mx estaba avisada del problema en el #PasoExpres	fear	0: no se infieren niveles de miedo
+2018-Es-00942	Tengo la sospecha que me dirán payasa pero *No me gusta tomar* y menos cerveza iuk 😐 prefiero un café otra reunión que no voy	fear	0: no se infieren niveles de miedo
+2018-Es-02893	Ustedes que saben de terror si sus hij@s no les encargan a sus nietos para irse de fiesta	fear	2: se infiere un grado moderado de miedo
+2018-Es-01460	Terrible ganas de que me vaya  todo bien	fear	1: se infiere un bajo grado de miedo
+2018-Es-04450	Tan enojado iba a estar Dio?	fear	0: no se infieren niveles de miedo
+2018-Es-02339	recomienden una peli de 	fear	0: no se infieren niveles de miedo
+2018-Es-02040	frank se enojo por una boludes y quiere que le pida perdón en la cara, ya, ya estoy yendo a hacer dedo, no, mejor voy corriendo esperame	fear	0: no se infieren niveles de miedo
+2018-Es-04075	El tiempo pasa incluso aunque parezck imposible, incluso a pesar de que cada movimiento de la manecilla uel reloj duela.	fear	1: se infiere un bajo grado de miedo
+2018-Es-06347	#DesafioSuperHumanos aquí pensando como serán las pestañas de Valentina cuando vaya mañana a @DiaaDiaCaracol #Susto	fear	2: se infiere un grado moderado de miedo
+2018-Es-02134	Tengo que admitir que me estoy cagando de miedo. 	fear	3: se infiere un grado alto de miedo
+2018-Es-02952	Me siento hasta nerviosa	fear	2: se infiere un grado moderado de miedo
+2018-Es-05718	Será tu forma de bailar reggae lento o la manera que meneas todo tu cuerpo me pones inquieto uooooooh 😱	fear	0: no se infieren niveles de miedo
+2018-Es-01792	@MisaHeadaches cuenta como insulto mi cena	fear	0: no se infieren niveles de miedo
+2018-Es-02477	@hcapriles @MPvenezolano Esto es terrible e inaceptable.	fear	2: se infiere un grado moderado de miedo
+2018-Es-06812	Cámara, una help, espero todo se salve si no me va a a matar 	fear	2: se infiere un grado moderado de miedo
+2018-Es-06112	¿Por qué Apocalipsis es TT? 	fear	1: se infiere un bajo grado de miedo
+2018-Es-05018	@SarpY_icerde Pero #Baris va ser un gran personaje desde ahora #Sarp soempre preocupado de su padre #IcerdexMega #NocheDeTeatro 😁	fear	0: no se infieren niveles de miedo
+2018-Es-05134	@eloina_mogollon Si, se sintiò bastante fuerte en Guarenas el temblor 	fear	3: se infiere un grado alto de miedo

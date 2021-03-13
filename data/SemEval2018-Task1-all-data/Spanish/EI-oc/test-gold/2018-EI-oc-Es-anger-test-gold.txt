@@ -1,0 +1,628 @@
+ID	Tweet	Affect Dimension	Intensity Class
+2018-Es-06254	@LeoneLGomezz_10 ... si quieren que este bien que me traten bien 😠	anger	1: se infiere un bajo grado de enojo
+2018-Es-06923	@_spessartine —Se levanta y empieza a correr. El enano corre tras él furioso.—	anger	1: se infiere un bajo grado de enojo
+2018-Es-04930	Odio mi actitud de nunca querer hacer nada, que me pregunten "hay que hacer esto?", decir "si" y seguir sin hacerlo, DALE BOLUDA HACE ALGO	anger	2: se infiere un grado moderado de enojo
+2018-Es-05660	Me dieron ganas de comer gomitas y por acá no venden😡😡😡	anger	1: se infiere un bajo grado de enojo
+2018-Es-04907	Tengo alto resentimiento con mi hermano últimamente	anger	3: se infiere un grado alto de enojo
+2018-Es-02948	Estaba para un crobar furioso eh, dió mio. No veo la hora de dejar de laburar aca y hacer lo que quiero. No falta tanto ya	anger	3: se infiere un grado alto de enojo
+2018-Es-00467	La Negra no esta para pelear, pero lleva como mil horas peleando, toda ofendida de la vida. Jajajajaja te amo.	anger	1: se infiere un bajo grado de enojo
+2018-Es-01577	Creía haber encontrado calma pero volví a enloquecer	anger	2: se infiere un grado moderado de enojo
+2018-Es-03786	A raiz de tanta ira causada a iglesia catolica apoyo a #LGTB por Lorena Castillo, Ulloa deberia devolver los millones incluso a nunciatura.	anger	1: se infiere un bajo grado de enojo
+2018-Es-05006	Déja de besar y dime la verdad —frunció el ceño como un niño pequeño enfadado sacándole de paso la lengua.	anger	0: no se infieren niveles de enojo
+2018-Es-05058	Por qué Tomás sigue a todas mis amigas? 	anger	0: no se infieren niveles de enojo
+2018-Es-04416	Cuando me enojo con una persona y me da mucha bronca lloro, puteo, me pego y tiro los pelos sola. *ssssssanita*	anger	2: se infiere un grado moderado de enojo
+2018-Es-05627	@OlamAmezkaita no solo a mi, varias personas recibimos esa respuesta y por el enojo se empezaron a mover las sillas. @anabeatrizglez1	anger	3: se infiere un grado alto de enojo
+2018-Es-05623	les juro que estoy re mil indignada	anger	3: se infiere un grado alto de enojo
+2018-Es-05984	Estoy en mi momento de rabia y odio contra el mundo. Los odio a todos.	anger	3: se infiere un grado alto de enojo
+2018-Es-01365	@zacrobinsonff @maftdaddario Es de broma, jamás me enojo con él siempre nos estamos cogiendo en dm	anger	0: no se infieren niveles de enojo
+2018-Es-02011	@CamiRa24 Por que te enojo	anger	1: se infiere un bajo grado de enojo
+2018-Es-03514	Por un momento creí que no regresaríamos hoy de nuestro quick trip 😲 #miedo	anger	0: no se infieren niveles de enojo
+2018-Es-03576	@Eury66 @MrCotorro Si fuera mujer me sentiria ofendida pero como no entonces, muerete :v	anger	2: se infiere un grado moderado de enojo
+2018-Es-06173	@tioratero @ManuelaCarmena Insisto, para decir imbecilidades e insultar a la gente prueba en tu propia casa con tu propia madre, saludos	anger	3: se infiere un grado alto de enojo
+2018-Es-06021	Yyy se enojo, como siempre.  La entiendo.  Si, ya se, siempre la cago🤦	anger	1: se infiere un bajo grado de enojo
+2018-Es-00740	@Lunaritos27 Mismamente,xo me jode q ganen,q impotencia 😠😠😠	anger	3: se infiere un grado alto de enojo
+2018-Es-05821	Me pongo nervioso cuando tengo que tomarle la orden a mi crush.	anger	0: no se infieren niveles de enojo
+2018-Es-00579	Mi padre quiere que me meta a policía, y yo le dije que si y mi madre salió del más allá diciendo que no, que era peligroso +	anger	0: no se infieren niveles de enojo
+2018-Es-00814	Q resentido del orto	anger	3: se infiere un grado alto de enojo
+2018-Es-01356	Me da rabia que te hable y me contestes bien pinche cortante.	anger	3: se infiere un grado alto de enojo
+2018-Es-05854	Mañana me saco las ganas de gulear tortas fritas rellenas	anger	0: no se infieren niveles de enojo
+2018-Es-05500	No serviré a Dios como un obrero a la espera de mi salario. #sufismo #rabia #dios	anger	1: se infiere un bajo grado de enojo
+2018-Es-03863	@Lauragomez_M Esa canción me la dedico un ex y le cogi rabia :( Inmadura hasta el final de mis días.	anger	1: se infiere un bajo grado de enojo
+2018-Es-01728	La búsqueda del clic en el periodismo es un insulto a la inteligencia, y es reducir el derecho a la información de la gente.	anger	1: se infiere un bajo grado de enojo
+2018-Es-04190	Por que no se mete los mg en el culo 	anger	3: se infiere un grado alto de enojo
+2018-Es-05962	@lore_rs96 No sé qué entiendes tu por amargado...🙄	anger	0: no se infieren niveles de enojo
+2018-Es-05085	@laSextaTV Y su hermana sin inmutarse x la utilización dl nombre d su hermano para trincar, enfadada con carmena y tragando con su pp	anger	2: se infiere un grado moderado de enojo
+2018-Es-02459	El filtro que tengo, terrible	anger	1: se infiere un bajo grado de enojo
+2018-Es-03538	@LechugaEdson01 @ndstrd Lechuga estoy muy indignada contigo ya no te hablarle bai	anger	2: se infiere un grado moderado de enojo
+2018-Es-04356	@alejmai26 No podía estaba trabajando 	anger	0: no se infieren niveles de enojo
+2018-Es-03401	@IyashiHitora 🌸 bien pero no quiero ofender a mes amigues que están mal así que estaré mal porq son un colectivo oprimide 🌸	anger	0: no se infieren niveles de enojo
+2018-Es-06948	@Alex_albert_1 hola Alex, que seas muy feliz en este miércoles, inténtalo o me enfado 🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈	anger	0: no se infieren niveles de enojo
+2018-Es-01402	@xYoung_Hale Porque te has enfadado conmigo...	anger	1: se infiere un bajo grado de enojo
+2018-Es-05922	Me hubiera vuelto directamente a mi casa 😤	anger	1: se infiere un bajo grado de enojo
+2018-Es-03921	Nmms que estes 🙄	anger	0: no se infieren niveles de enojo
+2018-Es-00390	@Guaja7ely @lavecinarubia Si jajajajaja que suerte tienesxD esta gente está amargada	anger	0: no se infieren niveles de enojo
+2018-Es-00934	Cuando me dicen: “Te voy a decir algo pero no quiero que te enojes”, ya estoy enojada en un 99%. 🤦🏻‍♀️	anger	2: se infiere un grado moderado de enojo
+2018-Es-01587	@JuanGalt11 Tanta comparación sin sentido que apunta....?? a agravar una falta sobre otra... con el fin de??	anger	1: se infiere un bajo grado de enojo
+2018-Es-05634	@PPTenel13 Una q se dio cuenta q su pelea esta ahi.	anger	0: no se infieren niveles de enojo
+2018-Es-04540	Estoy frustrada 	anger	2: se infiere un grado moderado de enojo
+2018-Es-05546	Se me pasa el enojo con las pelotudeces que hace.	anger	1: se infiere un bajo grado de enojo
+2018-Es-00369	Resentido lo conoces?	anger	0: no se infieren niveles de enojo
+2018-Es-06557	yendome a dormir sin comer pq hay una cucaracha en la cocina #tristeza	anger	2: se infiere un grado moderado de enojo
+2018-Es-02609	@gxspardeleon Igual sigo enojada con vos	anger	2: se infiere un grado moderado de enojo
+2018-Es-01547	Necesito a mi amor para mimarme y esta enojado 😣	anger	1: se infiere un bajo grado de enojo
+2018-Es-05572	No estoy llorando, se me metió un Hybrid Theory en el ojo.	anger	0: no se infieren niveles de enojo
+2018-Es-03713	Ve bien por la vida y te ira bien en la mida... asi ei!	anger	0: no se infieren niveles de enojo
+2018-Es-00346	HIJO DE TU REPUTISIMA BOMBA PERRA ESTUPIDA BABOSA MADRE😡😡😡😡😡😡😡sin ofender a su mama no la conozco es solamente una expresión de odio así el	anger	3: se infiere un grado alto de enojo
+2018-Es-02474	La concha de tu madre Brasilero de mierda 😡😣🔫	anger	3: se infiere un grado alto de enojo
+2018-Es-06710	El CN Electoral,al poner un acto de votación simulado el mismo día del plebiscito puede provocar más confrontación.	anger	1: se infiere un bajo grado de enojo
+2018-Es-05329	¿Estoy enloquecido o enloqueceré? ¿Estoy en lo que he sido o en lo que seré?	anger	1: se infiere un bajo grado de enojo
+2018-Es-00188	Lo que no sabes es que cuando te vas a dormir, me enojo a propósito para que te quedes más tiempo hablando conmigo.	anger	1: se infiere un bajo grado de enojo
+2018-Es-01475	@MerliNetflix recién termine de ver la segunda temporada. Espero q pronto la compartan en la plataforma Ansiosa espero la tercera! ♡	anger	0: no se infieren niveles de enojo
+2018-Es-06188	[7/12 04:04 AM] Lore😍: Inventa algo para pasarle cap😂 pq se enojo😂 [7/12 04:06 AM] La Mas Puta: Lore mañana te paso a buscar no te olvides😒	anger	1: se infiere un bajo grado de enojo
+2018-Es-01799	#AndaYaChef#djdanymoreno ,estomago de oro....que bien se portan tus compis contigo...con lo bueno que esta el bocata de solomillo!!#venganza	anger	0: no se infieren niveles de enojo
+2018-Es-00169	" Casi te atropello porque yo estoy por ti sí sí sí " Joder ahora si me gusta alguien tengo que atropellarla?	anger	1: se infiere un bajo grado de enojo
+2018-Es-03782	@zarolivier No! Neta, cero amargada :(	anger	0: no se infieren niveles de enojo
+2018-Es-06591	Lpm q es este enojo?	anger	1: se infiere un bajo grado de enojo
+2018-Es-00968	ESTOY POR PERDER 5 FUEGOS, SI LOS PIERDO LOS ELIMINO D SNAP, DE RESENTIDA NOMAS	anger	2: se infiere un grado moderado de enojo
+2018-Es-05612	Este año no hay beca. Constitucional y Fiscal, tumbadas. Un disgusto.	anger	3: se infiere un grado alto de enojo
+2018-Es-00198	Metele nitro viernes 	anger	0: no se infieren niveles de enojo
+2018-Es-02881	@As_TomasRoncero @diarioas Jajajaj.  La antimadridista disgustada	anger	0: no se infieren niveles de enojo
+2018-Es-02586	HOMBRES: a veces hacemos berrinche sólo para que nos consientan. Sépanlo	anger	0: no se infieren niveles de enojo
+2018-Es-00507	@DaiNu_ Decime quien fue así te fabrico un insulto piola para q le digas arre	anger	1: se infiere un bajo grado de enojo
+2018-Es-04885	"con esa cucharita y terrible boca no vas a terminar de comer" amorosa	anger	0: no se infieren niveles de enojo
+2018-Es-02505	Se enojo porque no sabia su nombre jajajajajajjaja	anger	0: no se infieren niveles de enojo
+2018-Es-04111	Castro ha sido un bocazas, le han engañado y ha provocado que el Sevilla haga el ridículo, pero los sinvergüenzas y la mala gente son otros.	anger	3: se infiere un grado alto de enojo
+2018-Es-01448	@lavozdeinaki Si después del atropello te levantas pedir perdon	anger	1: se infiere un bajo grado de enojo
+2018-Es-03165	No puedo tener tanta bronca 😠😠😠	anger	3: se infiere un grado alto de enojo
+2018-Es-02126	Cuando me enojo mucho pienso "que bueno que todavía no subi ninguna foto! No tengo que borrar nada"	anger	1: se infiere un bajo grado de enojo
+2018-Es-05437	¿Cuál pelea? Jajajajajaja para las chismosas se les acabo el entretenimiento porque hablaremos por interno, bye.	anger	0: no se infieren niveles de enojo
+2018-Es-05222	@AnyiInstituto Porque estas enojada? estas mas loca que una cabra y si te seguis hablando con esa vas a quedar peor jajaja	anger	0: no se infieren niveles de enojo
+2018-Es-05789	@EnelClientesCL lamentablemente no se notó el esfuerzo. Es más. Se notó todo lo contrario. Tarea para la casa.	anger	0: no se infieren niveles de enojo
+2018-Es-00652	Muy mal día para trabajar hoy, la impotencia y la rabia se mezcla con la tristeza, y todos con un mismo pensamiento: No es justo.	anger	3: se infiere un grado alto de enojo
+2018-Es-00694	Me da rabia estar de vacaciones, cuándo podría dormir hasta la catalepsia y no aquí con insomnio 😑😑😑😑	anger	2: se infiere un grado moderado de enojo
+2018-Es-02489	Y a esta hora es cuando la respiración empieza a enloquecer	anger	1: se infiere un bajo grado de enojo
+2018-Es-00279	@renfrancis Oye we, recordé que en la firma tomé foto a Chris y tú "Guarda tu teléfono,porfa" Qué amargado, como tú los tienes todo el día😢✊	anger	2: se infiere un grado moderado de enojo
+2018-Es-03055	Nunca me voy a olvidar cuando me compre 5 paquetes de dortios en el día de los enamorados. Yo justo me había peleado jajajaaaj lpm lo amaba	anger	0: no se infieren niveles de enojo
+2018-Es-05938	@Darcher_7 @Nico_Medrano17 Me siento ofendida. Juega bonito comegatos	anger	2: se infiere un grado moderado de enojo
+2018-Es-02269	@matiduque1 Qué decís 	anger	0: no se infieren niveles de enojo
+2018-Es-06682	@izquierdotudela @agarzon Os duele la verdad y recurrís a la descalificación y al insulto. Nada nuevo.	anger	2: se infiere un grado moderado de enojo
+2018-Es-01621	Me caen de la verga las mujeres que por cualquier insulto ya se ofenden pinches morras delicadas	anger	3: se infiere un grado alto de enojo
+2018-Es-01077	Peor de que te dejen en azúl, es que no te lean.   😡😡😡😡😡😡	anger	2: se infiere un grado moderado de enojo
+2018-Es-04381	#LaCompasionDeErkut este #Erkut de mierda boto de un aletazo a la sra #Rabia	anger	2: se infiere un grado moderado de enojo
+2018-Es-00333	@chacguate Ja! Eso provocaría una furia jajajajajajajaja no que me duerma	anger	0: no se infieren niveles de enojo
+2018-Es-02748	soy la amiga a la que no involucran en todas las salidas porque soy una amargada de mierda y lo triste es que ni siquiera me importa	anger	2: se infiere un grado moderado de enojo
+2018-Es-02619	No puedo decirle a nadie "dsp te aviso", pq al toque se enojan	anger	1: se infiere un bajo grado de enojo
+2018-Es-01194	Si conduces, no uses el celular… evita ser presa fácil de un delincuente o provocar un accidente vehicular. #TipsDeSeguridad	anger	1: se infiere un bajo grado de enojo
+2018-Es-05877	@veysandoval Si entiendo Vey, pero yo tuve acné y las que me preguntan eso son amigas que no cuidan su higiene, sin afán de ofender !!	anger	0: no se infieren niveles de enojo
+2018-Es-06416	Estoy más ofendido que alzate cantando.	anger	2: se infiere un grado moderado de enojo
+2018-Es-04354	Sigo ofendida porque subieran la temporada 8 de rupaul's drag race en español. 😷	anger	2: se infiere un grado moderado de enojo
+2018-Es-01053	Creo que en mi foto, por mi narizota, parece que estoy haciendo la britniseñal 🙁	anger	0: no se infieren niveles de enojo
+2018-Es-03693	Gente impuntual...pa' que nacieron ? 😠😡	anger	3: se infiere un grado alto de enojo
+2018-Es-05054	@FloorRoddriguez Ya lo subi al colectivo , esperalo 	anger	0: no se infieren niveles de enojo
+2018-Es-00335	A estas horas me dan ganas de insultar gente	anger	2: se infiere un grado moderado de enojo
+2018-Es-02842	me hace bien saber que abel es un fiel oyente de la venganza será terrible, ven por qué lo amo?	anger	0: no se infieren niveles de enojo
+2018-Es-01415	Jeje se nota que estoy aburrida , le respondo todas las preguntas a @FrChinx	anger	0: no se infieren niveles de enojo
+2018-Es-00835	< trampa tan asquerosa!—  ¡No te atrevas a hacer eso nunca más!  —Exclamó enfurecido, propinándole una bofetada con fuerza en la mejilla, >	anger	2: se infiere un grado moderado de enojo
+2018-Es-06804	La comodidad no está peleada con el estilo. #moda #cambiodeimagen #inteligenciaemocional #modasostenible #mode #fashionemergency	anger	0: no se infieren niveles de enojo
+2018-Es-04027	Se siente horrible venir a clases y que tu profesor no llegue… por eso no venía la primer semana. 😭😡	anger	2: se infiere un grado moderado de enojo
+2018-Es-06169	Cada día estoy el doble de gorda😞😡🐷	anger	1: se infiere un bajo grado de enojo
+2018-Es-03116	Consecuencia, más de un lustro sin muertos por accidente de tráfico o atropello en el casco urbano.	anger	0: no se infieren niveles de enojo
+2018-Es-02421	@Rodriguez_Aixa5 Es que estoy re resentido boluda	anger	3: se infiere un grado alto de enojo
+2018-Es-02570	Ali si tenía un anillo 😥💔 Oooh,Peri!!! 😱 Zafer... 😠#UnaEsperadaReconciliacion	anger	0: no se infieren niveles de enojo
+2018-Es-06296	@GarciaAller Anyway, lo siento, no la quise ofender, sólo que me dejé llevar por el tono inspirador de su artículo	anger	0: no se infieren niveles de enojo
+2018-Es-00328	@Grafocafe @programa_hoy Que bellos ojos. Espero no ofender..	anger	0: no se infieren niveles de enojo
+2018-Es-00685	@loisdf101 @RFPradas @peprm Menos insultar i mas aprender a respetar que haya gente que no piense como tu...	anger	2: se infiere un grado moderado de enojo
+2018-Es-00399	Si rozas minimamente cualquier juguete de mi perra se lo tomará como una provocación y no parará hasta que juegues durante horas con ella	anger	0: no se infieren niveles de enojo
+2018-Es-00301	@Mackerita El insultar a sus jefes tampoco ha ayudado mucho la verdad.	anger	1: se infiere un bajo grado de enojo
+2018-Es-02613	Atomizan en snap con el cosito ese😤	anger	0: no se infieren niveles de enojo
+2018-Es-04040	@BorjaBarba Es en plan guerra preventiva: me siento ofendido de manera preventiva. Luego ya miró algo más, pero lo 1º ofendido y ladrando	anger	2: se infiere un grado moderado de enojo
+2018-Es-02331	La #klebsiella es una bacteria Gram (-), que según su especie pueden provocar infecciones urinaria, septicemia, rinitis atrofica.	anger	0: no se infieren niveles de enojo
+2018-Es-01136	@babynlf Fue inevitable el chasquido de lengua que resultó posterior a la sonrisa ajena, y si bien aún no se deshacía del de rubiales, la >	anger	0: no se infieren niveles de enojo
+2018-Es-04680	"No es labor de ONGs salvar a refugiados sino de GOBIERNO" recuerda @adrilastra a @sorayapp. Gracias por trasladar la indignación a Congreso	anger	1: se infiere un bajo grado de enojo
+2018-Es-04119	Definitivamente me volví a enloquecer	anger	1: se infiere un bajo grado de enojo
+2018-Es-00754	Estoy enfadada y odio a todo el mundo,  por qué simplemente no me puede dar igual	anger	3: se infiere un grado alto de enojo
+2018-Es-05677	@grmanzano @MarioSuarez4 mucha suerte 🍀 os ira genial! Un abrazo chavales 😉	anger	0: no se infieren niveles de enojo
+2018-Es-03416	mañana podria volver a mi casa, y para que se me vaya lo ofendida pido la plata para el anillo..	anger	1: se infiere un bajo grado de enojo
+2018-Es-05171	Cuando pierde tu equipo tu enojo ¿Cuánto tiempo dura? ¿Cuál partido recuerdas más y que hiciste en ese momento? (Casa o estadio)	anger	0: no se infieren niveles de enojo
+2018-Es-05799	@Juanmazza12 Un amigo es una luz brillando en la oscuridad🎵	anger	0: no se infieren niveles de enojo
+2018-Es-03424	@35PAIS @pameaguirre1 @35PAIS ES UNA PENA,la gente y me incluyo!,esta enfadada con LENIN,creemos en AP,somos AP , pero UDs pueden CAMBIARLO!	anger	2: se infiere un grado moderado de enojo
+2018-Es-05271	El Teempo es el enemigokindestructible, puede ser vencido en mas de mil batallas, pero en la ultima permanecera implacable.	anger	0: no se infieren niveles de enojo
+2018-Es-00152	@HelenaWay_B - Vuelve a dejar escapar una especie de gruñido satisfecho sobre sus labios.-	anger	0: no se infieren niveles de enojo
+2018-Es-04625	¿Y el Mega drenaje? ¿Alguien sabe si existe? 🤔😏	anger	0: no se infieren niveles de enojo
+2018-Es-05974	que es eso de enojarse porque no les dan bola tan resentido vas a ser la puta que te pario MIRAME CUANDO TE HABLO	anger	3: se infiere un grado alto de enojo
+2018-Es-06427	Me voy a dormir siesta porque me aburro y nadie quiere hacer nada ni nadie me habla porque son todos re aburridos y ortivos #enojada	anger	2: se infiere un grado moderado de enojo
+2018-Es-05751	y empieza su venganza cuando se gana tu confianza 🎶	anger	0: no se infieren niveles de enojo
+2018-Es-00557	@jandracs Que no estoy enfadada ...	anger	0: no se infieren niveles de enojo
+2018-Es-06147	@BaezAlexis2 Cobarde pega jugadores	anger	2: se infiere un grado moderado de enojo
+2018-Es-06257	OFENDIDO MANO ESO ES MUCHO EL NEGRO HIJUEPUTA	anger	3: se infiere un grado alto de enojo
+2018-Es-03492	Todos los días me enojo o tengo bronca por algo, ya es rutina	anger	2: se infiere un grado moderado de enojo
+2018-Es-05837	#youtube va de culo!! Me imagino que no soy el unico yuhuu😡😡 #enfado @dewrongta @TheBraxXter	anger	2: se infiere un grado moderado de enojo
+2018-Es-00353	Mi hermana. -encima salió re amargo +el que salio amargo? -el vómito   JAJAJAJAJAJAJAJA cerrrrrrrrda	anger	1: se infiere un bajo grado de enojo
+2018-Es-00469	Mi padre me va a apagar el wifi y estoy #enfadada	anger	3: se infiere un grado alto de enojo
+2018-Es-04419	@diegontar Que recuerdos con esos supersonics, Shawn kemp, detlef schrempf... Una pena su desaparición por los okc...	anger	0: no se infieren niveles de enojo
+2018-Es-00308	Pinche gente amargada y cortante me caga	anger	3: se infiere un grado alto de enojo
+2018-Es-04285	No los arrobé porque me siguen y 	anger	0: no se infieren niveles de enojo
+2018-Es-00489	Me hace envenenar esto sinceramente	anger	3: se infiere un grado alto de enojo
+2018-Es-05917	Tras que uno les hace los favores, se quejan que cojones 	anger	2: se infiere un grado moderado de enojo
+2018-Es-03751	@caterinabarbi resentimiento al palo	anger	1: se infiere un bajo grado de enojo
+2018-Es-05832	@CallMeCucho Me clavaste el visto. INDIGNADA	anger	3: se infiere un grado alto de enojo
+2018-Es-04893	Sigo indignada con esa nota de mierda y se pueden ir todos a la re puta que los pario forros	anger	3: se infiere un grado alto de enojo
+2018-Es-04174	@Clon_39 Es que le robaron la yegua por eso quedo amargado el hombre.	anger	2: se infiere un grado moderado de enojo
+2018-Es-01191	@RondonCNE Esto del simulacro es una clara provocación más por parte del gobierno a la violencia e intolerancia. Total apoyo a @RondonCNE	anger	3: se infiere un grado alto de enojo
+2018-Es-06921	Estoy de amargado.	anger	1: se infiere un bajo grado de enojo
+2018-Es-06208	La rabia y  rencor no llevan a nada, simplemente destruyen el alma y el corazón.	anger	0: no se infieren niveles de enojo
+2018-Es-03373	Siempre que me quiero bañar entran al baño 	anger	1: se infiere un bajo grado de enojo
+2018-Es-00869	@tohosjinki enojo* ya esta dicho xd oka	anger	1: se infiere un bajo grado de enojo
+2018-Es-06778	Que basura de padre me toco	anger	2: se infiere un grado moderado de enojo
+2018-Es-05830	Miércoles 4:45 am Pedro se hizo pis en mi cama. Alguien lo quiere adoptar? Estoy indignada 😒	anger	2: se infiere un grado moderado de enojo
+2018-Es-03530	Está más hermoso que nunca.. 😍 Eso me da más indignación ahre	anger	0: no se infieren niveles de enojo
+2018-Es-01453	Todo mal Lpm 	anger	3: se infiere un grado alto de enojo
+2018-Es-05030	Por qué @cafesproutmx cierra tan temprano hoy?! #enojado	anger	3: se infiere un grado alto de enojo
+2018-Es-05496	Ayer me quede viendo presentaciones de En la ciudad de la furia hasta las 5 de la mañana. Si, todas. hoy toca tele-ka	anger	0: no se infieren niveles de enojo
+2018-Es-00172	@vegetta777 Hola Samu, como estas? Ya se te paso el enojo?	anger	0: no se infieren niveles de enojo
+2018-Es-03486	" la Ciudad de la furia" me recuerda a ti siempre 😌😳	anger	0: no se infieren niveles de enojo
+2018-Es-00232	Mi madre me acaba de llamar amargada.	anger	1: se infiere un bajo grado de enojo
+2018-Es-06634	@xpcinful -se tapa la nariz tras la mordida quejosean y dandole la espalda enfadado- Malo	anger	1: se infiere un bajo grado de enojo
+2018-Es-05654	@noticierovv  ser lleno de odio y rabiosa y resentido que nunca llegará a presidente	anger	2: se infiere un grado moderado de enojo
+2018-Es-01687	Idiota ese insulto es nuevo genial	anger	1: se infiere un bajo grado de enojo
+2018-Es-06817	cuando me dicen "te voy a decir algo pero no te enojes" automáticamente me enojo un 98%	anger	2: se infiere un grado moderado de enojo
+2018-Es-01252	@vaniicaceres07 y Posta estoy indignada	anger	3: se infiere un grado alto de enojo
+2018-Es-04462	@MiicaLucero1 sabia que era un homosexual que se hacia el garchador furioso	anger	2: se infiere un grado moderado de enojo
+2018-Es-04795	@fxmiel Me quieres envenenar, ah...	anger	1: se infiere un bajo grado de enojo
+2018-Es-04227	no puedo ser feliz aunque a veces puedas pensarlo ya que lo bueno acaba dejando un sabor amargo..	anger	1: se infiere un bajo grado de enojo
+2018-Es-02452	Tan mierda sos para aprovecharte de la gente que es buena con vos? 😡	anger	3: se infiere un grado alto de enojo
+2018-Es-03302	Como era de esperar los mayores disparates sobre el atropello provocado por el carril bici se dicen desde cuentas B con <20 seguidores	anger	1: se infiere un bajo grado de enojo
+2018-Es-00111	@FitbitSupport La solucion es tan desagradable como que no se hacen responsables de nada. Estoy muy disgustado. El unico perjudicado soy yo.	anger	3: se infiere un grado alto de enojo
+2018-Es-02695	gracias por el vivo , me saco el enojo y todas las dudas que tenia @sergiocelli @PaulFerreyraOK	anger	0: no se infieren niveles de enojo
+2018-Es-02715	@WACO490 @PaulGoltieri @MonederoJC @PPopular Pdm denunciado insultar no es gratis	anger	1: se infiere un bajo grado de enojo
+2018-Es-04995	Indignada con este tema de mierda que no me sale	anger	3: se infiere un grado alto de enojo
+2018-Es-06136	La inteligencia no está peleada con la belleza #modasostenible #moda #belleza #cambiodeimagen #parecenmachitos #femenina #inteligente	anger	0: no se infieren niveles de enojo
+2018-Es-04944	Luego dicen que si me enfado... Pero con razón!	anger	2: se infiere un grado moderado de enojo
+2018-Es-00497	@atwelljxlie @cressdwyer Jajaajajajajajaja si es una rayada lo simplificaran porque sino menos gente ira a verla	anger	0: no se infieren niveles de enojo
+2018-Es-06690	Es increíble Banfield da dos paso y ya está en el área de Boca y nosotros apena llegamos 	anger	0: no se infieren niveles de enojo
+2018-Es-00586	@DanteDirewolf dante, te voy a pegar y no hablo de cabezazos	anger	2: se infiere un grado moderado de enojo
+2018-Es-01725	Mi mama hace eso el jueves y no es mas mi mamá!! Lo juro 	anger	1: se infiere un bajo grado de enojo
+2018-Es-05610	@chupita13 Me da rabia tio	anger	3: se infiere un grado alto de enojo
+2018-Es-02018	Eeh mi jefe es medio pedófilo, ya decía yo que por algo me daba desconfianza	anger	1: se infiere un bajo grado de enojo
+2018-Es-03573	@vegetta777 Alv nunca te escuche tan enojado D:	anger	1: se infiere un bajo grado de enojo
+2018-Es-00804	Fav y te insulto	anger	1: se infiere un bajo grado de enojo
+2018-Es-02968	😤 Puttttttto insomnio provocado! ...	anger	3: se infiere un grado alto de enojo
+2018-Es-00304	Yo me enojo y automáticamente me caga todo	anger	3: se infiere un grado alto de enojo
+2018-Es-06232	de estar enojada pase a llorar, de llorar pase a estar tentandome ahorre la bipolar	anger	2: se infiere un grado moderado de enojo
+2018-Es-02539	La gente amargada no mas no👎	anger	1: se infiere un bajo grado de enojo
+2018-Es-03300	Estoy viendo rápido y furioso 8, sería más emocionante si alguien no me hubiera contado el final 🙄	anger	2: se infiere un grado moderado de enojo
+2018-Es-02517	Jorge Luis Borges: Yo no hablo de venganzas ni perdones, el olvido es la única venganza y el único perdón.	anger	0: no se infieren niveles de enojo
+2018-Es-02882	cual es tu furia conmigo, no entiendo hahaha !! 💋😂	anger	1: se infiere un bajo grado de enojo
+2018-Es-06461	En mi siesta vespertina tuve una pesadilla con el-que-no-debe-ser-nombrado. Estuvo bastante heavy y desperté con algo de ira. Buena esa Tom.	anger	1: se infiere un bajo grado de enojo
+2018-Es-02031	estoy #frustada y #enfadada no me sale un ejercicio de matemáticas	anger	2: se infiere un grado moderado de enojo
+2018-Es-03378	@meprendorapidoo Dejen de ser cínicos, insultar a Robben es igual de vergonzoso que cuando se insultaba a Zidane, indios.	anger	3: se infiere un grado alto de enojo
+2018-Es-00075	@Lalordz56 Nunca he estado enfado contigo, bebé 😶😒🤔	anger	0: no se infieren niveles de enojo
+2018-Es-00464	@SomeKralzo Vpc.... Holy shit yo hubiese explotado de la rabia como si fuera una mina de sulfúro con fosforito adentro.	anger	2: se infiere un grado moderado de enojo
+2018-Es-03515	Es fija, entra éste profesor y tengo ganas de pararme y retirarme de su clase, siento tanto tu mala energía que no la soporto 	anger	3: se infiere un grado alto de enojo
+2018-Es-06559	¿Soy el único que abre los medicamentos SIEMPRE por el prospecto? #rabia	anger	2: se infiere un grado moderado de enojo
+2018-Es-04201	No importa cuan atenta seas cuán amable seas si lo único que notan es cuando estás enojada y mentando madres	anger	2: se infiere un grado moderado de enojo
+2018-Es-03774	@LeoDelPino7 Hola gordo estoy ofendido me cambiaste por la bola de pool estadounidense esa de tu foto	anger	2: se infiere un grado moderado de enojo
+2018-Es-01307	Me quiero descargar el sarahah ese y no tengo espacio	anger	0: no se infieren niveles de enojo
+2018-Es-00276	arroba florencia si me contestas no me enojo eh	anger	1: se infiere un bajo grado de enojo
+2018-Es-01517	Quién sigue diciendo "niño rata" como ofensa? 🙄😕😂	anger	0: no se infieren niveles de enojo
+2018-Es-06554	siempre q me enojo o me frustro termino llorando 🤷🤷	anger	1: se infiere un bajo grado de enojo
+2018-Es-06868	@bascois Actos de venganza contra un dictador y sus acólitos? Por supuesto.	anger	1: se infiere un bajo grado de enojo
+2018-Es-01114	Quiero estar contigo a pesar de las peleas, llantos, risas, enojos, besos, celos y berrinches; pero siempre juntos.	anger	0: no se infieren niveles de enojo
+2018-Es-01075	@pulsionparcial @vikidonda Donda digna hija d los q mataban c orgullo puro resentimiento y choreo algún día todos van a pagar todo se acaba	anger	2: se infiere un grado moderado de enojo
+2018-Es-03630	@CristianChucu26 No ni a palo 😤	anger	0: no se infieren niveles de enojo
+2018-Es-00224	@diariocorreo Entonces no hay disculpas es venganza. Por lo general las personas de hoy en dia toman la ley como acto de venganza....	anger	0: no se infieren niveles de enojo
+2018-Es-01087	Rabia Tv  #TRTyeİsimÖnerim	anger	0: no se infieren niveles de enojo
+2018-Es-06365	@Marian88963751 A mí también se antojó. Traigo un buen de hambre 😂 u.u Enloqueceré.	anger	0: no se infieren niveles de enojo
+2018-Es-04160	@HaterGH Ahora me enfado y no respiro! Patética!!!!	anger	2: se infiere un grado moderado de enojo
+2018-Es-01906	Entrar a esta hora y mirar cositas por ahí y volver a dormirme ofendida😔	anger	1: se infiere un bajo grado de enojo
+2018-Es-05662	Que nos pasa que no somos capaces de ganar en el bernabeu!! Que forma de tirar la liga. #impotencia #rabia	anger	2: se infiere un grado moderado de enojo
+2018-Es-03920	No cené por hacerme la enojada y ahora estoy muriendo de hambre, quien me manda a ser tan enojona 😥	anger	2: se infiere un grado moderado de enojo
+2018-Es-03342	Hdp desconectensen del Wifi 	anger	3: se infiere un grado alto de enojo
+2018-Es-00542	@eldiarioes Ante la presentación de los hechos, las hordas zombis no saben sino insultar. Este es el nivel.	anger	2: se infiere un grado moderado de enojo
+2018-Es-04975	@ArevaloJuanP Eso se llama 	anger	0: no se infieren niveles de enojo
+2018-Es-05007	Cuánto odio hay en un país para que hasta una noticia buena, la conviertan en insulto?	anger	3: se infiere un grado alto de enojo
+2018-Es-05149	Lo de libertad libertad, sin ira libertad, no hay que tomarselo al pie de la letra	anger	0: no se infieren niveles de enojo
+2018-Es-04459	Acaban de asaltar a mi hermano menor, lo han pateado en la cara, en emergencias por la lacra de la sociedad, rabia e impotencia	anger	3: se infiere un grado alto de enojo
+2018-Es-03354	#HomenajeMABPdV La indignación del PP con @ManuelaCarmena es mucha Con su socio PNV ya menos porque donde hay pasta por medio ellos ya tal.	anger	1: se infiere un bajo grado de enojo
+2018-Es-01522	@montse469 @TeresaRodr_ @BroggiElisa Hacía tiempo que no leía un tuit tan desafortunado y cateto. Opinar y ofender sin tener NI PUTA IDEA	anger	3: se infiere un grado alto de enojo
+2018-Es-00246	@Sinner_Silas «en cierta medida, soy una humana con poderes…  —El enfado se disipó con rapidez y dejó lugar a una mueca divertida, la cual»	anger	1: se infiere un bajo grado de enojo
+2018-Es-04226	@estherpalomera Pues si estás ahí te estará comiendo la ira escuchando al irredento y prepotente #oubiña @HoyPorHoy	anger	2: se infiere un grado moderado de enojo
+2018-Es-00013	Bueno una más, no le vuelvo a decir ni picha, gran amargada.	anger	3: se infiere un grado alto de enojo
+2018-Es-04890	La tercera es una copa q vivi por un Idiota 🍸🐕😡	anger	1: se infiere un bajo grado de enojo
+2018-Es-05859	@ambarncf Ira nomas kien abla xd xd	anger	1: se infiere un bajo grado de enojo
+2018-Es-02731	Si alguien me habla no me enojo eeeh	anger	0: no se infieren niveles de enojo
+2018-Es-04758	@randymeeks @VidaModernaOML VOY A PLASMARLO POR AQUÍ (y en mayúsculas) PARA QUE SE NOTE MI ENFADO	anger	3: se infiere un grado alto de enojo
+2018-Es-04372	Si os enojáis, no pequéis: procurad que el enojo no os dure todo el día. No deis oportunidad al diablo.  EFESIOS 4:26-27	anger	0: no se infieren niveles de enojo
+2018-Es-02258	El lugar que se tiene en el corazón de otro se gana, no se pelea.	anger	0: no se infieren niveles de enojo
+2018-Es-06889	@26_albelo @Agusmonte_ok *se siente ofendida*	anger	2: se infiere un grado moderado de enojo
+2018-Es-05249	Voy a llegar a casa y va a estar mi vieja despierta 	anger	0: no se infieren niveles de enojo
+2018-Es-03966	Descargando música y preciso la q me encanta no descargo 😡 #enojada	anger	3: se infiere un grado alto de enojo
+2018-Es-02167	La odio literalmente a esa Piba 😑😡	anger	3: se infiere un grado alto de enojo
+2018-Es-04100	Nunca me he bajado del barco ni lo haré pero esta temporada @atlasfc me ha decepcionado como hace mucho no lo hacía #triste #enojado 😥😣	anger	2: se infiere un grado moderado de enojo
+2018-Es-03296	@DavidGmez99 Piensa lo que quieras y como quieras que ellos seguirán donde están y tú igual de amargado por estos temas #XD	anger	2: se infiere un grado moderado de enojo
+2018-Es-06198	@apolo4u2 Quiero que me digas los motivos de tu enfado	anger	1: se infiere un bajo grado de enojo
+2018-Es-05071	@vegetta777 Buenos días samu esperó y ya no estés enojado , recuerda que ay millones de personas que valoramos tu esfuerzo 💜✨	anger	0: no se infieren niveles de enojo
+2018-Es-02360	Cómo no voy a estar gorda así? 😤	anger	1: se infiere un bajo grado de enojo
+2018-Es-05807	@WasabiiGirl @MrVago_ mmmta que es broma ira pues	anger	0: no se infieren niveles de enojo
+2018-Es-05162	Buenos días a todos, menos a los que nunca he ofendido.	anger	0: no se infieren niveles de enojo
+2018-Es-01183	Si es neta, esa señora está super frustrada, peleada con el mundo y le hace falta una bueeeena... Cena para que se ponga feliz :)	anger	1: se infiere un bajo grado de enojo
+2018-Es-05322	Odio a la gente que un rato esta bien y a los dos minutos tiene cara de orto 	anger	3: se infiere un grado alto de enojo
+2018-Es-01158	Bates Motel 2x03: •Emma y el de los porros<3 •-Sr Simpson entienda q esto puede provocar perturbación y ligera psicosis -sí venga el incesto	anger	0: no se infieren niveles de enojo
+2018-Es-02015	@PacoRoca11 @joseperdi33 @orue_s @Elaguijon_ @eldiarioes Por qué le iba a insultar, si lo hace usted mismo, y solito.	anger	1: se infiere un bajo grado de enojo
+2018-Es-06545	"la ira te vuelve imbécil y los imbéciles mueren"  Amo a Michonne, que lo sepáis	anger	1: se infiere un bajo grado de enojo
+2018-Es-04829	via @Belkis_Inciarte:  @alecita2611 Peor q nunca... 	anger	2: se infiere un grado moderado de enojo
+2018-Es-03473	LAS FOTOS DE BTS X PUMA ME SACARON DE LA DEPRESIÓN ESO	anger	0: no se infieren niveles de enojo
+2018-Es-03275	@Pablo_Iglesias_ Estás enfadado porque no te han invitado? Los celos son muy malos.....	anger	1: se infiere un bajo grado de enojo
+2018-Es-02028	@Muzskatolista Lo digo porque a la peña se la sopla si es para ofender o no, lo van a hacer igual xd	anger	1: se infiere un bajo grado de enojo
+2018-Es-02170	Va perdiendo Millos y perdió el América, una palabra mas y mi cucha y mi ancestra me echan de la rancha.	anger	0: no se infieren niveles de enojo
+2018-Es-05178	Me voy a dormir estoy envenenado	anger	2: se infiere un grado moderado de enojo
+2018-Es-06535	@NathanThom_BS Vaya...*Enarca una ceja disgustado* Mira a quien tenemos aquí...	anger	0: no se infieren niveles de enojo
+2018-Es-03762	@paolaarl1622 Tu y tus berrinches mujer!. Háblame aqui que msn no me jala	anger	1: se infiere un bajo grado de enojo
+2018-Es-05523	Sofía amargada tiene sentimientos	anger	1: se infiere un bajo grado de enojo
+2018-Es-05552	Jajajajaj se me enojo Santi, ya mañana se le pasa jajajaja	anger	0: no se infieren niveles de enojo
+2018-Es-04273	Vi la pelea del grupo y no paro de pensar en bianca, ojalá no se suicide	anger	1: se infiere un bajo grado de enojo
+2018-Es-01724	Le tengo un terror a éste sábado próximo que ni 23 llamadas perdidas de mi madre lo supera.	anger	1: se infiere un bajo grado de enojo
+2018-Es-03994	@ActualidadRT @NicolasMaduro Claro, que orgullo... Pena ajena. Digan lo que pasa en palo verde a esta hora.	anger	2: se infiere un grado moderado de enojo
+2018-Es-00142	@waldorftty < cabeza y reprimió una mueca de disgusto mientras hacía a Astarthea alzar la cabeza. "Búscala", fue todo lo que dijo. La >	anger	0: no se infieren niveles de enojo
+2018-Es-06022	Buoh, me dormí de nuevo y me acabo de despertar y me encuentro que crush de mierda me ha bloqueado 👀 está resentido	anger	2: se infiere un grado moderado de enojo
+2018-Es-06693	Cuando se mato #ChrisCornell con tristeza total, lo único que pensaba era que me quedaba la voz de #Chester de #LinkinPark y ahora? 😭	anger	1: se infiere un bajo grado de enojo
+2018-Es-06081	@ashfromamike @CBinvaders @eldiarioes Pero resulta que en la información que yo comentaba no se explicaba las circunstancias del atropello.	anger	0: no se infieren niveles de enojo
+2018-Es-02986	Decir que el PP es una Mafia es un insulto a Lucky Luciano, la Familia Genovese y tantos otros honrados delincuentes.	anger	1: se infiere un bajo grado de enojo
+2018-Es-05436	Pues he empezado a perder el disgusto por el francés ahora que estoy escuchando al Saïan Supa Crew :/	anger	0: no se infieren niveles de enojo
+2018-Es-00396	quien me lleva a Italia para insultar al hijo de diosdado	anger	2: se infiere un grado moderado de enojo
+2018-Es-01781	Y ahora un poco de política:  Maduro tiene miedo.	anger	0: no se infieren niveles de enojo
+2018-Es-05468	Tengo mucho enojo, necesito controlarme.	anger	3: se infiere un grado alto de enojo
+2018-Es-02013	Indignada porque el temario de música dice que vamos a ver cumbia colombiana, y estamos viendo OPERA🤦🏼‍♀️	anger	2: se infiere un grado moderado de enojo
+2018-Es-06735	@lumaria6688 @SrtaLyna No me enojo con ella	anger	0: no se infieren niveles de enojo
+2018-Es-03429	Son los hombres los que nos violan, asesinan y desaparecen, pero tranquilas ellos también pueden ser feministas!!! *Sarcasmo* #Enojada	anger	3: se infiere un grado alto de enojo
+2018-Es-01238	No crítico lo insoportable q son las publicidades de Spotify pero decir q Coldplay es la mejor banda de la historia es un insulto a Queen	anger	1: se infiere un bajo grado de enojo
+2018-Es-06057	Nego adora provocar .. kkkkk opss	anger	1: se infiere un bajo grado de enojo
+2018-Es-00503	Puta madre, en la vida había estado más enojada	anger	3: se infiere un grado alto de enojo
+2018-Es-03944	Porque todos me dicen *espero que cuides el celular*? Rompi varios pero no tengo 8años🙃...para que me anden diciendo cada rato 😑	anger	2: se infiere un grado moderado de enojo
+2018-Es-06628	Que amargado se te ve, cuando vos andas patruyando me la como a tu mujer	anger	2: se infiere un grado moderado de enojo
+2018-Es-03585	Me encanta el "no te vayas, no te puedes ir" mientras te jodo y te insulto...	anger	2: se infiere un grado moderado de enojo
+2018-Es-00816	La justicia pertenece al Estado, la venganza a las personas.	anger	0: no se infieren niveles de enojo
+2018-Es-05195	@DonBurroReal Fuera correa dictador 	anger	1: se infiere un bajo grado de enojo
+2018-Es-05809	@BlizzardCSEU_ES  no se puede jugar desde él sabado ..	anger	0: no se infieren niveles de enojo
+2018-Es-06626	Indignada con @orange_es me podéis pasar una dirección para reclamar, llevo solo 2 meses con vosotros y ya me quiero IR!!!! 😡	anger	2: se infiere un grado moderado de enojo
+2018-Es-01272	Después de subir eso me gané un cd de Guasones y se pasó el parcial para la semana que viene. 	anger	0: no se infieren niveles de enojo
+2018-Es-03927	@D_Nacional Más bien: "Sabemos lo que hicisteis antes de provocar una guerra".	anger	1: se infiere un bajo grado de enojo
+2018-Es-03007	@ThunderKiiwi Aquí la ofendida eres tú guapa,que has ido a decir algo	anger	1: se infiere un bajo grado de enojo
+2018-Es-03962	La vdd no sé si estoy enojada, triste o idk,	anger	2: se infiere un grado moderado de enojo
+2018-Es-01852	@xDefectiveTwin Uhm... Lengua larga.  —Arruga el gesto haciéndose la ofendida con la situación sabiendo que hay veces que el chico »	anger	1: se infiere un bajo grado de enojo
+2018-Es-03343	@GaunaIzaac Y con la demas gente sp rápido que me enojo	anger	1: se infiere un bajo grado de enojo
+2018-Es-01633	Sino es por Ayame (fue metida muy gratuitamente) y que lo usara para dar celos (y me daba rabia) en serio que Koga quedaba mejor con ella	anger	1: se infiere un bajo grado de enojo
+2018-Es-00403	Déjame sobrepasar tus zonas de peligro, hasta provocar tus gritos y que olvides tu apellido	anger	1: se infiere un bajo grado de enojo
+2018-Es-02248	El cielo está que se cae!!!!! 😥	anger	1: se infiere un bajo grado de enojo
+2018-Es-00949	@Tlahuicole1318 Gracias Tlahuicole. Me da mucho coraje que hayan rebajado a los piropos a algo tan sucio.	anger	3: se infiere un grado alto de enojo
+2018-Es-05013	Esta noche me ha picado un mosquito en una teta, estoy enfadada.	anger	3: se infiere un grado alto de enojo
+2018-Es-01715	El pueblo indignado pasará descontrolado a otro nivel de protestas;sobrepasará a la dirigencia y escogerá el camino libertario a la salida	anger	1: se infiere un bajo grado de enojo
+2018-Es-00669	Qué puto estrés con los niños que lloran. Deberían tener un botón de mute o algo NETAAAA. 🤦🏻‍♀😠	anger	3: se infiere un grado alto de enojo
+2018-Es-05336	Que ofendida, decepción.	anger	3: se infiere un grado alto de enojo
+2018-Es-00325	Que rabia y que miedo que cualquier hijueputa vaya electrocutando gente como con tanta libertad.	anger	3: se infiere un grado alto de enojo
+2018-Es-05152	@MatiasRiveroDj Ayer vi caminando entre tumbas y hoy la de búsqueda implacable 3, son viejas pero están re copadas	anger	0: no se infieren niveles de enojo
+2018-Es-06428	Repito, si me hablas no me enojo	anger	0: no se infieren niveles de enojo
+2018-Es-02937	@Jahiluz iggggh no sé si sentirme indignada o que >:v xD!	anger	2: se infiere un grado moderado de enojo
+2018-Es-05836	Necesito algo en que canalizar mi ira, mi tristeza, mi vida y mi todo. Estoy infumable	anger	2: se infiere un grado moderado de enojo
+2018-Es-02733	@TheSexyOwl No busco remplazarte y no me gusta que estés enfadado conmigo.	anger	0: no se infieren niveles de enojo
+2018-Es-05736	Dentro de 3 años se me va el enojo 🤗😊	anger	2: se infiere un grado moderado de enojo
+2018-Es-06703	Por que no me habia dado cuenta que tengo público mis publicaciones de fb?😤😤😤😨	anger	0: no se infieren niveles de enojo
+2018-Es-00076	No puede haber un canal exclusivo donde pasen todo el día deportes? No es mucho pedir, cansada estoy de perderme partidos 	anger	1: se infiere un bajo grado de enojo
+2018-Es-01750	@anapalacio  ficha por Marruecos contra el Sahara Occidental. Parece mentira que se venda por dinero. Lea sentencias Judiciales "Indignidad"	anger	2: se infiere un grado moderado de enojo
+2018-Es-05069	Que estrés las personas hipocritas.	anger	2: se infiere un grado moderado de enojo
+2018-Es-02076	Ojalá algún día Diosito me quite lo amargada y celosa.😒	anger	1: se infiere un bajo grado de enojo
+2018-Es-03757	@fedesan9 @nicojusid Se cagó todo el amargo	anger	2: se infiere un grado moderado de enojo
+2018-Es-01629	@EmiOlmos87 Claro el señor no habla nunca, pero para bardear es el primero en la fila 😡 jajaja	anger	1: se infiere un bajo grado de enojo
+2018-Es-04159	@xxpolaroid QUIERES PELEA FÍSICA?	anger	3: se infiere un grado alto de enojo
+2018-Es-06848	eh dormido tres horas y estoy entre triste y enfadada	anger	1: se infiere un bajo grado de enojo
+2018-Es-03035	@kittlab @Carlosurrutiacp @joantier @gabrielrufian @blindonion8 Miralo, Pobrecito, le da rabia que pongan likes. Va, uno de regalo!	anger	1: se infiere un bajo grado de enojo
+2018-Es-02768	Mentiras y más mentiras 😠😠😠	anger	3: se infiere un grado alto de enojo
+2018-Es-04649	Provoca es salir corriendo de esta casa	anger	1: se infiere un bajo grado de enojo
+2018-Es-03898	@Ritalin_P si tiene win10, está de moda esa pantallita 	anger	0: no se infieren niveles de enojo
+2018-Es-00610	Ya de buena mañana exasperada con el puñetero papeleo	anger	2: se infiere un grado moderado de enojo
+2018-Es-04949	Su hay algo que detesto, es esperar. 	anger	2: se infiere un grado moderado de enojo
+2018-Es-02427	@YarielaMora @Haylock049 @jits2899 @Danielaeche07 Que cansado 😪	anger	0: no se infieren niveles de enojo
+2018-Es-03413	"Las palabras severas provocan ira. Pero las que se usan apropiadamente la quitan" Proverbios 15:1 #FamiliaSana	anger	0: no se infieren niveles de enojo
+2018-Es-01286	El del uber no atropello a mi ex, media estrellita.	anger	1: se infiere un bajo grado de enojo
+2018-Es-05159	@AweloJos Huelen la desesperación	anger	0: no se infieren niveles de enojo
+2018-Es-00054	Encima no estoy para aguantarme a una amargada por seis horas.	anger	2: se infiere un grado moderado de enojo
+2018-Es-03885	Es solo enojo, por no poder comprenderte u.u	anger	0: no se infieren niveles de enojo
+2018-Es-02828	@maydana34 @joaquinkremel Este tiene bula para insultar, la ley mordaza le excluye	anger	1: se infiere un bajo grado de enojo
+2018-Es-06541	@Miotroyo2parte La venganza de ultratumba! Son brutos hasta decir "basca". Todo idiota nos sale caro.	anger	3: se infiere un grado alto de enojo
+2018-Es-05391	Que @KikoMatamoros no haya conseguido enchufar a ninguno de sus inútiles hijos en salvame y #huracanalba lo consiga tiene que joder #rabia	anger	3: se infiere un grado alto de enojo
+2018-Es-04135	Planear tu venganza cuando estás enojado/a y que a los 5 minutos andes como si nada.	anger	1: se infiere un bajo grado de enojo
+2018-Es-02117	Estoy en medio de una descompostura abismal 	anger	1: se infiere un bajo grado de enojo
+2018-Es-02106	@gemapayan00 Perdón , me siento ofendida	anger	2: se infiere un grado moderado de enojo
+2018-Es-02825	@JorgeBustos1 @vilpetrus Asco, indignidad y que dice Pedro Sánchez ?	anger	2: se infiere un grado moderado de enojo
+2018-Es-02896	@YisesArr @MichelPesquera Aunque no soy estúpida, a mi me atropello un carro de helados jejeje	anger	0: no se infieren niveles de enojo
+2018-Es-04472	Es una gilipollez y me da igual pero tócate los cojones que se me cuelen viejas en el bus cuando luego son las primeras en quejarse #RABIA	anger	3: se infiere un grado alto de enojo
+2018-Es-00762	no me molesta que use el edit me jode que no me likeo la selfy pero tuvo el DESCARO de sacarme el edit 	anger	2: se infiere un grado moderado de enojo
+2018-Es-06650	@salvaoret Jo, q rabia!	anger	2: se infiere un grado moderado de enojo
+2018-Es-05088	Y se vienen más cambios...😤	anger	0: no se infieren niveles de enojo
+2018-Es-06176	Niñas si sus novios tienen amiguitas CREANME no son solo amiguitas. Son las bellas niñas que los "escuchan" cuando ustedes hacen berrinche.	anger	0: no se infieren niveles de enojo
+2018-Es-04764	Me da chills pensar en la pelea de mayweather vs. conor	anger	1: se infiere un bajo grado de enojo
+2018-Es-02608	No hay cosa que me de más rabia que madrugar, bueno si, madrugar en verano, bueno y madrugar en verano para hacer trámites en el puto banco.	anger	3: se infiere un grado alto de enojo
+2018-Es-01928	Con Gastón me hago la enojada y me tira un "te extraño" 😭💗	anger	0: no se infieren niveles de enojo
+2018-Es-06406	Me voy a matar😤😩😩	anger	2: se infiere un grado moderado de enojo
+2018-Es-06437	#pokemonsinlimite mika, enciende todas las luces de tu casa para provocar que salte el contador, sera mejor	anger	0: no se infieren niveles de enojo
+2018-Es-02600	No se que es más triste, que me aparezcan los recuerdos cuando me saludaban por el día de amigo o la muerte de chester	anger	0: no se infieren niveles de enojo
+2018-Es-03382	@manolomejia20 Típico insulto de pendejo	anger	2: se infiere un grado moderado de enojo
+2018-Es-04987	No me dejes, no me sueltes, puedo enloquecer !!	anger	1: se infiere un bajo grado de enojo
+2018-Es-04297	Si nos organizamos podemos ofender a todos los colectivos.	anger	1: se infiere un bajo grado de enojo
+2018-Es-05670	No tenia que haber ido, me duele una banda ahora😠	anger	2: se infiere un grado moderado de enojo
+2018-Es-01384	Malhumorado, presumido y descarado, desconfiado, despectivo...	anger	2: se infiere un grado moderado de enojo
+2018-Es-05095	Aún estoy envenenada de ti	anger	1: se infiere un bajo grado de enojo
+2018-Es-00155	Si saben en el peo que esta metido el pais donde estamos viviendo verdad? Si estan claros de lo grave y escoñetados que estamos?	anger	2: se infiere un grado moderado de enojo
+2018-Es-05210	Ve bien por la vid  y te ira bien en la vidar.. asi es!	anger	0: no se infieren niveles de enojo
+2018-Es-03887	Siento que me ahogo de la ira	anger	3: se infiere un grado alto de enojo
+2018-Es-04141	@Bohncs El drama, ni me wa ofender peor va eh	anger	1: se infiere un bajo grado de enojo
+2018-Es-05504	@guidocass Juro que recién lo leí perdón, pensé que faltaban mas partidos igual 😥	anger	0: no se infieren niveles de enojo
+2018-Es-02633	El susto de mi vida me pegué... gracias a Dios estas bien mi gordo, nuestro ángel no dejo que nada malo te pase. Ya pronto estarás mejor😍	anger	0: no se infieren niveles de enojo
+2018-Es-05756	@naroh @ilse0101 No, el corrector ha preferido censurarme el insulto previo, eso sí. Qué lastima porque se lo merecía.	anger	2: se infiere un grado moderado de enojo
+2018-Es-05944	Empezando el dia #enojada con los onvres 🔧	anger	2: se infiere un grado moderado de enojo
+2018-Es-03754	Dicen que no es bueno que duermas enojada, yo por eso comento lo que no me parece, eso no quiere decir que me enoje.	anger	1: se infiere un bajo grado de enojo
+2018-Es-06451	@bendysy yo no te insulto... a veces te doy tu tiempo y creo que cuando no estas un par de preguntas y luego al buzon de mensajeria	anger	1: se infiere un bajo grado de enojo
+2018-Es-01138	¿Estoy enloquecido o enloqueceré?	anger	1: se infiere un bajo grado de enojo
+2018-Es-05373	@la_patilla @NicolasMaduro la emboscaron, la atropello con la moto, le monta la sucia bota y de paso la detiene con refuerzos de 30gnbasura	anger	3: se infiere un grado alto de enojo
+2018-Es-05044	@JesusCintora Y la Cospe estara irritada con la UDEF...	anger	1: se infiere un bajo grado de enojo
+2018-Es-05003	¿Cómo salirte de un grupo de WhatsApp sin que piensen que eres agria y resentida?	anger	1: se infiere un bajo grado de enojo
+2018-Es-01915	@MrKinoccio Jajajaja, hay que ganar audiencia tío y hay que provocar	anger	0: no se infieren niveles de enojo
+2018-Es-03175	@ManuelaCarmena ¿Conoces a una sola victima que pueda sentirse ofendida por homenajear a #MiguelAngelBlanco?¿Una sola?	anger	1: se infiere un bajo grado de enojo
+2018-Es-05972	yo soy re bacana pero cuando me enojo dios santo agárrate catalina	anger	1: se infiere un bajo grado de enojo
+2018-Es-01981	Ahora es como si se hubiera peleado con Courtney Love y se puso con la Tigresa del oriente. He dicho.	anger	1: se infiere un bajo grado de enojo
+2018-Es-04761	12 de julio del 2017, azul hace berrinche y decide salirse de la carrera de diseño porque no le salen sus cartelitos para su banda.	anger	1: se infiere un bajo grado de enojo
+2018-Es-00524	Buena vista 1ra vmella, sin luz @EdeesteRD  nos someterán a la oscuridad antes del desastre! Estúpidos! #rabia #abuso @ProConsumidorRD	anger	3: se infiere un grado alto de enojo
+2018-Es-03173	@PauMancilla_ @Tincho_moras10 Compas de mate amargo jaja	anger	0: no se infieren niveles de enojo
+2018-Es-02885	Hasta acá escucho a mi hermano coger con la novia así que en venganza rapeo-feo a todo volumen.	anger	1: se infiere un bajo grado de enojo
+2018-Es-06494	@glxymuse bueno maja a que me enfado >:( me estás llamando mentirosa?	anger	2: se infiere un grado moderado de enojo
+2018-Es-02206	Si el anon de Matías se quiere pasar por mi cc no me enojo	anger	0: no se infieren niveles de enojo
+2018-Es-00974	Me decis que soy un loquito y a continuacion  decis "la verdad no tiene que ofender" pero cuando te digo pelotuda te ofendes...que onda?	anger	2: se infiere un grado moderado de enojo
+2018-Es-04108	Tengo ganas de escribir una carta con intención de provocar diabetes.	anger	0: no se infieren niveles de enojo
+2018-Es-01757	@vegetta777 @YouTube Hoy no hay saludo con "Hermosooos o guapisimooos"? Sigues enojado vege? Esque me preocupas :c	anger	0: no se infieren niveles de enojo
+2018-Es-04026	Si alguien me trae un doble cuarto juro que no me enojo	anger	0: no se infieren niveles de enojo
+2018-Es-05914	No fuimos y me habré enojado 1 hora como mucho, no sirvo para estar enojado más tiempo 😂😂	anger	0: no se infieren niveles de enojo
+2018-Es-06553	@mundodeportivo @RogerTorello se le ve el enfado en la cara, jijiji	anger	1: se infiere un bajo grado de enojo
+2018-Es-00663	@ponminombreaca No es mal hablada, pero puta que es amargada!	anger	3: se infiere un grado alto de enojo
+2018-Es-04839	@rxcketqueen__ no le des pelota isidro no vale la pena	anger	1: se infiere un bajo grado de enojo
+2018-Es-04473	Ves las noticias y es un sinfin de muert@s,maltratad@s,torturad@s... Es pa amargar a los que estan de vacaciones?	anger	2: se infiere un grado moderado de enojo
+2018-Es-02392	@uhhhmaria Me siento ofendido con mi voz	anger	2: se infiere un grado moderado de enojo
+2018-Es-04657	@vegetta777 Quiero verte triste ni enfadado. Te queremos muchísimo 💜💜💜	anger	0: no se infieren niveles de enojo
+2018-Es-05906	@ju4nkhalifa Igual sigo.indignada	anger	3: se infiere un grado alto de enojo
+2018-Es-02306	Cuando te dicen ?sin ofender?, preparate para ser ofendido.	anger	1: se infiere un bajo grado de enojo
+2018-Es-06274	bue es que son re carrots y me da rabia que no quieran cambiar ay que linda gracias vos igual me caes re bien	anger	1: se infiere un bajo grado de enojo
+2018-Es-00133	Lo peor es que dice cosas enojado y yo me río jajajajjajajaa lo amo tanto al taradito este	anger	0: no se infieren niveles de enojo
+2018-Es-03834	@DrefanHardy X cierto,se te ha pasado ya el disgusto x lo d Halep???	anger	0: no se infieren niveles de enojo
+2018-Es-04335	@Rafael_Gaidovar @agarzon Pero para ti la ofensa es llamar miserable a quienes usan las instituciones para saquear.	anger	2: se infiere un grado moderado de enojo
+2018-Es-00334	Me enojo por todo 😂	anger	1: se infiere un bajo grado de enojo
+2018-Es-05308	Siempre he dicho que elegiría twitter si solo pudiera usar una red social: aquí hay memes y gente amargada como yo, no necesito más PERO	anger	1: se infiere un bajo grado de enojo
+2018-Es-04113	HIJO DE TU REPUTISIMA BOMBA PERRA ESTUPIDA BABOSA MADRE😡😡😡😡😡😡(sin ofender a su mama no la conozco es solamente una expresión de odio así el)	anger	3: se infiere un grado alto de enojo
+2018-Es-03374	Que le pinta a este culia, me hace envenenar	anger	3: se infiere un grado alto de enojo
+2018-Es-00811	Estaba viendo videos de terror pensando que Sofi estaba despierta pero se durmió jajajaja saque todo😂	anger	0: no se infieren niveles de enojo
+2018-Es-04927	Cuando estoy enferma soy más amargada y demasiado sensible, creo que me tocan y me pongo a gritar o a llorar no sé por qué	anger	2: se infiere un grado moderado de enojo
+2018-Es-06821	Mañana no habrá nuevo vídeo gracias a mi puta escuela!😢😠	anger	3: se infiere un grado alto de enojo
+2018-Es-00073	Si fuera por mi seguiría viendo todos los capitulos, pero si sigo mirando no me levanta ni una grua. 😟	anger	0: no se infieren niveles de enojo
+2018-Es-01538	Soy súper berrinches, ok.	anger	1: se infiere un bajo grado de enojo
+2018-Es-00320	@Mireyam8 encima de tongazo, ofendida. Ya no me bloqueas mas mi cuenta. Sino quedate en casa o se mas sutil.Eres simple,incapaz y evidente	anger	3: se infiere un grado alto de enojo
+2018-Es-03838	Como nos jodio la de biología con la actividad que mando 	anger	2: se infiere un grado moderado de enojo
+2018-Es-01318	Yo la mejor y que te contesten así nomas me infla la vena😠😡	anger	3: se infiere un grado alto de enojo
+2018-Es-02616	Pilar ya me empieza a mandar audios de los cordobeses, jajajaja me va a enloquecer	anger	0: no se infieren niveles de enojo
+2018-Es-03741	Estly indignada con mis pies que no me respondian el sabado, re queria ir a esa joda l	anger	3: se infiere un grado alto de enojo
+2018-Es-06341	Divino arrancar el día cayéndote con furia en la vereda a las 5 y media de la mañana.	anger	2: se infiere un grado moderado de enojo
+2018-Es-04478	Donde deje mis trabajossssssssss😤😩	anger	1: se infiere un bajo grado de enojo
+2018-Es-06721	Otra vez la misma historia. Hagan cárceles es 2 señoras ni queriendo podrán controlar la furia y el hambre del pueblo.	anger	2: se infiere un grado moderado de enojo
+2018-Es-03522	Me caga que las personas abusen de la confianza que uno les da, y más cuando son las más cercanas #enojada	anger	3: se infiere un grado alto de enojo
+2018-Es-01476	Al principio estaba tentado, Ahora estoy envenenado	anger	1: se infiere un bajo grado de enojo
+2018-Es-03850	Pedro tenía temor de ofender a sus compatriotas que volvió a sus antiguas costumbres y ya no comía ni se juntaba con los gentiles. #LESAdv	anger	0: no se infieren niveles de enojo
+2018-Es-02911	Jajajajaj que indignación en Twitter ayer no?	anger	0: no se infieren niveles de enojo
+2018-Es-04465	@florido_raul @Eriemer @Pablo_Iglesias_ Vaya educación tienes! Opina sin insultar por q si no tus comentarios pierden cualquier significado!	anger	2: se infiere un grado moderado de enojo
+2018-Es-03125	@LANACION Que inversores? La bicicleta financiera tiene temor? Si gana ,sera senadora,como Mendez.Para ampararse en los fueros.	anger	0: no se infieren niveles de enojo
+2018-Es-05870	Yo puedo estar feliz, triste, enojada, con miedo, cansada, aborrecia, eléctrica, pensativa, borracha o sobria y mi cara siempre será 👉🏽 😒	anger	1: se infiere un bajo grado de enojo
+2018-Es-04506	Resentimiento Resentimiento™  gracias por seguirme ;)	anger	0: no se infieren niveles de enojo
+2018-Es-03732	@ideasgraficasrs De aplaudirlos, con dos ladrillos, en la cara 	anger	1: se infiere un bajo grado de enojo
+2018-Es-05806	No se puede estar bien siempre busca pelea.	anger	1: se infiere un bajo grado de enojo
+2018-Es-05993	Nunca hay que creer que los artistas se suicidan porque son cool. Son cool muy a pesar de ese destino fatal.	anger	1: se infiere un bajo grado de enojo
+2018-Es-06166	Me dan ganas de meterles una piña	anger	3: se infiere un grado alto de enojo
+2018-Es-04197	Esta indignado el Botto por el cargador jajaja	anger	1: se infiere un bajo grado de enojo
+2018-Es-02434	demasiado tiempo perdido y amargada	anger	1: se infiere un bajo grado de enojo
+2018-Es-04351	@RominaIbarraL @arantzaosunal no fuimos 	anger	0: no se infieren niveles de enojo
+2018-Es-05652	-Mamá, quiero ser Wedding Planner. -¿Sabes el disgusto que le vas a dar a tu padre?	anger	1: se infiere un bajo grado de enojo
+2018-Es-04232	Da rabia igual que haya gente que busca tanto y nunca llega, y otros que lo tienen enfrente y no lo quieren ver. Pero bueno, decisiones.	anger	2: se infiere un grado moderado de enojo
+2018-Es-00521	Que bronca culiado 	anger	1: se infiere un bajo grado de enojo
+2018-Es-02998	@logiczzzzzzz @ByAdri10YT @JustMagaZ @AyudasEsP @Toony11_ Okey y te hice algo para q empieces a insultar jaja random no soy lo serás tu	anger	2: se infiere un grado moderado de enojo
+2018-Es-00851	#Barakaldo El secuestro y asesinato de Miguel A. Blanco me dejó el mismo poso amargo q 20 años atrás,los últimos fusilamientos del dictador.	anger	2: se infiere un grado moderado de enojo
+2018-Es-03384	mi venganza ya está hecha but ahora me siento mal	anger	1: se infiere un bajo grado de enojo
+2018-Es-00005	"ay yo cuando me enojo soy la persona más mala de todas".   Si loquita te olvidaste de Adolfito, Josephcito y un par más.	anger	1: se infiere un bajo grado de enojo
+2018-Es-04093	@GustiSandoval1 Y no convidas 😒 No es de resentido 😒	anger	1: se infiere un bajo grado de enojo
+2018-Es-02772	estoy muy enfadado con mi perra porque me ha despertado a las 9	anger	2: se infiere un grado moderado de enojo
+2018-Es-01121	@francontreras_7 Tengo una sospecha 😉	anger	0: no se infieren niveles de enojo
+2018-Es-00582	Veo mucha gente haciendo papelon. #rabia #LlegaGH	anger	1: se infiere un bajo grado de enojo
+2018-Es-05805	@chxlemr No es un insulto, es lo que SOS, GARCA, PUTO. Al menos viniste, chau, ortiba, ya me vas a buscar.	anger	2: se infiere un grado moderado de enojo
+2018-Es-00356	alguien me explica como hacen para insultar tipo abreviado "lpm, lcdh, ect". esta bien que tengan paja, pero yo así no me puedo descargar!!!	anger	1: se infiere un bajo grado de enojo
+2018-Es-05578	@_Laura_OMG_ @Elisa19452 No va para ofender va?	anger	0: no se infieren niveles de enojo
+2018-Es-03090	Aparte que la de Jason esté tan abajo me deja >:( #enojada	anger	3: se infiere un grado alto de enojo
+2018-Es-05766	@____17CR es q no la he insultado ..voy a buscar los TT ya veras a lo que llama insulto	anger	1: se infiere un bajo grado de enojo
+2018-Es-06201	@Deny_hh Los cojones, me voy a dormir que ya me he amargado 😂	anger	3: se infiere un grado alto de enojo
+2018-Es-02064	Mis súper nombres para nada comunes; y luego tengo a Evan Rabbitt Russell.  El más amargado con un muy tierno nombre.	anger	0: no se infieren niveles de enojo
+2018-Es-01457	@kattyarg5 Muchas gracias, lo tengo todo irritado de tanto dejarlo de foto de perfil jajajaj	anger	0: no se infieren niveles de enojo
+2018-Es-04144	@hampeon Me refería a tu boca. Lávatela con jabón, a ver si así dejas de insultar gratuitamente.	anger	3: se infiere un grado alto de enojo
+2018-Es-06777	okokok un fav y espanto a los hptas gatos que estan culeando en mi ventana.	anger	2: se infiere un grado moderado de enojo
+2018-Es-01943	@RaybanUnderlord ¡Heterosexual! 👉 (Ya tienes otro insulto que meter)	anger	1: se infiere un bajo grado de enojo
+2018-Es-05019	Es bien heavy esto de tuiter. Se pasan por todas las emociones aca! En un ratito pasé de la rabia a alegría-pena-risa. Mejor me duermo. ✨✨💚💍	anger	1: se infiere un bajo grado de enojo
+2018-Es-02836	@waldorftty < Puso la más pura y creíble cara de enfado y frustración y entró en la sala varita en mano para después arrodillarse ante su >	anger	1: se infiere un bajo grado de enojo
+2018-Es-05543	Siempre que me enojo la termino cagando	anger	2: se infiere un grado moderado de enojo
+2018-Es-02709	Están justificando que abusaran de ella por enseñar las tetas en el chupinazo, cuando estaba en un bar sin provocar a ningún baboso	anger	2: se infiere un grado moderado de enojo
+2018-Es-00764	Aún sigo indignada 😂	anger	1: se infiere un bajo grado de enojo
+2018-Es-06832	La ava se enojo😄😄😄	anger	0: no se infieren niveles de enojo
+2018-Es-05438	@marianoobarrio  qué te pasa q estas tan furioso con MM.  Vas de candidato con alguien? Me acuerdo cuando criticabas  a Brancatelli...	anger	2: se infiere un grado moderado de enojo
+2018-Es-01527	@FuriaRojaNet @TmT_ProFR bienvenido a furia 📛	anger	0: no se infieren niveles de enojo
+2018-Es-02899	@chrischile Qué rabia, qué impotencia, qué dolor por la cresta!	anger	3: se infiere un grado alto de enojo
+2018-Es-02645	Lo mosquitos me estan aturdiendo😡	anger	2: se infiere un grado moderado de enojo
+2018-Es-02256	Me caga que me hablen para contarme algo y ya no me cuenten	anger	3: se infiere un grado alto de enojo
+2018-Es-02708	Mi indignación viene de que me sepa hasta cómo crece una puta uña o todas las capas de los dientes, y luego nos saltemos una parte del	anger	2: se infiere un grado moderado de enojo
+2018-Es-06668	Que pelea hermosa entre artistas , una locura	anger	0: no se infieren niveles de enojo
+2018-Es-03820	Mi vecina es la hermana de don vergas 😡 hija de @$%@+?*	anger	3: se infiere un grado alto de enojo
+2018-Es-06281	La pobre mujer se sentia como que  habia hecho algo mal  Estaba enfadada con ella misma   NORMAL	anger	0: no se infieren niveles de enojo
+2018-Es-03017	la gente suele tomar como insulto cuando les dicen "yo escribía/dibujaba así como tú cuando empecé a escribir/dibujar" pero no es un insulto	anger	0: no se infieren niveles de enojo
+2018-Es-06256	Ok la mayoría de esos prompts de mierda en exo!g*rls si fueron elegidos pero no los míos que eran geniales. #enojada	anger	3: se infiere un grado alto de enojo
+2018-Es-00416	@OkenCosplay QUIEN SE ESTA METIENDO CONTIGO?	anger	1: se infiere un bajo grado de enojo
+2018-Es-02234	Más que enojo es decepción🤷🏼‍♀️	anger	1: se infiere un bajo grado de enojo
+2018-Es-06359	ALGUIEN QUE RESPONDA provocar es ser zorra?????	anger	2: se infiere un grado moderado de enojo
+2018-Es-02654	El sarcasmo, el estado a la defensiva, el vacío, el enojo, la indiferencia  tienen contaminada mi alma.	anger	2: se infiere un grado moderado de enojo
+2018-Es-00285	Se amargado se te ve, cuando vos andas patruyando me la como a tu mujer	anger	1: se infiere un bajo grado de enojo
+2018-Es-03249	@Oskhar111099 Con Milito un equipo nefasto, horrible, y los mismos jugadores, con Holan todos rinden, juegan muy bien	anger	1: se infiere un bajo grado de enojo
+2018-Es-05514	O brujas que cazan. La venganza no sirve para nada, en mi caso.	anger	0: no se infieren niveles de enojo
+2018-Es-06093	Querer eliminar un comentario y eliminar la foto, si, sólo ha mi me pasan esas cosas	anger	1: se infiere un bajo grado de enojo
+2018-Es-02898	Fav si eres la que me la pone como pata de perro envenenado.	anger	1: se infiere un bajo grado de enojo
+2018-Es-06807	He visto malas adaptaciones, pero peores que esa, imposible. Rick, esto es un insulto hacia tus maravillosos libros.	anger	2: se infiere un grado moderado de enojo
+2018-Es-04616	@KioteKiote toda su carrera n malaga?37 partidos,1 temporada  jajajaja Infórmate antes bocazas,q solo sabes insultar x tú falta d argumentos	anger	2: se infiere un grado moderado de enojo
+2018-Es-04830	@cayeruby Y sacarse la carrera de fisica si le da la gana, eh? #MonarquíaEspañola. Y que conste que no insulto a nadie👍	anger	1: se infiere un bajo grado de enojo
+2018-Es-02468	@KioteKiote nadie te ha dicho que te guste, te pregunto en que basas para comprarlo con finbo y tú respuesta es insultar como argumento 👏🏻👏🏻	anger	1: se infiere un bajo grado de enojo
+2018-Es-01074	@morecar89 @SimonPerera @pablo_gps @vruizaldana @Koolasuchus @Eleder_ mira que te gusta provocar, pero tienes razón, son expresiones cultura	anger	1: se infiere un bajo grado de enojo
+2018-Es-03592	"Hija, pues qué disgusto, pero el retrasado de la serie se parece a tu ex". Mamá y la sinceridad estival.	anger	0: no se infieren niveles de enojo
+2018-Es-06862	Tremendo!! hace dos días me chamuyaba me decía que la novia esto lo otro y volvieron?Estoy tentadisima😂😂😝😝	anger	0: no se infieren niveles de enojo
+2018-Es-06111	Ver "indigenta' pidiendo  € para comer y hablando por móvil último modelo 😡 #indignante #rabia	anger	3: se infiere un grado alto de enojo
+2018-Es-01468	@DanielaBlume tía, como coño convenzo a mi madre pa que me deje ir a verte, ¿me enfado y no respiro? 😥	anger	3: se infiere un grado alto de enojo
+2018-Es-00779	@KingArtabricus, sabías que... cumprir anos pode provocar vellez? #gotitasdeconocimiento.	anger	0: no se infieren niveles de enojo
+2018-Es-03047	Quiero llorar mucho porque no se cuando vere el último capítulo de teen wolf 	anger	0: no se infieren niveles de enojo
+2018-Es-04683	Estoy feliz y enojado	anger	0: no se infieren niveles de enojo
+2018-Es-03361	Quiero encontrar algo que me haga feliz sin estar obligado a hacer otra cosa. #Rabia	anger	2: se infiere un grado moderado de enojo
+2018-Es-04451	@Maria__Ospina Nada como "pelea de ardillas con música de linkin park de fondo." :v	anger	0: no se infieren niveles de enojo
+2018-Es-03527	@brenbertoldo Cala boca 	anger	0: no se infieren niveles de enojo
+2018-Es-02265	Si yo hubiera sabido que en esta vida había que madrugar, trabajar, aguantar celos y berrinches; le hubiera dado paso a otro espermatozoide.	anger	1: se infiere un bajo grado de enojo
+2018-Es-02345	@Josetenecesita Blanquito molestando, y enfadado, que raro no?	anger	1: se infiere un bajo grado de enojo
+2018-Es-04013	@ConBici @HoyPorHoy Triste que se usen cosas como las que decís para hacer carriles bici como el que ha causado este atropello mortal.	anger	1: se infiere un bajo grado de enojo
+2018-Es-00581	@ClaramJauregui @tayyjaguarr son personas que no tienen nada que hacer en esta vida! 	anger	2: se infiere un grado moderado de enojo
+2018-Es-01430	Si con eso me pongo nervioso, no quiero imaginar el dia que suceda.	anger	1: se infiere un bajo grado de enojo
+2018-Es-06879	@GranaNacho @EscJmiranda @aznarez_toti @AnaKafci @noelmesa @Cybertario En vez de insultar a realizar mas comprension lectora	anger	1: se infiere un bajo grado de enojo
+2018-Es-02956	Mi papá bajo a la cocina a hablar con mi hermana y mi mamá estaba enojada pero nos quedamos arriba echando chisme y terminamos riendo.	anger	0: no se infieren niveles de enojo
+2018-Es-06304	@LothricBorgunll < venganza. Y de esa manera la cadena de odio, venganzas y sangre nunca terminaría. Ella tenía en sus manos el poder que >	anger	1: se infiere un bajo grado de enojo
+2018-Es-05790	Ahre la mina seguía resentida	anger	1: se infiere un bajo grado de enojo
+2018-Es-00939	@st4rs87 @garciabanchs Ni hablar del desplome del $ "tal cuál pronosticó" el "profeta". El tipejo es un peligro, jajajaja.	anger	0: no se infieren niveles de enojo
+2018-Es-02583	Qué triste, vas a sentir la soledad	anger	0: no se infieren niveles de enojo
+2018-Es-01234	@julietabarros10 Ya te había dicho que sos mas linda enojada ?	anger	0: no se infieren niveles de enojo
+2018-Es-03998	Y después se preguntan pq es q me enojo..	anger	1: se infiere un bajo grado de enojo
+2018-Es-02976	@ escritores de missing 9 sigo enfadada	anger	2: se infiere un grado moderado de enojo
+2018-Es-05894	Cuanto resentido suelto 😂	anger	1: se infiere un bajo grado de enojo
+2018-Es-03697	@lucasotor 'ira tu... no miacordaba, cómo hasta sin querer le da uno al clavo 😎	anger	0: no se infieren niveles de enojo
+2018-Es-02957	Yo creo que nunca me había enojado tanto como lo hice hoy 🙇🏻‍♀️	anger	3: se infiere un grado alto de enojo
+2018-Es-02656	tener el pelo lacio y fino es horrible, se me enredatoooooodo	anger	1: se infiere un bajo grado de enojo
+2018-Es-06495	Mi mamá me dice que esta preocupada porque estoy loca por Flandria, y si ma lo 100to es la hija que te toco 🐥💛	anger	1: se infiere un bajo grado de enojo
+2018-Es-00718	@iOneGentleman_ @Resentimiento El problema es que no está claro si el primero era realmente afirmativo jajaja	anger	0: no se infieren niveles de enojo
+2018-Es-01994	@CristoAtado Ese tipo de personas no dan ni tristeza. Dan vergüenza. #rabia	anger	2: se infiere un grado moderado de enojo
+2018-Es-01010	@mc112149 Sería un insulto para Guardiola decir que estan igual de sobrevalorados, lo de Tomlin es otro nivel, un completo mediocre.	anger	1: se infiere un bajo grado de enojo
+2018-Es-02542	Es increíble como te olvidan en tan sólo un chasquido	anger	1: se infiere un bajo grado de enojo
+2018-Es-06342	Oh, Café Helado. Es increíble que el resto del año te tome hirviendo. Quizá no seas el mismo. Quizá no lo sea yo. Quizá nada tenga sentido.	anger	0: no se infieren niveles de enojo
+2018-Es-02199	Yo nunca olvido una ofensa	anger	2: se infiere un grado moderado de enojo
+2018-Es-00747	Talvez me ponga nervioso si te veo, pero no quiere decir que te deseo. No te olvide, en el proceso estoy.	anger	0: no se infieren niveles de enojo
+2018-Es-04537	Antes a estos problemas ni les prestaba atención, ahora me quitan las ganas de dormir y mas ansiedad ... La vida y sus cambios.	anger	1: se infiere un bajo grado de enojo
+2018-Es-03271	@PokemonShuffleM con la última vida nunca se hace una fase gradual, salvo que se haya enfadado. Eso es de 1° de Shuffle XD	anger	1: se infiere un bajo grado de enojo
+2018-Es-04382	mal parado rossi lpm..😠	anger	2: se infiere un grado moderado de enojo
+2018-Es-04329	@diegoofrias por qué vives enojado con la vida amigo?😟	anger	1: se infiere un bajo grado de enojo
+2018-Es-02384	Si pyso por tu lado y no te saludo no lo tomesqcomo enojo que los amores que se ..ieren se saludan con los ojos.	anger	0: no se infieren niveles de enojo
+2018-Es-06581	Ojalá una precuela de Imperator Furiosa.	anger	0: no se infieren niveles de enojo
+2018-Es-01175	Pues me da que el hijo de Trump (parece un insulto pero no lo es) se está inmolando por papá y la abogada rusa tapa los verdaderos contactos	anger	0: no se infieren niveles de enojo
+2018-Es-01161	Juro que estoy muy enojado en este momento	anger	3: se infiere un grado alto de enojo
+2018-Es-03750	se enojo porq le aplique la del maincra	anger	1: se infiere un bajo grado de enojo
+2018-Es-00035	Quiero cigarrillos lpm😤😤😤	anger	2: se infiere un grado moderado de enojo
+2018-Es-06037	no mames que pinche enojo, no vuelvo a hacer ninguna broma!!	anger	3: se infiere un grado alto de enojo
+2018-Es-01329	@TownGamePlay Necesito tu abrazo ya. 	anger	0: no se infieren niveles de enojo
+2018-Es-04638	Imperator Furiosa! #Madmax	anger	1: se infiere un bajo grado de enojo
+2018-Es-03128	Ayyyyyy quiero que se pongan las pilas asi así me dan el 28 a mi, lpmmmmm	anger	1: se infiere un bajo grado de enojo
+2018-Es-03021	#manosblancasm4 Donde estaban los del #ppcorrupto y vuestra indignación en el homenaje a las víctimas del franquismo,en el congreso??? 🖕🖕🖕🖕🖕	anger	3: se infiere un grado alto de enojo
+2018-Es-05393	UPA CUCHA AMARGO O DULCE	anger	0: no se infieren niveles de enojo
+2018-Es-00933	@el_pais Con este titular parecéis cortos de mente así sin ofender  ahí lo dejo 😂. Si se sabe otra cosa es que le deis la espalda al asunto.	anger	1: se infiere un bajo grado de enojo
+2018-Es-00144	@SEUR_responde lo hice anoche, esta mañana, y pasan de mi cara #vergüenza #enfado #impotencia .. llamadme de una vez y dadme una solución!!	anger	3: se infiere un grado alto de enojo
+2018-Es-00392	@Mubrutico @AlvaroVadin @aracnoideo Estoy enfadado con él , no saca la bici... 😂😂	anger	1: se infiere un bajo grado de enojo
+2018-Es-06430	Sospecho de Judas Iscariote con una oreo envenenada, en Coyoacán, México	anger	0: no se infieren niveles de enojo
+2018-Es-03805	Desanimado legal de sair sábado	anger	0: no se infieren niveles de enojo
+2018-Es-00408	@DemDagon « alguien les estuviera siguiendo y hubiera provocado aquello, pues no veía al demonio cayéndose sin más o inventándose algo »	anger	0: no se infieren niveles de enojo
+2018-Es-03646	#DeNocheenlaCiudad Esperanzado de ganarme manillas para el #VibraTYM Y darle la sorpresa a mi esposa @Vibra1049 @CamVelandia	anger	0: no se infieren niveles de enojo
+2018-Es-05584	@maftdaddario Qué amargado cabron	anger	3: se infiere un grado alto de enojo
+2018-Es-02465	Repugnante ver a las hienas(tertulianos), morder, insultar y rabiar, por conseguir un trozo del cadáver de Miguel Ángel Blanco (homenaje)...	anger	3: se infiere un grado alto de enojo
+2018-Es-04452	@gonzale_pedro @La9deAnon Lo mismo digo. Me acabo de enterar y qué disgusto.	anger	3: se infiere un grado alto de enojo
+2018-Es-06133	Doy mi vida por alguien que me traiga helado a estas hora, tengo un antojo terrible.	anger	0: no se infieren niveles de enojo
+2018-Es-03796	Los domingos son para descansar no para hacer cosas d la facultad 😒🖕🏻#enojada	anger	2: se infiere un grado moderado de enojo
+2018-Es-06413	este programa es un insulto a la psiquiatría por qué lo sigo viendo?	anger	2: se infiere un grado moderado de enojo
+2018-Es-04391	Aún recuerdo a la gente super indignada por lo de Kirigiri y lo de Nanami  Mi alimento su odio fuck yeah	anger	2: se infiere un grado moderado de enojo
+2018-Es-05620	-Ella enojada me putea en 12 idiomas. En ese momento es la mas hermosa! #enojada #love #tarde	anger	1: se infiere un bajo grado de enojo
+2018-Es-00823	dibujo hojitas le doy color a los pezones para que resalten de furia en fin es un trabajo duro pero alguien debe hacerlo	anger	1: se infiere un bajo grado de enojo
+2018-Es-06398	Estoy yo mas preocupada porque mi mejor amiga aprueba la previa que ella misma	anger	0: no se infieren niveles de enojo
+2018-Es-00986	@Apixelados Y aqui es de noche y esta llovien pta que sad😡	anger	1: se infiere un bajo grado de enojo
+2018-Es-03471	@JosDice Si me sigues no me enojo😜	anger	0: no se infieren niveles de enojo
+2018-Es-05626	3 cosas que no puedo ocultar:  •Mis hijueputas celos. •Mi hijueputa enojo. •Mi hijueputa gusto por usted.	anger	3: se infiere un grado alto de enojo
+2018-Es-04453	No podemos estar bien que ya me enojo por algo que pienso o me invento ajajajaj	anger	0: no se infieren niveles de enojo
+2018-Es-00574	Me perdí culpa de DNI Culiado locoo y mi inrresponsabilidad 	anger	2: se infiere un grado moderado de enojo
+2018-Es-06701	Una vez estaba muy enojada con el ex de mi mejor amiga (la había hecho sufrir mucho) le mandé un priv diciendo que todo lo malo	anger	1: se infiere un bajo grado de enojo
+2018-Es-02262	No le sale estar enojada 😏🔥	anger	0: no se infieren niveles de enojo
+2018-Es-00068	que ganas de comer chocolate amargo	anger	0: no se infieren niveles de enojo
+2018-Es-03327	Cada que quiero insultar la pendejes de alguien mi "good vibes interior" me dice que lo deje ser si es feliz yo soy feliz VIVE Y DEJA VIVIR.	anger	2: se infiere un grado moderado de enojo
+2018-Es-02147	Que puñetera es la vida a veces eh 	anger	3: se infiere un grado alto de enojo
+2018-Es-02101	No me enojo si me hablan	anger	0: no se infieren niveles de enojo
+2018-Es-05871	Mi hermano se la pasa en la casa de Lala, vive más allá que acá 	anger	0: no se infieren niveles de enojo
+2018-Es-06270	@Pedrito_Vm sos yo en la vida, estafado y indignado	anger	2: se infiere un grado moderado de enojo
+2018-Es-03390	Llegue al punto que ni enojo me causan las cosas. Claramente ni ai estoy 💆🏽 0 importancia	anger	1: se infiere un bajo grado de enojo
+2018-Es-04092	@findxjoy @draxler_leon NADA QUÉ, ¿POR QUÉ TE HACEN OJITOS? *INDIGNADA*	anger	1: se infiere un bajo grado de enojo
+2018-Es-01319	Odio estar tan enojada y que me de risa💆	anger	1: se infiere un bajo grado de enojo
+2018-Es-05205	#Rayito  weeee los frijoles me van a hacer cagar horrible jajajajaja 😹perdón tenía que decirlo	anger	0: no se infieren niveles de enojo
+2018-Es-06356	Acabo de votar mi carterra 	anger	1: se infiere un bajo grado de enojo
+2018-Es-01072	@TamaraCapeche Jajaja ella enojada	anger	1: se infiere un bajo grado de enojo
+2018-Es-03060	@Cristian_B15 lo missssmo de siempre	anger	0: no se infieren niveles de enojo
+2018-Es-01734	@CaamiAlvarez3 Uy pero que enojada estas que me respondes el twitt, si ya se que querés hablarme no te hagas la difícil jajaja	anger	1: se infiere un bajo grado de enojo
+2018-Es-01202	Se cae el cielo... que lave todo lo que angustia... #Rabia #Miedo #Oscuridad	anger	2: se infiere un grado moderado de enojo
+2018-Es-05194	@PrensaPEsquivel Una actitud persecutoria, muy de "Marica" mala, caprichosa y resentida...	anger	2: se infiere un grado moderado de enojo
+2018-Es-01347	me encanta que me insistan cuando me enojo o que m sigan hablando cuando les clavo visto, perdon	anger	0: no se infieren niveles de enojo
+2018-Es-00546	Muy indignada con la película que acabo de ver 😭😭😭😭	anger	2: se infiere un grado moderado de enojo
+2018-Es-00926	@lLumosl Deja la indignación a un lado!  Ya veras cuando te vea en la universidad 😡	anger	1: se infiere un bajo grado de enojo
+2018-Es-04563	Me siento enojado con la vida y por muchas razones 😶	anger	3: se infiere un grado alto de enojo
+2018-Es-06099	@__iDann MUY TARDE. JAJAJAJA como cuando le dijiste a mi novio que no me contestara.. ¡AQUÍ ESTÁ MI VENGANZA PUTO! 😗	anger	2: se infiere un grado moderado de enojo
+2018-Es-00989	@stressedhayley Esa venganza no te la robo	anger	0: no se infieren niveles de enojo
+2018-Es-01100	Mi gata nina qué haría sin esa amargada gruñona😻	anger	0: no se infieren niveles de enojo
+2018-Es-02387	Pero que ganas de que tengas un caniche así te lo pateo hijo de puta un insulto que diga	anger	3: se infiere un grado alto de enojo
+2018-Es-06102	@jotajordi13 @somhiserem @jmbartomeu Que estas enfadado por que no cojen los crack que tu representa	anger	1: se infiere un bajo grado de enojo
+2018-Es-03925	Casi una hora esperando la caga de micro!!!!‼️‼️😡	anger	3: se infiere un grado alto de enojo
+2018-Es-01888	Si me hablas no me enojo	anger	0: no se infieren niveles de enojo
+2018-Es-00774	@DragonsR6 @JandritomurosHD @chimigastaca Bffff menudos refuerzos entran...	anger	1: se infiere un bajo grado de enojo
+2018-Es-03062	Estoy tan amargada que a todo le encuentro peros o algo malo.	anger	2: se infiere un grado moderado de enojo
+2018-Es-04095	@draco_malfoyesp —La rubia intentó asimilar aquellas palabras lo mejor que pudo, pero acabó por fruncir el ceño con una expresión que»	anger	0: no se infieren niveles de enojo
+2018-Es-04103	Sí, odio trabajar en equipo, aquí sólo uno de cada tres trabaja, los demás sólo estorban y entorpecen todo #enojada	anger	3: se infiere un grado alto de enojo
+2018-Es-02324	vienen a visitarme a mi y se ponen a jugar a la play 	anger	1: se infiere un bajo grado de enojo
+2018-Es-04846	@Tomasbetico07 @lucharsgs @Nuestro_Betis Te he contestado antes, la salida vuestra es no leer e insultar (gilipolleces)	anger	2: se infiere un grado moderado de enojo
+2018-Es-00421	soy rubén rabioso y estoy muerto hace 28472838 años, si no me crees búscame en google	anger	0: no se infieren niveles de enojo
+2018-Es-05599	@SxrcasticBatman < la cara en su mano. De reojo, no podía dejar de mirar al pálido, pensando en si estaría enfadado por algo con él.-	anger	1: se infiere un bajo grado de enojo
+2018-Es-04365	@SChecoPerez @HawkersMX Que vergüenza que sean de mi tierra 😠 os pido perdón por la ofensa mexicanos!!	anger	3: se infiere un grado alto de enojo
+2018-Es-03355	Para que ponen funciones en su cartelera si cuando vas a llegar al cine resulta que cerraron 😠 #cinemex me fallaste #enojada	anger	3: se infiere un grado alto de enojo
+2018-Es-05952	🎵No me folles con tus barbas😊 que las tienes pringadicaaaaas 🎵y si lo haces, por venganza🎵 yo te pego mis ladillaaaaas🎵😊 #SilvesJotero	anger	0: no se infieren niveles de enojo
+2018-Es-04056	Y además, en aquella oscuridad candente había gusanos. —¿Lombrices de tierra? —preguntó con el ceño fruncido.	anger	0: no se infieren niveles de enojo
+2018-Es-05055	Sólo estoy muy enojado con todos son razón aparente.	anger	3: se infiere un grado alto de enojo
+2018-Es-04724	El mejor slasher de películas de terror? #TalentoVenezolano #arte #SIGUEMEYTESIGO #SiguemeYTeSigoAlInstante #LunesDeGanarSeguidores 	anger	0: no se infieren niveles de enojo
+2018-Es-00849	Voy a desenterrar Under the Red Hood y Lost Days para leerlos otra vez y dejar de sentirme ofendida	anger	1: se infiere un bajo grado de enojo
+2018-Es-02394	Que odio que la rabia se convierta en lágrimas	anger	1: se infiere un bajo grado de enojo
+2018-Es-00242	Te querés tomar un cortado rápido y te lo sirven hirviendo 😐	anger	2: se infiere un grado moderado de enojo
+2018-Es-02712	Le mejor de todas las veces que me e enojado es cuando llega la hora de mi venganza.🧐😎🤩	anger	2: se infiere un grado moderado de enojo
+2018-Es-04096	@sebasvargas05 Yo me siento indignada digamos	anger	2: se infiere un grado moderado de enojo
+2018-Es-03315	Hacer un pedido en @AmazonESP,que digan que llega en un día,pero no llega..  ¿Es engaño? ¿Para eso me suscribí a @amazonprimenow? #enfadado	anger	3: se infiere un grado alto de enojo
+2018-Es-02870	@Glorette_616 El me pelea, insulta. Yo lo bloqueo. Punto. Enojate con otro.	anger	2: se infiere un grado moderado de enojo
+2018-Es-04800	Ya no me contestó, pero con ella no me enojo jeje	anger	0: no se infieren niveles de enojo
+2018-Es-01774	Mi mama se enojo con abi por que no comió hoy y cerro el negocio con llave.. Ahora no puedo buscar comida.. Estoy a punto de llorar.	anger	2: se infiere un grado moderado de enojo
+2018-Es-02670	Estoy tan enojada con mi novio que me dormi sin abrazarlo. Soy re cruel lo se jijiji	anger	2: se infiere un grado moderado de enojo
+2018-Es-06441	Me enojo en secreto cuando veo tus etiquetas de memes de putería.	anger	2: se infiere un grado moderado de enojo
+2018-Es-00561	26. Soy muy sincera, realista y directa. Y muchas veces es un problema porque no mido lo que digo y puedo ofender o hacer sentir mal):	anger	1: se infiere un bajo grado de enojo
+2018-Es-04156	OVIALCDMX Exceder los límites de velocidad puede hacer que pierda el control de su vehículo y provocar accidentes. Art. 9. …	anger	0: no se infieren niveles de enojo
+2018-Es-02849	@FuriaRojaNet @luismaoriginal bienvenido a furia vene ;) 📛	anger	0: no se infieren niveles de enojo
+2018-Es-00665	En este momento estoy odiando mucho a irina 	anger	3: se infiere un grado alto de enojo
+2018-Es-03430	Siempre dije que es de resentido borrar las fotos con tu ex	anger	1: se infiere un bajo grado de enojo
+2018-Es-00034	Hoy voy a soñar con el derecho al trabajador😤😤😤	anger	0: no se infieren niveles de enojo
+2018-Es-06756	enfurecida y sedienta de vino	anger	3: se infiere un grado alto de enojo
+2018-Es-03508	@Tusbesosenmi Porquè duele, decepciona y a veces es amargo.	anger	2: se infiere un grado moderado de enojo
+2018-Es-02779	El internet viene y va, así como el ánimo del Venezolano.	anger	0: no se infieren niveles de enojo
+2018-Es-06724	Ayer, pillé a mi hermano pequeño masturbándose. Hoy le he pillado otra vez en el mismo sitio y se ha enfadado…	anger	1: se infiere un bajo grado de enojo
+2018-Es-04418	« me encuentro al supuesto tío y le digo si es suficiente ya. Y el tío se raya, y yo me enfado, hasta que descubro que ese es su gemelo. »	anger	1: se infiere un bajo grado de enojo
+2018-Es-01766	Creo que lo que odié de Nocturnal Animals es lo mismo que odié de Gone Girl. Se están robando mis ideas de venganza.	anger	1: se infiere un bajo grado de enojo
+2018-Es-02413	Cuando se homenajea a una víctima varios días seguidos, y al resto no, deja se ser un homenaje y pasa a ser una ofensa. #HomenajeBlancoEP	anger	2: se infiere un grado moderado de enojo
+2018-Es-01387	#Rabia por el contraste brutal entre la entrega al 100% de la población civil y el cinismo e inmovilidad de la clase política #FuerzaMexco.	anger	3: se infiere un grado alto de enojo
+2018-Es-04388	¿Qué tan resentida puedes estar para meterte en una relación? ¿Quién te hizo tanto daño? 🤔	anger	1: se infiere un bajo grado de enojo
+2018-Es-01869	Estoy bien ofendido, sin palabras!	anger	3: se infiere un grado alto de enojo
+2018-Es-03908	Como se puede poner un mg a algo cuando te da #coraje que suceda. Un icono q represente #rabia en twitter ya. @marlol9 @labasculaTV	anger	2: se infiere un grado moderado de enojo
+2018-Es-03708	Me enojo por todo😩	anger	2: se infiere un grado moderado de enojo
+2018-Es-00098	esto me recuerda a cuando confirmaron a chloe para Ariel, like rlly?? sin ofender pero no se le parece EN NADA a Ariel	anger	1: se infiere un bajo grado de enojo
+2018-Es-04686	porq cuando hablaba de venganza se ponia triste, pero por ahi le recordaba a una venganza q tenia q ver con otra cosa y no con el"adulterio"	anger	1: se infiere un bajo grado de enojo

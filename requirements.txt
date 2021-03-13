@@ -1,0 +1,4 @@
+jupytext
+jupyter
+myst-parser==0.9.1
+responsibly==0.1.2
