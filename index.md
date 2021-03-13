@@ -10,7 +10,7 @@ title: Workshop // Exploring Gender Bias in Word Embeddings
 
 <br />
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ResponsiblyAI/word-embedding/blob/master/tutorial-bias-word-embedding.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ResponsiblyAI/word-embedding/master?filepath=tutorial-bias-word-embedding.ipynb) [![Open in Github](https://img.shields.io/badge/Open%20in-GitHub-lightgrey)](https://github.com/ResponsiblyAI/word-embedding)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ResponsiblyAI/word-embedding/blob/main/tutorial-bias-word-embedding.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ResponsiblyAI/word-embedding/main?filepath=tutorial-bias-word-embedding.ipynb) [![Open in Github](https://img.shields.io/badge/Open%20in-GitHub-lightgrey)](https://github.com/ResponsiblyAI/word-embedding)
 
 <small>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" width="80" height="15" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
