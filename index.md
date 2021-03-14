@@ -37,13 +37,9 @@ title: Workshop // Exploring Gender Bias in Word Embeddings
   So **bring your own laptop!**
 
 
-### Upcoming
-
-- Mar 21' / Virtual / **MozFest 2021** / [Workshop](https://schedule.mozillafestival.org/session/WKUY9A-1)
-
-
 ### Past
 
+- Mar 21' / Virtual / **MozFest 2021** / [Workshop](https://schedule.mozillafestival.org/session/WKUY9A-1)
 - Oct 20' / Virtual / **JupyterCon 2020** / [Tutorial](https://academy.numfocus.org/about-course/?gender-bias-in-word-embeddings)
 - Aug 20' / Germany / **Alexander von Humboldt Institute for Internet and Society (HIIG)** / AI & Society Lab / [AI & HR Pop-Up Lab](https://www.hiig.de/en/events/pop-up-lab-inclusive-ai-the-challenges-of-automated-tools-in-hr/)
 - Apr 20' / USA / **Boston University** / Questrom School of Business / Business Analytics in Practice / Guest Lecture
